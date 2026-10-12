@@ -1,0 +1,1501 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/28/26 15:56:32] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+[09/28/26 15:56:33] INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: Write(Text('Anatomy of an Equation')):   0%|          | 0/83 [00:00<?, ?it/s]Animation 0: Write(Text('Anatomy of an Equation')):  36%|###6      | 30/83 [00:00<00:00, 292.41it/s]Animation 0: Write(Text('Anatomy of an Equation')):  72%|#######2  | 60/83 [00:00<00:00, 246.44it/s]                                                                                                    [09/28/26 15:56:34] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1583504468_3240667777_20                         
+                             67705174.mp4'                                     
+Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:   0%|          | 0/145 [00:00<?, ?it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  14%|#3        | 20/145 [00:00<00:00, 197.49it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  28%|##7       | 40/145 [00:00<00:00, 195.76it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  41%|####1     | 60/145 [00:00<00:00, 168.96it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  54%|#####3    | 78/145 [00:00<00:00, 163.75it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  66%|######5   | 95/145 [00:00<00:00, 156.64it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  77%|#######6  | 111/145 [00:00<00:00, 153.23it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  88%|########7 | 127/145 [00:00<00:00, 150.63it/s]Animation 1: Write(Text('LHS, RHS & Transposition')), etc.:  99%|#########8| 143/145 [00:00<00:00, 150.07it/s]                                                                                                              [09/28/26 15:56:35] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2818536885_62                         
+                             2066627.mp4'                                      
+Animation 2: FadeIn(MathTex('-\\leftrightarrow+\\qquad\\times\\leftrightarrow\\div')), etc.:   0%|          | 0/82 [00:00<?, ?it/s]Animation 2: FadeIn(MathTex('-\\leftrightarrow+\\qquad\\times\\leftrightarrow\\div')), etc.:  29%|##9       | 24/82 [00:00<00:00, 236.66it/s]Animation 2: FadeIn(MathTex('-\\leftrightarrow+\\qquad\\times\\leftrightarrow\\div')), etc.:  59%|#####8    | 48/82 [00:00<00:00, 229.53it/s]Animation 2: FadeIn(MathTex('-\\leftrightarrow+\\qquad\\times\\leftrightarrow\\div')), etc.:  87%|########6 | 71/82 [00:00<00:00, 209.06it/s]                                                                                                                                             [09/28/26 15:56:36] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_290083928_296                         
+                             6856227.mp4'                                      
+[09/28/26 15:56:37] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_21                         
+                             86621556.mp4'                                     
+Animation 4: FadeIn(Text('A number is hidden.')):   0%|          | 0/24 [00:00<?, ?it/s]                                                                                        [09/28/26 15:56:38] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3442249599_20                         
+                             67705174.mp4'                                     
+Animation 5: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 5: FadeIn(VGroup of 2 submobjects), etc.:  36%|###6      | 13/36 [00:00<00:00, 124.29it/s]Animation 5: FadeIn(VGroup of 2 submobjects), etc.:  78%|#######7  | 28/36 [00:00<00:00, 137.34it/s]                                                                                                                        INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_294416067_218                         
+                             1123036.mp4'                                      
+Animation 6: GrowArrow(Arrow), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 6: GrowArrow(Arrow), etc.:  39%|###8      | 14/36 [00:00<00:00, 136.96it/s]Animation 6: GrowArrow(Arrow), etc.:  81%|########  | 29/36 [00:00<00:00, 140.47it/s]                                                                                     [09/28/26 15:56:39] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_362859363_428                         
+                             3074743.mp4'                                      
+Animation 7: GrowArrow(Arrow), etc.:   0%|          | 0/14 [00:00<?, ?it/s]                                                                                               INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1881181296_32                         
+                             05189027.mp4'                                     
+Animation 8: GrowArrow(Arrow), etc.:   0%|          | 0/85 [00:00<?, ?it/s]Animation 8: GrowArrow(Arrow), etc.:  51%|#####     | 43/85 [00:00<00:00, 421.19it/s]                                                                                     [09/28/26 15:56:40] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_210054272_307                         
+                             9773552.mp4'                                      
+Animation 9: FadeIn(Text('What was the number?')):   0%|          | 0/52 [00:00<?, ?it/s]Animation 9: FadeIn(Text('What was the number?')):  50%|#####     | 26/52 [00:00<00:00, 258.54it/s]Animation 9: FadeIn(Text('What was the number?')): 100%|##########| 52/52 [00:00<00:00, 231.80it/s]                                                                                                   [09/28/26 15:56:41] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_290314926_624                         
+                             66818.mp4'                                        
+Animation 10: ReplacementTransform(MathTex('?')):   0%|          | 0/77 [00:00<?, ?it/s]Animation 10: ReplacementTransform(MathTex('?')):  12%|#1        | 9/77 [00:00<00:00, 82.63it/s]Animation 10: ReplacementTransform(MathTex('?')):  25%|##4       | 19/77 [00:00<00:00, 90.31it/s]Animation 10: ReplacementTransform(MathTex('?')):  38%|###7      | 29/77 [00:00<00:00, 88.57it/s]Animation 10: ReplacementTransform(MathTex('?')):  52%|#####1    | 40/77 [00:00<00:00, 90.41it/s]Animation 10: ReplacementTransform(MathTex('?')):  65%|######4   | 50/77 [00:00<00:00, 93.41it/s]Animation 10: ReplacementTransform(MathTex('?')):  78%|#######7  | 60/77 [00:00<00:00, 90.75it/s]Animation 10: ReplacementTransform(MathTex('?')):  91%|######### | 70/77 [00:00<00:00, 88.93it/s]                                                                                                 [09/28/26 15:56:42] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2310836141_31                         
+                             79689873.mp4'                                     
+Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:   0%|          | 0/180 [00:00<?, ?it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:   3%|3         | 6/180 [00:00<00:03, 54.05it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:   7%|6         | 12/180 [00:00<00:03, 46.21it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:   9%|9         | 17/180 [00:00<00:03, 43.58it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  13%|#2        | 23/180 [00:00<00:03, 48.37it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  16%|#6        | 29/180 [00:00<00:03, 49.72it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  19%|#9        | 35/180 [00:00<00:02, 50.30it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  23%|##2       | 41/180 [00:00<00:02, 47.61it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  26%|##6       | 47/180 [00:00<00:02, 48.87it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  29%|##9       | 53/180 [00:01<00:02, 48.03it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  33%|###2      | 59/180 [00:01<00:02, 48.89it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  36%|###5      | 64/180 [00:01<00:02, 46.00it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  38%|###8      | 69/180 [00:01<00:02, 45.81it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  41%|####1     | 74/180 [00:01<00:02, 46.68it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  44%|####4     | 80/180 [00:01<00:02, 49.44it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  47%|####7     | 85/180 [00:01<00:01, 48.65it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  50%|#####     | 90/180 [00:01<00:01, 47.62it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  53%|#####2    | 95/180 [00:01<00:01, 47.76it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  56%|#####6    | 101/180 [00:02<00:01, 50.89it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  59%|#####9    | 107/180 [00:02<00:01, 52.89it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  63%|######2   | 113/180 [00:02<00:01, 50.93it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  66%|######6   | 119/180 [00:02<00:01, 51.31it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  69%|######9   | 125/180 [00:02<00:01, 51.80it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  73%|#######2  | 131/180 [00:02<00:00, 52.19it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  76%|#######6  | 137/180 [00:02<00:00, 49.45it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  79%|#######9  | 143/180 [00:02<00:00, 51.05it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  83%|########2 | 149/180 [00:03<00:00, 53.32it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  86%|########6 | 155/180 [00:03<00:00, 53.92it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  90%|######### | 162/180 [00:03<00:00, 57.27it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  94%|#########3| 169/180 [00:03<00:00, 59.16it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 2x \\rightarrow 2x-7 \\rightarrow 35')), etc.:  98%|#########7| 176/180 [00:03<00:00, 60.28it/s]                                                                                                                                             [09/28/26 15:56:46] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1589357717_91                         
+                             6150248.mp4'                                      
+Animation 12: FadeOut(Text('A number is hidden.')), etc.:   0%|          | 0/87 [00:00<?, ?it/s]Animation 12: FadeOut(Text('A number is hidden.')), etc.:  16%|#6        | 14/87 [00:00<00:00, 132.87it/s]Animation 12: FadeOut(Text('A number is hidden.')), etc.:  32%|###2      | 28/87 [00:00<00:00, 127.09it/s]Animation 12: FadeOut(Text('A number is hidden.')), etc.:  47%|####7     | 41/87 [00:00<00:00, 124.72it/s]Animation 12: FadeOut(Text('A number is hidden.')), etc.:  62%|######2   | 54/87 [00:00<00:00, 108.20it/s]Animation 12: FadeOut(Text('A number is hidden.')), etc.:  76%|#######5  | 66/87 [00:00<00:00, 103.22it/s]Animation 12: FadeOut(Text('A number is hidden.')), etc.:  90%|########9 | 78/87 [00:00<00:00, 106.05it/s]                                                                                                          [09/28/26 15:56:48] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_416196593_217                         
+                             1460538.mp4'                                      
+Animation 13: TransformMatchingTex(Group), etc.:   0%|          | 0/106 [00:00<?, ?it/s]Animation 13: TransformMatchingTex(Group), etc.:  16%|#6        | 17/106 [00:00<00:00, 168.88it/s]Animation 13: TransformMatchingTex(Group), etc.:  38%|###7      | 40/106 [00:00<00:00, 201.14it/s]Animation 13: TransformMatchingTex(Group), etc.:  58%|#####7    | 61/106 [00:00<00:00, 189.55it/s]Animation 13: TransformMatchingTex(Group), etc.:  76%|#######6  | 81/106 [00:00<00:00, 180.66it/s]Animation 13: TransformMatchingTex(Group), etc.:  94%|#########4| 100/106 [00:00<00:00, 178.93it/s]                                                                                                   [09/28/26 15:56:49] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3938095538_30                         
+                             03497018.mp4'                                     
+                    INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_16                         
+                             39815031.mp4'                                     
+Animation 15: Write(Text('Anatomy of an Equation')), etc.:   0%|          | 0/54 [00:00<?, ?it/s]Animation 15: Write(Text('Anatomy of an Equation')), etc.:  39%|###8      | 21/54 [00:00<00:00, 202.14it/s]Animation 15: Write(Text('Anatomy of an Equation')), etc.:  78%|#######7  | 42/54 [00:00<00:00, 171.46it/s]                                                                                                           [09/28/26 15:56:50] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_841413149_122                         
+                             1031089.mp4'                                      
+Animation 16: Indicate(MathTexPart('=')), etc.:   0%|          | 0/163 [00:00<?, ?it/s]Animation 16: Indicate(MathTexPart('=')), etc.:   7%|7         | 12/163 [00:00<00:01, 118.21it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  19%|#9        | 31/163 [00:00<00:00, 158.41it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  30%|###       | 49/163 [00:00<00:00, 163.61it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  40%|####      | 66/163 [00:00<00:00, 156.42it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  50%|#####     | 82/163 [00:00<00:00, 153.09it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  60%|######    | 98/163 [00:00<00:00, 145.59it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  69%|######9   | 113/163 [00:00<00:00, 138.29it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  78%|#######7  | 127/163 [00:00<00:00, 134.77it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  88%|########7 | 143/163 [00:00<00:00, 139.93it/s]Animation 16: Indicate(MathTexPart('=')), etc.:  97%|#########6| 158/163 [00:01<00:00, 141.57it/s]                                                                                                  [09/28/26 15:56:51] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2695897385_12                         
+                             97255287.mp4'                                     
+Animation 17: Create(RoundedRectangle), etc.:   0%|          | 0/219 [00:00<?, ?it/s]Animation 17: Create(RoundedRectangle), etc.:  13%|#2        | 28/219 [00:00<00:00, 271.64it/s]Animation 17: Create(RoundedRectangle), etc.:  26%|##5       | 56/219 [00:00<00:00, 247.40it/s]Animation 17: Create(RoundedRectangle), etc.:  37%|###6      | 81/219 [00:00<00:00, 230.51it/s]Animation 17: Create(RoundedRectangle), etc.:  48%|####7     | 105/219 [00:00<00:00, 224.59it/s]Animation 17: Create(RoundedRectangle), etc.:  58%|#####8    | 128/219 [00:00<00:00, 225.10it/s]Animation 17: Create(RoundedRectangle), etc.:  69%|######8   | 151/219 [00:00<00:00, 215.24it/s]Animation 17: Create(RoundedRectangle), etc.:  79%|#######8  | 173/219 [00:00<00:00, 212.96it/s]Animation 17: Create(RoundedRectangle), etc.:  89%|########9 | 196/219 [00:00<00:00, 217.79it/s]Animation 17: Create(RoundedRectangle), etc.: 100%|##########| 219/219 [00:00<00:00, 221.26it/s]                                                                                                [09/28/26 15:56:53] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_151998469_308                         
+                             2821833.mp4'                                      
+Animation 18: Create(RoundedRectangle), etc.:   0%|          | 0/133 [00:00<?, ?it/s]Animation 18: Create(RoundedRectangle), etc.:  20%|#9        | 26/133 [00:00<00:00, 249.04it/s]Animation 18: Create(RoundedRectangle), etc.:  38%|###8      | 51/133 [00:00<00:00, 229.36it/s]Animation 18: Create(RoundedRectangle), etc.:  56%|#####6    | 75/133 [00:00<00:00, 214.16it/s]Animation 18: Create(RoundedRectangle), etc.:  73%|#######2  | 97/133 [00:00<00:00, 208.66it/s]Animation 18: Create(RoundedRectangle), etc.:  89%|########9 | 119/133 [00:00<00:00, 211.79it/s]                                                                                                [09/28/26 15:56:54] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2686704902_39                         
+                             84721614.mp4'                                     
+Animation 19: FadeIn(Text('Variable')), etc.:   0%|          | 0/113 [00:00<?, ?it/s]Animation 19: FadeIn(Text('Variable')), etc.:  12%|#1        | 13/113 [00:00<00:00, 129.50it/s]Animation 19: FadeIn(Text('Variable')), etc.:  23%|##3       | 26/113 [00:00<00:00, 120.75it/s]Animation 19: FadeIn(Text('Variable')), etc.:  35%|###4      | 39/113 [00:00<00:00, 115.60it/s]Animation 19: FadeIn(Text('Variable')), etc.:  45%|####5     | 51/113 [00:00<00:00, 105.78it/s]Animation 19: FadeIn(Text('Variable')), etc.:  55%|#####4    | 62/113 [00:00<00:00, 98.17it/s] Animation 19: FadeIn(Text('Variable')), etc.:  64%|######3   | 72/113 [00:00<00:00, 95.87it/s]Animation 19: FadeIn(Text('Variable')), etc.:  73%|#######2  | 82/113 [00:00<00:00, 94.69it/s]Animation 19: FadeIn(Text('Variable')), etc.:  81%|########1 | 92/113 [00:00<00:00, 87.38it/s]Animation 19: FadeIn(Text('Variable')), etc.:  89%|########9 | 101/113 [00:01<00:00, 80.73it/s]Animation 19: FadeIn(Text('Variable')), etc.:  97%|#########7| 110/113 [00:01<00:00, 78.82it/s]                                                                                               [09/28/26 15:56:55] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_86371650_1361                         
+                             728570.mp4'                                       
+Animation 20: FadeIn(Text('Constants / numbers')), etc.:   0%|          | 0/192 [00:00<?, ?it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:   4%|3         | 7/192 [00:00<00:02, 65.13it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:   9%|9         | 18/192 [00:00<00:02, 86.28it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  14%|#4        | 27/192 [00:00<00:01, 86.33it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  19%|#9        | 37/192 [00:00<00:01, 88.02it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  24%|##3       | 46/192 [00:00<00:01, 83.62it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  29%|##8       | 55/192 [00:00<00:01, 70.60it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  33%|###2      | 63/192 [00:00<00:01, 72.36it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  38%|###7      | 72/192 [00:00<00:01, 74.94it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  42%|####2     | 81/192 [00:01<00:01, 76.72it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  46%|####6     | 89/192 [00:01<00:01, 76.21it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  51%|#####     | 97/192 [00:01<00:01, 76.48it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  55%|#####4    | 105/192 [00:01<00:01, 76.98it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  59%|#####8    | 113/192 [00:01<00:01, 76.27it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  64%|######4   | 123/192 [00:01<00:00, 79.76it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  69%|######9   | 133/192 [00:01<00:00, 83.16it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  74%|#######3  | 142/192 [00:01<00:00, 82.34it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  79%|#######8  | 151/192 [00:01<00:00, 83.60it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  83%|########3 | 160/192 [00:02<00:00, 82.23it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  88%|########8 | 169/192 [00:02<00:00, 76.39it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  93%|#########3| 179/192 [00:02<00:00, 81.50it/s]Animation 20: FadeIn(Text('Constants / numbers')), etc.:  98%|#########7| 188/192 [00:02<00:00, 80.23it/s]                                                                                                          [09/28/26 15:56:58] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_383216639_305                         
+                             6417329.mp4'                                      
+Animation 21: FadeOut(VGroup of 8 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]Animation 21: FadeOut(VGroup of 8 submobjects):  75%|#######5  | 9/12 [00:00<00:00, 86.34it/s]                                                                                              [09/28/26 15:56:59] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2133070193_17                         
+                             76732419.mp4'                                     
+                    INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_10                         
+                             83104815.mp4'                                     
+Animation 23: Indicate(RoundedRectangle):   0%|          | 0/122 [00:00<?, ?it/s]Animation 23: Indicate(RoundedRectangle):  48%|####7     | 58/122 [00:00<00:00, 579.40it/s]                                                                                           [09/28/26 15:57:00] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2379940234_21                         
+                             14388611.mp4'                                     
+Animation 24: Indicate(RoundedRectangle), etc.:   0%|          | 0/122 [00:00<?, ?it/s]Animation 24: Indicate(RoundedRectangle), etc.:  21%|##1       | 26/122 [00:00<00:00, 249.82it/s]Animation 24: Indicate(RoundedRectangle), etc.:  44%|####4     | 54/122 [00:00<00:00, 262.67it/s]Animation 24: Indicate(RoundedRectangle), etc.:  66%|######6   | 81/122 [00:00<00:00, 245.82it/s]Animation 24: Indicate(RoundedRectangle), etc.:  87%|########6 | 106/122 [00:00<00:00, 242.78it/s]                                                                                                  [09/28/26 15:57:01] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2157947430_18                         
+                             70165923.mp4'                                     
+Animation 25: FadeIn(VGroup of 2 submobjects):   0%|          | 0/227 [00:00<?, ?it/s]Animation 25: FadeIn(VGroup of 2 submobjects):  13%|#2        | 29/227 [00:00<00:00, 286.07it/s]Animation 25: FadeIn(VGroup of 2 submobjects):  26%|##5       | 58/227 [00:00<00:00, 282.92it/s]Animation 25: FadeIn(VGroup of 2 submobjects):  41%|####      | 93/227 [00:00<00:00, 311.17it/s]Animation 25: FadeIn(VGroup of 2 submobjects):  56%|#####5    | 126/227 [00:00<00:00, 315.20it/s]Animation 25: FadeIn(VGroup of 2 submobjects):  71%|#######1  | 162/227 [00:00<00:00, 328.46it/s]Animation 25: FadeIn(VGroup of 2 submobjects):  87%|########7 | 198/227 [00:00<00:00, 333.47it/s]                                                                                                 [09/28/26 15:57:02] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1693683031_10                         
+                             80552848.mp4'                                     
+Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:   0%|          | 0/139 [00:00<?, ?it/s]Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:  14%|#3        | 19/139 [00:00<00:00, 182.21it/s]Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:  31%|###       | 43/139 [00:00<00:00, 211.59it/s]Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:  47%|####6     | 65/139 [00:00<00:00, 195.87it/s]Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:  61%|######1   | 85/139 [00:00<00:00, 194.31it/s]Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:  78%|#######7  | 108/139 [00:00<00:00, 205.94it/s]Animation 26: _MethodAnimation(VGroup of 2 submobjects), etc.:  94%|#########3| 130/139 [00:00<00:00, 209.23it/s]                                                                                                                 [09/28/26 15:57:03] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_470964562_393                         
+                             2951455.mp4'                                      
+Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:   0%|          | 0/188 [00:00<?, ?it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:   8%|7         | 15/188 [00:00<00:01, 145.08it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  16%|#5        | 30/188 [00:00<00:01, 143.60it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  24%|##3       | 45/188 [00:00<00:01, 129.50it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  31%|###1      | 59/188 [00:00<00:01, 118.50it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  38%|###8      | 72/188 [00:00<00:01, 109.52it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  45%|####4     | 84/188 [00:00<00:00, 108.75it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  51%|#####     | 95/188 [00:00<00:00, 102.54it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  57%|#####7    | 108/188 [00:00<00:00, 109.13it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  64%|######3   | 120/188 [00:01<00:00, 103.60it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  71%|#######   | 133/188 [00:01<00:00, 110.32it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  79%|#######8  | 148/188 [00:01<00:00, 121.16it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  86%|########6 | 162/188 [00:01<00:00, 125.68it/s]Animation 27: _MethodAnimation(VGroup of 2 submobjects), etc.:  94%|#########4| 177/188 [00:01<00:00, 130.23it/s]                                                                                                                 [09/28/26 15:57:06] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_960978838_775                         
+                             384442.mp4'                                       
+Animation 28: FadeIn(Text('21 is the solution!')), etc.:   0%|          | 0/170 [00:00<?, ?it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  16%|#5        | 27/170 [00:00<00:00, 264.55it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  32%|###1      | 54/170 [00:00<00:00, 222.83it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  45%|####5     | 77/170 [00:00<00:00, 197.10it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  58%|#####7    | 98/170 [00:00<00:00, 188.98it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  69%|######9   | 118/170 [00:00<00:00, 191.35it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  81%|########1 | 138/170 [00:00<00:00, 186.39it/s]Animation 28: FadeIn(Text('21 is the solution!')), etc.:  94%|#########3| 159/170 [00:00<00:00, 192.35it/s]                                                                                                           [09/28/26 15:57:07] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3299596175_24                         
+                             51242522.mp4'                                     
+Animation 29: FadeOut(VGroup of 5 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]Animation 29: FadeOut(VGroup of 5 submobjects):  83%|########3 | 10/12 [00:00<00:00, 93.20it/s]                                                                                               [09/28/26 15:57:08] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_583591506_212                         
+                             5568693.mp4'                                      
+                    INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_87                         
+                             552696.mp4'                                       
+Animation 31: FadeOut(RoundedRectangle), etc.:   0%|          | 0/39 [00:00<?, ?it/s]                                                                                     [09/28/26 15:57:09] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_390139210_509                         
+                             658333.mp4'                                       
+Animation 32: Write(Text('Transpose the -7')):   0%|          | 0/71 [00:00<?, ?it/s]Animation 32: Write(Text('Transpose the -7')):  32%|###2      | 23/71 [00:00<00:00, 228.76it/s]Animation 32: Write(Text('Transpose the -7')):  66%|######6   | 47/71 [00:00<00:00, 234.14it/s]Animation 32: Write(Text('Transpose the -7')): 100%|##########| 71/71 [00:00<00:00, 209.27it/s]                                                                                                                   INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4193736585_16                         
+                             36612739.mp4'                                     
+Animation 33: Create(SurroundingRectangle), etc.:   0%|          | 0/132 [00:00<?, ?it/s]Animation 33: Create(SurroundingRectangle), etc.:  17%|#6        | 22/132 [00:00<00:00, 216.64it/s]Animation 33: Create(SurroundingRectangle), etc.:  33%|###3      | 44/132 [00:00<00:00, 203.25it/s]Animation 33: Create(SurroundingRectangle), etc.:  49%|####9     | 65/132 [00:00<00:00, 181.60it/s]Animation 33: Create(SurroundingRectangle), etc.:  64%|######3   | 84/132 [00:00<00:00, 157.96it/s]Animation 33: Create(SurroundingRectangle), etc.:  77%|#######6  | 101/132 [00:00<00:00, 153.39it/s]Animation 33: Create(SurroundingRectangle), etc.:  89%|########8 | 117/132 [00:00<00:00, 150.92it/s]                                                                                                    [09/28/26 15:57:11] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4205195610_53                         
+                             6541217.mp4'                                      
+Animation 34: _MethodAnimation(MathTex('-7')), etc.:   0%|          | 0/75 [00:00<?, ?it/s]Animation 34: _MethodAnimation(MathTex('-7')), etc.:  68%|######8   | 51/75 [00:00<00:00, 507.86it/s]                                                                                                     [09/28/26 15:57:12] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1335595413_20                         
+                             47200499.mp4'                                     
+Animation 35: ReplacementTransform(MathTex('-7')), etc.:   0%|          | 0/9 [00:00<?, ?it/s]                                                                                              [09/28/26 15:57:13] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2230547420_42                         
+                             9077849.mp4'                                      
+Animation 36: _MethodAnimation(MathTex('+7')):   0%|          | 0/75 [00:00<?, ?it/s]Animation 36: _MethodAnimation(MathTex('+7')):  72%|#######2  | 54/75 [00:00<00:00, 539.28it/s]                                                                                                                   INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2132226824_37                         
+                             14946103.mp4'                                     
+Animation 37: TransformMatchingTex(Group), etc.:   0%|          | 0/119 [00:00<?, ?it/s]Animation 37: TransformMatchingTex(Group), etc.:  14%|#4        | 17/119 [00:00<00:00, 167.07it/s]Animation 37: TransformMatchingTex(Group), etc.:  29%|##8       | 34/119 [00:00<00:00, 153.32it/s]Animation 37: TransformMatchingTex(Group), etc.:  42%|####2     | 50/119 [00:00<00:00, 145.84it/s]Animation 37: TransformMatchingTex(Group), etc.:  55%|#####4    | 65/119 [00:00<00:00, 135.57it/s]Animation 37: TransformMatchingTex(Group), etc.:  66%|######6   | 79/119 [00:00<00:00, 133.47it/s]Animation 37: TransformMatchingTex(Group), etc.:  78%|#######8  | 93/119 [00:00<00:00, 124.05it/s]Animation 37: TransformMatchingTex(Group), etc.:  89%|########9 | 106/119 [00:00<00:00, 125.64it/s]Animation 37: TransformMatchingTex(Group), etc.: 100%|##########| 119/119 [00:00<00:00, 125.53it/s]                                                                                                   [09/28/26 15:57:15] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4221031653_13                         
+                             45467473.mp4'                                     
+Animation 38: Create(SurroundingRectangle), etc.:   0%|          | 0/44 [00:00<?, ?it/s]Animation 38: Create(SurroundingRectangle), etc.:  89%|########8 | 39/44 [00:00<00:00, 389.57it/s]                                                                                                  [09/28/26 15:57:16] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1116427207_51                         
+                             5391685.mp4'                                      
+Animation 39: TransformMatchingTex(Group), etc.:   0%|          | 0/65 [00:00<?, ?it/s]Animation 39: TransformMatchingTex(Group), etc.:  35%|###5      | 23/65 [00:00<00:00, 218.97it/s]Animation 39: TransformMatchingTex(Group), etc.:  69%|######9   | 45/65 [00:00<00:00, 190.37it/s]                                                                                                                     INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3978184434_14                         
+                             17036806.mp4'                                     
+Animation 40: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/143 [00:00<?, ?it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:   8%|7         | 11/143 [00:00<00:01, 108.45it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  17%|#6        | 24/143 [00:00<00:00, 120.18it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  27%|##6       | 38/143 [00:00<00:00, 127.89it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  36%|###5      | 51/143 [00:00<00:00, 112.82it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  44%|####4     | 63/143 [00:00<00:00, 112.25it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  52%|#####2    | 75/143 [00:00<00:00, 102.80it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  60%|######    | 86/143 [00:00<00:00, 96.44it/s] Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  69%|######8   | 98/143 [00:00<00:00, 100.73it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  76%|#######6  | 109/143 [00:01<00:00, 100.43it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  84%|########3 | 120/143 [00:01<00:00, 98.42it/s] Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  91%|######### | 130/143 [00:01<00:00, 97.74it/s]Animation 40: FadeIn(VGroup of 3 submobjects), etc.:  99%|#########8| 141/143 [00:01<00:00, 100.55it/s]                                                                                                       [09/28/26 15:57:18] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3855926483_10                         
+                             91846795.mp4'                                     
+Animation 41: FadeOut(VGroup of 2 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]Animation 41: FadeOut(VGroup of 2 submobjects):  83%|########3 | 10/12 [00:00<00:00, 92.15it/s]                                                                                               [09/28/26 15:57:19] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2442438470_19                         
+                             04149292.mp4'                                     
+                    INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_25                         
+                             03370055.mp4'                                     
+Animation 43: Write(Text('Transpose the 2')):   0%|          | 0/23 [00:00<?, ?it/s]                                                                                    [09/28/26 15:57:20] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1464187915_37                         
+                             59838327.mp4'                                     
+Animation 44: TransformMatchingTex(Group):   0%|          | 0/33 [00:00<?, ?it/s]Animation 44: TransformMatchingTex(Group):  94%|#########3| 31/33 [00:00<00:00, 309.06it/s]                                                                                                               INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_839703036_833                         
+                             328170.mp4'                                       
+Animation 45: Create(SurroundingRectangle), etc.:   0%|          | 0/60 [00:00<?, ?it/s]Animation 45: Create(SurroundingRectangle), etc.:  48%|####8     | 29/60 [00:00<00:00, 284.46it/s]Animation 45: Create(SurroundingRectangle), etc.:  97%|#########6| 58/60 [00:00<00:00, 244.92it/s]                                                                                                  [09/28/26 15:57:21] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1742857973_34                         
+                             15353679.mp4'                                     
+Animation 46: FadeIn(MathTex("\\text{Across '=': }\\times \\text{ becomes } \\div")):   0%|          | 0/96 [00:00<?, ?it/s]Animation 46: FadeIn(MathTex("\\text{Across '=': }\\times \\text{ becomes } \\div")):  22%|##1       | 21/96 [00:00<00:00, 199.20it/s]Animation 46: FadeIn(MathTex("\\text{Across '=': }\\times \\text{ becomes } \\div")):  46%|####5     | 44/96 [00:00<00:00, 216.48it/s]Animation 46: FadeIn(MathTex("\\text{Across '=': }\\times \\text{ becomes } \\div")):  69%|######8   | 66/96 [00:00<00:00, 198.73it/s]Animation 46: FadeIn(MathTex("\\text{Across '=': }\\times \\text{ becomes } \\div")):  92%|#########1| 88/96 [00:00<00:00, 204.84it/s]                                                                                                                                      [09/28/26 15:57:22] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_312754287_267                         
+                             3226078.mp4'                                      
+Animation 47: _MethodAnimation(MathTex('2')), etc.:   0%|          | 0/69 [00:00<?, ?it/s]Animation 47: _MethodAnimation(MathTex('2')), etc.:  26%|##6       | 18/69 [00:00<00:00, 175.44it/s]Animation 47: _MethodAnimation(MathTex('2')), etc.:  52%|#####2    | 36/69 [00:00<00:00, 155.00it/s]Animation 47: _MethodAnimation(MathTex('2')), etc.:  75%|#######5  | 52/69 [00:00<00:00, 156.45it/s]Animation 47: _MethodAnimation(MathTex('2')), etc.:  99%|#########8| 68/69 [00:00<00:00, 154.57it/s]                                                                                                    [09/28/26 15:57:23] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4056768319_21                         
+                             17951968.mp4'                                     
+Animation 48: Flash(VGroup of 12 submobjects):   0%|          | 0/8 [00:00<?, ?it/s]                                                                                                        INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1983389482_42                         
+                             09688406.mp4'                                     
+Animation 49: _MethodAnimation(MathTex('2')):   0%|          | 0/69 [00:00<?, ?it/s]                                                                                    [09/28/26 15:57:24] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2859333539_40                         
+                             55100525.mp4'                                     
+Animation 50: TransformMatchingTex(Group), etc.:   0%|          | 0/68 [00:00<?, ?it/s]Animation 50: TransformMatchingTex(Group), etc.:  21%|##        | 14/68 [00:00<00:00, 135.20it/s]Animation 50: TransformMatchingTex(Group), etc.:  41%|####1     | 28/68 [00:00<00:00, 133.73it/s]Animation 50: TransformMatchingTex(Group), etc.:  63%|######3   | 43/68 [00:00<00:00, 140.20it/s]Animation 50: TransformMatchingTex(Group), etc.:  85%|########5 | 58/68 [00:00<00:00, 134.82it/s]                                                                                                 [09/28/26 15:57:25] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3729129361_10                         
+                             03222042.mp4'                                     
+Animation 51: TransformMatchingTex(Group):   0%|          | 0/67 [00:00<?, ?it/s]Animation 51: TransformMatchingTex(Group):  51%|#####     | 34/67 [00:00<00:00, 338.83it/s]                                                                                           [09/28/26 15:57:26] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1210643155_56                         
+                             1356539.mp4'                                      
+Animation 52: Create(SurroundingRectangle), etc.:   0%|          | 0/228 [00:00<?, ?it/s]Animation 52: Create(SurroundingRectangle), etc.:  13%|#3        | 30/228 [00:00<00:00, 295.55it/s]Animation 52: Create(SurroundingRectangle), etc.:  27%|##6       | 61/228 [00:00<00:00, 303.14it/s]Animation 52: Create(SurroundingRectangle), etc.:  40%|####      | 92/228 [00:00<00:00, 258.50it/s]Animation 52: Create(SurroundingRectangle), etc.:  52%|#####2    | 119/228 [00:00<00:00, 245.39it/s]Animation 52: Create(SurroundingRectangle), etc.:  63%|######3   | 144/228 [00:00<00:00, 233.76it/s]Animation 52: Create(SurroundingRectangle), etc.:  74%|#######3  | 168/228 [00:00<00:00, 228.34it/s]Animation 52: Create(SurroundingRectangle), etc.:  84%|########3 | 191/228 [00:00<00:00, 224.52it/s]Animation 52: Create(SurroundingRectangle), etc.:  94%|#########3| 214/228 [00:00<00:00, 216.18it/s]                                                                                                    [09/28/26 15:57:27] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2531158428_63                         
+                             8601827.mp4'                                      
+Animation 53: FadeOut(VGroup of 5 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]Animation 53: FadeOut(VGroup of 5 submobjects):  75%|#######5  | 9/12 [00:00<00:00, 87.44it/s]                                                                                              [09/28/26 15:57:28] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_244625319_414                         
+                             8304261.mp4'                                      
+                    INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_30                         
+                             86630004.mp4'                                     
+Animation 55: Write(Text('CHECK THE SOLUTION')):   0%|          | 0/94 [00:00<?, ?it/s]Animation 55: Write(Text('CHECK THE SOLUTION')):  17%|#7        | 16/94 [00:00<00:00, 150.83it/s]Animation 55: Write(Text('CHECK THE SOLUTION')):  38%|###8      | 36/94 [00:00<00:00, 176.73it/s]Animation 55: Write(Text('CHECK THE SOLUTION')):  59%|#####8    | 55/94 [00:00<00:00, 179.50it/s]Animation 55: Write(Text('CHECK THE SOLUTION')):  80%|#######9  | 75/94 [00:00<00:00, 186.96it/s]                                                                                                 [09/28/26 15:57:29] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2892888050_20                         
+                             67705174.mp4'                                     
+Animation 56: FadeIn(MathTex('x = 21')), etc.:   0%|          | 0/105 [00:00<?, ?it/s]Animation 56: FadeIn(MathTex('x = 21')), etc.:  28%|##7       | 29/105 [00:00<00:00, 280.24it/s]Animation 56: FadeIn(MathTex('x = 21')), etc.:  55%|#####5    | 58/105 [00:00<00:00, 242.46it/s]Animation 56: FadeIn(MathTex('x = 21')), etc.:  79%|#######9  | 83/105 [00:00<00:00, 209.78it/s]Animation 56: FadeIn(MathTex('x = 21')), etc.: 100%|##########| 105/105 [00:00<00:00, 207.20it/s]                                                                                                 [09/28/26 15:57:30] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_628712311_340                         
+                             4610113.mp4'                                      
+Animation 57: _MethodAnimation(MathTex('21')):   0%|          | 0/39 [00:00<?, ?it/s]                                                                                                         INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_142866233_121                         
+                             1077617.mp4'                                      
+Animation 58: TransformMatchingTex(Group), etc.:   0%|          | 0/11 [00:00<?, ?it/s]                                                                                       [09/28/26 15:57:31] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1573684863_81                         
+                             4820166.mp4'                                      
+Animation 59: TransformMatchingTex(Group):   0%|          | 0/186 [00:00<?, ?it/s]Animation 59: TransformMatchingTex(Group):  13%|#2        | 24/186 [00:00<00:00, 234.67it/s]Animation 59: TransformMatchingTex(Group):  26%|##5       | 48/186 [00:00<00:00, 210.82it/s]Animation 59: TransformMatchingTex(Group):  38%|###7      | 70/186 [00:00<00:00, 200.10it/s]Animation 59: TransformMatchingTex(Group):  49%|####8     | 91/186 [00:00<00:00, 199.30it/s]Animation 59: TransformMatchingTex(Group):  60%|######    | 112/186 [00:00<00:00, 202.42it/s]Animation 59: TransformMatchingTex(Group):  73%|#######3  | 136/186 [00:00<00:00, 212.82it/s]Animation 59: TransformMatchingTex(Group):  85%|########5 | 159/186 [00:00<00:00, 216.20it/s]Animation 59: TransformMatchingTex(Group):  99%|#########8| 184/186 [00:00<00:00, 224.98it/s]                                                                                             [09/28/26 15:57:32] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_962238908_254                         
+                             7618672.mp4'                                      
+Animation 60: TransformMatchingTex(Group):   0%|          | 0/84 [00:00<?, ?it/s]Animation 60: TransformMatchingTex(Group):  36%|###5      | 30/84 [00:00<00:00, 298.07it/s]Animation 60: TransformMatchingTex(Group):  73%|#######2  | 61/84 [00:00<00:00, 301.39it/s]                                                                                           [09/28/26 15:57:33] INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1996475420_25                         
+                             47618672.mp4'                                     
+Animation 61: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/175 [00:00<?, ?it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  14%|#3        | 24/175 [00:00<00:00, 229.78it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  27%|##6       | 47/175 [00:00<00:00, 207.31it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  39%|###8      | 68/175 [00:00<00:00, 192.73it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  51%|#####     | 89/175 [00:00<00:00, 197.47it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  62%|######2   | 109/175 [00:00<00:00, 195.00it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  75%|#######4  | 131/175 [00:00<00:00, 202.96it/s]Animation 61: Create(VGroup of 2 submobjects), etc.:  87%|########7 | 153/175 [00:00<00:00, 207.93it/s]Animation 61: Create(VGroup of 2 submobjects), etc.: 100%|##########| 175/175 [00:00<00:00, 210.70it/s]                                                                                                       [09/28/26 15:57:34] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1085490195_11                         
+                             92737555.mp4'                                     
+[09/28/26 15:57:35] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_49                         
+                             4326795.mp4'                                      
+Animation 63: Write(Text('TRANSPOSITION RULES')):   0%|          | 0/24 [00:00<?, ?it/s]Animation 63: Write(Text('TRANSPOSITION RULES')):  88%|########7 | 21/24 [00:00<00:00, 204.44it/s]                                                                                                  [09/28/26 15:57:36] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2934608172_20                         
+                             67705174.mp4'                                     
+Animation 64: FadeIn(MathTex('=')):   0%|          | 0/36 [00:00<?, ?it/s]                                                                                              INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3371617630_23                         
+                             0430509.mp4'                                      
+Animation 65: FadeIn(VGroup of 3 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]Animation 65: FadeIn(VGroup of 3 submobjects):  75%|#######5  | 18/24 [00:00<00:00, 176.83it/s]                                                                                               [09/28/26 15:57:37] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1912471258_41                         
+                             63415436.mp4'                                     
+Animation 66: _MethodAnimation(MathTex('+')):   0%|          | 0/18 [00:00<?, ?it/s]                                                                                                        INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1341059469_27                         
+                             14579521.mp4'                                     
+Animation 67: ReplacementTransform(MathTex('+')), etc.:   0%|          | 0/14 [00:00<?, ?it/s]                                                                                              [09/28/26 15:57:38] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4083097717_32                         
+                             82353630.mp4'                                     
+Animation 68: _MethodAnimation(MathTex('-')):   0%|          | 0/10 [00:00<?, ?it/s]                                                                                                        INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4160346835_35                         
+                             81043608.mp4'                                     
+Animation 69: FadeOut(MathTex('-')):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                              INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1217283340_35                         
+                             81043608.mp4'                                     
+Animation 70: _MethodAnimation(MathTex('-')):   0%|          | 0/37 [00:00<?, ?it/s]                                                                                    [09/28/26 15:57:39] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_666587436_358                         
+                             1043608.mp4'                                      
+Animation 71: ReplacementTransform(MathTex('-')), etc.:   0%|          | 0/21 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2957930646_25                         
+                             95642079.mp4'                                     
+Animation 72: _MethodAnimation(MathTex('+')):   0%|          | 0/17 [00:00<?, ?it/s]                                                                                    [09/28/26 15:57:40] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1648435863_27                         
+                             14579521.mp4'                                     
+Animation 73: FadeOut(MathTex('+')), etc.:   0%|          | 0/34 [00:00<?, ?it/s]Animation 73: FadeOut(MathTex('+')), etc.:  44%|####4     | 15/34 [00:00<00:00, 147.71it/s]Animation 73: FadeOut(MathTex('+')), etc.:  94%|#########4| 32/34 [00:00<00:00, 158.13it/s]                                                                                                               INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1435384821_35                         
+                             72743006.mp4'                                     
+Animation 74: _MethodAnimation(MathTex('\\times')):   0%|          | 0/26 [00:00<?, ?it/s]                                                                                          [09/28/26 15:57:41] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1680139836_32                         
+                             89767960.mp4'                                     
+Animation 75: ReplacementTransform(MathTex('\\times')), etc.:   0%|          | 0/19 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1230481167_88                         
+                             0771272.mp4'                                      
+Animation 76: _MethodAnimation(MathTex('\\div')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                        [09/28/26 15:57:42] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2137684625_18                         
+                             89630055.mp4'                                     
+Animation 77: FadeOut(MathTex('\\div')):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                                  INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1900022248_18                         
+                             89630055.mp4'                                     
+Animation 78: _MethodAnimation(MathTex('\\div')):   0%|          | 0/50 [00:00<?, ?it/s]                                                                                        [09/28/26 15:57:43] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1151296553_18                         
+                             89630055.mp4'                                     
+Animation 79: ReplacementTransform(MathTex('\\div')), etc.:   0%|          | 0/28 [00:00<?, ?it/s]                                                                                                                      INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_523044865_258                         
+                             2156365.mp4'                                      
+Animation 80: _MethodAnimation(MathTex('\\times')):   0%|          | 0/22 [00:00<?, ?it/s]                                                                                          [09/28/26 15:57:44] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_159565463_328                         
+                             9767960.mp4'                                      
+Animation 81: FadeOut(MathTex('\\times')):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                                    INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_10868369_3289                         
+                             767960.mp4'                                       
+Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):   0%|          | 0/237 [00:00<?, ?it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):   6%|6         | 15/237 [00:00<00:01, 143.75it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  13%|#2        | 30/237 [00:00<00:01, 124.59it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  19%|#8        | 44/237 [00:00<00:01, 130.15it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  24%|##4       | 58/237 [00:00<00:01, 125.52it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  30%|###       | 72/237 [00:00<00:01, 126.25it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  36%|###5      | 85/237 [00:00<00:01, 119.19it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  41%|####      | 97/237 [00:00<00:01, 119.35it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  46%|####5     | 109/237 [00:00<00:01, 117.95it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  51%|#####1    | 121/237 [00:01<00:01, 115.17it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  57%|#####6    | 134/237 [00:01<00:00, 118.27it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  62%|######2   | 148/237 [00:01<00:00, 124.20it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  68%|######8   | 162/237 [00:01<00:00, 127.95it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  74%|#######3  | 175/237 [00:01<00:00, 122.76it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  79%|#######9  | 188/237 [00:01<00:00, 119.86it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  85%|########5 | 202/237 [00:01<00:00, 124.93it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  91%|######### | 215/237 [00:01<00:00, 121.09it/s]Animation 82: FadeIn(Text("Across '=': every operation flips to its inverse.")):  96%|#########6| 228/237 [00:01<00:00, 111.94it/s]                                                                                                                                   [09/28/26 15:57:47] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_709852319_294                         
+                             7273488.mp4'                                      
+                    INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_42                         
+                             2825709.mp4'                                      
+Animation 84: Write(Text('Real-World: The Park Puzzle')):   0%|          | 0/31 [00:00<?, ?it/s]Animation 84: Write(Text('Real-World: The Park Puzzle')):  71%|#######   | 22/31 [00:00<00:00, 207.50it/s]                                                                                                          [09/28/26 15:57:48] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2822096777_20                         
+                             67705174.mp4'                                     
+Animation 85: Create(Rectangle), etc.:   0%|          | 0/72 [00:00<?, ?it/s]Animation 85: Create(Rectangle), etc.:  21%|##        | 15/72 [00:00<00:00, 149.16it/s]Animation 85: Create(Rectangle), etc.:  42%|####1     | 30/72 [00:00<00:00, 130.70it/s]Animation 85: Create(Rectangle), etc.:  61%|######1   | 44/72 [00:00<00:00, 133.41it/s]Animation 85: Create(Rectangle), etc.:  81%|########  | 58/72 [00:00<00:00, 129.38it/s]                                                                                       [09/28/26 15:57:49] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2614903510_35                         
+                             44702589.mp4'                                     
+Animation 86: FadeIn(Text('Perimeter = 178 m')):   0%|          | 0/214 [00:00<?, ?it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  14%|#4        | 31/214 [00:00<00:00, 302.06it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  29%|##8       | 62/214 [00:00<00:00, 252.40it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  41%|####1     | 88/214 [00:00<00:00, 224.63it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  52%|#####1    | 111/214 [00:00<00:00, 224.23it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  63%|######3   | 135/214 [00:00<00:00, 224.53it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  74%|#######3  | 158/214 [00:00<00:00, 218.69it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  84%|########4 | 180/214 [00:00<00:00, 213.13it/s]Animation 86: FadeIn(Text('Perimeter = 178 m')):  95%|#########5| 204/214 [00:00<00:00, 221.00it/s]                                                                                                   [09/28/26 15:57:50] INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3096407816_16                         
+                             0887677.mp4'                                      
+Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:   0%|          | 0/220 [00:00<?, ?it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:   5%|5         | 11/220 [00:00<00:01, 105.01it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  10%|#         | 23/220 [00:00<00:01, 113.62it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  16%|#5        | 35/220 [00:00<00:01, 103.87it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  21%|##        | 46/220 [00:00<00:01, 103.38it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  26%|##5       | 57/220 [00:00<00:01, 100.32it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  31%|###1      | 69/220 [00:00<00:01, 104.71it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  36%|###6      | 80/220 [00:00<00:01, 102.96it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  42%|####1     | 92/220 [00:00<00:01, 104.70it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  47%|####6     | 103/220 [00:00<00:01, 103.64it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  52%|#####2    | 115/220 [00:01<00:00, 107.87it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  58%|#####8    | 128/220 [00:01<00:00, 110.25it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  64%|######3   | 140/220 [00:01<00:00, 107.43it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  69%|######8   | 151/220 [00:01<00:00, 102.48it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  74%|#######4  | 163/220 [00:01<00:00, 106.19it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  79%|#######9  | 174/220 [00:01<00:00, 106.41it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  85%|########4 | 186/220 [00:01<00:00, 108.13it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  90%|########9 | 197/220 [00:01<00:00, 104.16it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.:  95%|#########4| 208/220 [00:01<00:00, 102.24it/s]Animation 87: Write(MathTex('2[(x+17)+x] = 178')), etc.: 100%|#########9| 219/220 [00:02<00:00, 99.92it/s]                                                                                                           [09/28/26 15:57:53] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3243084357_25                         
+                             71764124.mp4'                                     
+Animation 88: Write(MathTex('4x+34 = 178')):   0%|          | 0/129 [00:00<?, ?it/s]Animation 88: Write(MathTex('4x+34 = 178')):  28%|##7       | 36/129 [00:00<00:00, 351.50it/s]Animation 88: Write(MathTex('4x+34 = 178')):  56%|#####5    | 72/129 [00:00<00:00, 303.77it/s]Animation 88: Write(MathTex('4x+34 = 178')):  80%|#######9  | 103/129 [00:00<00:00, 287.83it/s]                                                                                               [09/28/26 15:57:54] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2188163322_21                         
+                             35252631.mp4'                                     
+Animation 89: Write(MathTex('4x = 178-34')):   0%|          | 0/63 [00:00<?, ?it/s]Animation 89: Write(MathTex('4x = 178-34')):  46%|####6     | 29/63 [00:00<00:00, 287.45it/s]Animation 89: Write(MathTex('4x = 178-34')):  95%|#########5| 60/63 [00:00<00:00, 294.88it/s]                                                                                             [09/28/26 15:57:55] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3138908046_40                         
+                             25848279.mp4'                                     
+Animation 90: TransformMatchingTex(Group):   0%|          | 0/31 [00:00<?, ?it/s]Animation 90: TransformMatchingTex(Group):  77%|#######7  | 24/31 [00:00<00:00, 238.45it/s]                                                                                           [09/28/26 15:57:56] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2085319958_26                         
+                             42115439.mp4'                                     
+Animation 91: Write(MathTex('x = 36')):   0%|          | 0/95 [00:00<?, ?it/s]Animation 91: Write(MathTex('x = 36')):  49%|####9     | 47/95 [00:00<00:00, 460.73it/s]Animation 91: Write(MathTex('x = 36')):  99%|#########8| 94/95 [00:00<00:00, 447.01it/s]                                                                                                            INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3414954413_25                         
+                             03793396.mp4'                                     
+Animation 92: Create(SurroundingRectangle):   0%|          | 0/26 [00:00<?, ?it/s]                                                                                  [09/28/26 15:57:57] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1954367929_26                         
+                             4112982.mp4'                                      
+Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:   0%|          | 0/223 [00:00<?, ?it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:   2%|2         | 5/223 [00:00<00:04, 46.32it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:   5%|4         | 11/223 [00:00<00:04, 49.57it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:   7%|7         | 16/223 [00:00<00:04, 44.65it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:   9%|9         | 21/223 [00:00<00:04, 43.55it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  12%|#1        | 26/223 [00:00<00:04, 45.10it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  14%|#3        | 31/223 [00:00<00:04, 44.07it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  16%|#6        | 36/223 [00:00<00:04, 44.51it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  18%|#8        | 41/223 [00:00<00:04, 37.46it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  20%|##        | 45/223 [00:01<00:04, 37.79it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  22%|##1       | 49/223 [00:01<00:04, 35.66it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  24%|##3       | 53/223 [00:01<00:04, 34.14it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  26%|##6       | 58/223 [00:01<00:04, 35.76it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  28%|##8       | 63/223 [00:01<00:04, 37.56it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  30%|###       | 67/223 [00:01<00:04, 35.96it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  32%|###1      | 71/223 [00:01<00:04, 33.40it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  34%|###4      | 76/223 [00:01<00:04, 35.81it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  36%|###6      | 81/223 [00:02<00:03, 37.37it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  39%|###8      | 86/223 [00:02<00:03, 38.71it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  40%|####      | 90/223 [00:02<00:03, 35.75it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  43%|####2     | 95/223 [00:02<00:03, 36.97it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  45%|####4     | 100/223 [00:02<00:03, 38.85it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  47%|####7     | 105/223 [00:02<00:02, 41.19it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  49%|####9     | 110/223 [00:02<00:02, 40.83it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  52%|#####1    | 115/223 [00:02<00:02, 37.55it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  53%|#####3    | 119/223 [00:03<00:02, 37.36it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  55%|#####5    | 123/223 [00:03<00:03, 33.28it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  57%|#####6    | 127/223 [00:03<00:02, 34.08it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  59%|#####8    | 131/223 [00:03<00:02, 32.45it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  61%|######    | 135/223 [00:03<00:02, 32.94it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  63%|######2   | 140/223 [00:03<00:02, 37.14it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  65%|######5   | 145/223 [00:03<00:02, 36.85it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  67%|######7   | 150/223 [00:03<00:01, 37.80it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  70%|######9   | 155/223 [00:04<00:01, 39.58it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  72%|#######1  | 160/223 [00:04<00:01, 38.80it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  74%|#######3  | 164/223 [00:04<00:01, 38.16it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  76%|#######5  | 169/223 [00:04<00:01, 38.07it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  78%|#######8  | 174/223 [00:04<00:01, 40.46it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  80%|########  | 179/223 [00:04<00:01, 38.66it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  83%|########2 | 184/223 [00:04<00:00, 39.57it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  84%|########4 | 188/223 [00:04<00:00, 38.23it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  86%|########6 | 192/223 [00:05<00:00, 37.70it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  88%|########7 | 196/223 [00:05<00:00, 36.39it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  90%|########9 | 200/223 [00:05<00:00, 35.75it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  92%|#########1| 205/223 [00:05<00:00, 36.78it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  94%|#########3| 209/223 [00:05<00:00, 35.80it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  96%|#########5| 213/223 [00:05<00:00, 34.51it/s]Animation 93: ReplacementTransform(VGroup of 11 submobjects), etc.:  98%|#########7| 218/223 [00:05<00:00, 37.04it/s]                                                                                                                     [09/28/26 15:58:04] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3996146624_41                         
+                             1310305.mp4'                                      
+                    INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_42                         
+                             22568653.mp4'                                     
+Animation 95: Write(Text('YOUR TURN')):   0%|          | 0/32 [00:00<?, ?it/s]Animation 95: Write(Text('YOUR TURN')):  94%|#########3| 30/32 [00:00<00:00, 289.92it/s]                                                                                        [09/28/26 15:58:05] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_642955126_206                         
+                             7705174.mp4'                                      
+Animation 96: Write(MathTex('3x+1 = 16')):   0%|          | 0/78 [00:00<?, ?it/s]Animation 96: Write(MathTex('3x+1 = 16')):  46%|####6     | 36/78 [00:00<00:00, 359.61it/s]Animation 96: Write(MathTex('3x+1 = 16')):  92%|#########2| 72/78 [00:00<00:00, 328.53it/s]                                                                                           [09/28/26 15:58:06] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_706343131_336                         
+                             3183590.mp4'                                      
+Animation 97: FadeIn(Text('Find x.')):   0%|          | 0/20 [00:00<?, ?it/s]                                                                                                 INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_625602317_273                         
+                             6905833.mp4'                                      
+Animation 98: FadeIn(Text('Which term moves first?')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 98: FadeIn(Text('Which term moves first?')):  77%|#######6  | 23/30 [00:00<00:00, 226.36it/s]                                                                                                       [09/28/26 15:58:07] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_498083098_202                         
+                             330458.mp4'                                       
+Animation 99: FadeIn(Text('Pause and try it')):   0%|          | 0/98 [00:00<?, ?it/s]Animation 99: FadeIn(Text('Pause and try it')):  36%|###5      | 35/98 [00:00<00:00, 343.79it/s]Animation 99: FadeIn(Text('Pause and try it')):  71%|#######1  | 70/98 [00:00<00:00, 267.94it/s]Animation 99: FadeIn(Text('Pause and try it')): 100%|##########| 98/98 [00:00<00:00, 260.32it/s]                                                                                                [09/28/26 15:58:08] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_832795189_153                         
+                             4856015.mp4'                                      
+Animation 100: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                  INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1684683135_10                         
+                             77184964.mp4'                                     
+Animation 101: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                        [09/28/26 15:58:09] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2764462208_24                         
+                             74914134.mp4'                                     
+Animation 102: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3487265152_24                         
+                             74914134.mp4'                                     
+Animation 103: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [09/28/26 15:58:10] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_942705152_247                         
+                             4914134.mp4'                                      
+Animation 104: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_129582501_247                         
+                             4914134.mp4'                                      
+Animation 105: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [09/28/26 15:58:11] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3669973139_24                         
+                             74914134.mp4'                                     
+Animation 106: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2095799792_24                         
+                             74914134.mp4'                                     
+Animation 107: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [09/28/26 15:58:12] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3153700595_24                         
+                             74914134.mp4'                                     
+Animation 108: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [09/28/26 15:58:13] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4218874578_24                         
+                             74914134.mp4'                                     
+Animation 109: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2098134936_24                         
+                             74914134.mp4'                                     
+Animation 110: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [09/28/26 15:58:14] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2843009625_24                         
+                             74914134.mp4'                                     
+Animation 111: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                   INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2189426600_32                         
+                             82867129.mp4'                                     
+Animation 112: FadeOut(Text('Which term moves first?')), etc.:   0%|          | 0/9 [00:00<?, ?it/s]                                                                                                    [09/28/26 15:58:15] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_976499680_110                         
+                             1696093.mp4'                                      
+Animation 113: Create(SurroundingRectangle), etc.:   0%|          | 0/88 [00:00<?, ?it/s]Animation 113: Create(SurroundingRectangle), etc.:  25%|##5       | 22/88 [00:00<00:00, 214.93it/s]Animation 113: Create(SurroundingRectangle), etc.:  56%|#####5    | 49/88 [00:00<00:00, 246.66it/s]Animation 113: Create(SurroundingRectangle), etc.:  84%|########4 | 74/88 [00:00<00:00, 219.76it/s]                                                                                                   [09/28/26 15:58:16] INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3798341295_20                         
+                             2330458.mp4'                                      
+Animation 114: TransformMatchingTex(Group), etc.:   0%|          | 0/88 [00:00<?, ?it/s]Animation 114: TransformMatchingTex(Group), etc.:  15%|#4        | 13/88 [00:00<00:00, 121.01it/s]Animation 114: TransformMatchingTex(Group), etc.:  30%|##9       | 26/88 [00:00<00:00, 119.74it/s]Animation 114: TransformMatchingTex(Group), etc.:  43%|####3     | 38/88 [00:00<00:00, 114.66it/s]Animation 114: TransformMatchingTex(Group), etc.:  57%|#####6    | 50/88 [00:00<00:00, 103.76it/s]Animation 114: TransformMatchingTex(Group), etc.:  69%|######9   | 61/88 [00:00<00:00, 105.39it/s]Animation 114: TransformMatchingTex(Group), etc.:  82%|########1 | 72/88 [00:00<00:00, 105.45it/s]Animation 114: TransformMatchingTex(Group), etc.:  94%|#########4| 83/88 [00:00<00:00, 103.59it/s]                                                                                                  [09/28/26 15:58:17] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3211927472_14                         
+                             6667092.mp4'                                      
+Animation 115: TransformMatchingTex(Group):   0%|          | 0/82 [00:00<?, ?it/s]Animation 115: TransformMatchingTex(Group):  46%|####6     | 38/82 [00:00<00:00, 376.04it/s]Animation 115: TransformMatchingTex(Group):  93%|#########2| 76/82 [00:00<00:00, 310.02it/s]                                                                                            [09/28/26 15:58:18] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_286921624_351                         
+                             6062558.mp4'                                      
+Animation 116: Create(SurroundingRectangle):   0%|          | 0/38 [00:00<?, ?it/s]                                                                                                       INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3550920160_16                         
+                             99561545.mp4'                                     
+Animation 117: TransformMatchingTex(Group), etc.:   0%|          | 0/114 [00:00<?, ?it/s]Animation 117: TransformMatchingTex(Group), etc.:  25%|##5       | 29/114 [00:00<00:00, 276.93it/s]Animation 117: TransformMatchingTex(Group), etc.:  50%|#####     | 57/114 [00:00<00:00, 232.01it/s]Animation 117: TransformMatchingTex(Group), etc.:  71%|#######1  | 81/114 [00:00<00:00, 212.26it/s]Animation 117: TransformMatchingTex(Group), etc.:  90%|######### | 103/114 [00:00<00:00, 209.06it/s]                                                                                                    [09/28/26 15:58:19] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3127925671_21                         
+                             61481611.mp4'                                     
+Animation 118: TransformMatchingTex(Group):   0%|          | 0/57 [00:00<?, ?it/s]Animation 118: TransformMatchingTex(Group):  72%|#######1  | 41/57 [00:00<00:00, 408.57it/s]                                                                                            [09/28/26 15:58:20] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_1613801762_35                         
+                             16062558.mp4'                                     
+Animation 119: Create(SurroundingRectangle), etc.:   0%|          | 0/84 [00:00<?, ?it/s]Animation 119: Create(SurroundingRectangle), etc.:  27%|##7       | 23/84 [00:00<00:00, 225.98it/s]Animation 119: Create(SurroundingRectangle), etc.:  55%|#####4    | 46/84 [00:00<00:00, 208.55it/s]Animation 119: Create(SurroundingRectangle), etc.:  80%|#######9  | 67/84 [00:00<00:00, 183.46it/s]                                                                                                   [09/28/26 15:58:21] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2636618677_81                         
+                             2438637.mp4'                                      
+                    INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_3197081273_28                         
+                             9350568.mp4'                                      
+Animation 121: Write(Text('Summary')):   0%|          | 0/37 [00:00<?, ?it/s]Animation 121: Write(Text('Summary')):  92%|#########1| 34/37 [00:00<00:00, 337.50it/s]                                                                                       [09/28/26 15:58:22] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2591765207_20                         
+                             67705174.mp4'                                     
+Animation 122: FadeIn(VGroup of 2 submobjects):   0%|          | 0/154 [00:00<?, ?it/s]Animation 122: FadeIn(VGroup of 2 submobjects):   6%|5         | 9/154 [00:00<00:01, 85.70it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  12%|#1        | 18/154 [00:00<00:01, 80.44it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  18%|#8        | 28/154 [00:00<00:01, 87.13it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  24%|##4       | 37/154 [00:00<00:01, 70.34it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  29%|##9       | 45/154 [00:00<00:01, 66.72it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  34%|###3      | 52/154 [00:00<00:01, 53.90it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  38%|###7      | 58/154 [00:00<00:01, 54.64it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  42%|####1     | 64/154 [00:01<00:01, 53.68it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  45%|####5     | 70/154 [00:01<00:01, 51.87it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  50%|#####     | 77/154 [00:01<00:01, 55.72it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  55%|#####4    | 84/154 [00:01<00:01, 56.63it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  60%|######    | 93/154 [00:01<00:00, 63.88it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  66%|######6   | 102/154 [00:01<00:00, 68.80it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  71%|#######1  | 110/154 [00:01<00:00, 71.43it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  77%|#######6  | 118/154 [00:01<00:00, 66.77it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  81%|########1 | 125/154 [00:01<00:00, 65.04it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  86%|########5 | 132/154 [00:02<00:00, 61.40it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  90%|######### | 139/154 [00:02<00:00, 63.06it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  95%|#########4| 146/154 [00:02<00:00, 64.74it/s]Animation 122: FadeIn(VGroup of 2 submobjects):  99%|#########9| 153/154 [00:02<00:00, 58.03it/s]                                                                                                 [09/28/26 15:58:26] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2013519888_40                         
+                             99057994.mp4'                                     
+Animation 123: FadeIn(VGroup of 2 submobjects):   0%|          | 0/298 [00:00<?, ?it/s]Animation 123: FadeIn(VGroup of 2 submobjects):   2%|2         | 7/298 [00:00<00:04, 64.56it/s]Animation 123: FadeIn(VGroup of 2 submobjects):   5%|4         | 14/298 [00:00<00:04, 57.24it/s]Animation 123: FadeIn(VGroup of 2 submobjects):   7%|6         | 20/298 [00:00<00:04, 56.82it/s]Animation 123: FadeIn(VGroup of 2 submobjects):   9%|8         | 26/298 [00:00<00:04, 57.35it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  11%|#1        | 34/298 [00:00<00:04, 64.85it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  14%|#4        | 42/298 [00:00<00:03, 66.63it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  16%|#6        | 49/298 [00:00<00:03, 64.19it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  19%|#8        | 56/298 [00:00<00:03, 64.51it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  21%|##1       | 64/298 [00:01<00:03, 66.76it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  24%|##3       | 71/298 [00:01<00:03, 67.22it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  26%|##6       | 78/298 [00:01<00:03, 65.17it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  29%|##8       | 85/298 [00:01<00:03, 64.89it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  31%|###1      | 93/298 [00:01<00:03, 67.24it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  34%|###3      | 100/298 [00:01<00:02, 66.26it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  36%|###6      | 108/298 [00:01<00:02, 68.20it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  39%|###8      | 115/298 [00:01<00:02, 64.61it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  41%|####      | 122/298 [00:01<00:02, 63.98it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  44%|####3     | 130/298 [00:02<00:02, 66.69it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  46%|####5     | 137/298 [00:02<00:02, 64.98it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  48%|####8     | 144/298 [00:02<00:02, 60.38it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  51%|#####     | 151/298 [00:02<00:02, 62.28it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  53%|#####3    | 158/298 [00:02<00:02, 63.01it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  55%|#####5    | 165/298 [00:02<00:02, 62.12it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  58%|#####7    | 172/298 [00:02<00:02, 58.23it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  60%|#####9    | 178/298 [00:02<00:02, 56.95it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  62%|######1   | 184/298 [00:02<00:02, 56.28it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  64%|######3   | 190/298 [00:03<00:02, 53.32it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  66%|######5   | 196/298 [00:03<00:01, 53.97it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  68%|######8   | 203/298 [00:03<00:01, 56.80it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  70%|#######   | 210/298 [00:03<00:01, 59.58it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  73%|#######2  | 217/298 [00:03<00:01, 61.54it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  76%|#######5  | 225/298 [00:03<00:01, 65.49it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  78%|#######7  | 232/298 [00:03<00:01, 57.81it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  81%|########  | 240/298 [00:03<00:00, 60.96it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  83%|########2 | 247/298 [00:04<00:00, 57.47it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  86%|########5 | 255/298 [00:04<00:00, 61.75it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  88%|########8 | 263/298 [00:04<00:00, 64.05it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  91%|######### | 271/298 [00:04<00:00, 67.14it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  93%|#########3| 278/298 [00:04<00:00, 67.47it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  96%|#########5| 285/298 [00:04<00:00, 63.33it/s]Animation 123: FadeIn(VGroup of 2 submobjects):  98%|#########8| 293/298 [00:04<00:00, 65.02it/s]                                                                                                 [09/28/26 15:58:31] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2312367881_26                         
+                             61256693.mp4'                                     
+Animation 124: FadeIn(VGroup of 2 submobjects):   0%|          | 0/234 [00:00<?, ?it/s]Animation 124: FadeIn(VGroup of 2 submobjects):   5%|4         | 11/234 [00:00<00:02, 100.56it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  10%|9         | 23/234 [00:00<00:01, 109.94it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  15%|#5        | 36/234 [00:00<00:01, 117.39it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  21%|##        | 49/234 [00:00<00:01, 120.82it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  26%|##6       | 62/234 [00:00<00:01, 114.38it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  32%|###1      | 74/234 [00:00<00:01, 115.85it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  37%|###6      | 86/234 [00:00<00:01, 116.40it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  42%|####1     | 98/234 [00:00<00:01, 116.67it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  47%|####7     | 110/234 [00:00<00:01, 116.61it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  53%|#####2    | 123/234 [00:01<00:00, 118.68it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  58%|#####7    | 135/234 [00:01<00:00, 115.69it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  63%|######2   | 147/234 [00:01<00:00, 112.33it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  68%|######7   | 159/234 [00:01<00:00, 113.95it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 171/234 [00:01<00:00, 112.00it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  78%|#######8  | 183/234 [00:01<00:00, 105.77it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  83%|########2 | 194/234 [00:01<00:00, 106.03it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  88%|########8 | 206/234 [00:01<00:00, 107.87it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  93%|#########2| 217/234 [00:01<00:00, 105.35it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  98%|#########7| 229/234 [00:02<00:00, 109.35it/s]                                                                                                  [09/28/26 15:58:34] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4253594182_65                         
+                             7013518.mp4'                                      
+Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:   0%|          | 0/119 [00:00<?, ?it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  12%|#1        | 14/119 [00:00<00:00, 137.85it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  24%|##3       | 28/119 [00:00<00:00, 113.67it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  35%|###5      | 42/119 [00:00<00:00, 120.62it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  46%|####6     | 55/119 [00:00<00:00, 121.49it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  57%|#####7    | 68/119 [00:00<00:00, 122.50it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  68%|######8   | 81/119 [00:00<00:00, 111.50it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  79%|#######8  | 94/119 [00:00<00:00, 113.35it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.:  89%|########9 | 106/119 [00:00<00:00, 114.73it/s]Animation 125: FadeIn(Text('Keep the equality true. Isolate the unknown.')), etc.: 100%|##########| 119/119 [00:01<00:00, 118.36it/s]                                                                                                                                     [09/28/26 15:58:36] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2009442816_40                         
+                             45951918.mp4'                                     
+Animation 126: Circumscribe(Group):   0%|          | 0/15 [00:00<?, ?it/s]                                                                          [09/28/26 15:58:37] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2940368179_12                         
+                             88477705.mp4'                                     
+Animation 127: FadeOut(VGroup of 3 submobjects):   0%|          | 0/43 [00:00<?, ?it/s]Animation 127: FadeOut(VGroup of 3 submobjects):   7%|6         | 3/43 [00:00<00:01, 23.83it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  14%|#3        | 6/43 [00:00<00:02, 17.57it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  21%|##        | 9/43 [00:00<00:01, 18.33it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  28%|##7       | 12/43 [00:00<00:01, 19.37it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  33%|###2      | 14/43 [00:00<00:01, 18.64it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  37%|###7      | 16/43 [00:00<00:01, 17.97it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  44%|####4     | 19/43 [00:01<00:01, 18.82it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  51%|#####1    | 22/43 [00:01<00:01, 20.47it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  58%|#####8    | 25/43 [00:01<00:00, 21.15it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  65%|######5   | 28/43 [00:01<00:00, 22.66it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  72%|#######2  | 31/43 [00:01<00:00, 21.80it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  79%|#######9  | 34/43 [00:01<00:00, 22.37it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  86%|########6 | 37/43 [00:01<00:00, 21.22it/s]Animation 127: FadeOut(VGroup of 3 submobjects):  93%|#########3| 40/43 [00:01<00:00, 22.62it/s]Animation 127: FadeOut(VGroup of 3 submobjects): 100%|##########| 43/43 [00:02<00:00, 21.62it/s]                                                                                                [09/28/26 15:58:41] INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2987228956_26                         
+                             5055214.mp4'                                      
+Animation 128: Write(Text('Thank You for Watching!')):   0%|          | 0/99 [00:00<?, ?it/s]Animation 128: Write(Text('Thank You for Watching!')):  21%|##1       | 21/99 [00:00<00:00, 205.36it/s]Animation 128: Write(Text('Thank You for Watching!')):  42%|####2     | 42/99 [00:00<00:00, 193.55it/s]Animation 128: Write(Text('Thank You for Watching!')):  63%|######2   | 62/99 [00:00<00:00, 179.02it/s]Animation 128: Write(Text('Thank You for Watching!')):  82%|########1 | 81/99 [00:00<00:00, 172.65it/s]Animation 128: Write(Text('Thank You for Watching!')): 100%|##########| 99/99 [00:00<00:00, 157.80it/s]                                                                                                       [09/28/26 15:58:42] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2125058052_10                         
+                             62769447.mp4'                                     
+Animation 129: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                                   [09/28/26 15:58:43] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_4222213401_30                         
+                             29222092.mp4'                                     
+Animation 130: Circumscribe(Group):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_2715275022_40                         
+                             45379472.mp4'                                     
+                    INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ana                         
+                             tomy-of-an-Equation-LHS-R                         
+                             HS-Transposition\media\vi                         
+                             deos\equation_anatomy_sto                         
+                             ry\360p30\partial_movie_f                         
+                             iles\EquationAnatomyStory                         
+                             \1490007039_499328632_283                         
+                             4422393.mp4'                                      
+[real SRT written] D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Anatomy-of-an-Equation-LHS-RHS-Transposition\media\videos\equation_anatomy_story\EquationAnatomyStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[09/28/26 15:58:57] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\Manim-Short-Videos\S                          
+                             tory-Mode-Manim-Videos\A                          
+                             natomy-of-an-Equation-LH                          
+                             S-RHS-Transposition\medi                          
+                             a\videos\equation_anatom                          
+                             y_story\360p30\EquationA                          
+                             natomyStory.mp4'                                  
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 33                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered EquationAnatomyStory         scene.py:290
+                             Played 132 animations                             

@@ -1,0 +1,383 @@
+1
+00:00:00,360 --> 00:00:03,580
+A transversal cutting two parallel lines makes eight angles.
+
+2
+00:00:03,580 --> 00:00:06,384
+Those eight angles are linked by six relationships, and
+
+3
+00:00:06,384 --> 00:00:10,251
+those relationships turn a diagram into an equation.
+
+4
+00:00:10,900 --> 00:00:12,691
+Two lines in the same plane that never meet
+
+5
+00:00:12,691 --> 00:00:16,393
+are called parallel lines. Here they are, with the
+
+6
+00:00:16,393 --> 00:00:18,740
+same arrow mark on each. A line that cuts
+
+7
+00:00:18,740 --> 00:00:22,505
+across them is called a transversal. It crosses both
+
+8
+00:00:22,505 --> 00:00:25,400
+parallel lines and makes eight angles, four at each
+
+9
+00:00:25,400 --> 00:00:29,051
+crossing. The whole lesson lives in that one figure.
+
+10
+00:00:29,860 --> 00:00:32,524
+At each crossing there are four angles, so the
+
+11
+00:00:32,524 --> 00:00:35,270
+figure has eight angles in all. We number them
+
+12
+00:00:35,270 --> 00:00:39,200
+from one to eight, going around each crossing. Angles
+
+13
+00:00:39,200 --> 00:00:42,420
+three, four, five and six lie between the two
+
+14
+00:00:42,420 --> 00:00:47,020
+parallel lines: these are the interior angles. Angles one,
+
+15
+00:00:47,020 --> 00:00:50,420
+two, seven and eight lie outside the lines: these
+
+16
+00:00:50,420 --> 00:00:52,371
+are the exterior angles.
+
+17
+00:00:52,913 --> 00:00:56,510
+Start at the upper crossing. Angles one and four
+
+18
+00:00:56,510 --> 00:01:00,370
+are vertically opposite, so they are equal. Angles one
+
+19
+00:01:00,370 --> 00:01:01,829
+and two lie side by side on the straight
+
+20
+00:01:01,829 --> 00:01:03,791
+line, so they form a linear pair and add
+
+21
+00:01:03,791 --> 00:01:06,745
+up to one hundred and eighty degrees. The same
+
+22
+00:01:06,745 --> 00:01:08,424
+is true at the lower crossing.
+
+23
+00:01:09,027 --> 00:01:12,237
+Corresponding angles sit in the same position at the
+
+24
+00:01:12,237 --> 00:01:14,716
+two crossings. Angle one and angle five are both
+
+25
+00:01:14,716 --> 00:01:18,767
+at the top left, so they correspond, and they
+
+26
+00:01:18,767 --> 00:01:21,087
+are equal. Angle two and angle six are both
+
+27
+00:01:21,087 --> 00:01:23,835
+at the top right, so they are equal as
+
+28
+00:01:23,835 --> 00:01:25,721
+well. In the same way, angle three equals angle
+
+29
+00:01:25,721 --> 00:01:28,458
+seven, and angle four equals angle eight.
+
+30
+00:01:29,060 --> 00:01:32,473
+Now look between the parallel lines. Angles four and
+
+31
+00:01:32,473 --> 00:01:36,245
+five are on opposite sides of the transversal, so
+
+32
+00:01:36,245 --> 00:01:40,150
+they are alternate interior angles, and they are equal.
+
+33
+00:01:40,150 --> 00:01:42,695
+Angles three and six are the other alternate interior
+
+34
+00:01:42,695 --> 00:01:46,769
+pair, and they are equal too. Alternate interior angles
+
+35
+00:01:46,769 --> 00:01:49,531
+are always equal when the lines are parallel.
+
+36
+00:01:50,147 --> 00:01:54,224
+One pair of interior angles behaves differently. Angles three
+
+37
+00:01:54,224 --> 00:01:55,807
+and five are on the same side of the
+
+38
+00:01:55,807 --> 00:02:00,877
+transversal, between the parallel lines. Because the lines are
+
+39
+00:02:00,877 --> 00:02:03,314
+parallel, these same-side interior angles add up to one
+
+40
+00:02:03,314 --> 00:02:06,230
+hundred and eighty degrees. Angles four and six are
+
+41
+00:02:06,230 --> 00:02:08,673
+the other such pair, and they also add up
+
+42
+00:02:08,673 --> 00:02:10,598
+to one hundred and eighty degrees.
+
+43
+00:02:11,230 --> 00:02:14,771
+The exterior angles have their own two rules. Angles
+
+44
+00:02:14,771 --> 00:02:17,310
+two and seven are on opposite sides of the
+
+45
+00:02:17,310 --> 00:02:22,470
+transversal, outside the parallel lines: they are alternate exterior
+
+46
+00:02:22,470 --> 00:02:25,418
+angles, and they are equal. Angles one and eight
+
+47
+00:02:25,418 --> 00:02:30,099
+are the other alternate exterior pair, and they are
+
+48
+00:02:30,099 --> 00:02:32,493
+equal too. Angles one and seven are on the
+
+49
+00:02:32,493 --> 00:02:35,581
+same side, so they are same-side exterior angles, and
+
+50
+00:02:35,581 --> 00:02:38,346
+they add up to one hundred and eighty degrees.
+
+51
+00:02:38,346 --> 00:02:40,610
+Angles two and eight do the same, so both
+
+52
+00:02:40,610 --> 00:02:42,201
+exterior rules are now in place.
+
+53
+00:02:42,655 --> 00:02:45,202
+This is why the rules matter: every one of
+
+54
+00:02:45,202 --> 00:02:48,675
+them turns a diagram into an equation. Step one:
+
+55
+00:02:48,675 --> 00:02:52,003
+identify the pair. Angles three and five are same-side
+
+56
+00:02:52,003 --> 00:02:54,506
+interior angles, so they add up to one hundred
+
+57
+00:02:54,506 --> 00:02:58,355
+and eighty degrees. Step two: read the measures off
+
+58
+00:02:58,355 --> 00:03:01,329
+the diagram: three x plus twenty, and five x
+
+59
+00:03:01,329 --> 00:03:05,575
+minus eight. Step three: form the equation. Eight x
+
+60
+00:03:05,575 --> 00:03:08,106
+plus twelve equals one hundred and eighty, so eight
+
+61
+00:03:08,106 --> 00:03:10,995
+x is one hundred and sixty-eight. Step four: solve,
+
+62
+00:03:10,995 --> 00:03:15,822
+and x is twenty-one. Step five: interpret. The angles
+
+63
+00:03:15,822 --> 00:03:18,465
+are eighty-three degrees and ninety-seven degrees, and they do
+
+64
+00:03:18,465 --> 00:03:20,146
+add up to one hundred and eighty.
+
+65
+00:03:20,768 --> 00:03:23,019
+Let us use a second pair. These two angles
+
+66
+00:03:23,019 --> 00:03:25,301
+are in the same position at the two crossings,
+
+67
+00:03:25,301 --> 00:03:28,706
+so they are corresponding angles, and corresponding angles are
+
+68
+00:03:28,706 --> 00:03:30,992
+equal. The diagram gives them as five x, and
+
+69
+00:03:30,992 --> 00:03:34,318
+two x plus twenty-four. Equal angles give an equation:
+
+70
+00:03:34,318 --> 00:03:38,848
+five x equals two x plus twenty-four. Subtracting two
+
+71
+00:03:38,848 --> 00:03:40,957
+x from both sides leaves three x equals twenty-four.
+
+72
+00:03:40,957 --> 00:03:44,371
+So x is eight. Both angles are forty degrees,
+
+73
+00:03:44,371 --> 00:03:48,079
+which is exactly what equal angles should be.
+
+74
+00:03:48,565 --> 00:03:52,117
+Your turn. Four quick checks. First: this pair sit
+
+75
+00:03:52,117 --> 00:03:54,705
+in the same position at the two crossings. Are
+
+76
+00:03:54,705 --> 00:03:56,598
+they equal, or do they add up to one
+
+77
+00:03:56,598 --> 00:03:59,903
+hundred and eighty? Second: this pair lie between the
+
+78
+00:03:59,903 --> 00:04:04,475
+parallel lines, on opposite sides of the transversal. Third:
+
+79
+00:04:04,475 --> 00:04:06,845
+this pair lie between the lines, on the same
+
+80
+00:04:06,845 --> 00:04:09,383
+side. And last of all: two corresponding angles are
+
+81
+00:04:09,383 --> 00:04:12,696
+two x plus ten and three x minus thirty. Find x.
+
+82
+00:04:23,631 --> 00:04:25,740
+The first pair are corresponding angles, so they are
+
+83
+00:04:25,740 --> 00:04:29,701
+equal. The second pair are alternate interior angles, so
+
+84
+00:04:29,701 --> 00:04:32,189
+they are equal as well. The third pair are
+
+85
+00:04:32,189 --> 00:04:35,123
+same-side interior angles, so they add up to one
+
+86
+00:04:35,123 --> 00:04:39,411
+hundred and eighty degrees. And for the last one:
+
+87
+00:04:39,411 --> 00:04:41,869
+two x plus ten equals three x minus thirty,
+
+88
+00:04:41,869 --> 00:04:44,362
+so x is forty, and each angle is ninety degrees.
+
+89
+00:04:44,995 --> 00:04:48,280
+One last look at all six relationships. Corresponding angles
+
+90
+00:04:48,280 --> 00:04:51,660
+are equal, alternate interior angles are equal, and so
+
+91
+00:04:51,660 --> 00:04:56,735
+are alternate exterior angles. Vertically opposite angles are equal
+
+92
+00:04:56,735 --> 00:05:00,048
+too. Same-side interior angles add up to one hundred
+
+93
+00:05:00,048 --> 00:05:03,752
+and eighty degrees, and same-side exterior angles do the
+
+94
+00:05:03,752 --> 00:05:07,328
+same. Geometry gives the rule, and the equation finds
+
+95
+00:05:07,328 --> 00:05:09,504
+x. Thank you for watching, and see you in
+
+96
+00:05:09,504 --> 00:05:10,606
+the next lesson.

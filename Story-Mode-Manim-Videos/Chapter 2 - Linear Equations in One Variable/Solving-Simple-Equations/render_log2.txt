@@ -1,0 +1,947 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/29/26 11:01:52] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: Write(Text('Solving Simple Linear Equations')):   0%|          | 0/77 [00:00<?, ?it/s]Animation 0: Write(Text('Solving Simple Linear Equations')):  23%|##3       | 18/77 [00:00<00:00, 178.22it/s]Animation 0: Write(Text('Solving Simple Linear Equations')):  52%|#####1    | 40/77 [00:00<00:00, 198.94it/s]Animation 0: Write(Text('Solving Simple Linear Equations')):  78%|#######7  | 60/77 [00:00<00:00, 181.38it/s]                                                                                                             [09/29/26 11:01:54] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1583504468_1                         
+                             804439275_2067705174.mp4'                         
+Animation 1: Write(Text('Undo to find the unknown')), etc.:   0%|          | 0/140 [00:00<?, ?it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  16%|#5        | 22/140 [00:00<00:00, 219.70it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  31%|###1      | 44/140 [00:00<00:00, 210.43it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  47%|####7     | 66/140 [00:00<00:00, 182.84it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  61%|######    | 85/140 [00:00<00:00, 167.77it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  74%|#######3  | 103/140 [00:00<00:00, 164.21it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  86%|########5 | 120/140 [00:00<00:00, 163.89it/s]Animation 1: Write(Text('Undo to find the unknown')), etc.:  98%|#########7| 137/140 [00:00<00:00, 165.60it/s]                                                                                                              [09/29/26 11:01:55] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             204453659_1694522446.mp4'                         
+Animation 2: FadeIn(Text('What number went in?')):   0%|          | 0/81 [00:00<?, ?it/s]Animation 2: FadeIn(Text('What number went in?')):  47%|####6     | 38/81 [00:00<00:00, 374.80it/s]Animation 2: FadeIn(Text('What number went in?')):  94%|#########3| 76/81 [00:00<00:00, 301.92it/s]                                                                                                   [09/29/26 11:01:56] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             792419171_1483196899.mp4'                         
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             197081273_2192017928.mp4'                         
+Animation 4: FadeIn(Text('A number goes into the machine...')):   0%|          | 0/22 [00:00<?, ?it/s]                                                                                                      [09/29/26 11:01:57] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             587159589_2067705174.mp4'                         
+Animation 5: FadeIn(VGroup of 2 submobjects):   0%|          | 0/33 [00:00<?, ?it/s]                                                                                                        INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             34137682_358829423.mp4'                           
+Animation 6: GrowArrow(Arrow), etc.:   0%|          | 0/60 [00:00<?, ?it/s]                                                                                               INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             509256378_4160546465.mp4'                         
+Animation 7: GrowArrow(Arrow), etc.:   0%|          | 0/45 [00:00<?, ?it/s]                                                                           [09/29/26 11:01:58] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_4                         
+                             074924500_630520107.mp4'                          
+Animation 8: GrowArrow(Arrow), etc.:   0%|          | 0/55 [00:00<?, ?it/s]                                                                                               INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_5                         
+                             27127647_1127700500.mp4'                          
+Animation 9: FadeIn(Text('What number went in?')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 9: FadeIn(Text('What number went in?')):  29%|##8       | 26/90 [00:00<00:00, 258.44it/s]Animation 9: FadeIn(Text('What number went in?')):  58%|#####7    | 52/90 [00:00<00:00, 243.93it/s]Animation 9: FadeIn(Text('What number went in?')):  86%|########5 | 77/90 [00:00<00:00, 224.10it/s]                                                                                                   [09/29/26 11:01:59] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             704503071_1155760956.mp4'                         
+Animation 10: ReplacementTransform(MathTex('?')):   0%|          | 0/134 [00:00<?, ?it/s]Animation 10: ReplacementTransform(MathTex('?')):  17%|#7        | 23/134 [00:00<00:00, 224.56it/s]Animation 10: ReplacementTransform(MathTex('?')):  34%|###4      | 46/134 [00:00<00:00, 203.20it/s]Animation 10: ReplacementTransform(MathTex('?')):  50%|#####     | 67/134 [00:00<00:00, 202.48it/s]Animation 10: ReplacementTransform(MathTex('?')):  66%|######5   | 88/134 [00:00<00:00, 180.13it/s]Animation 10: ReplacementTransform(MathTex('?')):  82%|########2 | 110/134 [00:00<00:00, 190.57it/s]Animation 10: ReplacementTransform(MathTex('?')):  98%|#########7| 131/134 [00:00<00:00, 195.46it/s]                                                                                                    [09/29/26 11:02:00] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_8                         
+                             00804281_3646739246.mp4'                          
+Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:   0%|          | 0/78 [00:00<?, ?it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  10%|#         | 8/78 [00:00<00:00, 73.05it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  21%|##        | 16/78 [00:00<00:00, 69.57it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  29%|##9       | 23/78 [00:00<00:00, 67.64it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  40%|###9      | 31/78 [00:00<00:00, 70.05it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  50%|#####     | 39/78 [00:00<00:00, 72.94it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  62%|######1   | 48/78 [00:00<00:00, 77.38it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  72%|#######1  | 56/78 [00:00<00:00, 77.71it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  85%|########4 | 66/78 [00:00<00:00, 84.49it/s]Animation 11: FadeIn(MathTex('x \\rightarrow 3x \\rightarrow 3x+1 \\rightarrow 16')), etc.:  97%|#########7| 76/78 [00:00<00:00, 89.09it/s]                                                                                                                                           [09/29/26 11:02:01] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             888065184_1471008922.mp4'                         
+                    INFO     Animation 12 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4108498840_3003497                     
+                             018)                                              
+Animation 12: TransformMatchingTex(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                          INFO     Animation 13 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_4238187                     
+                             034)                                              
+Animation 14: Write(Text('Undo in Reverse Order')), etc.:   0%|          | 0/28 [00:00<?, ?it/s]Animation 14: Write(Text('Undo in Reverse Order')), etc.:  54%|#####3    | 15/28 [00:00<00:00, 146.53it/s]                                                                                                          [09/29/26 11:02:02] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             202909298_2067705174.mp4'                         
+Animation 15: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/17 [00:00<?, ?it/s]                                                                                           [09/29/26 11:02:03] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_4                         
+                             100019816_1822018093.mp4'                         
+Animation 16: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]                                                                                                               INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             517512639_4241279869.mp4'                         
+Animation 17: Circumscribe(Group), etc.:   0%|          | 0/133 [00:00<?, ?it/s]Animation 17: Circumscribe(Group), etc.:  73%|#######2  | 97/133 [00:00<00:00, 967.53it/s]                                                                                          [09/29/26 11:02:04] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_5                         
+                             15481251_597200570.mp4'                           
+Animation 18: FadeIn(MathTex('16 - 1 \\;=\\; 15')):   0%|          | 0/132 [00:00<?, ?it/s]Animation 18: FadeIn(MathTex('16 - 1 \\;=\\; 15')):  31%|###1      | 41/132 [00:00<00:00, 408.63it/s]Animation 18: FadeIn(MathTex('16 - 1 \\;=\\; 15')):  69%|######8   | 91/132 [00:00<00:00, 458.62it/s]                                                                                                                         INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             491224433_824211764.mp4'                          
+Animation 19: Circumscribe(Group), etc.:   0%|          | 0/90 [00:00<?, ?it/s]                                                                               [09/29/26 11:02:05] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             638903937_1801479835.mp4'                         
+Animation 20: FadeIn(MathTex('15 \\div 3 \\;=\\; 5')):   0%|          | 0/89 [00:00<?, ?it/s]Animation 20: FadeIn(MathTex('15 \\div 3 \\;=\\; 5')):  45%|####4     | 40/89 [00:00<00:00, 398.10it/s]Animation 20: FadeIn(MathTex('15 \\div 3 \\;=\\; 5')):  99%|#########8| 88/89 [00:00<00:00, 439.15it/s]                                                                                                       [09/29/26 11:02:06] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             538517048_273373648.mp4'                          
+Animation 21: ReplacementTransform(VGroup of 3 submobjects), etc.:   0%|          | 0/55 [00:00<?, ?it/s]Animation 21: ReplacementTransform(VGroup of 3 submobjects), etc.:  44%|####3     | 24/55 [00:00<00:00, 239.05it/s]Animation 21: ReplacementTransform(VGroup of 3 submobjects), etc.:  87%|########7 | 48/55 [00:00<00:00, 222.13it/s]                                                                                                                                       INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_4                         
+                             051474672_827243984.mp4'                          
+                    INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             197081273_93770186.mp4'                           
+[09/29/26 11:02:07] INFO     Animation 23 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3820434815_2067705                     
+                             174)                                              
+Animation 23: Write(Text('Solve = Isolate the Variable')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                Animation 24: Write(MathTex('3x+1 \\;=\\; 16')):   0%|          | 0/73 [00:00<?, ?it/s]Animation 24: Write(MathTex('3x+1 \\;=\\; 16')):  68%|######8   | 50/73 [00:00<00:00, 498.82it/s]                                                                                                                     INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             7641800_4029006323.mp4'                           
+Animation 25: FadeIn(Text('Goal: isolate x')), etc.:   0%|          | 0/114 [00:00<?, ?it/s]Animation 25: FadeIn(Text('Goal: isolate x')), etc.:  37%|###6      | 42/114 [00:00<00:00, 410.56it/s]Animation 25: FadeIn(Text('Goal: isolate x')), etc.:  74%|#######3  | 84/114 [00:00<00:00, 320.91it/s]                                                                                                      [09/29/26 11:02:08] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             404464736_3459167906.mp4'                         
+Animation 26: Create(SurroundingRectangle), etc.:   0%|          | 0/188 [00:00<?, ?it/s]Animation 26: Create(SurroundingRectangle), etc.:  11%|#         | 20/188 [00:00<00:00, 187.63it/s]Animation 26: Create(SurroundingRectangle), etc.:  21%|##        | 39/188 [00:00<00:00, 160.21it/s]Animation 26: Create(SurroundingRectangle), etc.:  30%|##9       | 56/188 [00:00<00:01, 128.37it/s]Animation 26: Create(SurroundingRectangle), etc.:  37%|###7      | 70/188 [00:00<00:00, 122.43it/s]Animation 26: Create(SurroundingRectangle), etc.:  45%|####5     | 85/188 [00:00<00:00, 129.92it/s]Animation 26: Create(SurroundingRectangle), etc.:  56%|#####6    | 106/188 [00:00<00:00, 151.72it/s]Animation 26: Create(SurroundingRectangle), etc.:  65%|######4   | 122/188 [00:00<00:00, 146.32it/s]Animation 26: Create(SurroundingRectangle), etc.:  73%|#######2  | 137/188 [00:00<00:00, 134.03it/s]Animation 26: Create(SurroundingRectangle), etc.:  80%|########  | 151/188 [00:01<00:00, 134.63it/s]Animation 26: Create(SurroundingRectangle), etc.:  88%|########7 | 165/188 [00:01<00:00, 131.06it/s]Animation 26: Create(SurroundingRectangle), etc.:  95%|#########5| 179/188 [00:01<00:00, 122.58it/s]                                                                                                    [09/29/26 11:02:10] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             159589261_740738565.mp4'                          
+Animation 27: Create(SurroundingRectangle), etc.:   0%|          | 0/110 [00:00<?, ?it/s]Animation 27: Create(SurroundingRectangle), etc.:  24%|##3       | 26/110 [00:00<00:00, 259.35it/s]Animation 27: Create(SurroundingRectangle), etc.:  48%|####8     | 53/110 [00:00<00:00, 264.45it/s]Animation 27: Create(SurroundingRectangle), etc.:  73%|#######2  | 80/110 [00:00<00:00, 241.94it/s]Animation 27: Create(SurroundingRectangle), etc.:  95%|#########5| 105/110 [00:00<00:00, 224.54it/s]                                                                                                    [09/29/26 11:02:11] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             661478035_1193195769.mp4'                         
+Animation 28: Indicate(SurroundingRectangle):   0%|          | 0/73 [00:00<?, ?it/s]Animation 28: Indicate(SurroundingRectangle):  53%|#####3    | 39/73 [00:00<00:00, 383.32it/s]                                                                                              [09/29/26 11:02:12] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             152153874_4114296446.mp4'                         
+                    INFO     Animation 29 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_1359317                     
+                             197)                                              
+                    INFO     Animation 30 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_908834076_20677051                     
+                             74)                                               
+Animation 30: Write(Text('Step 1: Undo the +1')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                       Animation 31: Write(MathTex('3x+1 \\;=\\; 16')), etc.:   0%|          | 0/53 [00:00<?, ?it/s]Animation 31: Write(MathTex('3x+1 \\;=\\; 16')), etc.:  38%|###7      | 20/53 [00:00<00:00, 197.88it/s]Animation 31: Write(MathTex('3x+1 \\;=\\; 16')), etc.:  77%|#######7  | 41/53 [00:00<00:00, 204.93it/s]                                                                                                       [09/29/26 11:02:13] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             212780318_2145382725.mp4'                         
+Animation 32: Create(SurroundingRectangle):   0%|          | 0/73 [00:00<?, ?it/s]                                                                                  [09/29/26 11:02:14] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             407749993_2646859348.mp4'                         
+Animation 33: _MethodAnimation(MathTex('+1')), etc.:   0%|          | 0/59 [00:00<?, ?it/s]Animation 33: _MethodAnimation(MathTex('+1')), etc.:  90%|########9 | 53/59 [00:00<00:00, 514.89it/s]                                                                                                     [09/29/26 11:02:15] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             71157144_2815475028.mp4'                          
+                    INFO     Animation 34 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_992461974_36099127                     
+                             61)                                               
+Animation 34: ReplacementTransform(MathTex('+1')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                              Animation 35: _MethodAnimation(MathTex('-1')), etc.:   0%|          | 0/185 [00:00<?, ?it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:   9%|8         | 16/185 [00:00<00:01, 148.15it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  17%|#6        | 31/185 [00:00<00:01, 148.81it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  27%|##7       | 50/185 [00:00<00:00, 163.66it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  36%|###6      | 67/185 [00:00<00:00, 164.11it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  45%|####5     | 84/185 [00:00<00:00, 159.22it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  55%|#####4    | 101/185 [00:00<00:00, 161.36it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  64%|######3   | 118/185 [00:00<00:00, 162.35it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  73%|#######2  | 135/185 [00:00<00:00, 151.47it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  82%|########1 | 151/185 [00:00<00:00, 149.81it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  90%|######### | 167/185 [00:01<00:00, 145.95it/s]Animation 35: _MethodAnimation(MathTex('-1')), etc.:  98%|#########8| 182/185 [00:01<00:00, 146.32it/s]                                                                                                       [09/29/26 11:02:17] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             439197199_1799045617.mp4'                         
+Animation 36: Create(SurroundingRectangle):   0%|          | 0/50 [00:00<?, ?it/s]                                                                                                      INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             821407031_4288692680.mp4'                         
+Animation 37: TransformMatchingTex(Group), etc.:   0%|          | 0/75 [00:00<?, ?it/s]Animation 37: TransformMatchingTex(Group), etc.:  47%|####6     | 35/75 [00:00<00:00, 346.07it/s]Animation 37: TransformMatchingTex(Group), etc.:  93%|#########3| 70/75 [00:00<00:00, 305.83it/s]                                                                                                 [09/29/26 11:02:18] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             649714935_1455761672.mp4'                         
+Animation 38: FadeIn(Text('only the x3 is left')), etc.:   0%|          | 0/69 [00:00<?, ?it/s]Animation 38: FadeIn(Text('only the x3 is left')), etc.:  45%|####4     | 31/69 [00:00<00:00, 304.50it/s]Animation 38: FadeIn(Text('only the x3 is left')), etc.:  90%|########9 | 62/69 [00:00<00:00, 246.92it/s]                                                                                                         [09/29/26 11:02:19] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             564420103_412901698.mp4'                          
+                    INFO     Animation 39 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1894068870_1997578                     
+                             620)                                              
+Animation 39: FadeOut(VGroup of 3 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 40 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_8010130                     
+                             71)                                               
+[09/29/26 11:02:20] INFO     Animation 41 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4230409736_3448996                     
+                             023)                                              
+Animation 41: Write(Text('Step 2: Undo the x3')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                       Animation 42: TransformMatchingTex(Group), etc.:   0%|          | 0/40 [00:00<?, ?it/s]Animation 42: TransformMatchingTex(Group), etc.:  60%|######    | 24/40 [00:00<00:00, 232.74it/s]                                                                                                                     INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_6                         
+                             01219624_3673212771.mp4'                          
+Animation 43: Circumscribe(Group):   0%|          | 0/27 [00:00<?, ?it/s]                                                                         [09/29/26 11:02:21] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             44168671_2382142287.mp4'                          
+Animation 44: _MethodAnimation(MathTex('3')), etc.:   0%|          | 0/64 [00:00<?, ?it/s]Animation 44: _MethodAnimation(MathTex('3')), etc.:  39%|###9      | 25/64 [00:00<00:00, 249.60it/s]Animation 44: _MethodAnimation(MathTex('3')), etc.:  95%|#########5| 61/64 [00:00<00:00, 313.36it/s]                                                                                                                        INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             593680143_1348327814.mp4'                         
+Animation 45: _MethodAnimation(MathTex('3')), etc.:   0%|          | 0/64 [00:00<?, ?it/s]Animation 45: _MethodAnimation(MathTex('3')), etc.:  45%|####5     | 29/64 [00:00<00:00, 282.52it/s]Animation 45: _MethodAnimation(MathTex('3')), etc.:  91%|######### | 58/64 [00:00<00:00, 197.26it/s]                                                                                                    [09/29/26 11:02:22] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             624284997_110512894.mp4'                          
+Animation 46: Indicate(MathTexPart('\\frac{15}{3}')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 46: Indicate(MathTexPart('\\frac{15}{3}')):  77%|#######6  | 69/90 [00:00<00:00, 687.83it/s]                                                                                                      [09/29/26 11:02:23] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             729930969_292049184.mp4'                          
+Animation 47: TransformMatchingTex(Group):   0%|          | 0/73 [00:00<?, ?it/s]Animation 47: TransformMatchingTex(Group):  38%|###8      | 28/73 [00:00<00:00, 277.41it/s]Animation 47: TransformMatchingTex(Group):  81%|########  | 59/73 [00:00<00:00, 291.53it/s]                                                                                                               INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             790639218_3193293693.mp4'                         
+Animation 48: Create(SurroundingRectangle), etc.:   0%|          | 0/187 [00:00<?, ?it/s]Animation 48: Create(SurroundingRectangle), etc.:   9%|8         | 16/187 [00:00<00:01, 158.00it/s]Animation 48: Create(SurroundingRectangle), etc.:  19%|#8        | 35/187 [00:00<00:00, 173.10it/s]Animation 48: Create(SurroundingRectangle), etc.:  29%|##8       | 54/187 [00:00<00:00, 178.28it/s]Animation 48: Create(SurroundingRectangle), etc.:  39%|###8      | 72/187 [00:00<00:00, 174.74it/s]Animation 48: Create(SurroundingRectangle), etc.:  48%|####8     | 90/187 [00:00<00:00, 174.52it/s]Animation 48: Create(SurroundingRectangle), etc.:  58%|#####7    | 108/187 [00:00<00:00, 175.76it/s]Animation 48: Create(SurroundingRectangle), etc.:  67%|######7   | 126/187 [00:00<00:00, 174.13it/s]Animation 48: Create(SurroundingRectangle), etc.:  77%|#######7  | 144/187 [00:00<00:00, 170.05it/s]Animation 48: Create(SurroundingRectangle), etc.:  87%|########6 | 162/187 [00:00<00:00, 172.03it/s]Animation 48: Create(SurroundingRectangle), etc.:  98%|#########7| 183/187 [00:01<00:00, 181.49it/s]                                                                                                    [09/29/26 11:02:25] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_8                         
+                             95667849_1045069048.mp4'                          
+                    INFO     Animation 49 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1210376914_3374784                     
+                             74)                                               
+Animation 49: FadeOut(VGroup of 4 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 50 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_1230913                     
+                             17)                                               
+[09/29/26 11:02:26] INFO     Animation 51 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3743116916_2067705                     
+                             174)                                              
+Animation 51: Write(Text('Check the Solution')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      Animation 52: FadeIn(MathTex('x \\;=\\; 5')), etc.:   0%|          | 0/136 [00:00<?, ?it/s]Animation 52: FadeIn(MathTex('x \\;=\\; 5')), etc.:  18%|#8        | 25/136 [00:00<00:00, 244.47it/s]Animation 52: FadeIn(MathTex('x \\;=\\; 5')), etc.:  37%|###6      | 50/136 [00:00<00:00, 204.58it/s]Animation 52: FadeIn(MathTex('x \\;=\\; 5')), etc.:  53%|#####2    | 72/136 [00:00<00:00, 209.75it/s]Animation 52: FadeIn(MathTex('x \\;=\\; 5')), etc.:  74%|#######3  | 100/136 [00:00<00:00, 234.88it/s]Animation 52: FadeIn(MathTex('x \\;=\\; 5')), etc.:  94%|#########4| 128/136 [00:00<00:00, 248.07it/s]                                                                                                      [09/29/26 11:02:27] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_5                         
+                             26018031_3157296116.mp4'                          
+Animation 53: _MethodAnimation(MathTex('5')):   0%|          | 0/49 [00:00<?, ?it/s]                                                                                                        INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             455815870_3494498954.mp4'                         
+Animation 54: TransformMatchingTex(Group), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 54: TransformMatchingTex(Group), etc.:  44%|####3     | 21/48 [00:00<00:00, 208.41it/s]Animation 54: TransformMatchingTex(Group), etc.:  88%|########7 | 42/48 [00:00<00:00, 171.01it/s]                                                                                                 [09/29/26 11:02:28] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             482683763_2123741877.mp4'                         
+Animation 55: TransformMatchingTex(Group):   0%|          | 0/45 [00:00<?, ?it/s]Animation 55: TransformMatchingTex(Group):  40%|####      | 18/45 [00:00<00:00, 177.06it/s]Animation 55: TransformMatchingTex(Group):  80%|########  | 36/45 [00:00<00:00, 148.61it/s]                                                                                           [09/29/26 11:02:29] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             113664820_4018041514.mp4'                         
+Animation 56: TransformMatchingTex(Group):   0%|          | 0/45 [00:00<?, ?it/s]Animation 56: TransformMatchingTex(Group):  84%|########4 | 38/45 [00:00<00:00, 370.96it/s]                                                                                                               INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             72066045_4018041514.mp4'                          
+Animation 57: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/72 [00:00<?, ?it/s]Animation 57: Create(VGroup of 2 submobjects), etc.:  29%|##9       | 21/72 [00:00<00:00, 209.63it/s]Animation 57: Create(VGroup of 2 submobjects), etc.:  58%|#####8    | 42/72 [00:00<00:00, 167.59it/s]Animation 57: Create(VGroup of 2 submobjects), etc.:  96%|#########5| 69/72 [00:00<00:00, 204.78it/s]                                                                                                     [09/29/26 11:02:30] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             751467769_1349787301.mp4'                         
+                    INFO     Animation 58 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_2900456                     
+                             68)                                               
+[09/29/26 11:02:31] INFO     Animation 59 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3799247856_2067705                     
+                             174)                                              
+Animation 59: Write(Text('The Solving Routine')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                       Animation 60: FadeIn(VGroup of 2 submobjects):   0%|          | 0/129 [00:00<?, ?it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  13%|#3        | 17/129 [00:00<00:00, 167.23it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  26%|##6       | 34/129 [00:00<00:00, 149.07it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  39%|###8      | 50/129 [00:00<00:00, 137.16it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  50%|####9     | 64/129 [00:00<00:00, 115.75it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  60%|#####9    | 77/129 [00:00<00:00, 119.69it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  70%|######9   | 90/129 [00:00<00:00, 119.43it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  81%|########  | 104/129 [00:00<00:00, 124.26it/s]Animation 60: FadeIn(VGroup of 2 submobjects):  91%|#########1| 118/129 [00:00<00:00, 127.77it/s]                                                                                                 [09/29/26 11:02:33] INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             769046120_1192609143.mp4'                         
+Animation 61: FadeIn(VGroup of 2 submobjects):   0%|          | 0/153 [00:00<?, ?it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  12%|#1        | 18/153 [00:00<00:00, 173.84it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  27%|##6       | 41/153 [00:00<00:00, 205.82it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  41%|####      | 62/153 [00:00<00:00, 180.11it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  53%|#####2    | 81/153 [00:00<00:00, 182.66it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  66%|######6   | 101/153 [00:00<00:00, 185.73it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  78%|#######8  | 120/153 [00:00<00:00, 182.23it/s]Animation 61: FadeIn(VGroup of 2 submobjects):  91%|######### | 139/153 [00:00<00:00, 170.86it/s]                                                                                                 [09/29/26 11:02:34] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_8                         
+                             55066560_1928055492.mp4'                          
+Animation 62: FadeIn(VGroup of 2 submobjects):   0%|          | 0/152 [00:00<?, ?it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  20%|#9        | 30/152 [00:00<00:00, 294.84it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  39%|###9      | 60/152 [00:00<00:00, 281.17it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  59%|#####8    | 89/152 [00:00<00:00, 274.37it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  77%|#######6  | 117/152 [00:00<00:00, 268.98it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  95%|#########4| 144/152 [00:00<00:00, 241.22it/s]                                                                                                 [09/29/26 11:02:35] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             597251573_3003906537.mp4'                         
+Animation 63: FadeIn(VGroup of 2 submobjects):   0%|          | 0/186 [00:00<?, ?it/s]Animation 63: FadeIn(VGroup of 2 submobjects):  15%|#5        | 28/186 [00:00<00:00, 274.19it/s]Animation 63: FadeIn(VGroup of 2 submobjects):  30%|###       | 56/186 [00:00<00:00, 221.56it/s]Animation 63: FadeIn(VGroup of 2 submobjects):  45%|####4     | 83/186 [00:00<00:00, 237.32it/s]Animation 63: FadeIn(VGroup of 2 submobjects):  58%|#####8    | 108/186 [00:00<00:00, 232.54it/s]Animation 63: FadeIn(VGroup of 2 submobjects):  71%|#######   | 132/186 [00:00<00:00, 230.29it/s]Animation 63: FadeIn(VGroup of 2 submobjects):  85%|########5 | 159/186 [00:00<00:00, 242.44it/s]Animation 63: FadeIn(VGroup of 2 submobjects): 100%|##########| 186/186 [00:00<00:00, 250.16it/s]                                                                                                 [09/29/26 11:02:36] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_8                         
+                             18603589_1846364576.mp4'                          
+Animation 64: FadeIn(Text('Identify  ->  Undo  ->  Isolate  ->  Check')), etc.:   0%|          | 0/138 [00:00<?, ?it/s]Animation 64: FadeIn(Text('Identify  ->  Undo  ->  Isolate  ->  Check')), etc.:  20%|##        | 28/138 [00:00<00:00, 273.07it/s]Animation 64: FadeIn(Text('Identify  ->  Undo  ->  Isolate  ->  Check')), etc.:  41%|####      | 56/138 [00:00<00:00, 207.97it/s]Animation 64: FadeIn(Text('Identify  ->  Undo  ->  Isolate  ->  Check')), etc.:  57%|#####6    | 78/138 [00:00<00:00, 199.71it/s]Animation 64: FadeIn(Text('Identify  ->  Undo  ->  Isolate  ->  Check')), etc.:  72%|#######1  | 99/138 [00:00<00:00, 194.76it/s]Animation 64: FadeIn(Text('Identify  ->  Undo  ->  Isolate  ->  Check')), etc.:  86%|########6 | 119/138 [00:00<00:00, 187.66it/s]                                                                                                                                  [09/29/26 11:02:38] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             09331479_2311342526.mp4'                          
+                    INFO     Animation 65 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3890893                     
+                             011)                                              
+                    INFO     Animation 66 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1794621648_2067705                     
+                             174)                                              
+Animation 66: Write(Text('From Words to an Equation')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                             Animation 67: FadeIn(VGroup of 3 submobjects):   0%|          | 0/82 [00:00<?, ?it/s]Animation 67: FadeIn(VGroup of 3 submobjects):  16%|#5        | 13/82 [00:00<00:00, 129.24it/s]Animation 67: FadeIn(VGroup of 3 submobjects):  39%|###9      | 32/82 [00:00<00:00, 153.20it/s]Animation 67: FadeIn(VGroup of 3 submobjects):  59%|#####8    | 48/82 [00:00<00:00, 142.51it/s]Animation 67: FadeIn(VGroup of 3 submobjects):  77%|#######6  | 63/82 [00:00<00:00, 137.64it/s]Animation 67: FadeIn(VGroup of 3 submobjects):  94%|#########3| 77/82 [00:00<00:00, 129.77it/s]                                                                                               [09/29/26 11:02:40] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_5                         
+                             53648825_2740952684.mp4'                          
+Animation 68: Write(MathTex('4x-5 \\;=\\; 19')):   0%|          | 0/152 [00:00<?, ?it/s]Animation 68: Write(MathTex('4x-5 \\;=\\; 19')):  39%|###8      | 59/152 [00:00<00:00, 579.36it/s]Animation 68: Write(MathTex('4x-5 \\;=\\; 19')):  77%|#######6  | 117/152 [00:00<00:00, 446.86it/s]                                                                                                                       INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             121155479_859184305.mp4'                          
+Animation 69: Indicate(Text('reduced by five,')), etc.:   0%|          | 0/74 [00:00<?, ?it/s]Animation 69: Indicate(Text('reduced by five,')), etc.:  27%|##7       | 20/74 [00:00<00:00, 197.06it/s]Animation 69: Indicate(Text('reduced by five,')), etc.:  54%|#####4    | 40/74 [00:00<00:00, 141.97it/s]Animation 69: Indicate(Text('reduced by five,')), etc.:  76%|#######5  | 56/74 [00:00<00:00, 131.20it/s]Animation 69: Indicate(Text('reduced by five,')), etc.:  95%|#########4| 70/74 [00:00<00:00, 132.50it/s]                                                                                                        [09/29/26 11:02:41] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             237337210_3114648728.mp4'                         
+Animation 70: TransformMatchingTex(Group):   0%|          | 0/97 [00:00<?, ?it/s]Animation 70: TransformMatchingTex(Group):  47%|####7     | 46/97 [00:00<00:00, 458.12it/s]Animation 70: TransformMatchingTex(Group):  95%|#########4| 92/97 [00:00<00:00, 375.29it/s]                                                                                           [09/29/26 11:02:42] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             000622545_2391448043.mp4'                         
+Animation 71: TransformMatchingTex(Group):   0%|          | 0/96 [00:00<?, ?it/s]Animation 71: TransformMatchingTex(Group):  32%|###2      | 31/96 [00:00<00:00, 299.59it/s]Animation 71: TransformMatchingTex(Group):  64%|######3   | 61/96 [00:00<00:00, 262.15it/s]Animation 71: TransformMatchingTex(Group):  98%|#########7| 94/96 [00:00<00:00, 288.22it/s]                                                                                           [09/29/26 11:02:43] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             761967177_2391448043.mp4'                         
+Animation 72: TransformMatchingTex(Group):   0%|          | 0/55 [00:00<?, ?it/s]Animation 72: TransformMatchingTex(Group):  82%|########1 | 45/55 [00:00<00:00, 431.44it/s]                                                                                                               INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             28255251_2391448043.mp4'                          
+Animation 73: Create(SurroundingRectangle), etc.:   0%|          | 0/54 [00:00<?, ?it/s]Animation 73: Create(SurroundingRectangle), etc.:  63%|######2   | 34/54 [00:00<00:00, 334.22it/s]                                                                                                  [09/29/26 11:02:44] INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             880096641_1926682466.mp4'                         
+                    INFO     Animation 74 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3650290                     
+                             751)                                              
+                    INFO     Animation 75 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2467565809_2067705                     
+                             174)                                              
+Animation 75: Write(Text('YOUR TURN')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                             Animation 76: Write(MathTex('7x-9 \\;=\\; 26')):   0%|          | 0/92 [00:00<?, ?it/s]Animation 76: Write(MathTex('7x-9 \\;=\\; 26')):  58%|#####7    | 53/92 [00:00<00:00, 521.73it/s]                                                                                                 [09/29/26 11:02:45] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             267293399_3363183590.mp4'                         
+Animation 77: FadeIn(Text('Isolate x')):   0%|          | 0/20 [00:00<?, ?it/s]                                                                                                   INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             195181070_2167232165.mp4'                         
+Animation 78: FadeIn(Text('What should you undo first?')):   0%|          | 0/28 [00:00<?, ?it/s]Animation 78: FadeIn(Text('What should you undo first?')): 100%|##########| 28/28 [00:00<00:00, 273.53it/s]                                                                                                           [09/29/26 11:02:46] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_5                         
+                             67756659_4032526992.mp4'                          
+Animation 79: FadeIn(Text('Pause and try it')):   0%|          | 0/104 [00:00<?, ?it/s]Animation 79: FadeIn(Text('Pause and try it')):  43%|####3     | 45/104 [00:00<00:00, 444.46it/s]Animation 79: FadeIn(Text('Pause and try it')):  87%|########6 | 90/104 [00:00<00:00, 338.72it/s]                                                                                                                     INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             452476114_3966873819.mp4'                         
+[09/29/26 11:02:47] INFO     Animation 80 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1684683135_2351046                     
+                             533)                                              
+Animation 80: FadeIn(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                INFO     Animation 81 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2764462208_3210293                     
+                             579)                                              
+Animation 81: ReplacementTransform(Text('10s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                          INFO     Animation 82 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3487265152_3210293                     
+                             579)                                              
+Animation 82: ReplacementTransform(Text('9s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                     [09/29/26 11:02:48] INFO     Animation 83 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_942705152_32102935                     
+                             79)                                               
+Animation 83: ReplacementTransform(Text('8s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 84 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_129582501_32102935                     
+                             79)                                               
+Animation 84: ReplacementTransform(Text('7s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 85 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3669973139_3210293                     
+                             579)                                              
+Animation 85: ReplacementTransform(Text('6s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                     [09/29/26 11:02:49] INFO     Animation 86 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2095799792_3210293                     
+                             579)                                              
+Animation 86: ReplacementTransform(Text('5s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 87 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3153700595_3210293                     
+                             579)                                              
+Animation 87: ReplacementTransform(Text('4s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 88 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4218874578_3210293                     
+                             579)                                              
+Animation 88: ReplacementTransform(Text('3s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                     [09/29/26 11:02:50] INFO     Animation 89 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2098134936_3210293                     
+                             579)                                              
+Animation 89: ReplacementTransform(Text('2s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 90 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2843009625_3210293                     
+                             579)                                              
+Animation 90: ReplacementTransform(Text('1s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                         INFO     Animation 91 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2189426600_1438942                     
+                             131)                                              
+Animation 91: FadeOut(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                             [09/29/26 11:02:51] INFO     Animation 92 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2433953722_1675405                     
+                             60)                                               
+Animation 92: FadeOut(Text('What should you undo first?')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                       Animation 93: Create(SurroundingRectangle), etc.:   0%|          | 0/79 [00:00<?, ?it/s]Animation 93: Create(SurroundingRectangle), etc.:  38%|###7      | 30/79 [00:00<00:00, 280.80it/s]Animation 93: Create(SurroundingRectangle), etc.:  75%|#######4  | 59/79 [00:00<00:00, 273.45it/s]                                                                                                                      INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             630816071_4032526992.mp4'                         
+Animation 94: TransformMatchingTex(Group), etc.:   0%|          | 0/78 [00:00<?, ?it/s]Animation 94: TransformMatchingTex(Group), etc.:  35%|###4      | 27/78 [00:00<00:00, 261.54it/s]Animation 94: TransformMatchingTex(Group), etc.:  69%|######9   | 54/78 [00:00<00:00, 234.55it/s]Animation 94: TransformMatchingTex(Group), etc.: 100%|##########| 78/78 [00:00<00:00, 207.94it/s]                                                                                                 [09/29/26 11:02:52] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             457734965_366694205.mp4'                          
+Animation 95: TransformMatchingTex(Group):   0%|          | 0/69 [00:00<?, ?it/s]Animation 95: TransformMatchingTex(Group):  74%|#######3  | 51/69 [00:00<00:00, 504.36it/s]                                                                                           [09/29/26 11:02:53] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_9                         
+                             66009479_3229405147.mp4'                          
+Animation 96: Create(SurroundingRectangle):   0%|          | 0/38 [00:00<?, ?it/s]                                                                                                      INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_4                         
+                             150770457_1381877934.mp4'                         
+Animation 97: TransformMatchingTex(Group), etc.:   0%|          | 0/88 [00:00<?, ?it/s]Animation 97: TransformMatchingTex(Group), etc.:  39%|###8      | 34/88 [00:00<00:00, 335.85it/s]Animation 97: TransformMatchingTex(Group), etc.:  77%|#######7  | 68/88 [00:00<00:00, 329.26it/s]                                                                                                 [09/29/26 11:02:54] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             488628024_1342706474.mp4'                         
+Animation 98: TransformMatchingTex(Group):   0%|          | 0/93 [00:00<?, ?it/s]Animation 98: TransformMatchingTex(Group):  53%|#####2    | 49/93 [00:00<00:00, 477.92it/s]                                                                                                               INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             250313004_3229405147.mp4'                         
+Animation 99: Create(SurroundingRectangle), etc.:   0%|          | 0/60 [00:00<?, ?it/s]Animation 99: Create(SurroundingRectangle), etc.:  53%|#####3    | 32/60 [00:00<00:00, 301.53it/s]                                                                                                  [09/29/26 11:02:55] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_9                         
+                             60167803_3712271173.mp4'                          
+                    INFO     Animation 100 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3102410                     
+                             321)                                              
+                    INFO     Animation 101 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_246103488_20677051                     
+                             74)                                               
+Animation 101: Write(Text('Undo in Reverse. Isolate x.')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                Animation 102: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/81 [00:00<?, ?it/s]Animation 102: FadeIn(VGroup of 4 submobjects), etc.:  56%|#####5    | 45/81 [00:00<00:00, 443.81it/s]                                                                                                      [09/29/26 11:02:56] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             076434007_1721800344.mp4'                         
+Animation 103: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/112 [00:00<?, ?it/s]Animation 103: FadeIn(VGroup of 4 submobjects), etc.:  33%|###3      | 37/112 [00:00<00:00, 364.09it/s]Animation 103: FadeIn(VGroup of 4 submobjects), etc.:  66%|######6   | 74/112 [00:00<00:00, 334.65it/s]Animation 103: FadeIn(VGroup of 4 submobjects), etc.:  97%|#########7| 109/112 [00:00<00:00, 338.09it/s]                                                                                                        [09/29/26 11:02:57] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_3                         
+                             642654119_4168966802.mp4'                         
+Animation 104: FadeOut(VGroup of 4 submobjects), etc.:   0%|          | 0/75 [00:00<?, ?it/s]Animation 104: FadeOut(VGroup of 4 submobjects), etc.:  28%|##8       | 21/75 [00:00<00:00, 204.03it/s]Animation 104: FadeOut(VGroup of 4 submobjects), etc.:  56%|#####6    | 42/75 [00:00<00:00, 193.49it/s]Animation 104: FadeOut(VGroup of 4 submobjects), etc.:  83%|########2 | 62/75 [00:00<00:00, 162.10it/s]                                                                                                       [09/29/26 11:02:58] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_1                         
+                             427923145_3360853423.mp4'                         
+Animation 105: FadeIn(Text('Undo in reverse. Isolate the unknown.')), etc.:   0%|          | 0/86 [00:00<?, ?it/s]Animation 105: FadeIn(Text('Undo in reverse. Isolate the unknown.')), etc.:  26%|##5       | 22/86 [00:00<00:00, 217.99it/s]Animation 105: FadeIn(Text('Undo in reverse. Isolate the unknown.')), etc.:  51%|#####1    | 44/86 [00:00<00:00, 217.50it/s]Animation 105: FadeIn(Text('Undo in reverse. Isolate the unknown.')), etc.:  77%|#######6  | 66/86 [00:00<00:00, 170.25it/s]Animation 105: FadeIn(Text('Undo in reverse. Isolate the unknown.')), etc.:  98%|#########7| 84/86 [00:00<00:00, 160.95it/s]                                                                                                                                                INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             99313141_2996727707.mp4'                          
+[09/29/26 11:02:59] INFO     Animation 106 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2843280587_1786885                     
+                             406)                                              
+Animation 106: Circumscribe(Group):   0%|          | 0/1 [00:00<?, ?it/s]                                                                         Animation 107: FadeOut(VGroup of 3 submobjects):   0%|          | 0/48 [00:00<?, ?it/s]Animation 107: FadeOut(VGroup of 3 submobjects):  25%|##5       | 12/48 [00:00<00:00, 114.76it/s]Animation 107: FadeOut(VGroup of 3 submobjects):  52%|#####2    | 25/48 [00:00<00:00, 122.37it/s]Animation 107: FadeOut(VGroup of 3 submobjects):  79%|#######9  | 38/48 [00:00<00:00, 117.06it/s]                                                                                                 [09/29/26 11:03:00] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_2                         
+                             820424271_265055214.mp4'                          
+Animation 108: Write(Text('Thank You for Watching!')):   0%|          | 0/111 [00:00<?, ?it/s]Animation 108: Write(Text('Thank You for Watching!')):  16%|#6        | 18/111 [00:00<00:00, 178.35it/s]Animation 108: Write(Text('Thank You for Watching!')):  36%|###6      | 40/111 [00:00<00:00, 199.03it/s]Animation 108: Write(Text('Thank You for Watching!')):  56%|#####5    | 62/111 [00:00<00:00, 206.67it/s]Animation 108: Write(Text('Thank You for Watching!')):  77%|#######6  | 85/111 [00:00<00:00, 212.50it/s]Animation 108: Write(Text('Thank You for Watching!')):  97%|#########7| 108/111 [00:00<00:00, 216.95it/s]                                                                                                         [09/29/26 11:03:01] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Sol                         
+                             ving-Simple-Linear-Equati                         
+                             ons\media\videos\equation                         
+                             _solving_story\360p30\par                         
+                             tial_movie_files\Equation                         
+                             SolvingStory\1490007039_6                         
+                             18008832_1062769447.mp4'                          
+                    INFO     Animation 109 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4222213401_3029222                     
+                             092)                                              
+Animation 109: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                       INFO     Animation 110 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2715275022_4045379                     
+                             472)                                              
+Animation 110: Circumscribe(Group):   0%|          | 0/1 [00:00<?, ?it/s]                                                                         [09/29/26 11:03:02] INFO     Animation 111 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_499328632_28344223                     
+                             93)                                               
+[real SRT written] D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Solving-Simple-Linear-Equations\media\videos\equation_solving_story
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[09/29/26 11:03:12] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+[09/29/26 11:03:13] INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\Manim-Short-Videos\S                          
+                             tory-Mode-Manim-Videos\S                          
+                             olving-Simple-Linear-Equ                          
+                             ations\media\videos\equa                          
+                             tion_solving_story\360p3                          
+                             0\EquationSolvingStory.m                          
+                             p4'                                               
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 76                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered EquationSolvingStory         scene.py:290
+                             Played 112 animations                             
