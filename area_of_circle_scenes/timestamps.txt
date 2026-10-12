@@ -1,0 +1,26 @@
+Area of a Circle — Scene Timestamps
+======================================================================
+
+Beat   Name                Start      End   Duration
+----------------------------------------------------------------------
+1      Greeting          0:00.00  0:11.97    11.97s
+2      Circles Everywhere  0:11.97  0:37.10    25.13s
+3      Title             0:37.10  0:44.10     7.00s
+4      Why Circles Are Hard  0:44.10  1:13.38    29.28s
+5      Three Words       1:13.38  1:35.90    22.52s
+6      Archimedes' Idea  1:35.90  1:52.70    16.80s
+7      Rings             1:52.70  2:21.60    28.90s
+8      The Unroll        2:21.60  2:54.11    32.52s
+9      The Formula       2:54.11  3:18.08    23.97s
+10     Pizza (bonus)     3:18.08  3:38.16    20.08s
+11     Find r            3:38.16  4:02.85    24.68s
+12     Example 1         4:02.85  4:21.81    18.97s
+13     Example 2 (you try)  4:21.81  4:46.21    24.40s
+14     Remember This     4:46.21  5:01.71    15.50s
+15     Thanks!           5:01.71  5:19.65    17.93s
+----------------------------------------------------------------------
+
+Total duration: 5:19.65 (319.65s)
+Total scenes: 15
+
+Individual scene MP4s in: D:\Manim-Short-Videos\area_of_circle_scenes\renders
