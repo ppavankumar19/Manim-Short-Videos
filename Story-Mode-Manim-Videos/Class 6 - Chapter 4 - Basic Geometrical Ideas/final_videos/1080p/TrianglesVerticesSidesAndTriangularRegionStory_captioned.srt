@@ -1,0 +1,251 @@
+1
+00:00:00,520 --> 00:00:03,123
+A triangle has three sides, three vertices and three
+
+2
+00:00:03,123 --> 00:00:06,098
+angles. The three sides are line segments, and together
+
+3
+00:00:06,098 --> 00:00:10,900
+they close the figure. A triangle also separates the
+
+4
+00:00:10,900 --> 00:00:15,171
+plane around it into an interior, a boundary and an exterior.
+
+5
+00:00:15,813 --> 00:00:18,851
+How many sticks do we need to close a
+
+6
+00:00:18,851 --> 00:00:21,865
+figure? One stick cannot close anything: its two ends
+
+7
+00:00:21,865 --> 00:00:25,045
+are far apart. Two sticks make a V, and
+
+8
+00:00:25,045 --> 00:00:27,400
+the two free ends are still open. Add a
+
+9
+00:00:27,400 --> 00:00:31,079
+third stick, and the ends meet. The figure closes.
+
+10
+00:00:31,079 --> 00:00:32,762
+So three is the least number of line segments
+
+11
+00:00:32,762 --> 00:00:34,944
+needed to make a closed figure.
+
+12
+00:00:35,540 --> 00:00:38,934
+The textbook calls this a triangle. A triangle is
+
+13
+00:00:38,934 --> 00:00:42,140
+a simple closed figure formed by three line segments.
+
+14
+00:00:42,140 --> 00:00:45,800
+Simple, because the sides do not cross each other.
+
+15
+00:00:45,800 --> 00:00:48,845
+Closed, because the ends join up. And exactly three
+
+16
+00:00:48,845 --> 00:00:51,431
+line segments: no more, and no fewer.
+
+17
+00:00:52,083 --> 00:00:54,833
+Now let us name the parts. The three line
+
+18
+00:00:54,833 --> 00:00:57,770
+segments are the sides of the triangle: side AB,
+
+19
+00:00:57,770 --> 00:01:01,983
+side BC, and side CA. The three sides together
+
+20
+00:01:01,983 --> 00:01:04,474
+form the boundary of the triangle.
+
+21
+00:01:05,073 --> 00:01:07,253
+The three points where the sides meet are the
+
+22
+00:01:07,253 --> 00:01:10,373
+vertices. Point A is one vertex, point B is
+
+23
+00:01:10,373 --> 00:01:13,373
+the second, and point C is the third. So
+
+24
+00:01:13,373 --> 00:01:15,989
+a vertex is a corner of the triangle, and
+
+25
+00:01:15,989 --> 00:01:17,844
+it is not the same as a side.
+
+26
+00:01:18,460 --> 00:01:21,700
+At every vertex, the two sides of the triangle
+
+27
+00:01:21,700 --> 00:01:26,460
+form an angle. At vertex A we have angle
+
+28
+00:01:26,460 --> 00:01:29,320
+BAC, at vertex B we have angle ABC, and
+
+29
+00:01:29,320 --> 00:01:32,104
+at vertex C we have angle ACB. So the
+
+30
+00:01:32,104 --> 00:01:34,251
+three vertices give three angles.
+
+31
+00:01:34,877 --> 00:01:37,621
+How do we name a triangle? We use its
+
+32
+00:01:37,621 --> 00:01:42,317
+three vertices. Going around the figure in order, A
+
+33
+00:01:42,317 --> 00:01:45,077
+then B then C, gives the name triangle ABC.
+
+34
+00:01:45,077 --> 00:01:48,637
+The same triangle can also be read as triangle
+
+35
+00:01:48,637 --> 00:01:50,108
+BCA or triangle CAB.
+
+36
+00:01:50,867 --> 00:01:54,835
+A triangle divides the plane around it into three
+
+37
+00:01:54,835 --> 00:01:57,230
+parts. Point P lies inside the triangle, so it
+
+38
+00:01:57,230 --> 00:02:00,091
+is in the interior. Point Q lies on one
+
+39
+00:02:00,091 --> 00:02:03,363
+of the sides, so it is on the boundary.
+
+40
+00:02:03,363 --> 00:02:05,567
+Point R lies outside the triangle, so it is
+
+41
+00:02:05,567 --> 00:02:06,918
+in the exterior.
+
+42
+00:02:07,583 --> 00:02:10,623
+Now we can name the whole figure. The boundary
+
+43
+00:02:10,623 --> 00:02:12,975
+of the triangle together with its interior is called
+
+44
+00:02:12,975 --> 00:02:16,309
+the triangular region. So the region is not only
+
+45
+00:02:16,309 --> 00:02:20,374
+the shaded inside: it also includes the three sides themselves.
+
+46
+00:02:21,053 --> 00:02:24,769
+Your turn. Four quick checks. First: name the three
+
+47
+00:02:24,769 --> 00:02:29,069
+sides of triangle PQR. Second: name its three vertices.
+
+48
+00:02:29,069 --> 00:02:32,023
+Third: name the angle at Q. And last of
+
+49
+00:02:32,023 --> 00:02:35,033
+all: point X, point Y and point Z. Which
+
+50
+00:02:35,033 --> 00:02:38,653
+of them is in the interior, which is on
+
+51
+00:02:38,653 --> 00:02:41,384
+the boundary, and which is in the exterior?
+
+52
+00:02:52,303 --> 00:02:55,166
+The three sides of triangle PQR are PQ, QR
+
+53
+00:02:55,166 --> 00:02:59,278
+and RP. Its three vertices are P, Q and
+
+54
+00:02:59,278 --> 00:03:02,983
+R. The angle at Q is angle PQR, because
+
+55
+00:03:02,983 --> 00:03:06,328
+the vertex Q stays in the middle. And point
+
+56
+00:03:06,328 --> 00:03:10,023
+X is in the interior, point Y is on
+
+57
+00:03:10,023 --> 00:03:13,834
+the boundary, and point Z is in the exterior.
+
+58
+00:03:14,320 --> 00:03:16,741
+One last look. A triangle is a simple closed
+
+59
+00:03:16,741 --> 00:03:18,591
+figure made from three line segments. It has three
+
+60
+00:03:18,591 --> 00:03:22,460
+sides, three vertices and three angles. And its boundary
+
+61
+00:03:22,460 --> 00:03:26,795
+together with its interior is the triangular region. Build
+
+62
+00:03:26,795 --> 00:03:30,920
+the triangle, identify its parts, and locate the points.
+
+63
+00:03:30,920 --> 00:03:34,331
+Thank you for watching, and see you in the next lesson.

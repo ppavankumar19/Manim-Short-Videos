@@ -1,0 +1,215 @@
+1
+00:00:00,340 --> 00:00:03,247
+A polygon is the next idea in geometry. It
+
+2
+00:00:03,247 --> 00:00:06,120
+is a simple closed figure made from a definite
+
+3
+00:00:06,120 --> 00:00:09,980
+number of straight line segments. Inside every polygon we
+
+4
+00:00:09,980 --> 00:00:13,211
+find sides, vertices, and diagonals. Let us learn their names.
+
+5
+00:00:13,707 --> 00:00:16,787
+We already know a simple closed curve. But a
+
+6
+00:00:16,787 --> 00:00:18,620
+smooth curve like this is not a polygon. When
+
+7
+00:00:18,620 --> 00:00:22,667
+its boundary becomes straight line segments, the figure is
+
+8
+00:00:22,667 --> 00:00:24,138
+called a polygon.
+
+9
+00:00:24,760 --> 00:00:28,100
+What must a polygon have? It must be made
+
+10
+00:00:28,100 --> 00:00:31,434
+of line segments, it must be closed, and it
+
+11
+00:00:31,434 --> 00:00:35,610
+must not cross itself. Here are three segments, open,
+
+12
+00:00:35,610 --> 00:00:38,483
+so it is not a polygon yet. Join the
+
+13
+00:00:38,483 --> 00:00:41,327
+ends and it closes into a triangle. Three sides
+
+14
+00:00:41,327 --> 00:00:43,631
+is the smallest number that can close.
+
+15
+00:00:44,283 --> 00:00:47,580
+Look at triangle ABC. Its three line segments are
+
+16
+00:00:47,580 --> 00:00:51,019
+its sides. Its three corner points, A, B and
+
+17
+00:00:51,019 --> 00:00:54,840
+C, are its vertices. Each vertex is the place
+
+18
+00:00:54,840 --> 00:00:56,314
+where two sides meet.
+
+19
+00:00:56,947 --> 00:01:01,503
+Now add a fourth vertex and build quadrilateral ABCD.
+
+20
+00:01:01,503 --> 00:01:04,347
+Its four sides are AB, BC, CD, and DA.
+
+21
+00:01:04,347 --> 00:01:09,038
+It has four vertices: A, B, C and D.
+
+22
+00:01:09,720 --> 00:01:12,740
+Some parts are next to each other. Side AB
+
+23
+00:01:12,740 --> 00:01:17,100
+shares vertex B with side BC, and shares vertex
+
+24
+00:01:17,100 --> 00:01:19,752
+A with side DA. So AB is adjacent to
+
+25
+00:01:19,752 --> 00:01:24,220
+BC, and adjacent to DA. Adjacent means next to,
+
+26
+00:01:24,220 --> 00:01:25,251
+sharing a corner.
+
+27
+00:01:25,857 --> 00:01:30,657
+Now look across the quadrilateral. Side CD does not
+
+28
+00:01:30,657 --> 00:01:33,657
+touch side AB, so CD is the side opposite
+
+29
+00:01:33,657 --> 00:01:38,697
+AB. Vertex A and vertex C are opposite vertices,
+
+30
+00:01:38,697 --> 00:01:40,388
+and so are B and D.
+
+31
+00:01:41,090 --> 00:01:44,350
+Join the opposite vertices. The segment from A to
+
+32
+00:01:44,350 --> 00:01:47,390
+C is a diagonal. The segment from B to
+
+33
+00:01:47,390 --> 00:01:52,650
+D is the second diagonal. So quadrilateral ABCD has
+
+34
+00:01:52,650 --> 00:01:55,161
+two diagonals: AC and BD.
+
+35
+00:01:55,857 --> 00:01:58,937
+Do not mix up a side and a diagonal.
+
+36
+00:01:58,937 --> 00:02:02,385
+A side is part of the boundary, like AB.
+
+37
+00:02:02,385 --> 00:02:07,529
+A diagonal joins opposite vertices across the inside, like
+
+38
+00:02:07,529 --> 00:02:11,768
+AC. BC and DA are sides, while BD is a diagonal.
+
+39
+00:02:12,393 --> 00:02:15,493
+Your turn. Four quick checks on quadrilateral PQRS. First,
+
+40
+00:02:15,493 --> 00:02:19,413
+name the four sides. Second, name the sides adjacent
+
+41
+00:02:19,413 --> 00:02:23,853
+to PQ. Third, name the two diagonals. And last
+
+42
+00:02:23,853 --> 00:02:26,784
+of all: is this open chain a polygon?
+
+43
+00:02:38,103 --> 00:02:41,763
+The four sides are PQ, QR, RS, and SP.
+
+44
+00:02:41,763 --> 00:02:45,717
+The sides adjacent to PQ are QR and PS,
+
+45
+00:02:45,717 --> 00:02:50,398
+because they share an endpoint with PQ. The diagonals
+
+46
+00:02:50,398 --> 00:02:53,306
+are PR and QS. And no, the open chain
+
+47
+00:02:53,306 --> 00:02:57,154
+is not a polygon, because it is not closed.
+
+48
+00:02:57,797 --> 00:03:00,769
+One last look. A polygon is a simple closed
+
+49
+00:03:00,769 --> 00:03:04,617
+figure made of line segments. Its boundary segments are
+
+50
+00:03:04,617 --> 00:03:07,480
+its sides, and its corner points are its vertices.
+
+51
+00:03:07,480 --> 00:03:11,353
+Sides that share a vertex are adjacent. And line
+
+52
+00:03:11,353 --> 00:03:15,617
+segments that join opposite vertices are diagonals. Know the
+
+53
+00:03:15,617 --> 00:03:18,502
+parts, and you understand the polygon. Thank you for
+
+54
+00:03:18,502 --> 00:03:20,968
+watching, and see you in the next lesson.

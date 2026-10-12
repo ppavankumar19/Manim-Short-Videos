@@ -1,0 +1,283 @@
+1
+00:00:00,180 --> 00:00:01,854
+An angle is made by two rays that start
+
+2
+00:00:01,854 --> 00:00:04,625
+at the same point. The common point is the
+
+3
+00:00:04,625 --> 00:00:06,907
+vertex, and the two rays are the arms of
+
+4
+00:00:06,907 --> 00:00:10,783
+the angle. An angle also separates the plane into
+
+5
+00:00:10,783 --> 00:00:14,011
+an interior, a boundary and an exterior.
+
+6
+00:00:14,627 --> 00:00:18,167
+We see angles everywhere. Think of a door: as
+
+7
+00:00:18,167 --> 00:00:20,042
+it opens, the space between the door and the
+
+8
+00:00:20,042 --> 00:00:22,127
+frame grows wider. Now think of the hands of
+
+9
+00:00:22,127 --> 00:00:25,807
+a clock: as they move apart, they also make
+
+10
+00:00:25,807 --> 00:00:30,067
+an angle. If we keep only the two directions,
+
+11
+00:00:30,067 --> 00:00:32,178
+we are left with two rays starting at one point.
+
+12
+00:00:32,793 --> 00:00:36,270
+Let us build that angle. Start with a point
+
+13
+00:00:36,270 --> 00:00:39,373
+O, and draw one ray from it, ray OB.
+
+14
+00:00:39,373 --> 00:00:42,361
+Now draw a second ray from the same point
+
+15
+00:00:42,361 --> 00:00:46,073
+O: ray OA. The opening between them is the
+
+16
+00:00:46,073 --> 00:00:47,873
+angle, and we write it as angle AOB. Two
+
+17
+00:00:47,873 --> 00:00:51,824
+rays with a common endpoint make an angle.
+
+18
+00:00:52,507 --> 00:00:56,293
+Every angle has two named parts. The common endpoint
+
+19
+00:00:56,293 --> 00:00:59,978
+is the vertex, so here the vertex is O.
+
+20
+00:00:59,978 --> 00:01:02,047
+The two rays are the arms: ray OA is
+
+21
+00:01:02,047 --> 00:01:04,401
+one arm, and ray OB is the other. The
+
+22
+00:01:04,401 --> 00:01:08,338
+arms are also called the sides of the angle.
+
+23
+00:01:08,980 --> 00:01:12,360
+Now the naming rule. With three letters, the vertex
+
+24
+00:01:12,360 --> 00:01:16,260
+must be the middle letter: angle AOB is correct.
+
+25
+00:01:16,260 --> 00:01:19,680
+Angle BOA is also correct, because O is still
+
+26
+00:01:19,680 --> 00:01:22,513
+in the middle. But angle OAB has A in
+
+27
+00:01:22,513 --> 00:01:25,100
+the middle, and angle ABO has B in the
+
+28
+00:01:25,100 --> 00:01:28,102
+middle. Those are not names of this angle, because
+
+29
+00:01:28,102 --> 00:01:31,351
+the vertex O is not in the middle.
+
+30
+00:01:31,957 --> 00:01:34,506
+Notice that angle AOB and angle BOA name the
+
+31
+00:01:34,506 --> 00:01:37,907
+same angle. Reading the arms in the other order
+
+32
+00:01:37,907 --> 00:01:41,180
+does not change the opening. And when there is
+
+33
+00:01:41,180 --> 00:01:44,063
+only one angle at O, we may name it
+
+34
+00:01:44,063 --> 00:01:45,368
+simply as angle O.
+
+35
+00:01:45,875 --> 00:01:49,135
+An angle divides the plane around it. The region
+
+36
+00:01:49,135 --> 00:01:51,215
+between the two arms is called the interior of
+
+37
+00:01:51,215 --> 00:01:54,473
+the angle. A point X that lies between the
+
+38
+00:01:54,473 --> 00:01:57,435
+arms is in the interior. The interior follows the
+
+39
+00:01:57,435 --> 00:02:00,546
+arms outward, however far they are extended.
+
+40
+00:02:01,175 --> 00:02:03,917
+What about the arms themselves? A point S on
+
+41
+00:02:03,917 --> 00:02:05,830
+one of the arms lies on the angle itself;
+
+42
+00:02:05,830 --> 00:02:09,418
+the arms are its boundary. A point Z outside
+
+43
+00:02:09,418 --> 00:02:12,475
+the opening is in the exterior. So an angle
+
+44
+00:02:12,475 --> 00:02:18,246
+separates the plane into three parts: interior, boundary and exterior.
+
+45
+00:02:18,758 --> 00:02:20,526
+Let us sort three points on one angle. Here
+
+46
+00:02:20,526 --> 00:02:24,318
+is angle PQR, with its vertex at Q. Point
+
+47
+00:02:24,318 --> 00:02:26,976
+N lies on an arm, so it is on
+
+48
+00:02:26,976 --> 00:02:31,238
+the boundary. Point M is between the arms, so
+
+49
+00:02:31,238 --> 00:02:33,798
+it is in the interior, and point T is
+
+50
+00:02:33,798 --> 00:02:36,049
+outside, in the exterior.
+
+51
+00:02:36,550 --> 00:02:40,470
+Your turn. Four quick checks. First: in angle COD,
+
+52
+00:02:40,470 --> 00:02:44,090
+name the vertex and the two arms. Second: this
+
+53
+00:02:44,090 --> 00:02:48,600
+angle has vertex Q. Give two valid three-letter names.
+
+54
+00:02:48,600 --> 00:02:52,016
+Third: point M, point N and point T. And
+
+55
+00:02:52,016 --> 00:02:55,421
+last of all: which of these names is wrong?
+
+56
+00:03:06,323 --> 00:03:09,063
+In angle COD the vertex is O, and the
+
+57
+00:03:09,063 --> 00:03:12,003
+arms are OC and OD. For the second: angle
+
+58
+00:03:12,003 --> 00:03:16,443
+AQB and angle BQA, because the vertex Q stays
+
+59
+00:03:16,443 --> 00:03:20,625
+in the middle. And point M is in the
+
+60
+00:03:20,625 --> 00:03:24,843
+interior, point N is on the boundary, and point
+
+61
+00:03:24,843 --> 00:03:28,427
+T is in the exterior. The wrong name is
+
+62
+00:03:28,427 --> 00:03:32,203
+angle ABO, because its middle letter is B and
+
+63
+00:03:32,203 --> 00:03:33,814
+not the vertex O.
+
+64
+00:03:34,436 --> 00:03:37,412
+One last look. Two rays with a common endpoint
+
+65
+00:03:37,412 --> 00:03:39,976
+make an angle. That common endpoint is the vertex,
+
+66
+00:03:39,976 --> 00:03:42,599
+and the two rays are the arms. When you
+
+67
+00:03:42,599 --> 00:03:45,180
+name an angle with three letters, the vertex goes
+
+68
+00:03:45,180 --> 00:03:48,282
+in the middle. And the angle separates the plane
+
+69
+00:03:48,282 --> 00:03:53,016
+into its interior, its boundary and its exterior. Build,
+
+70
+00:03:53,016 --> 00:03:58,266
+name, locate. Thank you for watching, and see you
+
+71
+00:03:58,266 --> 00:03:59,347
+in the next lesson.

@@ -1,0 +1,323 @@
+1
+00:00:00,260 --> 00:00:04,125
+Geometry begins with the simplest things: a point, a
+
+2
+00:00:04,125 --> 00:00:07,431
+line segment, a line, and a ray. Let us
+
+3
+00:00:07,431 --> 00:00:09,820
+build all four of them from one point, one
+
+4
+00:00:09,820 --> 00:00:11,291
+step at a time.
+
+5
+00:00:11,910 --> 00:00:14,370
+Geometry is all around us: the straight edge of
+
+6
+00:00:14,370 --> 00:00:18,050
+a book, the frame of a television screen, the
+
+7
+00:00:18,050 --> 00:00:22,144
+lines of a rangoli, the shape of a building.
+
+8
+00:00:22,144 --> 00:00:25,250
+But every one of those shapes is built from
+
+9
+00:00:25,250 --> 00:00:28,130
+simpler ideas. A rectangle is made of straight pieces,
+
+10
+00:00:28,130 --> 00:00:30,481
+a rangoli is made of lines and points, and
+
+11
+00:00:30,481 --> 00:00:31,839
+a star in the sky is simply a point
+
+12
+00:00:31,839 --> 00:00:35,603
+very far away. So what is the simplest thing
+
+13
+00:00:35,603 --> 00:00:37,581
+we can draw in geometry?
+
+14
+00:00:38,093 --> 00:00:41,344
+Start with a point. A pencil pressed on paper
+
+15
+00:00:41,344 --> 00:00:43,895
+leaves a dot. Sharpen the pencil and the dot
+
+16
+00:00:43,895 --> 00:00:47,253
+becomes smaller; sharpen it again and again, and the
+
+17
+00:00:47,253 --> 00:00:51,273
+dot becomes smaller and smaller. In geometry we keep
+
+18
+00:00:51,273 --> 00:00:54,053
+the idea and not the ink: a point marks
+
+19
+00:00:54,053 --> 00:00:56,533
+a location, and it has no size at all.
+
+20
+00:00:56,533 --> 00:00:59,193
+We name a point with a capital letter, like
+
+21
+00:00:59,193 --> 00:01:00,264
+A, or B, or C.
+
+22
+00:01:00,817 --> 00:01:04,077
+Now add a second point, B. Join A to
+
+23
+00:01:04,077 --> 00:01:07,802
+B. Many curved paths are possible, but only one
+
+24
+00:01:07,802 --> 00:01:09,939
+of them is straight, and that straight path is
+
+25
+00:01:09,939 --> 00:01:12,892
+the shortest. This is a line segment. It has
+
+26
+00:01:12,892 --> 00:01:15,670
+two endpoints, A and B, and it has a
+
+27
+00:01:15,670 --> 00:01:19,225
+definite length, so a ruler can measure it. We
+
+28
+00:01:19,225 --> 00:01:20,708
+write it as segment AB.
+
+29
+00:01:21,347 --> 00:01:24,063
+Now extend the segment beyond A and beyond B,
+
+30
+00:01:24,063 --> 00:01:27,397
+without stopping. It goes on and on in both
+
+31
+00:01:27,397 --> 00:01:31,325
+directions, so we draw arrowheads at both ends. A
+
+32
+00:01:31,325 --> 00:01:34,008
+and B are not endpoints any more; they are
+
+33
+00:01:34,008 --> 00:01:36,513
+simply points lying on the line. So a line
+
+34
+00:01:36,513 --> 00:01:39,107
+has no endpoints at all, and we may also
+
+35
+00:01:39,107 --> 00:01:41,718
+name it with a small letter, like l.
+
+36
+00:01:42,603 --> 00:01:45,848
+A torch gives us the next idea. Its light
+
+37
+00:01:45,848 --> 00:01:48,511
+starts at one point and spreads in one direction,
+
+38
+00:01:48,511 --> 00:01:52,212
+and it never stops. In geometry that is a
+
+39
+00:01:52,212 --> 00:01:56,236
+ray: it has exactly one endpoint, called the initial
+
+40
+00:01:56,236 --> 00:01:59,451
+point, and it goes on endlessly in one direction.
+
+41
+00:01:59,451 --> 00:02:01,510
+We write it as ray AB, and the rays
+
+42
+00:02:01,510 --> 00:02:02,933
+of the sun and the rays of a light
+
+43
+00:02:02,933 --> 00:02:04,214
+are everyday examples.
+
+44
+00:02:04,827 --> 00:02:07,447
+How do we tell these three apart? Count the
+
+45
+00:02:07,447 --> 00:02:10,535
+endpoints. A line segment has two. A ray has
+
+46
+00:02:10,535 --> 00:02:14,442
+one. A line has none. And remember: only the
+
+47
+00:02:14,442 --> 00:02:17,713
+line segment has a definite length, because the ray
+
+48
+00:02:17,713 --> 00:02:19,538
+and the line go on forever.
+
+49
+00:02:20,160 --> 00:02:23,260
+Now put three points on one straight line: C,
+
+50
+00:02:23,260 --> 00:02:27,188
+A and B. A lies between C and B,
+
+51
+00:02:27,188 --> 00:02:29,600
+and all three points lie on the same line.
+
+52
+00:02:29,600 --> 00:02:33,287
+From A we can draw a ray towards B,
+
+53
+00:02:33,287 --> 00:02:37,373
+and another ray towards C. Both rays start at
+
+54
+00:02:37,373 --> 00:02:40,551
+A, and they travel in opposite directions.
+
+55
+00:02:41,137 --> 00:02:44,261
+There is one more rule about naming a ray.
+
+56
+00:02:44,261 --> 00:02:46,972
+Look at ray OA: it starts at O and
+
+57
+00:02:46,972 --> 00:02:50,237
+it passes through A and B. Ray OB starts
+
+58
+00:02:50,237 --> 00:02:53,437
+at the same point and travels in the same
+
+59
+00:02:53,437 --> 00:02:55,774
+direction, so ray OA and ray OB are the
+
+60
+00:02:55,774 --> 00:02:58,565
+same ray. But ray AO starts at A, so
+
+61
+00:02:58,565 --> 00:03:03,245
+ray AO is a different ray. The first letter
+
+62
+00:03:03,245 --> 00:03:05,328
+always names the starting point.
+
+63
+00:03:05,823 --> 00:03:10,483
+Your turn. Four quick checks. For each diagram, say
+
+64
+00:03:10,483 --> 00:03:13,623
+whether it is a point, a line segment, a
+
+65
+00:03:13,623 --> 00:03:18,683
+line, or a ray. Two endpoints joined. One endpoint
+
+66
+00:03:18,683 --> 00:03:21,920
+with an arrow. Arrows at both ends. And last
+
+67
+00:03:21,920 --> 00:03:24,654
+of all: can ray OA also be named ray OB?
+
+68
+00:03:35,710 --> 00:03:38,233
+The first diagram has two endpoints, so it is
+
+69
+00:03:38,233 --> 00:03:41,720
+the line segment PQ. The second has one endpoint
+
+70
+00:03:41,720 --> 00:03:44,950
+and one arrow, so it is a ray. The
+
+71
+00:03:44,950 --> 00:03:47,060
+third has arrows at both ends, so it is
+
+72
+00:03:47,060 --> 00:03:50,290
+a line. And yes, ray OA can also be
+
+73
+00:03:50,290 --> 00:03:53,570
+named ray OB, because both start at O and
+
+74
+00:03:53,570 --> 00:03:56,661
+travel in the same direction through the same straight path.
+
+75
+00:03:57,297 --> 00:04:00,111
+One last look. A point marks a location. Join
+
+76
+00:04:00,111 --> 00:04:02,824
+two points and you have a line segment, with
+
+77
+00:04:02,824 --> 00:04:06,908
+two endpoints and a definite length. Extend it one
+
+78
+00:04:06,908 --> 00:04:10,757
+way and it becomes a ray, with one endpoint;
+
+79
+00:04:10,757 --> 00:04:13,577
+extend it both ways and it becomes a line,
+
+80
+00:04:13,577 --> 00:04:17,589
+with no endpoints. From a point, geometry begins. Thank
+
+81
+00:04:17,589 --> 00:04:20,268
+you for watching, and see you in the next lesson.

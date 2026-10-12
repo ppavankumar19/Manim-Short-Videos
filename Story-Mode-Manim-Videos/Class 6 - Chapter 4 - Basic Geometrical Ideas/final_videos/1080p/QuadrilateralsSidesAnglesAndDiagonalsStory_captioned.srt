@@ -1,0 +1,279 @@
+1
+00:00:00,580 --> 00:00:03,691
+A quadrilateral is a simple closed polygon with four
+
+2
+00:00:03,691 --> 00:00:07,678
+sides. It has four vertices and four angles, and
+
+3
+00:00:07,678 --> 00:00:09,771
+it also has two diagonals.
+
+4
+00:00:10,393 --> 00:00:12,210
+In the last lesson we closed a figure with
+
+5
+00:00:12,210 --> 00:00:15,944
+three line segments: a triangle. What happens if we
+
+6
+00:00:15,944 --> 00:00:18,558
+add one more corner? Watch the side CA. It
+
+7
+00:00:18,558 --> 00:00:22,340
+opens out into two new sides, CD and DA,
+
+8
+00:00:22,340 --> 00:00:26,723
+and the figure closes again. Now the figure has
+
+9
+00:00:26,723 --> 00:00:29,824
+four sides, so it is a quadrilateral.
+
+10
+00:00:30,423 --> 00:00:33,195
+Let us build it segment by segment. Here is
+
+11
+00:00:33,195 --> 00:00:35,669
+side AB. Attach side BC. Attach side CD: the
+
+12
+00:00:35,669 --> 00:00:40,290
+figure is still open. Attach side DA, and the
+
+13
+00:00:40,290 --> 00:00:44,303
+ends meet. The figure closes. Simple, because the sides
+
+14
+00:00:44,303 --> 00:00:46,863
+do not cross; closed, because the ends join up;
+
+15
+00:00:46,863 --> 00:00:50,783
+and four sides. That is a quadrilateral, and like
+
+16
+00:00:50,783 --> 00:00:55,603
+every closed figure it has an interior, a boundary
+
+17
+00:00:55,603 --> 00:00:56,754
+and an exterior.
+
+18
+00:00:57,317 --> 00:01:00,317
+The four line segments are the sides: side AB,
+
+19
+00:01:00,317 --> 00:01:03,227
+side BC, side CD, and side DA, which brings
+
+20
+00:01:03,227 --> 00:01:07,017
+us back to A. The four points A, B,
+
+21
+00:01:07,017 --> 00:01:09,605
+C and D are its vertices. So the sides
+
+22
+00:01:09,605 --> 00:01:13,757
+form the boundary, and the vertices are the corners
+
+23
+00:01:13,757 --> 00:01:15,848
+where two sides meet.
+
+24
+00:01:16,620 --> 00:01:20,095
+At every vertex, the two sides form an angle.
+
+25
+00:01:20,095 --> 00:01:23,300
+At corner A we have angle A, at corner
+
+26
+00:01:23,300 --> 00:01:25,623
+B angle B, at corner C angle C, and
+
+27
+00:01:25,623 --> 00:01:29,491
+at corner D angle D. So four vertices give four angles.
+
+28
+00:01:30,130 --> 00:01:33,330
+Now compare the sides. Side AB and side BC
+
+29
+00:01:33,330 --> 00:01:37,650
+meet at the vertex B, so they are adjacent.
+
+30
+00:01:37,650 --> 00:01:39,886
+Side AB and side DA meet at the vertex
+
+31
+00:01:39,886 --> 00:01:44,590
+A, so they are adjacent as well. Adjacent sides
+
+32
+00:01:44,590 --> 00:01:46,261
+always share a vertex.
+
+33
+00:01:46,837 --> 00:01:50,612
+Some elements are across from each other instead. Side
+
+34
+00:01:50,612 --> 00:01:53,777
+AB and side CD do not meet at all,
+
+35
+00:01:53,777 --> 00:01:57,249
+so they are opposite sides. Side BC and side
+
+36
+00:01:57,249 --> 00:02:01,957
+DA are the other pair of opposite sides. Angles
+
+37
+00:02:01,957 --> 00:02:05,510
+have opposites too: angle A is opposite angle C,
+
+38
+00:02:05,510 --> 00:02:09,023
+and angle B is opposite angle D. So adjacent
+
+39
+00:02:09,023 --> 00:02:12,068
+means next to, and opposite means across.
+
+40
+00:02:12,713 --> 00:02:15,983
+Now join the opposite vertices. The vertices A and
+
+41
+00:02:15,983 --> 00:02:19,358
+C are opposite, and joining them gives the segment
+
+42
+00:02:19,358 --> 00:02:22,359
+AC. The vertices B and D are opposite, and
+
+43
+00:02:22,359 --> 00:02:26,273
+joining them gives the segment BD. These two segments
+
+44
+00:02:26,273 --> 00:02:30,587
+are the diagonals of the quadrilateral: a diagonal joins
+
+45
+00:02:30,587 --> 00:02:32,324
+two opposite vertices.
+
+46
+00:02:32,983 --> 00:02:37,090
+Let us put the whole relationship map together. Adjacent
+
+47
+00:02:37,090 --> 00:02:39,674
+elements share a corner: AB and BC share the
+
+48
+00:02:39,674 --> 00:02:43,702
+vertex B. Opposite elements lie across the shape: AB
+
+49
+00:02:43,702 --> 00:02:46,683
+and CD share no vertex. And a diagonal connects
+
+50
+00:02:46,683 --> 00:02:49,788
+the opposite corners: AC joins A and C. So
+
+51
+00:02:49,788 --> 00:02:54,223
+ask yourself: are they next to each other, across
+
+52
+00:02:54,223 --> 00:02:56,334
+from each other, or joined across?
+
+53
+00:02:56,840 --> 00:03:01,773
+Your turn. Four quick checks on quadrilateral PQRS. First:
+
+54
+00:03:01,773 --> 00:03:05,120
+which side is opposite QR? Second: which angle is
+
+55
+00:03:05,120 --> 00:03:08,860
+opposite angle P? Third: which sides are adjacent to
+
+56
+00:03:08,860 --> 00:03:12,884
+PQ? And last of all: join the opposite vertices,
+
+57
+00:03:12,884 --> 00:03:14,591
+and name the two diagonals.
+
+58
+00:03:25,523 --> 00:03:28,823
+The side opposite QR is PS. The angle opposite
+
+59
+00:03:28,823 --> 00:03:32,343
+angle P is angle R. The sides adjacent to
+
+60
+00:03:32,343 --> 00:03:36,263
+PQ are PS and QR, because each of them
+
+61
+00:03:36,263 --> 00:03:40,611
+shares a vertex with PQ. And the two diagonals
+
+62
+00:03:40,611 --> 00:03:44,143
+are PR and QS: they join the opposite vertices
+
+63
+00:03:44,143 --> 00:03:46,114
+P with R, and Q with S.
+
+64
+00:03:46,727 --> 00:03:49,980
+One last look. A quadrilateral is a simple closed
+
+65
+00:03:49,980 --> 00:03:52,947
+polygon with four sides, four vertices and four angles.
+
+66
+00:03:52,947 --> 00:03:55,780
+Adjacent elements are next to each other, and opposite
+
+67
+00:03:55,780 --> 00:03:58,567
+elements are across the shape. And its two diagonals
+
+68
+00:03:58,567 --> 00:04:01,251
+join the opposite vertices. Build it, compare its parts,
+
+69
+00:04:01,251 --> 00:04:03,781
+and connect the corners. Thank you for watching, and
+
+70
+00:04:03,781 --> 00:04:05,198
+see you in the next lesson.

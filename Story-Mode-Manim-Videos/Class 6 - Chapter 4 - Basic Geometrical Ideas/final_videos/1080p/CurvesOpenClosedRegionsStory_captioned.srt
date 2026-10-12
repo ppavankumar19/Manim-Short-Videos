@@ -1,0 +1,287 @@
+1
+00:00:00,480 --> 00:00:02,340
+A curve is one of the first ideas in
+
+2
+00:00:02,340 --> 00:00:05,144
+geometry. It is a drawing made without lifting the
+
+3
+00:00:05,144 --> 00:00:08,000
+pencil from the paper. Some curves close up, and
+
+4
+00:00:08,000 --> 00:00:10,972
+some stay open; and a closed curve separates the
+
+5
+00:00:10,972 --> 00:00:13,330
+plane into an inside and an outside. Let us
+
+6
+00:00:13,330 --> 00:00:16,571
+learn how to tell them apart.
+
+7
+00:00:17,193 --> 00:00:19,936
+Imagine drawing with a pencil, and never lifting it
+
+8
+00:00:19,936 --> 00:00:22,526
+from the paper. You might draw a wavy path,
+
+9
+00:00:22,526 --> 00:00:26,293
+or a loop, or a path that crosses itself.
+
+10
+00:00:26,293 --> 00:00:29,577
+And here is a surprise: in geometry, even a
+
+11
+00:00:29,577 --> 00:00:31,839
+straight line is a curve. So a curve is
+
+12
+00:00:31,839 --> 00:00:37,024
+any figure drawn in one continuous stroke, without lifting the pencil.
+
+13
+00:00:37,663 --> 00:00:40,213
+Now ask the first question: does the path close?
+
+14
+00:00:40,213 --> 00:00:43,023
+Look at this wavy path. Its two ends stay
+
+15
+00:00:43,023 --> 00:00:46,423
+apart, so it is an open curve. Now look
+
+16
+00:00:46,423 --> 00:00:48,321
+at this loop. The pencil comes all the way
+
+17
+00:00:48,321 --> 00:00:51,043
+back to its starting point, so the path closes.
+
+18
+00:00:51,043 --> 00:00:52,594
+That is a closed curve.
+
+19
+00:00:53,130 --> 00:00:57,130
+The second question is: does the path cross itself?
+
+20
+00:00:57,130 --> 00:01:00,258
+This loop never crosses itself, so it is a
+
+21
+00:01:00,258 --> 00:01:05,190
+simple curve. But this figure crosses itself, right here,
+
+22
+00:01:05,190 --> 00:01:08,070
+where the two parts meet. So it is not
+
+23
+00:01:08,070 --> 00:01:10,023
+simple. A simple curve is simply one that does
+
+24
+00:01:10,023 --> 00:01:11,521
+not cross itself.
+
+25
+00:01:12,223 --> 00:01:15,437
+These are two different questions. This wavy path is
+
+26
+00:01:15,437 --> 00:01:19,390
+open, because its ends stay apart, and simple, because
+
+27
+00:01:19,390 --> 00:01:24,923
+it never crosses itself. This oval is closed, and
+
+28
+00:01:24,923 --> 00:01:26,847
+it is simple too. But this figure is closed
+
+29
+00:01:26,847 --> 00:01:30,083
+and it crosses itself, so it is not simple.
+
+30
+00:01:30,083 --> 00:01:32,015
+Open or closed, and simple or not simple, are
+
+31
+00:01:32,015 --> 00:01:34,254
+two separate questions.
+
+32
+00:01:34,877 --> 00:01:37,517
+Now watch what a closed curve does. It is
+
+33
+00:01:37,517 --> 00:01:40,537
+like the boundary wall of a park. The wall
+
+34
+00:01:40,537 --> 00:01:44,297
+splits the plane into three parts: the inside, which
+
+35
+00:01:44,297 --> 00:01:47,102
+we call the interior; the wall itself, the boundary;
+
+36
+00:01:47,102 --> 00:01:50,690
+and the outside, the exterior. To get from outside
+
+37
+00:01:50,690 --> 00:01:54,108
+the park to inside, you must cross the boundary.
+
+38
+00:01:54,727 --> 00:01:57,207
+So when you see a closed figure, ask: where
+
+39
+00:01:57,207 --> 00:02:00,827
+is each point? A point inside is in the
+
+40
+00:02:00,827 --> 00:02:04,140
+interior. A point exactly on the edge is on
+
+41
+00:02:04,140 --> 00:02:07,958
+the boundary. And a point outside is in the exterior.
+
+42
+00:02:08,577 --> 00:02:10,043
+Now we can say what a region is. The
+
+43
+00:02:10,043 --> 00:02:13,977
+region is the interior and the boundary taken together.
+
+44
+00:02:13,977 --> 00:02:17,817
+The interior alone is not the whole region; the
+
+45
+00:02:17,817 --> 00:02:21,097
+edge is part of the region too. Region equals
+
+46
+00:02:21,097 --> 00:02:22,728
+interior plus boundary.
+
+47
+00:02:23,363 --> 00:02:25,442
+One more step connects curves to the shapes we
+
+48
+00:02:25,442 --> 00:02:28,353
+study next. If a simple closed curve is made
+
+49
+00:02:28,353 --> 00:02:31,183
+of straight line segments, it is called a polygon.
+
+50
+00:02:31,183 --> 00:02:33,963
+So a polygon is a special kind of simple
+
+51
+00:02:33,963 --> 00:02:37,694
+closed figure, and we will meet it very soon.
+
+52
+00:02:38,310 --> 00:02:42,044
+Your turn. Four quick checks. For each diagram, say
+
+53
+00:02:42,044 --> 00:02:44,923
+whether the curve is open or closed, and simple
+
+54
+00:02:44,923 --> 00:02:48,126
+or not simple. A wavy path with two free
+
+55
+00:02:48,126 --> 00:02:54,830
+ends. A closed oval. A path that crosses itself.
+
+56
+00:02:54,830 --> 00:02:57,200
+And last of all: in this closed figure, point
+
+57
+00:02:57,200 --> 00:03:00,027
+P is inside, point Q is on the edge,
+
+58
+00:03:00,027 --> 00:03:03,701
+and point R is outside. Classify P, Q and R.
+
+59
+00:03:14,720 --> 00:03:17,129
+The first is open, because its ends do not
+
+60
+00:03:17,129 --> 00:03:21,780
+meet, and simple, because it never crosses itself. The
+
+61
+00:03:21,780 --> 00:03:25,300
+second is closed and simple: a smooth oval. The
+
+62
+00:03:25,300 --> 00:03:28,540
+third crosses itself, so it is not simple. And
+
+63
+00:03:28,540 --> 00:03:31,800
+in the last figure, P is in the interior,
+
+64
+00:03:31,800 --> 00:03:35,231
+Q is on the boundary, and R is in the exterior.
+
+65
+00:03:35,843 --> 00:03:38,254
+One last look. A curve is drawn without lifting
+
+66
+00:03:38,254 --> 00:03:41,138
+the pencil. If the ends stay apart, it is
+
+67
+00:03:41,138 --> 00:03:44,763
+open; if they join, it is closed. And if
+
+68
+00:03:44,763 --> 00:03:48,460
+it never crosses itself, it is simple. A closed
+
+69
+00:03:48,460 --> 00:03:51,749
+curve gives us interior, boundary and exterior, and the
+
+70
+00:03:51,749 --> 00:03:55,223
+region is the interior plus the boundary. Draw, classify,
+
+71
+00:03:55,223 --> 00:03:58,555
+locate. Thank you for watching, and see you in
+
+72
+00:03:58,555 --> 00:03:59,514
+the next lesson.
