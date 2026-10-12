@@ -1,0 +1,375 @@
+1
+00:00:00,140 --> 00:00:03,318
+Three special quadrilaterals, and three surprisingly short lists of
+
+2
+00:00:03,318 --> 00:00:07,380
+measurements. Each of them carries a property that supplies
+
+3
+00:00:07,380 --> 00:00:08,891
+whatever is missing.
+
+4
+00:00:09,760 --> 00:00:13,576
+Look at what each shape is given. A parallelogram:
+
+5
+00:00:13,576 --> 00:00:17,265
+two sides and one angle. Only three measurements. A
+
+6
+00:00:17,265 --> 00:00:20,780
+rhombus: two diagonals. Only two. A square: a single
+
+7
+00:00:20,780 --> 00:00:25,086
+diagonal. Can that really be enough? It can, because
+
+8
+00:00:25,086 --> 00:00:27,660
+the name of the shape is information too: its
+
+9
+00:00:27,660 --> 00:00:30,491
+properties give us the measurements that were never listed.
+
+10
+00:00:31,080 --> 00:00:33,870
+Start with the parallelogram B E L T. We
+
+11
+00:00:33,870 --> 00:00:37,580
+are given B E, four point two centimetres, E
+
+12
+00:00:37,580 --> 00:00:40,432
+L, five centimetres, and the angle at T, forty
+
+13
+00:00:40,432 --> 00:00:45,560
+five degrees. In a parallelogram opposite angles are equal,
+
+14
+00:00:45,560 --> 00:00:48,212
+so the angle at E is also forty five
+
+15
+00:00:48,212 --> 00:00:52,709
+degrees. And consecutive angles are supplementary: one hundred and
+
+16
+00:00:52,709 --> 00:00:56,504
+eighty minus forty five is one hundred and thirty
+
+17
+00:00:56,504 --> 00:00:59,450
+five. So the angle at L is one hundred
+
+18
+00:00:59,450 --> 00:01:02,160
+and thirty five degrees, and so is the angle
+
+19
+00:01:02,160 --> 00:01:05,731
+at B. Four angles, from one given angle.
+
+20
+00:01:06,173 --> 00:01:10,330
+Now the construction is straightforward. Draw B E, four
+
+21
+00:01:10,330 --> 00:01:13,138
+point two centimetres. At E set out forty five
+
+22
+00:01:13,138 --> 00:01:16,260
+degrees and mark E L, five centimetres: that is
+
+23
+00:01:16,260 --> 00:01:18,953
+triangle B E L by side, angle, side. At
+
+24
+00:01:18,953 --> 00:01:22,722
+B, set out one hundred and thirty five degrees
+
+25
+00:01:22,722 --> 00:01:24,613
+and draw the ray. At L, set out one
+
+26
+00:01:24,613 --> 00:01:28,093
+hundred and thirty five degrees as well, and draw
+
+27
+00:01:28,093 --> 00:01:31,878
+the second ray. The two rays meet at T,
+
+28
+00:01:31,878 --> 00:01:34,764
+and the parallelogram is complete.
+
+29
+00:01:35,347 --> 00:01:37,717
+Now the rhombus. A rhombus is given by its
+
+30
+00:01:37,717 --> 00:01:40,804
+two diagonals: A C is four point five centimetres
+
+31
+00:01:40,804 --> 00:01:43,187
+and B D is six. Only two measurements, but
+
+32
+00:01:43,187 --> 00:01:46,427
+a rhombus has two properties we can use. Its
+
+33
+00:01:46,427 --> 00:01:51,531
+diagonals are perpendicular: they cross at right angles, at
+
+34
+00:01:51,531 --> 00:01:55,614
+O. And they bisect each other, so O is
+
+35
+00:01:55,614 --> 00:01:58,275
+the midpoint of both. Which means O B and
+
+36
+00:01:58,275 --> 00:02:01,558
+O D are each half of six: three centimetres.
+
+37
+00:02:02,267 --> 00:02:04,935
+So this is how we construct it. Draw A
+
+38
+00:02:04,935 --> 00:02:08,867
+C, four point five centimetres, and mark its midpoint
+
+39
+00:02:08,867 --> 00:02:13,294
+O. Through O draw the perpendicular to A C:
+
+40
+00:02:13,294 --> 00:02:16,624
+that is the line the other diagonal lies on.
+
+41
+00:02:16,624 --> 00:02:20,661
+Set the compasses to three centimetres, put the needle
+
+42
+00:02:20,661 --> 00:02:24,567
+at O, and mark the perpendicular on both sides.
+
+43
+00:02:24,567 --> 00:02:26,567
+Those marks are B and D, because each is
+
+44
+00:02:26,567 --> 00:02:30,477
+three centimetres from O, exactly half of B D.
+
+45
+00:02:30,477 --> 00:02:32,718
+Join A to B, B to C, C to
+
+46
+00:02:32,718 --> 00:02:35,727
+D and D to A: the rhombus is complete,
+
+47
+00:02:35,727 --> 00:02:37,598
+and we never needed its side lengths.
+
+48
+00:02:38,280 --> 00:02:41,092
+Here is a question worth asking: what if the
+
+49
+00:02:41,092 --> 00:02:44,140
+two diagonals of the rhombus were equal? Watch the
+
+50
+00:02:44,140 --> 00:02:47,560
+shorter diagonal grow until both are the same length.
+
+51
+00:02:47,560 --> 00:02:51,527
+The rhombus becomes a square, because equal diagonals that
+
+52
+00:02:51,527 --> 00:02:55,048
+bisect each other at right angles always give a
+
+53
+00:02:55,048 --> 00:02:57,633
+square. So we can construct square J U M
+
+54
+00:02:57,633 --> 00:03:01,060
+P with diagonal four point two centimetres the same
+
+55
+00:03:01,060 --> 00:03:03,467
+way: draw J U, find its midpoint, and draw
+
+56
+00:03:03,467 --> 00:03:07,983
+the perpendicular through it. The other diagonal is equal,
+
+57
+00:03:07,983 --> 00:03:10,480
+so it is also four point two centimetres, and
+
+58
+00:03:10,480 --> 00:03:12,980
+O M and O P are two point one
+
+59
+00:03:12,980 --> 00:03:15,207
+centimetres each. Mark M and P, join the four
+
+60
+00:03:15,207 --> 00:03:16,951
+vertices, and the square is complete.
+
+61
+00:03:17,534 --> 00:03:20,744
+Three shapes, three strategies. For the parallelogram, opposite angles
+
+62
+00:03:20,744 --> 00:03:23,224
+are equal and consecutive angles add to one hundred
+
+63
+00:03:23,224 --> 00:03:26,269
+and eighty degrees: that gives the missing angles. For
+
+64
+00:03:26,269 --> 00:03:28,817
+the rhombus, the diagonals bisect each other at right
+
+65
+00:03:28,817 --> 00:03:33,601
+angles: that gives every vertex from the diagonals. For
+
+66
+00:03:33,601 --> 00:03:36,134
+the square the diagonals are equal as well: the
+
+67
+00:03:36,134 --> 00:03:39,114
+same construction, with one extra condition. So which property
+
+68
+00:03:39,114 --> 00:03:40,965
+gives the missing information?
+
+69
+00:03:41,559 --> 00:03:45,533
+That is the method for every special quadrilateral. Identify
+
+70
+00:03:45,533 --> 00:03:49,569
+the shape. Recall its properties. Derive the measurements that
+
+71
+00:03:49,569 --> 00:03:54,252
+are missing. Then construct. Analyse before you draw: the
+
+72
+00:03:54,252 --> 00:03:56,086
+property tells you what to do with the ruler,
+
+73
+00:03:56,086 --> 00:03:58,390
+the compasses and the protractor.
+
+74
+00:03:58,849 --> 00:04:02,460
+Your turn, two quick ones. A parallelogram has angle
+
+75
+00:04:02,460 --> 00:04:06,790
+A equal to sixty five degrees. What are the
+
+76
+00:04:06,790 --> 00:04:09,364
+other three angles? And a rhombus has diagonals A
+
+77
+00:04:09,364 --> 00:04:11,697
+C of eight centimetres and B D of six.
+
+78
+00:04:11,697 --> 00:04:14,949
+How far is each vertex from the point where
+
+79
+00:04:14,949 --> 00:04:18,360
+the diagonals cross? Pause the video and work them out.
+
+80
+00:04:23,399 --> 00:04:27,459
+Let us check. In the parallelogram the angle opposite
+
+81
+00:04:27,459 --> 00:04:30,159
+A is C, so C is sixty five degrees;
+
+82
+00:04:30,159 --> 00:04:35,359
+and the angles next to A are supplementary, so
+
+83
+00:04:35,359 --> 00:04:38,839
+B and D are one hundred and eighty minus
+
+84
+00:04:38,839 --> 00:04:43,039
+sixty five: one hundred and fifteen degrees each. In
+
+85
+00:04:43,039 --> 00:04:45,799
+the rhombus, O is the midpoint of both diagonals,
+
+86
+00:04:45,799 --> 00:04:48,483
+so O A and O C are four centimetres,
+
+87
+00:04:48,483 --> 00:04:50,999
+and O B and O D are three. Draw
+
+88
+00:04:50,999 --> 00:04:55,441
+the perpendicular diagonals, mark those distances, and join the
+
+89
+00:04:55,441 --> 00:04:56,750
+ends: that is the rhombus.
+
+90
+00:04:57,332 --> 00:05:00,112
+One idea holds all three together. A special shape
+
+91
+00:05:00,112 --> 00:05:03,864
+comes with extra information: use its properties to find
+
+92
+00:05:03,864 --> 00:05:07,102
+the missing measurements, and then construct. Know the shape.
+
+93
+00:05:07,102 --> 00:05:11,652
+Use its properties. Construct it. Thank you for watching!
+
+94
+00:05:11,652 --> 00:05:13,043
+See you in the next lesson!

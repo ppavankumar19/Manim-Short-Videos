@@ -1,0 +1,287 @@
+1
+00:00:00,260 --> 00:00:02,832
+How do we construct a quadrilateral from three sides
+
+2
+00:00:02,832 --> 00:00:07,810
+and two included angles? Read the five measurements as
+
+3
+00:00:07,810 --> 00:00:10,891
+a chain: side, angle, side, angle, side.
+
+4
+00:00:11,533 --> 00:00:16,488
+Here is our problem: five measurements, in the order
+
+5
+00:00:16,488 --> 00:00:20,453
+they connect. A B is five centimetres, a side.
+
+6
+00:00:20,453 --> 00:00:24,713
+Angle B is one hundred degrees: an angle between
+
+7
+00:00:24,713 --> 00:00:28,160
+two sides. B C is four point five centimetres.
+
+8
+00:00:28,160 --> 00:00:32,393
+Angle C is seventy five degrees. And C D
+
+9
+00:00:32,393 --> 00:00:36,484
+is six centimetres. Side, angle, side, angle, side.
+
+10
+00:00:37,133 --> 00:00:40,267
+Now, what does included mean? Angle B is the
+
+11
+00:00:40,267 --> 00:00:43,393
+angle between the two sides that meet at B:
+
+12
+00:00:43,393 --> 00:00:46,075
+A B and B C. Angle C is the
+
+13
+00:00:46,075 --> 00:00:48,878
+angle between B C and C D. Each angle
+
+14
+00:00:48,878 --> 00:00:52,673
+sits between the sides next to it. That is
+
+15
+00:00:52,673 --> 00:00:56,284
+the chain: side, angle, side, angle, side.
+
+16
+00:00:56,873 --> 00:00:59,743
+Here is the whole plan. The first three measurements
+
+17
+00:00:59,743 --> 00:01:02,703
+build the triangle: the side A B, the angle
+
+18
+00:01:02,703 --> 00:01:05,417
+B, and the side B C. The last two
+
+19
+00:01:05,417 --> 00:01:08,549
+finish the figure: the angle at C gives a
+
+20
+00:01:08,549 --> 00:01:12,293
+direction, and the side C D gives the distance.
+
+21
+00:01:12,293 --> 00:01:14,204
+Three build, and two finish.
+
+22
+00:01:14,753 --> 00:01:18,843
+Now we construct it accurately. Draw A B, five
+
+23
+00:01:18,843 --> 00:01:21,413
+centimetres long, and label the ends A and B.
+
+24
+00:01:21,413 --> 00:01:24,853
+At B, set out an angle of one hundred
+
+25
+00:01:24,853 --> 00:01:27,673
+degrees from B A. The new ray is the
+
+26
+00:01:27,673 --> 00:01:31,404
+direction of B C, so C must lie somewhere on it.
+
+27
+00:01:31,970 --> 00:01:35,930
+Set the compasses to four point five centimetres, the
+
+28
+00:01:35,930 --> 00:01:38,895
+length of B C. With the needle at B,
+
+29
+00:01:38,895 --> 00:01:42,490
+mark that distance along the ray: that point is
+
+30
+00:01:42,490 --> 00:01:45,135
+C. Join B to C, and join C to
+
+31
+00:01:45,135 --> 00:01:48,195
+A to close the triangle. Triangle A B C
+
+32
+00:01:48,195 --> 00:01:51,630
+is fixed by side, angle, side; the side A
+
+33
+00:01:51,630 --> 00:01:55,561
+C was not given, so the construction made it.
+
+34
+00:01:56,260 --> 00:01:59,800
+The first three measurements are used. At C, the
+
+35
+00:01:59,800 --> 00:02:01,990
+angle between C B and C D is seventy
+
+36
+00:02:01,990 --> 00:02:04,546
+five degrees. Set that angle out from C B
+
+37
+00:02:04,546 --> 00:02:07,285
+and draw the ray: every point on it is
+
+38
+00:02:07,285 --> 00:02:10,208
+in the right direction from C. But the angle
+
+39
+00:02:10,208 --> 00:02:12,484
+alone does not say how far, so D could
+
+40
+00:02:12,484 --> 00:02:14,471
+be anywhere along this ray.
+
+41
+00:02:14,937 --> 00:02:17,777
+The last measurement is the side C D, six
+
+42
+00:02:17,777 --> 00:02:23,877
+centimetres. Set the compasses to six centimetres and put
+
+43
+00:02:23,877 --> 00:02:25,823
+the needle at C. Every point on this arc
+
+44
+00:02:25,823 --> 00:02:29,407
+is six centimetres from C, so where it cuts
+
+45
+00:02:29,407 --> 00:02:31,371
+the ray is D. Join A to D, and
+
+46
+00:02:31,371 --> 00:02:34,937
+the quadrilateral A B C D is complete: one
+
+47
+00:02:34,937 --> 00:02:36,228
+direction, and one distance.
+
+48
+00:02:36,907 --> 00:02:41,160
+Let us check every measurement: A B is five,
+
+49
+00:02:41,160 --> 00:02:44,207
+angle B is one hundred degrees, B C is
+
+50
+00:02:44,207 --> 00:02:47,695
+four point five, angle C is seventy five degrees,
+
+51
+00:02:47,695 --> 00:02:51,031
+and C D is six. All five are used,
+
+52
+00:02:51,031 --> 00:02:55,863
+and A D was never given. Here is the
+
+53
+00:02:55,863 --> 00:02:58,547
+method: sketch the figure, build the side angle side
+
+54
+00:02:58,547 --> 00:03:01,167
+triangle, draw the ray from the next angle, mark
+
+55
+00:03:01,167 --> 00:03:04,138
+the last side on that ray, and join the last side.
+
+56
+00:03:04,623 --> 00:03:07,923
+Your turn. Construct P Q R S with P
+
+57
+00:03:07,923 --> 00:03:10,643
+Q three point six centimetres, Q R four point
+
+58
+00:03:10,643 --> 00:03:14,218
+five centimetres, R S five point six centimetres, angle
+
+59
+00:03:14,218 --> 00:03:16,829
+Q one hundred and thirty five degrees, and angle
+
+60
+00:03:16,829 --> 00:03:21,443
+R sixty degrees. Which three measurements construct the first
+
+61
+00:03:21,443 --> 00:03:23,774
+triangle? Pause the video and decide.
+
+62
+00:03:28,830 --> 00:03:31,596
+Let us check. P Q, angle Q and Q
+
+63
+00:03:31,596 --> 00:03:33,644
+R are the side, angle, side group, so the
+
+64
+00:03:33,644 --> 00:03:37,130
+first triangle is P Q R. Then the sixty
+
+65
+00:03:37,130 --> 00:03:40,457
+degrees at R gives the direction, and R S
+
+66
+00:03:40,457 --> 00:03:43,990
+gives the distance along it. That point is S;
+
+67
+00:03:43,990 --> 00:03:47,261
+join P to S and the quadrilateral is complete.
+
+68
+00:03:47,823 --> 00:03:50,372
+The chain is the whole method. The first three
+
+69
+00:03:50,372 --> 00:03:53,783
+measurements build the first triangle. The next angle gives
+
+70
+00:03:53,783 --> 00:03:56,383
+a direction. The last side gives the distance, and
+
+71
+00:03:56,383 --> 00:04:01,403
+direction and distance together locate the fourth vertex. Thank
+
+72
+00:04:01,403 --> 00:04:04,934
+you for watching! See you in the next lesson!

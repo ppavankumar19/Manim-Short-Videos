@@ -1,0 +1,513 @@
+﻿python.exe : 'sox' is not recognized as an internal or external command,
+At line:8 char:3
++   & $py audit_sync_overlap.py *> (Join-Path $d "audit_after_cm.log")
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('sox' is not re...ternal command,:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+operable program or batch file.
+[10/05/26 21:47:10] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[title         ] start board: 0 text mobjects
+[10/05/26 21:47:11] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene1        ] start board: 6 text mobjects -> Text('SpecialQuadrilaterals') @(0.50,2.20); Text('Parallelogram·Rhombus·Squa') @(0.50,1.32); VGroup('PARALLELOGRAM') @(-2.50,-1.28); VGroup('RHOMBUS') @(0.50,-1.04); VGroup('SQUARE') @(3.50,-1.13); Text('Property→MissingInformatio') @(0.50,0.35)
+[10/05/26 21:47:12] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene2        ] start board: 10 text mobjects -> Text('SpecialShape=ExtraInformat') @(0.50,2.72); Text('PARALLELOGRAM') @(-2.55,1.50); Text('RHOMBUS') @(0.50,1.50); Text('SQUARE') @(3.55,1.50); VGroup('Given:') @(-2.55,0.80); VGroup('Given:') @(0.50,0.80)
+[10/05/26 21:47:20] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}BE=4.2\tex                        
+                             t{ cm}\special{dvisvgm:raw                        
+                             </g>} to                                          
+                             media\Tex\5d31fd228c68ddd6                        
+                             .tex                                              
+[10/05/26 21:47:21] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}EL=5\text{                        
+                             cm}\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\fed653dcf42d388d                        
+                             .tex                                              
+[scene3        ] start board: 13 text mobjects -> Text('UsethePropertiesFirst') @(0.50,2.72); VGroup('B') @(-1.25,0.10); VGroup('BE=4.2\\text{ cm}') @(3.05,1.55); VGroup('EL=5\\text{ cm}') @(3.05,0.95); VGroup('\\angle T = 45^\\circ') @(3.05,0.35); Text('45°') @(-2.96,1.07)
+[10/05/26 21:47:26] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene4        ] start board: 13 text mobjects -> Text('STEP2—BuildTriangleBEL') @(0.50,2.72); VGroup('B') @(0.13,-1.36); Text('4.2cm') @(0.12,-1.37); VGroup('BE=4.2\\text{ cm}') @(3.05,1.55); Text('45°') @(0.84,-0.74); Text('L') @(-1.21,1.77)
+[10/05/26 21:47:36] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}AC=4.5\tex                        
+                             t{ cm}\special{dvisvgm:raw                        
+                             </g>} to                                          
+                             media\Tex\e0f2b0fd47743085                        
+                             .tex                                              
+[10/05/26 21:47:37] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}BD=6\text{                        
+                             cm}\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\c677584c75c91b61                        
+                             .tex                                              
+[10/05/26 21:47:38] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}OB = OD =                         
+                             \tfrac{6}{2} = 3\text{                            
+                             cm}\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\03fa181e9ff13b78                        
+                             .tex                                              
+[scene5        ] start board: 10 text mobjects -> Text('RHOMBUSABCD—ReadtheDiagona') @(0.50,2.72); VGroup('A') @(-1.03,0.01); Text('O') @(-0.78,0.21); VGroup('AC=4.5\\text{ cm}') @(3.05,1.75); VGroup('BD=6\\text{ cm}') @(3.05,1.15); Text('90°') @(-0.58,0.39)
+[10/05/26 21:47:44] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\tfrac{6}{                        
+                             2} = 3\text{                                      
+                             cm}\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\4fd784e69595f78c                        
+                             .tex                                              
+[scene6        ] start board: 10 text mobjects -> Text('STEP2—DrawACandItsBisector') @(0.50,2.72); VGroup('A') @(-1.03,0.07); Text('4.5cm') @(-1.78,-0.23); Text('O') @(-0.80,0.03); VGroup('AC=4.5\\text{ cm}') @(3.05,1.55); Text('TheperpendicularthroughO') @(3.05,0.55)
+[10/05/26 21:47:51] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[10/05/26 21:47:52] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}4.2 \div 2                        
+                             = 2.1\text{                                       
+                             cm}\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\8378fc3bd3efd955                        
+                             .tex                                              
+[scene7        ] start board: 8 text mobjects -> Text('FromRhombustoSquare') @(0.50,2.72); Text('J') @(-2.98,0.07); Text('U') @(0.94,0.07); Text('4.2cm') @(-1.62,-0.47); Text('O') @(-0.80,0.03); Text('M') @(-0.94,1.99)
+[10/05/26 21:47:57] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene8        ] start board: 10 text mobjects -> Text('WhichPropertyUnlockstheCon') @(0.50,2.72); VGroup('PARALLELOGRAM') @(0.23,2.20); VGroup('Oppositeanglesequal') @(-2.50,-0.30); VGroup('→themissingangles') @(-2.50,-1.10); VGroup('Diagonalsbisect') @(0.50,-0.30); VGroup('→everyvertexfrom') @(0.50,-1.10)
+[10/05/26 21:48:02] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene9_setup  ] start board: 5 text mobjects -> Text('AnalyseBeforeYouDraw') @(0.50,2.72); VGroup('1.IDENTIFY') @(2.85,0.55); VGroup('6/2=3') @(-2.10,-0.01); Text('Thepropertysupplieswhatwas') @(-2.10,-2.05); Text('Shape→Property→DerivedMeas') @(0.50,-2.55)
+[10/05/26 21:48:12] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene9_reveal ] start board: 10 text mobjects -> Text('YOURTURN') @(0.50,2.62); Text('Propertyfirst—construction') @(0.50,2.24); VGroup('A') @(-2.56,0.22); VGroup('65°') @(-3.13,-0.18); Text('AparallelogramwithangleA=6') @(-2.55,-1.35); Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[10/05/26 21:48:25] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+[scene10       ] start board: 12 text mobjects -> Text('YOURTURN') @(0.50,2.62); Text('Propertyfirst—construction') @(0.50,2.24); VGroup('A') @(-2.56,0.22); Text('AparallelogramwithangleA=6') @(-2.55,-1.35); Text('Whataretheotherthreeangles') @(-2.55,-1.85); Text('O') @(3.25,0.44)
+[10/05/26 21:48:33] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructSpecialQuadrilateral                    
+                             sRhombusParallelogramStory'                       
+                             object has no attribute                           
+                             'speech_service'                                  
+
+===== SYNC (animation time vs audio duration per beat) =====
+title          audio=  8.25s anim=  8.25s stretch= 0.00s
+scene1         audio= 20.42s anim= 20.42s stretch= 0.00s
+scene2         audio= 34.20s anim= 34.20s stretch= 0.00s
+scene3         audio= 28.01s anim= 28.01s stretch= 0.00s
+scene4         audio= 25.85s anim= 25.85s stretch= 0.00s
+scene5         audio= 35.06s anim= 35.06s stretch= 0.00s
+scene6         audio= 38.38s anim= 38.38s stretch= 0.00s
+scene7         audio= 22.97s anim= 22.97s stretch= 0.00s
+scene8         audio= 16.37s anim= 16.37s stretch= 0.00s
+scene9_setup   audio= 19.17s anim= 19.17s stretch= 0.00s
+scene9_reveal  audio= 33.09s anim= 33.09s stretch= 0.00s
+scene10        audio= 15.48s anim= 15.85s stretch= 0.37s  <<< STRETCH
+TOTAL          audio=297.25s anim=297.62s stretch= 0.37s   (video time incl. gaps ~ 307.9s)
+
+===== OVERLAPS =====
+[title        step  4] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('PARALLELOGRAM') @(-2.50,-1.28)
+[title        step  5] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('PARALLELOGRAM') @(-2.50,-1.28)
+[scene1       step  7] OFF-CENTRE  dx=-3.05 span=[-3.53..-1.57] Text('PARALLELOGRAM') @(-2.55,1.50)
+[scene1       step  8] OFF-CENTRE  dx=-3.05 span=[-3.53..-1.57] Text('PARALLELOGRAM') @(-2.55,1.50)
+[scene1       step  8] OFF-CENTRE  dx=-3.05 span=[-3.72..-1.38] Text('Only3measurements?') @(-2.55,-0.85)
+[scene1       step  9] OFF-CENTRE  dx=-3.05 span=[-3.53..-1.57] Text('PARALLELOGRAM') @(-2.55,1.50)
+[scene1       step  9] OFF-CENTRE  dx=-3.05 span=[-3.72..-1.38] Text('Only3measurements?') @(-2.55,-0.85)
+[scene1       step 10] OFF-CENTRE  dx=-3.05 span=[-3.53..-1.57] Text('PARALLELOGRAM') @(-2.55,1.50)
+[scene1       step 10] OFF-CENTRE  dx=-3.05 span=[-3.72..-1.38] Text('Only3measurements?') @(-2.55,-0.85)
+[scene1       step 10] OFF-CENTRE  dx=+3.05 span=[+2.55..+4.55] Text('Canthisbeenough?') @(3.55,-0.85)
+[scene1       step 11] OFF-CENTRE  dx=-3.05 span=[-3.53..-1.57] Text('PARALLELOGRAM') @(-2.55,1.50)
+[scene1       step 11] OFF-CENTRE  dx=-3.05 span=[-3.52..-1.58] VGroup('Oppositeanglesequal;') @(-2.55,-0.35)
+[scene1       step 11] OFF-CENTRE  dx=+3.05 span=[+2.66..+4.44] VGroup('Equalperpendicular-') @(3.55,-0.35)
+[scene2       step 13] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene2       step 13] OFF-CENTRE  dx=-1.75 span=[-4.32..+1.83] VGroup('B') @(-1.25,0.10)
+[scene2       step 14] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene2       step 14] OFF-CENTRE  dx=-1.75 span=[-4.32..+1.83] VGroup('B') @(-1.25,0.10)
+[scene2       step 15] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene2       step 15] OFF-CENTRE  dx=-1.75 span=[-4.32..+1.83] VGroup('B') @(-1.25,0.10)
+[scene2       step 15] OFF-CENTRE  dx=+2.55 span=[+2.16..+3.94] Text('Oppositeanglesareequal') @(3.05,-0.55)
+[scene2       step 16] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene2       step 16] OFF-CENTRE  dx=-1.75 span=[-4.32..+1.83] VGroup('B') @(-1.25,0.10)
+[scene2       step 16] OFF-CENTRE  dx=+2.55 span=[+2.16..+3.94] Text('Oppositeanglesareequal') @(3.05,-0.55)
+[scene2       step 16] OFF-CENTRE  dx=+2.55 span=[+2.03..+4.07] Text('Consecutiveanglesaddto180°') @(3.05,-1.25)
+[scene2       step 16] OFF-CENTRE  dx=+2.55 span=[+2.19..+3.91] VGroup('180^\\circ - 45^\\circ = 135') @(3.05,-2.15)
+[scene2       step 17] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene2       step 17] OFF-CENTRE  dx=-1.75 span=[-4.32..+1.83] VGroup('B') @(-1.25,0.10)
+[scene2       step 17] OFF-CENTRE  dx=+2.55 span=[+2.16..+3.94] Text('Oppositeanglesareequal') @(3.05,-0.55)
+[scene2       step 17] OFF-CENTRE  dx=+2.55 span=[+2.03..+4.07] Text('Consecutiveanglesaddto180°') @(3.05,-1.25)
+[scene2       step 17] OFF-CENTRE  dx=+2.55 span=[+2.19..+3.91] VGroup('180^\\circ - 45^\\circ = 135') @(3.05,-2.15)
+[scene2       step 18] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene2       step 18] OFF-CENTRE  dx=-1.75 span=[-4.32..+1.83] VGroup('B') @(-1.25,0.10)
+[scene2       step 18] OFF-CENTRE  dx=+2.55 span=[+2.16..+3.94] Text('Oppositeanglesareequal') @(3.05,-0.55)
+[scene2       step 18] OFF-CENTRE  dx=+2.55 span=[+2.03..+4.07] Text('Consecutiveanglesaddto180°') @(3.05,-1.25)
+[scene2       step 18] OFF-CENTRE  dx=+2.55 span=[+2.19..+3.91] VGroup('180^\\circ - 45^\\circ = 135') @(3.05,-2.15)
+[scene3       step 20] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 20] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 21] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 21] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 22] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 22] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 23] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 23] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 24] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 24] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 25] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 25] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 26] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 26] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 26] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 26] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 27] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 27] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 27] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 27] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 28] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 28] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 28] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 28] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 28] OFF-CENTRE  dx=-3.23 span=[-4.06..-1.39] Line('') @(-2.73,0.26)
+[scene3       step 29] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 29] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 29] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 29] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 29] OFF-CENTRE  dx=-3.23 span=[-4.06..-1.39] Line('') @(-2.73,0.26)
+[scene3       step 30] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 30] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 30] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 30] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 30] OFF-CENTRE  dx=-3.23 span=[-4.06..-1.39] Line('') @(-2.73,0.26)
+[scene3       step 30] OFF-CENTRE  dx=-2.35 span=[-2.79..-0.91] Line('') @(-1.85,1.47)
+[scene3       step 31] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 31] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 31] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 31] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 31] OFF-CENTRE  dx=-3.23 span=[-4.06..-1.39] Line('') @(-2.73,0.26)
+[scene3       step 31] OFF-CENTRE  dx=-3.00 span=[-4.09..-0.91] Line('') @(-2.50,1.47)
+[scene3       step 32] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 32] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 32] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 32] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 32] OFF-CENTRE  dx=-3.23 span=[-4.06..-1.39] Line('') @(-2.73,0.26)
+[scene3       step 32] OFF-CENTRE  dx=-3.00 span=[-4.09..-0.91] Line('') @(-2.50,1.47)
+[scene3       step 33] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Line('') @(0.12,-1.07)
+[scene3       step 33] OFF-CENTRE  dx=-0.37 span=[-1.56..+1.83] VGroup('B') @(0.13,-1.36)
+[scene3       step 33] OFF-CENTRE  dx=-0.38 span=[-1.39..+1.63] Polygon('') @(0.12,0.20)
+[scene3       step 33] OFF-CENTRE  dx=+2.55 span=[+1.81..+4.29] Text('TriangleBELisfixedbyS.A.S.') @(3.05,-0.10)
+[scene3       step 33] OFF-CENTRE  dx=-3.23 span=[-4.06..-1.39] Line('') @(-2.73,0.26)
+[scene3       step 33] OFF-CENTRE  dx=-3.00 span=[-4.09..-0.91] Line('') @(-2.50,1.47)
+[scene3       step 33] OFF-CENTRE  dx=-1.65 span=[-3.93..+1.63] Polygon('') @(-1.15,0.20)
+[scene3       step 33] OFF-CENTRE  dx=+2.55 span=[+1.34..+4.76] Text('PARALLELOGRAMCOMPLETE') @(3.05,-1.85)
+[scene4       step 35] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Polygon('') @(-1.00,0.05)
+[scene4       step 35] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene4       step 35] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene4       step 36] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Polygon('') @(-1.00,0.05)
+[scene4       step 36] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene4       step 36] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene4       step 36] OFF-CENTRE  dx=+2.55 span=[+2.25..+3.85] Text('Diagonalsareperpendicular') @(3.05,0.35)
+[scene4       step 37] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Polygon('') @(-1.00,0.05)
+[scene4       step 37] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene4       step 37] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene4       step 37] OFF-CENTRE  dx=+2.55 span=[+2.25..+3.85] Text('Diagonalsareperpendicular') @(3.05,0.35)
+[scene4       step 37] OFF-CENTRE  dx=+2.55 span=[+2.12..+3.98] Text('Diagonalsbisecteachother') @(3.05,-0.45)
+[scene4       step 38] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Polygon('') @(-1.00,0.05)
+[scene4       step 38] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene4       step 38] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene4       step 38] OFF-CENTRE  dx=+2.55 span=[+2.25..+3.85] Text('Diagonalsareperpendicular') @(3.05,0.35)
+[scene4       step 38] OFF-CENTRE  dx=+2.55 span=[+2.12..+3.98] Text('Diagonalsbisecteachother') @(3.05,-0.45)
+[scene4       step 39] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Polygon('') @(-1.00,0.05)
+[scene4       step 39] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene4       step 39] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene4       step 39] OFF-CENTRE  dx=+2.55 span=[+2.25..+3.85] Text('Diagonalsareperpendicular') @(3.05,0.35)
+[scene4       step 39] OFF-CENTRE  dx=+2.55 span=[+2.12..+3.98] Text('Diagonalsbisecteachother') @(3.05,-0.45)
+[scene4       step 39] OFF-CENTRE  dx=+2.55 span=[+2.01..+4.09] VGroup('OB = OD = \\tfrac{6}{2} = 3') @(3.05,-1.35)
+[scene4       step 39] OFF-CENTRE  dx=+0.45 span=[-0.60..+2.50] Text('BISECT+PERPENDICULAR') @(0.95,-2.50)
+[scene5       step 41] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 41] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 42] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 42] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 42] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 43] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 43] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 43] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 44] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 44] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 44] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 45] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 45] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 45] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 46] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 46] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 46] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 47] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 47] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 47] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 48] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Line('') @(-1.00,0.05)
+[scene5       step 48] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.07)
+[scene5       step 48] OFF-CENTRE  dx=+2.55 span=[+2.04..+4.06] Text('TheperpendicularthroughO') @(3.05,0.55)
+[scene5       step 48] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] VGroup('') @(-1.00,0.05)
+[scene5       step 48] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] Polygon('') @(-1.00,0.05)
+[scene5       step 48] OFF-CENTRE  dx=+2.55 span=[+1.76..+4.34] Text('RHOMBUSCOMPLETE') @(3.05,-1.45)
+[scene6       step 50] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] VGroup('') @(-1.00,0.05)
+[scene6       step 50] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene6       step 51] OFF-CENTRE  dx=-1.50 span=[-2.53..+0.53] VGroup('') @(-1.00,0.05)
+[scene6       step 51] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene6       step 51] OFF-CENTRE  dx=+0.85 span=[-0.65..+3.35] Text('Whatifbothdiagonalsareequa') @(1.35,-2.68)
+[scene6       step 52] OFF-CENTRE  dx=-1.50 span=[-3.04..+1.04] VGroup('') @(-1.00,0.05)
+[scene6       step 52] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene6       step 52] OFF-CENTRE  dx=+0.85 span=[-0.65..+3.35] Text('Whatifbothdiagonalsareequa') @(1.35,-2.68)
+[scene6       step 53] OFF-CENTRE  dx=-1.50 span=[-3.04..+1.04] VGroup('') @(-1.00,0.05)
+[scene6       step 53] OFF-CENTRE  dx=-1.53 span=[-2.92..+0.87] VGroup('A') @(-1.03,0.01)
+[scene6       step 53] OFF-CENTRE  dx=+0.85 span=[-0.65..+3.35] Text('Whatifbothdiagonalsareequa') @(1.35,-2.68)
+[scene6       step 53] OFF-CENTRE  dx=+2.55 span=[+1.57..+4.53] Text('Equaldiagonals,bisectingat') @(3.05,0.55)
+[scene6       step 53] OFF-CENTRE  dx=+2.55 span=[+2.23..+3.87] VGroup('4.2 \\div 2 = 2.1\\text{ cm}') @(3.05,-0.45)
+[scene6       step 55] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 56] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 57] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 58] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 59] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 60] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 61] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 62] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Line('') @(-1.00,0.05)
+[scene6       step 62] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] VGroup('') @(-1.00,0.05)
+[scene6       step 62] OFF-CENTRE  dx=-1.50 span=[-2.68..+0.68] Polygon('') @(-1.00,0.05)
+[scene6       step 62] OFF-CENTRE  dx=+2.55 span=[+1.88..+4.22] Text('SQUARECOMPLETE') @(3.05,-1.45)
+[scene7       step 65] OFF-CENTRE  dx=-3.00 span=[-3.35..-1.65] Polygon('') @(-2.50,1.00)
+[scene7       step 65] OFF-CENTRE  dx=-3.00 span=[-3.45..-1.55] VGroup('Oppositeanglesequal') @(-2.50,-0.30)
+[scene7       step 65] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('→themissingangles') @(-2.50,-1.10)
+[scene7       step 66] OFF-CENTRE  dx=-3.00 span=[-3.35..-1.65] Polygon('') @(-2.50,1.00)
+[scene7       step 66] OFF-CENTRE  dx=-3.00 span=[-3.45..-1.55] VGroup('Oppositeanglesequal') @(-2.50,-0.30)
+[scene7       step 66] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('→themissingangles') @(-2.50,-1.10)
+[scene7       step 67] OFF-CENTRE  dx=-3.00 span=[-3.35..-1.65] Polygon('') @(-2.50,1.00)
+[scene7       step 67] OFF-CENTRE  dx=-3.00 span=[-3.45..-1.55] VGroup('Oppositeanglesequal') @(-2.50,-0.30)
+[scene7       step 67] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('→themissingangles') @(-2.50,-1.10)
+[scene7       step 67] OFF-CENTRE  dx=+3.00 span=[+2.52..+4.48] VGroup('→onemorecondition') @(3.50,-1.10)
+[scene7       step 68] OFF-CENTRE  dx=-3.00 span=[-3.35..-1.65] Polygon('') @(-2.50,1.00)
+[scene7       step 68] OFF-CENTRE  dx=-3.00 span=[-3.45..-1.55] VGroup('Oppositeanglesequal') @(-2.50,-0.30)
+[scene7       step 68] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('→themissingangles') @(-2.50,-1.10)
+[scene7       step 68] OFF-CENTRE  dx=+3.00 span=[+2.52..+4.48] VGroup('→onemorecondition') @(3.50,-1.10)
+[scene7       step 69] OFF-CENTRE  dx=-3.00 span=[-3.35..-1.65] Polygon('') @(-2.50,1.00)
+[scene7       step 69] OFF-CENTRE  dx=-3.00 span=[-3.45..-1.55] VGroup('Oppositeanglesequal') @(-2.50,-0.30)
+[scene7       step 69] OFF-CENTRE  dx=-3.00 span=[-3.43..-1.57] VGroup('→themissingangles') @(-2.50,-1.10)
+[scene7       step 69] OFF-CENTRE  dx=+3.00 span=[+2.52..+4.48] VGroup('→onemorecondition') @(3.50,-1.10)
+[scene8       step 71] OFF-CENTRE  dx=+2.35 span=[+1.20..+4.50] VGroup('1.IDENTIFY') @(2.85,0.55)
+[scene8       step 72] OFF-CENTRE  dx=+2.35 span=[+1.20..+4.50] VGroup('1.IDENTIFY') @(2.85,0.55)
+[scene8       step 73] OFF-CENTRE  dx=+2.35 span=[+1.20..+4.50] VGroup('1.IDENTIFY') @(2.85,0.55)
+[scene8       step 73] OFF-CENTRE  dx=-2.60 span=[-3.27..-0.93] Text('Thepropertysupplieswhatwas') @(-2.10,-2.05)
+[scene8       step 74] OFF-CENTRE  dx=+2.35 span=[+1.20..+4.50] VGroup('1.IDENTIFY') @(2.85,0.55)
+[scene8       step 74] OFF-CENTRE  dx=-2.60 span=[-3.27..-0.93] Text('Thepropertysupplieswhatwas') @(-2.10,-2.05)
+[scene9_setup step 77] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_setup step 77] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_setup step 77] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_setup step 77] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_setup step 78] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_setup step 78] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_setup step 78] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_setup step 78] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_setup step 78] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_setup step 78] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_setup step 78] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_setup step 78] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_setup step 79] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_setup step 79] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_setup step 79] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_setup step 79] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_setup step 79] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_setup step 79] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_setup step 79] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_setup step 79] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[GAP          step 80] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[GAP          step 80] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[GAP          step 80] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[GAP          step 80] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[GAP          step 80] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[GAP          step 80] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[GAP          step 80] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[GAP          step 80] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[GAP          step 81] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[GAP          step 81] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[GAP          step 81] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[GAP          step 81] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[GAP          step 81] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[GAP          step 81] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[GAP          step 81] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[GAP          step 81] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[GAP          step 82] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[GAP          step 82] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[GAP          step 82] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[GAP          step 82] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[GAP          step 82] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[GAP          step 82] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[GAP          step 82] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[GAP          step 82] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[GAP          step 83] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[GAP          step 83] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[GAP          step 83] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[GAP          step 83] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[GAP          step 83] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[GAP          step 83] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[GAP          step 83] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[GAP          step 83] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[GAP          step 84] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[GAP          step 84] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[GAP          step 84] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[GAP          step 84] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[GAP          step 84] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[GAP          step 84] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[GAP          step 84] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[GAP          step 84] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[GAP          step 85] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[GAP          step 85] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[GAP          step 85] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[GAP          step 85] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[GAP          step 85] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[GAP          step 85] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[GAP          step 85] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[GAP          step 85] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 86] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 86] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 86] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 86] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 86] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 86] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 86] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 86] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 87] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 87] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 87] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 87] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 87] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 87] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 87] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 87] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 87] OFF-CENTRE  dx=-3.05 span=[-3.44..-1.66] VGroup('65°') @(-2.55,0.30)
+[scene9_reveal step 88] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 88] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 88] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 88] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 88] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 88] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 88] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 88] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 88] OFF-CENTRE  dx=-3.05 span=[-3.44..-1.66] VGroup('65°') @(-2.55,0.30)
+[scene9_reveal step 88] OFF-CENTRE  dx=-3.05 span=[-3.49..-1.61] Text('65°,115°,115°') @(-2.55,-2.40)
+[scene9_reveal step 89] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 89] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 89] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 89] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 89] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 89] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 89] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 89] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 89] OFF-CENTRE  dx=-3.05 span=[-3.44..-1.66] VGroup('65°') @(-2.55,0.30)
+[scene9_reveal step 89] OFF-CENTRE  dx=-3.05 span=[-3.49..-1.61] Text('65°,115°,115°') @(-2.55,-2.40)
+[scene9_reveal step 89] OFF-CENTRE  dx=+2.55 span=[+1.94..+4.16] VGroup('4cm') @(3.05,0.30)
+[scene9_reveal step 90] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 90] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 90] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 90] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 90] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 90] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 90] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 90] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 90] OFF-CENTRE  dx=-3.05 span=[-3.44..-1.66] VGroup('65°') @(-2.55,0.30)
+[scene9_reveal step 90] OFF-CENTRE  dx=-3.05 span=[-3.49..-1.61] Text('65°,115°,115°') @(-2.55,-2.40)
+[scene9_reveal step 90] OFF-CENTRE  dx=+2.55 span=[+1.94..+4.16] VGroup('4cm') @(3.05,0.30)
+[scene9_reveal step 90] OFF-CENTRE  dx=+2.55 span=[+1.13..+4.97] Text('OA=OC=4cm,OB=OD=3cm') @(3.05,-2.40)
+[scene9_reveal step 91] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 91] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 91] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 91] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 91] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 91] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 91] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 91] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 91] OFF-CENTRE  dx=-3.05 span=[-3.44..-1.66] VGroup('65°') @(-2.55,0.30)
+[scene9_reveal step 91] OFF-CENTRE  dx=-3.05 span=[-3.49..-1.61] Text('65°,115°,115°') @(-2.55,-2.40)
+[scene9_reveal step 91] OFF-CENTRE  dx=+2.55 span=[+1.94..+4.16] VGroup('4cm') @(3.05,0.30)
+[scene9_reveal step 91] OFF-CENTRE  dx=+2.55 span=[+1.13..+4.97] Text('OA=OC=4cm,OB=OD=3cm') @(3.05,-2.40)
+[scene9_reveal step 92] OFF-CENTRE  dx=-3.05 span=[-3.55..-1.55] Polygon('') @(-2.55,0.30)
+[scene9_reveal step 92] OFF-CENTRE  dx=-3.06 span=[-3.88..-1.23] VGroup('A') @(-2.56,0.22)
+[scene9_reveal step 92] OFF-CENTRE  dx=-3.05 span=[-4.42..-0.68] Text('AparallelogramwithangleA=6') @(-2.55,-1.35)
+[scene9_reveal step 92] OFF-CENTRE  dx=-3.05 span=[-4.30..-0.80] Text('Whataretheotherthreeangles') @(-2.55,-1.85)
+[scene9_reveal step 92] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] Polygon('') @(3.05,0.30)
+[scene9_reveal step 92] OFF-CENTRE  dx=+2.55 span=[+1.37..+4.73] VGroup('') @(3.05,0.30)
+[scene9_reveal step 92] OFF-CENTRE  dx=+2.55 span=[+1.12..+4.98] Text('Arhombus:AC=8cm,BD=6cm') @(3.05,-1.35)
+[scene9_reveal step 92] OFF-CENTRE  dx=+2.55 span=[+1.40..+4.70] Text('HowfariseachvertexfromO?') @(3.05,-1.85)
+[scene9_reveal step 92] OFF-CENTRE  dx=-3.05 span=[-3.44..-1.66] VGroup('65°') @(-2.55,0.30)
+[scene9_reveal step 92] OFF-CENTRE  dx=-3.05 span=[-3.49..-1.61] Text('65°,115°,115°') @(-2.55,-2.40)
+[scene9_reveal step 92] OFF-CENTRE  dx=+2.55 span=[+1.94..+4.16] VGroup('4cm') @(3.05,0.30)
+[scene9_reveal step 92] OFF-CENTRE  dx=+2.55 span=[+1.13..+4.97] Text('OA=OC=4cm,OB=OD=3cm') @(3.05,-2.40)
+[scene10      step 95] OFF-CENTRE  dx=-3.00 span=[-3.91..-1.09] VGroup('Oppositeanglesequal,') @(-2.50,-0.35)
+[scene10      step 96] OFF-CENTRE  dx=-3.00 span=[-3.91..-1.09] VGroup('Oppositeanglesequal,') @(-2.50,-0.35)
+[scene10      step 96] OFF-CENTRE  dx=+3.00 span=[+2.61..+4.39] VGroup('Equalperpendicular-') @(3.50,-0.35)
+[scene10      step 97] OFF-CENTRE  dx=-3.00 span=[-3.91..-1.09] VGroup('Oppositeanglesequal,') @(-2.50,-0.35)
+[scene10      step 97] OFF-CENTRE  dx=+3.00 span=[+2.61..+4.39] VGroup('Equalperpendicular-') @(3.50,-0.35)

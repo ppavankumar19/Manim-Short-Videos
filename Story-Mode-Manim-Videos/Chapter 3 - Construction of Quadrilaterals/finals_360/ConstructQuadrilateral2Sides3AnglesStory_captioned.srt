@@ -1,0 +1,275 @@
+1
+00:00:00,320 --> 00:00:04,051
+How do we construct a quadrilateral from two adjacent
+
+2
+00:00:04,051 --> 00:00:07,180
+sides and three angles? Two lengths and three angles:
+
+3
+00:00:07,180 --> 00:00:10,611
+the plan has to sort them before anything is drawn.
+
+4
+00:00:11,213 --> 00:00:14,593
+Here is our problem. Two adjacent sides: P Q
+
+5
+00:00:14,593 --> 00:00:17,143
+is four centimetres, and Q R is four point
+
+6
+00:00:17,143 --> 00:00:21,273
+eight. Three angles: angle P is seventy five degrees,
+
+7
+00:00:21,273 --> 00:00:24,131
+angle Q is one hundred, and angle R is
+
+8
+00:00:24,131 --> 00:00:28,173
+one hundred and twenty. Two sides and three angles.
+
+9
+00:00:28,173 --> 00:00:29,544
+So where do we begin?
+
+10
+00:00:30,110 --> 00:00:33,203
+A diagonal was not given this time. So look
+
+11
+00:00:33,203 --> 00:00:35,841
+for the triangle we can already build: P Q
+
+12
+00:00:35,841 --> 00:00:37,730
+is four, Q R is four point eight, and
+
+13
+00:00:37,730 --> 00:00:40,763
+they meet at Q. The angle between them, angle
+
+14
+00:00:40,763 --> 00:00:44,530
+Q, is one hundred degrees. Side, angle, side: triangle
+
+15
+00:00:44,530 --> 00:00:49,461
+P Q R is fixed. The other two angles come later.
+
+16
+00:00:50,163 --> 00:00:54,063
+Here is the whole plan. Three measurements build the
+
+17
+00:00:54,063 --> 00:00:56,652
+first triangle: the side P Q, the angle Q,
+
+18
+00:00:56,652 --> 00:00:59,179
+and the side Q R. The other two, the
+
+19
+00:00:59,179 --> 00:01:01,297
+angle at P and the angle at R, locate
+
+20
+00:01:01,297 --> 00:01:04,834
+the fourth vertex. Three build, and two locate.
+
+21
+00:01:05,250 --> 00:01:08,970
+Now we construct it accurately. Draw the side P
+
+22
+00:01:08,970 --> 00:01:11,292
+Q, four centimetres long, and label the ends P
+
+23
+00:01:11,292 --> 00:01:14,059
+and Q. At Q, set out an angle of
+
+24
+00:01:14,059 --> 00:01:16,881
+one hundred degrees from Q P. The new ray
+
+25
+00:01:16,881 --> 00:01:19,423
+is the direction of Q R, so R must
+
+26
+00:01:19,423 --> 00:01:20,641
+lie somewhere on it.
+
+27
+00:01:21,190 --> 00:01:24,810
+Set the compasses to four point eight centimetres, the
+
+28
+00:01:24,810 --> 00:01:27,760
+length of Q R. With the needle at Q,
+
+29
+00:01:27,760 --> 00:01:30,497
+mark that distance along the ray. That point is
+
+30
+00:01:30,497 --> 00:01:34,220
+R. Join P to R, and triangle P Q
+
+31
+00:01:34,220 --> 00:01:37,001
+R is fixed by side, angle, side.
+
+32
+00:01:37,557 --> 00:01:40,433
+Only the fourth vertex is left. At P, set
+
+33
+00:01:40,433 --> 00:01:42,449
+out an angle of seventy five degrees from P
+
+34
+00:01:42,449 --> 00:01:46,577
+Q, on the inside of the figure. Every point
+
+35
+00:01:46,577 --> 00:01:48,917
+on this ray makes seventy five degrees with P
+
+36
+00:01:48,917 --> 00:01:52,957
+Q, so S lies somewhere on it. An angle
+
+37
+00:01:52,957 --> 00:01:56,945
+gives a direction, not a distance. Seventy five degrees
+
+38
+00:01:56,945 --> 00:01:59,408
+is half way between sixty and ninety.
+
+39
+00:02:00,000 --> 00:02:03,198
+Now the angle at R. With the compasses, mark
+
+40
+00:02:03,198 --> 00:02:05,334
+one hundred and twenty degrees from R Q and
+
+41
+00:02:05,334 --> 00:02:08,628
+draw the second ray. This ray is another set
+
+42
+00:02:08,628 --> 00:02:12,227
+of possible places for S, and the two rays
+
+43
+00:02:12,227 --> 00:02:16,260
+cross at exactly one point. That point is S:
+
+44
+00:02:16,260 --> 00:02:17,931
+two directions agree there.
+
+45
+00:02:18,477 --> 00:02:21,337
+We finish the figure: join P to S and
+
+46
+00:02:21,337 --> 00:02:25,173
+R to S. Let us check every measurement: P
+
+47
+00:02:25,173 --> 00:02:27,977
+Q is four, Q R is four point eight,
+
+48
+00:02:27,977 --> 00:02:30,847
+angle P is seventy five degrees, angle Q is
+
+49
+00:02:30,847 --> 00:02:33,505
+one hundred, and angle R is one hundred and
+
+50
+00:02:33,505 --> 00:02:37,870
+twenty. Here is the method: sketch the figure, build
+
+51
+00:02:37,870 --> 00:02:40,657
+the side angle side triangle, draw the two remaining
+
+52
+00:02:40,657 --> 00:02:43,748
+angle rays, and their crossing gives the last vertex.
+
+53
+00:02:44,187 --> 00:02:48,047
+Your turn. Construct quadrilateral A B C D: A
+
+54
+00:02:48,047 --> 00:02:50,927
+B is five centimetres, B C is four centimetres,
+
+55
+00:02:50,927 --> 00:02:53,887
+angle A is seventy degrees, angle B is one
+
+56
+00:02:53,887 --> 00:02:56,904
+hundred and ten degrees, and angle C is one
+
+57
+00:02:56,904 --> 00:03:00,343
+hundred and twenty degrees. Which three measurements should you
+
+58
+00:03:00,343 --> 00:03:02,838
+use first? Pause the video and decide.
+
+59
+00:03:07,937 --> 00:03:10,567
+Let us check. A B and B C are
+
+60
+00:03:10,567 --> 00:03:14,572
+the two adjacent sides, and they meet at B.
+
+61
+00:03:14,572 --> 00:03:17,077
+So the triangle is A B C, built by
+
+62
+00:03:17,077 --> 00:03:20,507
+side, angle, side. Then the angles at A and
+
+63
+00:03:20,507 --> 00:03:24,208
+C give two rays, and where they cross is D.
+
+64
+00:03:24,833 --> 00:03:28,293
+Let us put it together. Two adjacent sides and
+
+65
+00:03:28,293 --> 00:03:31,258
+the angle between them build the first triangle. The
+
+66
+00:03:31,258 --> 00:03:34,333
+other two angles give two rays, and their crossing
+
+67
+00:03:34,333 --> 00:03:36,903
+is the fourth vertex. Side angle side builds; angle
+
+68
+00:03:36,903 --> 00:03:40,920
+angle locates. Thank you for watching! See you in
+
+69
+00:03:40,920 --> 00:03:41,924
+the next lesson!

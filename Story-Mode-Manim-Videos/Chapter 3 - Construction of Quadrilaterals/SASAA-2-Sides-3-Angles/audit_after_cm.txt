@@ -1,0 +1,409 @@
+﻿python.exe : 'sox' is not recognized as an internal or external command,
+At line:8 char:3
++   & $py audit_sync_overlap.py *> (Join-Path $d "audit_after_cm.log")
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('sox' is not re...ternal command,:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+operable program or batch file.
+[10/05/26 21:45:28] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+[10/05/26 21:45:29] INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[title         ] start board: 0 text mobjects
+[10/05/26 21:45:30] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene1        ] start board: 5 text mobjects -> Text('ConstructaQuadrilateral') @(0.50,2.05); Text('TwoSidesandThreeAngles') @(0.50,1.15); VGroup('P') @(0.86,-0.73); VGroup('100°') @(0.91,-1.28); Text('Sides→Triangle→Rays→Meet') @(0.50,-2.55)
+[10/05/26 21:45:31] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene2        ] start board: 11 text mobjects -> Text('TwoSidesandThreeAngles') @(0.50,2.72); Text('2adjacentsides') @(0.50,2.20); VGroup('PQ=4\\text{ cm}') @(-0.43,1.68); VGroup('QR=4.8\\text{ cm}') @(1.36,1.68); Text('3angles') @(0.50,1.13); VGroup('\\angle P = 75^\\circ') @(-1.08,0.60)
+[10/05/26 21:45:35] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene3        ] start board: 11 text mobjects -> Text('FindtheSide–Angle–SideTria') @(0.50,2.72); VGroup('P') @(-1.19,0.06); VGroup('PQ=4\\text{ cm}') @(3.05,1.55); VGroup('\\angle Q = 100^\\circ') @(3.05,0.95); VGroup('QR=4.8\\text{ cm}') @(3.05,0.35); VGroup('100°') @(-0.79,-1.56)
+[10/05/26 21:45:41] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene4        ] start board: 10 text mobjects -> Text('3Build.2Locate.') @(0.50,2.72); Text('BUILD') @(-2.00,2.18); VGroup('PQ=4\\text{ cm}') @(-2.00,1.76); VGroup('\\angle Q = 100^\\circ') @(-2.00,1.05); VGroup('QR=4.8\\text{ cm}') @(-2.00,0.34); Text('LOCATE') @(3.10,2.18)
+[10/05/26 21:45:44] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene5        ] start board: 7 text mobjects -> Text('STEP2—BuildTrianglePQRbyS.') @(0.50,2.72); VGroup('P') @(-1.60,-2.13); Text('4cm') @(-1.53,-2.24); VGroup('PQ=4\\text{ cm}') @(3.05,1.35); Text('100°') @(-1.26,-0.93); VGroup('\\angle Q = 100^\\circ') @(3.05,0.55)
+[10/05/26 21:45:46] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene6        ] start board: 8 text mobjects -> Text('STEP2—CompletetheTriangle') @(0.50,2.72); VGroup('P') @(-1.19,-0.98); Text('4cm') @(-1.53,-2.24); Text('100°') @(-1.26,-0.93); Text('4.8cm') @(0.37,-0.72); VGroup('QR=4.8\\text{ cm}') @(3.05,1.35)
+[10/05/26 21:45:48] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene7        ] start board: 7 text mobjects -> Text('STEP3—SetOuttheAngleatP') @(0.50,2.72); VGroup('P') @(-1.19,-0.98); Text('100°') @(-1.26,-0.93); Text('75°') @(-3.02,-0.84); VGroup('\\angle P = 75^\\circ') @(3.05,1.55); Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[10/05/26 21:45:50] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene8        ] start board: 7 text mobjects -> Text('STEP4—TheAngleatRFindsS') @(0.50,2.72); VGroup('P') @(-1.19,-0.98); Text('75°') @(-3.02,-0.84); VGroup('\\angle R = 120^\\circ') @(3.05,1.55); Text('S') @(-1.67,2.32); Text('Thetworayscrossatexactlyon') @(3.05,-0.35)
+[10/05/26 21:45:53] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene9_setup  ] start board: 4 text mobjects -> Text('RequiredQuadrilateralPQRS') @(0.50,2.72); VGroup('P') @(-1.19,0.06); VGroup('1.SKETCH') @(2.62,0.35); Text('Sketch→SAS→Rays→Intersecti') @(0.50,-2.55)
+[10/05/26 21:45:57] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene9_reveal ] start board: 11 text mobjects -> Text('YOURTURN') @(0.50,2.62); Text('QuadrilateralABCD') @(0.50,2.24); VGroup('A') @(-1.30,-0.27); VGroup('AB=5\\text{ cm}') @(3.05,1.94); VGroup('BC=4\\text{ cm}') @(3.05,1.35); VGroup('\\angle A = 70^\\circ') @(3.05,0.75)
+[10/05/26 21:46:08] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+[scene10       ] start board: 11 text mobjects -> Text('YOURTURN') @(0.50,2.62); Text('QuadrilateralABCD') @(0.50,2.24); VGroup('A') @(-1.30,-0.27); VGroup('AB=5\\text{ cm}') @(3.05,1.94); VGroup('BC=4\\text{ cm}') @(3.05,1.35); VGroup('\\angle A = 70^\\circ') @(3.05,0.75)
+[10/05/26 21:46:12] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'ConstructQuadrilateral2Sides3                    
+                             AnglesStory' object has no                        
+                             attribute 'speech_service'                        
+
+===== SYNC (animation time vs audio duration per beat) =====
+title          audio=  9.95s anim=  9.95s stretch= 0.00s
+scene1         audio= 18.06s anim= 18.06s stretch= 0.00s
+scene2         audio= 18.90s anim= 18.90s stretch= 0.00s
+scene3         audio= 14.23s anim= 14.35s stretch= 0.12s
+scene4         audio= 15.09s anim= 15.09s stretch= 0.00s
+scene5         audio= 15.41s anim= 15.41s stretch= 0.00s
+scene6         audio= 21.50s anim= 21.50s stretch= 0.00s
+scene7         audio= 17.51s anim= 17.51s stretch= 0.00s
+scene8         audio= 24.93s anim= 24.93s stretch= 0.00s
+scene9_setup   audio= 18.29s anim= 18.29s stretch= 0.00s
+scene9_reveal  audio= 15.90s anim= 15.90s stretch= 0.00s
+scene10        audio= 16.76s anim= 17.13s stretch= 0.37s  <<< STRETCH
+TOTAL          audio=206.53s anim=207.02s stretch= 0.49s   (video time incl. gaps ~ 217.3s)
+
+===== OVERLAPS =====
+[title        step  4] OFF-CENTRE  dx=+0.36 span=[-0.01..+1.73] VGroup('P') @(0.86,-0.73)
+[title        step  5] OFF-CENTRE  dx=+0.36 span=[-0.01..+1.73] VGroup('P') @(0.86,-0.73)
+[title        step  6] OFF-CENTRE  dx=+0.36 span=[-0.01..+1.73] VGroup('P') @(0.86,-0.73)
+[title        step  7] OFF-CENTRE  dx=+0.36 span=[-0.01..+1.73] VGroup('P') @(0.86,-0.73)
+[title        step  8] OFF-CENTRE  dx=+0.36 span=[-0.01..+1.73] VGroup('P') @(0.86,-0.73)
+[scene2       step 17] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 17] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 17] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 18] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 18] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 18] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 18] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene2       step 19] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 19] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 19] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 19] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene2       step 20] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 20] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 20] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 20] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene2       step 21] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 21] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 21] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 21] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene2       step 21] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene2       step 21] OFF-CENTRE  dx=+2.55 span=[+1.82..+4.28] Text('Side–Angle–Side') @(3.05,-0.32)
+[scene2       step 22] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 22] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 22] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 22] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene2       step 22] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene2       step 22] OFF-CENTRE  dx=+2.55 span=[+1.82..+4.28] Text('Side–Angle–Side') @(3.05,-0.32)
+[scene2       step 23] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene2       step 23] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene2       step 23] OFF-CENTRE  dx=-1.47 span=[-1.96..+0.03] DashedLine('') @(-0.97,1.51)
+[scene2       step 23] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene2       step 23] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene2       step 23] OFF-CENTRE  dx=+2.55 span=[+1.82..+4.28] Text('Side–Angle–Side') @(3.05,-0.32)
+[scene2       step 23] OFF-CENTRE  dx=+2.55 span=[+1.68..+4.42] Text('Theincludedangletellsusthe') @(3.05,2.26)
+[scene4       step 33] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene4       step 33] OFF-CENTRE  dx=-2.10 span=[-2.98..-0.23] VGroup('P') @(-1.60,-2.13)
+[scene4       step 34] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene4       step 34] OFF-CENTRE  dx=-2.10 span=[-2.98..-0.23] VGroup('P') @(-1.60,-2.13)
+[scene4       step 34] OFF-CENTRE  dx=-0.93 span=[-1.38..+0.52] VGroup('') @(-0.43,-1.45)
+[scene4       step 35] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene4       step 35] OFF-CENTRE  dx=-2.10 span=[-2.98..-0.23] VGroup('P') @(-1.60,-2.13)
+[scene4       step 35] OFF-CENTRE  dx=-0.93 span=[-1.38..+0.52] VGroup('') @(-0.43,-1.45)
+[scene4       step 36] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene4       step 36] OFF-CENTRE  dx=-2.10 span=[-2.98..-0.23] VGroup('P') @(-1.60,-2.13)
+[scene4       step 36] OFF-CENTRE  dx=-0.93 span=[-1.38..+0.52] VGroup('') @(-0.43,-1.45)
+[scene4       step 37] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene4       step 37] OFF-CENTRE  dx=-2.10 span=[-2.98..-0.23] VGroup('P') @(-1.60,-2.13)
+[scene4       step 38] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene4       step 38] OFF-CENTRE  dx=-2.10 span=[-2.98..-0.23] VGroup('P') @(-1.60,-2.13)
+[scene4       step 38] OFF-CENTRE  dx=+2.55 span=[+1.73..+4.37] Text('Rmustliesomewhereonthisray') @(3.05,-0.75)
+[scene5       step 40] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 40] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 41] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 41] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 42] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 42] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 43] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 43] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 44] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 44] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 45] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 45] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 46] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 46] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 46] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] DashedLine('') @(-1.30,-0.62)
+[scene5       step 46] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene5       step 47] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene5       step 47] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene5       step 47] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] DashedLine('') @(-1.30,-0.62)
+[scene5       step 47] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene5       step 47] OFF-CENTRE  dx=+2.55 span=[+1.78..+4.32] Text('TrianglePQRisfixedbyS.A.S.') @(3.05,-0.75)
+[scene6       step 49] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 49] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 49] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 50] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 50] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 50] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 51] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 51] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 51] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 52] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 52] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 52] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 52] OFF-CENTRE  dx=+2.55 span=[+1.80..+4.30] Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[scene6       step 53] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 53] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 53] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 53] OFF-CENTRE  dx=+2.55 span=[+1.80..+4.30] Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[scene6       step 54] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 54] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 54] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 54] OFF-CENTRE  dx=+2.55 span=[+1.80..+4.30] Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[scene6       step 55] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 55] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 55] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 55] OFF-CENTRE  dx=+2.55 span=[+1.80..+4.30] Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[scene6       step 56] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 56] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 56] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 56] OFF-CENTRE  dx=+2.55 span=[+1.80..+4.30] Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[scene6       step 57] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene6       step 57] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene6       step 57] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene6       step 57] OFF-CENTRE  dx=+2.55 span=[+1.80..+4.30] Text('Scouldbesomewhereonthisray') @(3.05,-0.30)
+[scene6       step 57] OFF-CENTRE  dx=+2.65 span=[+2.14..+4.17] VGroup('60°') @(3.15,-1.58)
+[scene7       step 59] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 59] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 59] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 60] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 60] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 60] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 61] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 61] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 61] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 62] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 62] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 62] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 63] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 63] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 63] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 64] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 64] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 64] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 65] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 65] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 65] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 66] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 66] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 66] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 67] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 67] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 67] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 67] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene7       step 68] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 68] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 68] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 68] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene7       step 69] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 69] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 69] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 69] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene7       step 69] OFF-CENTRE  dx=+2.55 span=[+1.88..+4.22] Text('Thetworayscrossatexactlyon') @(3.05,-0.35)
+[scene7       step 70] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,-0.62)
+[scene7       step 70] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,-0.98)
+[scene7       step 70] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene7       step 70] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene7       step 70] OFF-CENTRE  dx=+2.55 span=[+1.88..+4.22] Text('Thetworayscrossatexactlyon') @(3.05,-0.35)
+[scene8       step 72] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 72] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 72] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 72] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 73] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 73] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 73] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 73] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 73] OFF-CENTRE  dx=-1.27 span=[-1.57..+0.03] Line('') @(-0.77,1.35)
+[scene8       step 74] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 74] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 74] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 74] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 74] OFF-CENTRE  dx=-1.27 span=[-1.57..+0.03] Line('') @(-0.77,1.35)
+[scene8       step 75] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 75] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 75] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 75] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 75] OFF-CENTRE  dx=-1.27 span=[-1.57..+0.03] Line('') @(-0.77,1.35)
+[scene8       step 76] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 76] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 76] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 76] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 76] OFF-CENTRE  dx=-1.27 span=[-1.57..+0.03] Line('') @(-0.77,1.35)
+[scene8       step 77] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 77] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 77] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 77] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 77] OFF-CENTRE  dx=-1.27 span=[-1.57..+0.03] Line('') @(-0.77,1.35)
+[scene8       step 77] OFF-CENTRE  dx=+2.12 span=[+1.07..+4.17] VGroup('1.SKETCH') @(2.62,0.35)
+[scene8       step 78] OFF-CENTRE  dx=-1.80 span=[-2.63..+0.03] Polygon('') @(-1.30,0.05)
+[scene8       step 78] OFF-CENTRE  dx=-1.69 span=[-2.98..+0.61] VGroup('P') @(-1.19,0.06)
+[scene8       step 78] OFF-CENTRE  dx=-2.03 span=[-2.63..-0.43] Line('') @(-1.53,-1.92)
+[scene8       step 78] OFF-CENTRE  dx=-1.32 span=[-1.67..+0.03] Line('') @(-0.82,1.39)
+[scene8       step 78] OFF-CENTRE  dx=-1.27 span=[-1.57..+0.03] Line('') @(-0.77,1.35)
+[scene8       step 78] OFF-CENTRE  dx=+2.12 span=[+1.07..+4.17] VGroup('1.SKETCH') @(2.62,0.35)
+[scene9_setup step 81] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_setup step 81] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_setup step 82] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_setup step 82] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_setup step 83] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_setup step 83] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_setup step 83] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_setup step 84] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_setup step 84] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_setup step 84] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_setup step 84] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[scene9_setup step 84] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[scene9_setup step 85] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_setup step 85] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_setup step 85] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_setup step 85] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[scene9_setup step 85] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[scene9_setup step 85] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[GAP          step 86] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[GAP          step 86] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[GAP          step 86] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[GAP          step 86] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[GAP          step 86] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[GAP          step 86] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[GAP          step 87] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[GAP          step 87] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[GAP          step 87] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[GAP          step 87] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[GAP          step 87] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[GAP          step 87] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[GAP          step 88] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[GAP          step 88] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[GAP          step 88] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[GAP          step 88] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[GAP          step 88] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[GAP          step 88] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[GAP          step 89] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[GAP          step 89] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[GAP          step 89] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[GAP          step 89] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[GAP          step 89] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[GAP          step 89] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[GAP          step 90] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[GAP          step 90] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[GAP          step 90] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[GAP          step 90] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[GAP          step 90] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[GAP          step 90] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[GAP          step 91] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[GAP          step 91] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[GAP          step 91] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[GAP          step 91] OFF-CENTRE  dx=+0.80 span=[-1.43..+4.03] Text('Whichthreemeasurementsshou') @(1.30,-2.62)
+[GAP          step 91] OFF-CENTRE  dx=+2.55 span=[+1.42..+4.68] Text('Whatistheirincludedangle?') @(3.05,-1.35)
+[GAP          step 91] OFF-CENTRE  dx=+2.55 span=[+2.06..+4.04] Text('Pauseanddecide.') @(3.05,-2.05)
+[scene9_reveal step 92] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_reveal step 92] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_reveal step 92] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_reveal step 93] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_reveal step 93] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_reveal step 93] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_reveal step 93] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-1.11)
+[scene9_reveal step 94] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_reveal step 94] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_reveal step 94] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_reveal step 94] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-1.11)
+[scene9_reveal step 94] OFF-CENTRE  dx=+2.55 span=[+1.90..+4.20] Text('Firsttriangle:ABC') @(3.05,-1.55)
+[scene9_reveal step 95] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_reveal step 95] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_reveal step 95] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_reveal step 95] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-1.11)
+[scene9_reveal step 95] OFF-CENTRE  dx=+2.55 span=[+1.90..+4.20] Text('Firsttriangle:ABC') @(3.05,-1.55)
+[scene9_reveal step 95] OFF-CENTRE  dx=-1.30 span=[-1.67..+0.06] Line('') @(-0.80,0.79)
+[scene9_reveal step 96] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-0.15)
+[scene9_reveal step 96] OFF-CENTRE  dx=-1.80 span=[-3.24..+0.64] VGroup('A') @(-1.30,-0.27)
+[scene9_reveal step 96] OFF-CENTRE  dx=-2.21 span=[-2.86..-0.56] Line('') @(-1.71,-1.97)
+[scene9_reveal step 96] OFF-CENTRE  dx=-1.90 span=[-2.86..+0.06] Polygon('') @(-1.40,-1.11)
+[scene9_reveal step 96] OFF-CENTRE  dx=+2.55 span=[+1.90..+4.20] Text('Firsttriangle:ABC') @(3.05,-1.55)
+[scene9_reveal step 96] OFF-CENTRE  dx=-1.30 span=[-1.67..+0.06] Line('') @(-0.80,0.79)
+[scene10      step 98] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,0.35)
+[scene10      step 98] OFF-CENTRE  dx=-3.00 span=[-3.72..-1.27] VGroup('P') @(-2.50,0.36)
+[scene10      step 98] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,-0.09)
+[scene10      step 99] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,0.35)
+[scene10      step 99] OFF-CENTRE  dx=-3.00 span=[-3.72..-1.27] VGroup('P') @(-2.50,0.36)
+[scene10      step 99] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,-0.09)
+[scene10      step 99] OFF-CENTRE  dx=+1.60 span=[-0.28..+4.48] VGroup('1') @(2.10,1.70)
+[scene10      step 100] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,0.35)
+[scene10      step 100] OFF-CENTRE  dx=-3.00 span=[-3.72..-1.27] VGroup('P') @(-2.50,0.36)
+[scene10      step 100] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,-0.09)
+[scene10      step 100] OFF-CENTRE  dx=+1.60 span=[-0.28..+4.48] VGroup('1') @(2.10,1.70)
+[scene10      step 100] OFF-CENTRE  dx=+0.98 span=[-0.28..+3.23] VGroup('2') @(1.48,1.20)
+[scene10      step 101] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,0.35)
+[scene10      step 101] OFF-CENTRE  dx=-3.00 span=[-3.72..-1.27] VGroup('P') @(-2.50,0.36)
+[scene10      step 101] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,-0.09)
+[scene10      step 101] OFF-CENTRE  dx=+1.60 span=[-0.28..+4.48] VGroup('1') @(2.10,1.70)
+[scene10      step 101] OFF-CENTRE  dx=+0.98 span=[-0.28..+3.23] VGroup('2') @(1.48,1.20)
+[scene10      step 101] OFF-CENTRE  dx=+0.45 span=[-0.28..+2.17] VGroup('3') @(0.95,0.70)
+[scene10      step 102] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,0.35)
+[scene10      step 102] OFF-CENTRE  dx=-3.00 span=[-3.72..-1.27] VGroup('P') @(-2.50,0.36)
+[scene10      step 102] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,-0.09)
+[scene10      step 102] OFF-CENTRE  dx=+1.60 span=[-0.28..+4.48] VGroup('1') @(2.10,1.70)
+[scene10      step 102] OFF-CENTRE  dx=+0.98 span=[-0.28..+3.23] VGroup('2') @(1.48,1.20)
+[scene10      step 102] OFF-CENTRE  dx=+0.45 span=[-0.28..+2.17] VGroup('3') @(0.95,0.70)
+[scene10      step 103] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,0.35)
+[scene10      step 103] OFF-CENTRE  dx=-3.00 span=[-3.72..-1.27] VGroup('P') @(-2.50,0.36)
+[scene10      step 103] OFF-CENTRE  dx=-3.05 span=[-3.42..-1.68] Polygon('') @(-2.55,-0.09)
+[scene10      step 103] OFF-CENTRE  dx=+1.60 span=[-0.28..+4.48] VGroup('1') @(2.10,1.70)
+[scene10      step 103] OFF-CENTRE  dx=+0.98 span=[-0.28..+3.23] VGroup('2') @(1.48,1.20)
+[scene10      step 103] OFF-CENTRE  dx=+0.45 span=[-0.28..+2.17] VGroup('3') @(0.95,0.70)
