@@ -1,0 +1,557 @@
+[
+  {
+    "topic": "Commutative-and-Associative-Properties",
+    "script": "commutative_associative_story.py",
+    "module": "commutative_associative_story",
+    "video": "Commutative-and-Associative-Properties\\media\\videos\\commutative_associative_story\\1080p60\\CommutativeAssociativeStory_captioned.mp4",
+    "also": [
+      "Commutative-and-Associative-Properties\\media\\videos\\commutative_associative_story\\360p30\\CommutativeAssociativeStory_captioned.mp4"
+    ],
+    "beats": [
+      {
+        "name": "title",
+        "audio": 7.88,
+        "anim": 7.88,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene1",
+        "audio": 21.2,
+        "anim": 21.2,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene2",
+        "audio": 18.35,
+        "anim": 18.35,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene3",
+        "audio": 16.15,
+        "anim": 16.14,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene4",
+        "audio": 12.3,
+        "anim": 12.3,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene5",
+        "audio": 29.64,
+        "anim": 29.64,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene6",
+        "audio": 21.3,
+        "anim": 21.3,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene7",
+        "audio": 14.97,
+        "anim": 14.97,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene8",
+        "audio": 25.48,
+        "anim": 25.48,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_setup",
+        "audio": 15.9,
+        "anim": 15.9,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_reveal",
+        "audio": 15.36,
+        "anim": 15.36,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene10",
+        "audio": 25.71,
+        "anim": 26.01,
+        "stretch": 0.3
+      },
+      {
+        "name": "TOTAL",
+        "audio": 224.24,
+        "anim": 224.53,
+        "stretch": 0.3
+      }
+    ],
+    "total": {
+      "audio": 224.24,
+      "anim": 224.53,
+      "stretch": 0.3
+    },
+    "strict_flags": [],
+    "strict_count": 0,
+    "off_centre": 89,
+    "max_stretch": 0.3,
+    "verify_sync": {
+      "video_s": 236.717,
+      "audio_s": 235.2,
+      "captions": 70,
+      "result": "PASS",
+      "silence": true,
+      "uncaptioned": true
+    },
+    "verify_captions": {
+      "narration_words": 586,
+      "srt_words": 586,
+      "result": "PASS"
+    }
+  },
+  {
+    "topic": "Distributive-Property-and-Identities",
+    "script": "distributive_property_story.py",
+    "module": "distributive_property_story",
+    "video": "Distributive-Property-and-Identities\\media\\videos\\distributive_property_story\\1080p60\\DistributivePropertyStory_captioned.mp4",
+    "also": [
+      "Distributive-Property-and-Identities\\media\\videos\\distributive_property_story\\360p30\\DistributivePropertyStory_captioned.mp4"
+    ],
+    "beats": [
+      {
+        "name": "title",
+        "audio": 9.73,
+        "anim": 9.73,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene1",
+        "audio": 17.9,
+        "anim": 17.9,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene2",
+        "audio": 23.75,
+        "anim": 23.75,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene3",
+        "audio": 18.63,
+        "anim": 18.63,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene4",
+        "audio": 20.65,
+        "anim": 20.65,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene5",
+        "audio": 26.18,
+        "anim": 26.18,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene6",
+        "audio": 21.03,
+        "anim": 21.03,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene7",
+        "audio": 22.87,
+        "anim": 22.87,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene8",
+        "audio": 21.32,
+        "anim": 21.32,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_setup",
+        "audio": 16.86,
+        "anim": 16.86,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_reveal",
+        "audio": 14.15,
+        "anim": 14.15,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene10",
+        "audio": 20.68,
+        "anim": 21.0,
+        "stretch": 0.32
+      },
+      {
+        "name": "TOTAL",
+        "audio": 233.75,
+        "anim": 234.07,
+        "stretch": 0.32
+      }
+    ],
+    "total": {
+      "audio": 233.75,
+      "anim": 234.07,
+      "stretch": 0.32
+    },
+    "strict_flags": [],
+    "strict_count": 0,
+    "off_centre": 63,
+    "max_stretch": 0.32,
+    "verify_sync": {
+      "video_s": 243.167,
+      "audio_s": 241.643,
+      "captions": 74,
+      "result": "PASS",
+      "silence": true,
+      "uncaptioned": true
+    },
+    "verify_captions": {
+      "narration_words": 618,
+      "srt_words": 618,
+      "result": "PASS"
+    }
+  },
+  {
+    "topic": "Geometric-Dot-Patterns",
+    "script": "dot_patterns_story.py",
+    "module": "dot_patterns_story",
+    "video": "Geometric-Dot-Patterns\\media\\videos\\dot_patterns_story\\1080p60\\DotPatternsStory_captioned.mp4",
+    "also": [
+      "Geometric-Dot-Patterns\\media\\videos\\dot_patterns_story\\360p30\\DotPatternsStory_captioned.mp4"
+    ],
+    "beats": [
+      {
+        "name": "title",
+        "audio": 10.83,
+        "anim": 10.83,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene1",
+        "audio": 21.76,
+        "anim": 21.76,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene2",
+        "audio": 16.52,
+        "anim": 16.52,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene3",
+        "audio": 17.09,
+        "anim": 17.09,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene4",
+        "audio": 15.65,
+        "anim": 15.65,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene5",
+        "audio": 23.34,
+        "anim": 23.34,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene6",
+        "audio": 33.19,
+        "anim": 33.19,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene7",
+        "audio": 24.23,
+        "anim": 24.23,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene8",
+        "audio": 25.33,
+        "anim": 25.33,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_setup",
+        "audio": 19.79,
+        "anim": 19.79,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_reveal",
+        "audio": 22.49,
+        "anim": 22.49,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene10",
+        "audio": 22.59,
+        "anim": 22.88,
+        "stretch": 0.3
+      },
+      {
+        "name": "TOTAL",
+        "audio": 252.81,
+        "anim": 253.1,
+        "stretch": 0.3
+      }
+    ],
+    "total": {
+      "audio": 252.81,
+      "anim": 253.1,
+      "stretch": 0.3
+    },
+    "strict_flags": [],
+    "strict_count": 0,
+    "off_centre": 101,
+    "max_stretch": 0.3,
+    "verify_sync": {
+      "video_s": 264.117,
+      "audio_s": 262.293,
+      "captions": 80,
+      "result": "PASS",
+      "silence": true,
+      "uncaptioned": true
+    },
+    "verify_captions": {
+      "narration_words": 676,
+      "srt_words": 676,
+      "result": "PASS"
+    }
+  },
+  {
+    "topic": "Operations-on-Whole-Numbers",
+    "script": "operations_on_whole_numbers.py",
+    "module": "operations_on_whole_numbers",
+    "video": "Operations-on-Whole-Numbers\\media\\videos\\operations_on_whole_numbers\\1080p60\\OperationsOnWholeNumbersStory_captioned.mp4",
+    "also": [
+      "Operations-on-Whole-Numbers\\media\\videos\\operations_on_whole_numbers\\360p30\\OperationsOnWholeNumbersStory_captioned.mp4"
+    ],
+    "beats": [
+      {
+        "name": "title",
+        "audio": 11.05,
+        "anim": 11.05,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene1",
+        "audio": 16.61,
+        "anim": 16.61,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene2",
+        "audio": 21.35,
+        "anim": 21.35,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene3",
+        "audio": 15.95,
+        "anim": 15.95,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene4",
+        "audio": 14.88,
+        "anim": 14.88,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene5",
+        "audio": 20.1,
+        "anim": 20.1,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene6",
+        "audio": 15.15,
+        "anim": 15.15,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene7",
+        "audio": 18.99,
+        "anim": 18.99,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene8",
+        "audio": 12.42,
+        "anim": 12.42,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_setup",
+        "audio": 15.6,
+        "anim": 15.6,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_reveal",
+        "audio": 13.6,
+        "anim": 13.6,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene10",
+        "audio": 20.73,
+        "anim": 21.03,
+        "stretch": 0.3
+      },
+      {
+        "name": "TOTAL",
+        "audio": 196.43,
+        "anim": 196.73,
+        "stretch": 0.3
+      }
+    ],
+    "total": {
+      "audio": 196.43,
+      "anim": 196.73,
+      "stretch": 0.3
+    },
+    "strict_flags": [],
+    "strict_count": 0,
+    "off_centre": 23,
+    "max_stretch": 0.3,
+    "verify_sync": {
+      "video_s": 207.95,
+      "audio_s": 206.443,
+      "captions": 55,
+      "result": "PASS",
+      "silence": true,
+      "uncaptioned": true
+    },
+    "verify_captions": {
+      "narration_words": 453,
+      "srt_words": 453,
+      "result": "PASS"
+    }
+  },
+  {
+    "topic": "Whole-Numbers",
+    "script": "whole_numbers_story.py",
+    "module": "whole_numbers_story",
+    "video": "Whole-Numbers\\media\\videos\\whole_numbers_story\\1080p60\\WholeNumbersStory_captioned.mp4",
+    "also": [
+      "Whole-Numbers\\media\\videos\\whole_numbers_story\\360p30\\WholeNumbersStory_captioned.mp4"
+    ],
+    "beats": [
+      {
+        "name": "title",
+        "audio": 11.18,
+        "anim": 11.18,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene1",
+        "audio": 18.41,
+        "anim": 18.41,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene2",
+        "audio": 31.5,
+        "anim": 31.5,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene3",
+        "audio": 21.87,
+        "anim": 21.87,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene4",
+        "audio": 27.21,
+        "anim": 27.21,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene5",
+        "audio": 24.42,
+        "anim": 24.42,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene6",
+        "audio": 30.91,
+        "anim": 30.91,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene7",
+        "audio": 18.86,
+        "anim": 18.86,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene8",
+        "audio": 19.33,
+        "anim": 19.33,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_setup",
+        "audio": 8.66,
+        "anim": 8.66,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene9_reveal",
+        "audio": 18.87,
+        "anim": 18.87,
+        "stretch": 0.0
+      },
+      {
+        "name": "scene10",
+        "audio": 25.74,
+        "anim": 26.04,
+        "stretch": 0.3
+      },
+      {
+        "name": "TOTAL",
+        "audio": 256.96,
+        "anim": 257.26,
+        "stretch": 0.3
+      }
+    ],
+    "total": {
+      "audio": 256.96,
+      "anim": 257.26,
+      "stretch": 0.3
+    },
+    "strict_flags": [],
+    "strict_count": 0,
+    "off_centre": 113,
+    "max_stretch": 0.3,
+    "verify_sync": {
+      "video_s": 275.9,
+      "audio_s": 274.389,
+      "captions": 84,
+      "result": "PASS",
+      "silence": true,
+      "uncaptioned": true
+    },
+    "verify_captions": {
+      "narration_words": 706,
+      "srt_words": 706,
+      "result": "PASS"
+    }
+  }
+]

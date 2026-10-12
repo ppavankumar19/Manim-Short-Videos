@@ -1,0 +1,279 @@
+1
+00:00:00,340 --> 00:00:03,687
+Today we meet two properties of whole numbers. Changing
+
+2
+00:00:03,687 --> 00:00:07,300
+the order, and changing the grouping. Let's start with
+
+3
+00:00:07,300 --> 00:00:08,531
+a quick maths challenge!
+
+4
+00:00:09,223 --> 00:00:13,083
+Here is a quick challenge: one hundred ninety six,
+
+5
+00:00:13,083 --> 00:00:16,006
+plus fifty seven, plus four. Do we have to
+
+6
+00:00:16,006 --> 00:00:19,620
+add from left to right? Watch carefully: the four
+
+7
+00:00:19,620 --> 00:00:22,743
+moves next to the one hundred ninety six. And
+
+8
+00:00:22,743 --> 00:00:25,963
+one hundred ninety six plus four is two hundred,
+
+9
+00:00:25,963 --> 00:00:28,890
+so we only need two hundred plus fifty seven.
+
+10
+00:00:28,890 --> 00:00:29,774
+That looks easier!
+
+11
+00:00:30,413 --> 00:00:34,143
+Let's begin with two small groups of counters: three
+
+12
+00:00:34,143 --> 00:00:38,573
+and four. Together they make seven. Now the two
+
+13
+00:00:38,573 --> 00:00:41,985
+groups change places; they still make seven. Three plus
+
+14
+00:00:41,985 --> 00:00:46,893
+four equals four plus three. This is the commutative
+
+15
+00:00:46,893 --> 00:00:49,464
+property: changing the order does not change the sum.
+
+16
+00:00:50,057 --> 00:00:54,057
+The same idea works for multiplication. Here are twelve
+
+17
+00:00:54,057 --> 00:00:56,363
+dots in four rows of three, so four times
+
+18
+00:00:56,363 --> 00:00:59,377
+three is twelve. Now look at the very same
+
+19
+00:00:59,377 --> 00:01:02,210
+twelve dots in three rows of four. Three times
+
+20
+00:01:02,210 --> 00:01:05,590
+four is also twelve, so four times three equals
+
+21
+00:01:05,590 --> 00:01:06,508
+three times four.
+
+22
+00:01:07,127 --> 00:01:09,327
+We can write this rule with letters. For addition:
+
+23
+00:01:09,327 --> 00:01:11,721
+a plus b equals b plus a. And for
+
+24
+00:01:11,721 --> 00:01:16,553
+multiplication: a times b equals b times a. Changing
+
+25
+00:01:16,553 --> 00:01:19,998
+the order never changes the answer.
+
+26
+00:01:20,610 --> 00:01:27,070
+Now something different. Three, four and five. If we
+
+27
+00:01:27,070 --> 00:01:29,106
+add the first two first: three plus four is
+
+28
+00:01:29,106 --> 00:01:32,160
+seven, and seven plus five is twelve. Look —
+
+29
+00:01:32,160 --> 00:01:35,990
+the numbers are still in the same order; only
+
+30
+00:01:35,990 --> 00:01:39,073
+the grouping has changed. Now add the last two
+
+31
+00:01:39,073 --> 00:01:41,117
+first: four plus five is nine, and three plus
+
+32
+00:01:41,117 --> 00:01:44,157
+nine is twelve again. So three plus four, in
+
+33
+00:01:44,157 --> 00:01:47,470
+a group, plus five, equals three plus, four plus
+
+34
+00:01:47,470 --> 00:01:50,801
+five. That is the associative property.
+
+35
+00:01:51,427 --> 00:01:53,451
+Multiplication obeys the same rule. Here are five rows
+
+36
+00:01:53,451 --> 00:01:56,940
+of six capsules, so five times six is thirty.
+
+37
+00:01:56,940 --> 00:02:01,561
+Each capsule holds two dots, so thirty times two
+
+38
+00:02:01,561 --> 00:02:04,563
+is sixty. But we could also start inside each
+
+39
+00:02:04,563 --> 00:02:07,267
+row: six times two is twelve, and five rows
+
+40
+00:02:07,267 --> 00:02:12,218
+of twelve make sixty. Different grouping, the same product.
+
+41
+00:02:12,723 --> 00:02:15,223
+Let's keep these two ideas apart. On the left,
+
+42
+00:02:15,223 --> 00:02:18,723
+the commutative property: the order of the numbers changes.
+
+43
+00:02:18,723 --> 00:02:22,837
+On the right, the associative property: the order stays
+
+44
+00:02:22,837 --> 00:02:25,743
+the same and only the grouping changes. Order, and
+
+45
+00:02:25,743 --> 00:02:28,714
+grouping. Two different actions.
+
+46
+00:02:29,287 --> 00:02:32,401
+Now back to our challenge: one hundred ninety six,
+
+47
+00:02:32,401 --> 00:02:35,889
+plus fifty seven, plus four. First, let's group the
+
+48
+00:02:35,889 --> 00:02:38,775
+last two terms. Inside the bracket we can swap
+
+49
+00:02:38,775 --> 00:02:43,335
+them — that uses the commutative property. Then we
+
+50
+00:02:43,335 --> 00:02:47,987
+regroup, and that uses the associative property. Now one
+
+51
+00:02:47,987 --> 00:02:51,387
+hundred ninety six plus four is two hundred, and
+
+52
+00:02:51,387 --> 00:02:54,257
+two hundred plus fifty seven is two hundred and
+
+53
+00:02:54,257 --> 00:02:55,278
+fifty seven.
+
+54
+00:02:55,873 --> 00:02:58,349
+Your turn! Find the sum of two hundred thirty
+
+55
+00:02:58,349 --> 00:03:01,553
+eight, six hundred ninety five, and one hundred sixty
+
+56
+00:03:01,553 --> 00:03:04,733
+two. Which two numbers can make a round hundred?
+
+57
+00:03:04,733 --> 00:03:06,364
+Pause the video and try it.
+
+58
+00:03:11,560 --> 00:03:14,433
+Let's check. Two hundred thirty eight and one hundred
+
+59
+00:03:14,433 --> 00:03:18,180
+sixty two make four hundred. So we put those
+
+60
+00:03:18,180 --> 00:03:20,385
+two together in one group, and add six hundred
+
+61
+00:03:20,385 --> 00:03:24,492
+ninety five. Four hundred plus six hundred ninety five
+
+62
+00:03:24,492 --> 00:03:26,551
+is one thousand and ninety five.
+
+63
+00:03:27,157 --> 00:03:30,817
+Let's recap. Commutative means changing the order: a plus
+
+64
+00:03:30,817 --> 00:03:33,460
+b equals b plus a, and a times b
+
+65
+00:03:33,460 --> 00:03:37,209
+equals b times a. Associative means changing the grouping:
+
+66
+00:03:37,209 --> 00:03:39,637
+a plus b, in a group, plus c, equals
+
+67
+00:03:39,637 --> 00:03:42,545
+a plus, b plus c; and a times b,
+
+68
+00:03:42,545 --> 00:03:45,508
+in a group, times c, equals a times, b
+
+69
+00:03:45,508 --> 00:03:50,017
+times c. Both work for addition and multiplication of
+
+70
+00:03:50,017 --> 00:03:54,408
+whole numbers. Thank you for watching!

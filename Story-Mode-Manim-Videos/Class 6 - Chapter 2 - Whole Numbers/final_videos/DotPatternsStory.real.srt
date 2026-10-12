@@ -1,0 +1,323 @@
+1
+00:00:00,300 --> 00:00:02,840
+Today we look at patterns made from dots. We
+
+2
+00:00:02,840 --> 00:00:06,140
+will build lines, rectangles, squares and triangles, and then
+
+3
+00:00:06,140 --> 00:00:10,640
+use those patterns to calculate faster. Let's start with
+
+4
+00:00:10,640 --> 00:00:11,371
+a dot puzzle!
+
+5
+00:00:12,033 --> 00:00:16,033
+Here are six dots, scattered around. Can six dots
+
+6
+00:00:16,033 --> 00:00:21,537
+make different shapes, without adding or removing a single
+
+7
+00:00:21,537 --> 00:00:23,923
+dot? Watch: they line up in a row; then
+
+8
+00:00:23,923 --> 00:00:28,533
+they become two rows of three; and then a
+
+9
+00:00:28,533 --> 00:00:31,412
+triangle. Six equals two times three, and six is
+
+10
+00:00:31,412 --> 00:00:33,184
+also one plus two plus three.
+
+11
+00:00:33,810 --> 00:00:38,850
+Let's begin with the simplest pattern: a line. Two
+
+12
+00:00:38,850 --> 00:00:42,640
+dots; one more makes three; one more makes four;
+
+13
+00:00:42,640 --> 00:00:46,195
+and one more makes five. Each step adds exactly
+
+14
+00:00:46,195 --> 00:00:49,650
+one more dot, so we get two, three, four,
+
+15
+00:00:49,650 --> 00:00:51,201
+five, and on and on.
+
+16
+00:00:51,827 --> 00:00:54,043
+Now take six dots and arrange them as a
+
+17
+00:00:54,043 --> 00:00:58,327
+rectangle: two rows, with three dots in each row.
+
+18
+00:00:58,327 --> 00:01:00,615
+The first row has three dots, and the second
+
+19
+00:01:00,615 --> 00:01:02,811
+row has three dots, so three plus three is
+
+20
+00:01:02,811 --> 00:01:04,947
+six. Two rows of three is the same as
+
+21
+00:01:04,947 --> 00:01:09,578
+two times three. A rectangle reveals multiplication!
+
+22
+00:01:10,073 --> 00:01:12,953
+What if the rows and the columns are equal?
+
+23
+00:01:12,953 --> 00:01:15,813
+Two rows of two give four dots. Three rows
+
+24
+00:01:15,813 --> 00:01:18,265
+of three give nine dots. And four rows of
+
+25
+00:01:18,265 --> 00:01:22,093
+four give sixteen dots. These are the square numbers:
+
+26
+00:01:22,093 --> 00:01:24,864
+four, nine, sixteen, and so on.
+
+27
+00:01:25,437 --> 00:01:28,190
+Now let's build triangles. A triangle starts with one
+
+28
+00:01:28,190 --> 00:01:31,877
+dot, then a row of two: one plus two
+
+29
+00:01:31,877 --> 00:01:34,552
+is three. Add a row of three, and we
+
+30
+00:01:34,552 --> 00:01:37,357
+have one plus two plus three, which is six.
+
+31
+00:01:37,357 --> 00:01:41,005
+What happens if we add one more row? Four
+
+32
+00:01:41,005 --> 00:01:43,146
+dots in the bottom row give one plus two
+
+33
+00:01:43,146 --> 00:01:46,157
+plus three plus four, which is ten. So the
+
+34
+00:01:46,157 --> 00:01:49,788
+triangular numbers are three, six, ten, and so on.
+
+35
+00:01:50,370 --> 00:01:53,390
+Patterns can make calculations easier too. Look at two
+
+36
+00:01:53,390 --> 00:01:56,487
+hundred ninety six plus nine. Nine is almost ten,
+
+37
+00:01:56,487 --> 00:01:58,834
+because nine is ten minus one. So we add
+
+38
+00:01:58,834 --> 00:02:02,110
+ten, and then take one away. For subtraction, two
+
+39
+00:02:02,110 --> 00:02:05,981
+hundred ninety six minus nine: take away ten, and
+
+40
+00:02:05,981 --> 00:02:09,690
+add one back. Now with ninety nine, which is
+
+41
+00:02:09,690 --> 00:02:13,690
+one hundred minus one. Two hundred ninety six plus
+
+42
+00:02:13,690 --> 00:02:17,330
+ninety nine: add one hundred, then take one away.
+
+43
+00:02:17,330 --> 00:02:21,970
+And two hundred ninety six minus ninety nine: subtract
+
+44
+00:02:21,970 --> 00:02:23,881
+one hundred, then add one back.
+
+45
+00:02:24,433 --> 00:02:27,773
+The same idea works for multiplication. Sixty five times
+
+46
+00:02:27,773 --> 00:02:30,890
+ninety nine. Ninety nine is one hundred minus one.
+
+47
+00:02:30,890 --> 00:02:33,847
+So we write sixty five times, one hundred minus
+
+48
+00:02:33,847 --> 00:02:36,713
+one, in a bracket. Now multiply sixty five by
+
+49
+00:02:36,713 --> 00:02:39,893
+both terms: sixty five times one hundred is six
+
+50
+00:02:39,893 --> 00:02:42,982
+thousand five hundred, and sixty five times one is
+
+51
+00:02:42,982 --> 00:02:46,273
+sixty five. Six thousand five hundred minus sixty five
+
+52
+00:02:46,273 --> 00:02:49,004
+is six thousand four hundred and thirty five.
+
+53
+00:02:49,627 --> 00:02:52,760
+Here is a practical example. A packet holds twenty
+
+54
+00:02:52,760 --> 00:02:56,610
+five stickers, and we have forty six packets. Twenty
+
+55
+00:02:56,610 --> 00:02:59,177
+five is twenty plus five. So we calculate forty
+
+56
+00:02:59,177 --> 00:03:02,774
+six times, twenty plus five, in a bracket. That
+
+57
+00:03:02,774 --> 00:03:04,927
+is forty six times twenty, which is nine hundred
+
+58
+00:03:04,927 --> 00:03:07,647
+and twenty, plus forty six times five, which is
+
+59
+00:03:07,647 --> 00:03:10,907
+two hundred and thirty. Nine hundred and twenty plus
+
+60
+00:03:10,907 --> 00:03:13,967
+two hundred and thirty is one thousand, one hundred
+
+61
+00:03:13,967 --> 00:03:15,458
+and fifty stickers.
+
+62
+00:03:16,097 --> 00:03:20,172
+Your turn! Two questions. First, here is a triangle
+
+63
+00:03:20,172 --> 00:03:22,977
+of six dots: how many dots do we need
+
+64
+00:03:22,977 --> 00:03:26,577
+for the next triangle? Second: sixty five times nine
+
+65
+00:03:26,577 --> 00:03:29,697
+hundred and ninety nine. Pause the video and try
+
+66
+00:03:29,697 --> 00:03:30,508
+both.
+
+67
+00:03:35,570 --> 00:03:38,375
+Let's check. The next triangle needs a bottom row
+
+68
+00:03:38,375 --> 00:03:41,230
+of four dots, so one plus two plus three
+
+69
+00:03:41,230 --> 00:03:45,110
+plus four is ten. And for the multiplication, nine
+
+70
+00:03:45,110 --> 00:03:48,110
+hundred and ninety nine is one thousand minus one.
+
+71
+00:03:48,110 --> 00:03:51,439
+Sixty five times one thousand is sixty five thousand,
+
+72
+00:03:51,439 --> 00:03:55,873
+and we subtract sixty five: sixty four thousand, nine
+
+73
+00:03:55,873 --> 00:03:57,741
+hundred and thirty five.
+
+74
+00:03:58,380 --> 00:04:01,118
+Let's recap. Dots can make a line, a rectangle,
+
+75
+00:04:01,118 --> 00:04:03,229
+a square or a triangle. The square numbers are
+
+76
+00:04:03,229 --> 00:04:06,671
+four, nine and sixteen, and the triangular numbers are
+
+77
+00:04:06,671 --> 00:04:10,280
+three, six and ten. For quick calculations, remember that
+
+78
+00:04:10,280 --> 00:04:14,180
+nine is ten minus one, and ninety nine is
+
+79
+00:04:14,180 --> 00:04:18,460
+one hundred minus one. See the pattern, and simplify
+
+80
+00:04:18,460 --> 00:04:22,788
+the calculation. Thank you for watching! See you in
+
+81
+00:04:22,788 --> 00:04:24,031
+the next lesson!

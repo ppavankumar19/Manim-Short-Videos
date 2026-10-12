@@ -1,0 +1,295 @@
+1
+00:00:00,280 --> 00:00:03,092
+Today we meet the distributive property of whole numbers.
+
+2
+00:00:03,092 --> 00:00:05,789
+We will also meet two very special numbers: zero
+
+3
+00:00:05,789 --> 00:00:10,611
+and one. Let's begin with a multiplication puzzle!
+
+4
+00:00:11,307 --> 00:00:13,567
+Here are twenty dots, arranged in five rows of
+
+5
+00:00:13,567 --> 00:00:17,147
+four. So five times four is twenty. Now watch
+
+6
+00:00:17,147 --> 00:00:21,067
+carefully: we draw a line after the second row.
+
+7
+00:00:21,067 --> 00:00:23,602
+The rows move apart, but not a single dot
+
+8
+00:00:23,602 --> 00:00:26,912
+has been added or taken away. Can two smaller
+
+9
+00:00:26,912 --> 00:00:28,538
+groups give the same total?
+
+10
+00:00:29,200 --> 00:00:31,753
+Let's count each group. The first group has two
+
+11
+00:00:31,753 --> 00:00:34,172
+rows of four, so two times four is eight.
+
+12
+00:00:34,172 --> 00:00:36,806
+The second group has three rows of four, so
+
+13
+00:00:36,806 --> 00:00:40,120
+three times four is twelve. Eight plus twelve is
+
+14
+00:00:40,120 --> 00:00:44,167
+twenty, exactly the same total. So five times four
+
+15
+00:00:44,167 --> 00:00:47,644
+equals two times four, plus three times four. Two
+
+16
+00:00:47,644 --> 00:00:51,680
+plus three, in a bracket, times four, gives the
+
+17
+00:00:51,680 --> 00:00:52,391
+same split.
+
+18
+00:00:52,970 --> 00:00:55,390
+Now let's see why that split works. The multiplier
+
+19
+00:00:55,390 --> 00:00:58,950
+is four, and it stands outside the bracket. So
+
+20
+00:00:58,950 --> 00:01:01,770
+four multiplies the first term, two; that gives two
+
+21
+00:01:01,770 --> 00:01:04,737
+times four. And four also multiplies the second term,
+
+22
+00:01:04,737 --> 00:01:09,430
+three; that gives three times four. Multiply every term
+
+23
+00:01:09,430 --> 00:01:12,481
+inside the bracket, and eight plus twelve is twenty.
+
+24
+00:01:13,053 --> 00:01:15,813
+We can write this rule with letters. The multiplier
+
+25
+00:01:15,813 --> 00:01:18,653
+a reaches the first term, b, so we get
+
+26
+00:01:18,653 --> 00:01:21,450
+a times b. And it reaches the second term,
+
+27
+00:01:21,450 --> 00:01:23,993
+c, as well. So a times, b plus c,
+
+28
+00:01:23,993 --> 00:01:26,911
+equals a b plus a c. That is the
+
+29
+00:01:26,911 --> 00:01:33,084
+distributive property: multiply each term inside the bracket.
+
+30
+00:01:33,710 --> 00:01:36,077
+Let's use it to make a big multiplication easier:
+
+31
+00:01:36,077 --> 00:01:40,850
+twelve times seventy five. Now seventy five is seventy
+
+32
+00:01:40,850 --> 00:01:43,309
+plus five. So twelve times seventy five is twelve
+
+33
+00:01:43,309 --> 00:01:48,590
+times, seventy plus five, in a bracket. Now distribute:
+
+34
+00:01:48,590 --> 00:01:51,702
+twelve times seventy is eight hundred and forty, and
+
+35
+00:01:51,702 --> 00:01:54,667
+twelve times five is sixty. Eight hundred and forty
+
+36
+00:01:54,667 --> 00:01:58,147
+plus sixty is nine hundred. A big multiplication became
+
+37
+00:01:58,147 --> 00:01:59,261
+two easy ones!
+
+38
+00:01:59,877 --> 00:02:02,361
+Now let's meet two special numbers, starting with zero.
+
+39
+00:02:02,361 --> 00:02:05,337
+Here are seven counters, and next to them an
+
+40
+00:02:05,337 --> 00:02:09,697
+empty container, which holds zero counters. When we add
+
+41
+00:02:09,697 --> 00:02:12,617
+the empty container to the seven counters, the group
+
+42
+00:02:12,617 --> 00:02:14,917
+does not change at all. Seven plus zero is
+
+43
+00:02:14,917 --> 00:02:19,997
+seven. Zero is the additive identity, because adding zero
+
+44
+00:02:19,997 --> 00:02:21,948
+leaves the number unchanged.
+
+45
+00:02:22,580 --> 00:02:25,220
+Now, the number one. One group of seven counters
+
+46
+00:02:25,220 --> 00:02:27,480
+is just seven. And those same seven counters can
+
+47
+00:02:27,480 --> 00:02:28,747
+be shown as seven groups of one, which is
+
+48
+00:02:28,747 --> 00:02:32,360
+still seven. So one times seven equals seven times
+
+49
+00:02:32,360 --> 00:02:37,720
+one equals seven. One is the multiplicative identity. But
+
+50
+00:02:37,720 --> 00:02:42,300
+be careful: multiplying by zero gives zero, not the
+
+51
+00:02:42,300 --> 00:02:43,591
+original number.
+
+52
+00:02:44,090 --> 00:02:47,130
+Here is a daily-life example. A milk vendor sells
+
+53
+00:02:47,130 --> 00:02:49,537
+fifty six litres in the morning and forty four
+
+54
+00:02:49,537 --> 00:02:53,596
+litres in the evening, at thirty rupees a litre.
+
+55
+00:02:53,596 --> 00:02:56,079
+His earnings are fifty six times thirty, plus forty
+
+56
+00:02:56,079 --> 00:02:59,090
+four times thirty. Both parts share the multiplier thirty,
+
+57
+00:02:59,090 --> 00:03:02,195
+so we take it out: fifty six plus forty
+
+58
+00:03:02,195 --> 00:03:05,012
+four, in a bracket, times thirty. That is one
+
+59
+00:03:05,012 --> 00:03:07,401
+hundred times thirty, which is three thousand rupees.
+
+60
+00:03:07,987 --> 00:03:11,627
+Your turn! Use the distributive property for five times,
+
+61
+00:03:11,627 --> 00:03:15,238
+seven plus eight, in a bracket. Multiply five by
+
+62
+00:03:15,238 --> 00:03:18,740
+each term inside the bracket. Pause the video and
+
+63
+00:03:18,740 --> 00:03:19,458
+try it.
+
+64
+00:03:24,527 --> 00:03:27,187
+Let's check. Five times seven is thirty five, and
+
+65
+00:03:27,187 --> 00:03:30,573
+five times eight is forty. Thirty five plus forty
+
+66
+00:03:30,573 --> 00:03:35,267
+is seventy five. And a quick identity check: nine
+
+67
+00:03:35,267 --> 00:03:37,199
+plus zero is nine, and nine times one is
+
+68
+00:03:37,199 --> 00:03:38,118
+also nine.
+
+69
+00:03:38,823 --> 00:03:42,919
+Let's recap. The distributive property: a times, b plus
+
+70
+00:03:42,919 --> 00:03:45,923
+c, equals a b plus a c. The additive
+
+71
+00:03:45,923 --> 00:03:48,710
+identity is zero: a plus zero equals a. The
+
+72
+00:03:48,710 --> 00:03:54,663
+multiplicative identity is one: a times one equals a.
+
+73
+00:03:54,663 --> 00:03:57,757
+Distribute to simplify, and remember that the identities keep
+
+74
+00:03:57,757 --> 00:04:00,854
+a number unchanged. Thank you for watching!

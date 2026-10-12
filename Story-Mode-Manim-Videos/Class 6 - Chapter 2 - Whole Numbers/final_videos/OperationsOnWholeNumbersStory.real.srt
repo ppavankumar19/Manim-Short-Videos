@@ -1,0 +1,219 @@
+1
+00:00:00,280 --> 00:00:03,580
+Today we use the number line to do operations.
+
+2
+00:00:03,580 --> 00:00:06,448
+Adding moves us to the right, subtracting moves us
+
+3
+00:00:06,448 --> 00:00:10,474
+to the left, and multiplying makes equal jumps. Let's
+
+4
+00:00:10,474 --> 00:00:11,611
+play a number game!
+
+5
+00:00:12,247 --> 00:00:15,598
+Imagine a floor marked with numbers. A student stands
+
+6
+00:00:15,598 --> 00:00:19,057
+on two. The teacher says: move three steps forward.
+
+7
+00:00:19,057 --> 00:00:22,922
+One, two, three; she lands on five. So what
+
+8
+00:00:22,922 --> 00:00:26,857
+did she just do? She added. Two plus three
+
+9
+00:00:26,857 --> 00:00:28,258
+equals five.
+
+10
+00:00:28,877 --> 00:00:33,057
+Let's remember our number line. Zero is the starting
+
+11
+00:00:33,057 --> 00:00:35,757
+point. Then come one, two, three, four, five, and
+
+12
+00:00:35,757 --> 00:00:40,457
+we keep going: six, seven, eight, nine, ten. The
+
+13
+00:00:40,457 --> 00:00:43,991
+arrow shows that the whole numbers never end. And
+
+14
+00:00:43,991 --> 00:00:47,577
+every step has the same size; that is what
+
+15
+00:00:47,577 --> 00:00:49,668
+makes a number line useful.
+
+16
+00:00:50,333 --> 00:00:53,680
+Now let's add on the number line. Two plus
+
+17
+00:00:53,680 --> 00:00:57,460
+three. We start at two. We make three jumps
+
+18
+00:00:57,460 --> 00:01:01,528
+to the right: one, two, three. We land on
+
+19
+00:01:01,528 --> 00:01:06,456
+five. So two plus three equals five. Addition means
+
+20
+00:01:06,456 --> 00:01:07,604
+moving right.
+
+21
+00:01:08,207 --> 00:01:12,587
+Subtraction is the opposite. Six minus two. We start
+
+22
+00:01:12,587 --> 00:01:16,567
+at six. We make two jumps to the left:
+
+23
+00:01:16,567 --> 00:01:19,913
+one, two. We land on four, so six minus
+
+24
+00:01:19,913 --> 00:01:23,618
+two equals four. Subtraction means moving left.
+
+25
+00:01:24,123 --> 00:01:29,289
+Multiplication is repeated addition. Four times two. We start
+
+26
+00:01:29,289 --> 00:01:33,383
+at zero and make four jumps, each of two
+
+27
+00:01:33,383 --> 00:01:37,763
+units. Two, four, six, eight. Four times two is
+
+28
+00:01:37,763 --> 00:01:41,283
+two plus two plus two plus two, which is
+
+29
+00:01:41,283 --> 00:01:43,634
+eight. Multiplication means equal jumps.
+
+30
+00:01:44,240 --> 00:01:48,913
+Let's compare the three operations. Addition moves right: two
+
+31
+00:01:48,913 --> 00:01:52,420
+plus three lands on five. Subtraction moves left: six
+
+32
+00:01:52,420 --> 00:01:58,000
+minus two lands on four. Multiplication repeats equal jumps:
+
+33
+00:01:58,000 --> 00:02:00,291
+four times two lands on eight.
+
+34
+00:02:00,790 --> 00:02:04,130
+Now a game from the textbook. Raju asks Gayatri:
+
+35
+00:02:04,130 --> 00:02:07,090
+start at zero and jump three, then eight, then
+
+36
+00:02:07,090 --> 00:02:11,290
+five. Where will you land? First jump: zero plus
+
+37
+00:02:11,290 --> 00:02:15,090
+three is three. Second jump: three plus eight is
+
+38
+00:02:15,090 --> 00:02:18,110
+eleven. Third jump: eleven plus five is sixteen. So
+
+39
+00:02:18,110 --> 00:02:20,061
+three plus eight plus five equals sixteen.
+
+40
+00:02:20,817 --> 00:02:24,437
+Here is a simple routine for every number-line question.
+
+41
+00:02:24,437 --> 00:02:27,657
+First, find the starting number. Then read the operation.
+
+42
+00:02:27,657 --> 00:02:30,237
+Then decide how to move: right, left, or equal
+
+43
+00:02:30,237 --> 00:02:33,668
+jumps. And finally, write down where you landed.
+
+44
+00:02:34,193 --> 00:02:38,233
+Your turn! Here is the question: five times three.
+
+45
+00:02:38,233 --> 00:02:40,127
+How many jumps should we make, and how big
+
+46
+00:02:40,127 --> 00:02:43,187
+is each jump? Start from zero, and pause the
+
+47
+00:02:43,187 --> 00:02:44,724
+video to try it.
+
+48
+00:02:49,793 --> 00:02:53,413
+Let's check. Five jumps of three units each. Three,
+
+49
+00:02:53,413 --> 00:02:58,556
+six, nine, twelve, fifteen. So five times three equals
+
+50
+00:02:58,556 --> 00:03:03,184
+fifteen: five jumps, and the landing position is fifteen.
+
+51
+00:03:03,810 --> 00:03:07,633
+Let's recall. Addition moves right: two plus three equals
+
+52
+00:03:07,633 --> 00:03:11,798
+five. Subtraction moves left: six minus two equals four.
+
+53
+00:03:11,798 --> 00:03:17,166
+Multiplication makes equal jumps: four times two equals eight.
+
+54
+00:03:17,166 --> 00:03:20,930
+And five times three equals fifteen. A number line
+
+55
+00:03:20,930 --> 00:03:25,641
+makes operations visible. Thank you for watching!

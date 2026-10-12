@@ -1,0 +1,335 @@
+1
+00:00:00,360 --> 00:00:02,869
+Today we meet the whole numbers. We will count
+
+2
+00:00:02,869 --> 00:00:05,711
+objects, discover what zero really means, and learn about
+
+3
+00:00:05,711 --> 00:00:10,502
+the predecessor and successor of a number. Let's begin
+
+4
+00:00:10,502 --> 00:00:11,891
+with a pencil box!
+
+5
+00:00:12,510 --> 00:00:16,498
+Look at this pencil box. It has three pencils.
+
+6
+00:00:16,498 --> 00:00:20,358
+One pencil is taken out, so two remain. Another
+
+7
+00:00:20,358 --> 00:00:22,936
+pencil goes, and just one is left. Now the
+
+8
+00:00:22,936 --> 00:00:25,330
+last pencil is taken away, and the box is
+
+9
+00:00:25,330 --> 00:00:28,421
+empty. So what number tells us how many pencils
+
+10
+00:00:28,421 --> 00:00:31,421
+are in the box now? Zero!
+
+11
+00:00:32,123 --> 00:00:35,803
+How do we count things? We say one, two,
+
+12
+00:00:35,803 --> 00:00:39,826
+three, four, and we never stop. These counting numbers
+
+13
+00:00:39,826 --> 00:00:43,521
+have a name: they are the natural numbers. We
+
+14
+00:00:43,521 --> 00:00:46,463
+write them as the set one, two, three, four
+
+15
+00:00:46,463 --> 00:00:49,353
+and so on. But our empty box needed a
+
+16
+00:00:49,353 --> 00:00:52,503
+number of its own. So zero joins the collection,
+
+17
+00:00:52,503 --> 00:00:55,283
+and we get zero, one, two, three, four and
+
+18
+00:00:55,283 --> 00:00:59,263
+so on. This larger family is called the whole
+
+19
+00:00:59,263 --> 00:01:03,622
+numbers. Whole numbers are the natural numbers together with
+
+20
+00:01:03,622 --> 00:01:04,354
+zero.
+
+21
+00:01:04,997 --> 00:01:07,443
+Now let us place the two collections one above
+
+22
+00:01:07,443 --> 00:01:10,353
+the other and compare them. The numbers one, two,
+
+23
+00:01:10,353 --> 00:01:13,437
+three, four and five match exactly. There is only
+
+24
+00:01:13,437 --> 00:01:16,457
+one new member, and that is zero. So the
+
+25
+00:01:16,457 --> 00:01:20,211
+smallest natural number is one, and the smallest whole
+
+26
+00:01:20,211 --> 00:01:23,840
+number is zero. And every natural number is also
+
+27
+00:01:23,840 --> 00:01:27,248
+a whole number: N is a subset of W.
+
+28
+00:01:27,900 --> 00:01:30,700
+Now let us put the whole numbers on a
+
+29
+00:01:30,700 --> 00:01:33,224
+line. This is the whole number line, and zero
+
+30
+00:01:33,224 --> 00:01:36,080
+is its starting point. Then come one, two, three,
+
+31
+00:01:36,080 --> 00:01:40,300
+four, and we keep going: five, six, seven, eight,
+
+32
+00:01:40,300 --> 00:01:43,880
+nine, ten, and on. The arrow shows that the
+
+33
+00:01:43,880 --> 00:01:47,160
+whole numbers never end. Every step to the right
+
+34
+00:01:47,160 --> 00:01:49,702
+is one more, so the number on the right
+
+35
+00:01:49,702 --> 00:01:53,577
+is always greater. Remember, zero is the starting point
+
+36
+00:01:53,577 --> 00:01:55,491
+of the whole number line.
+
+37
+00:01:56,150 --> 00:02:00,610
+Let us look closely at one number. Take nine.
+
+38
+00:02:00,610 --> 00:02:02,654
+One step to the right is ten, so ten
+
+39
+00:02:02,654 --> 00:02:05,700
+is the successor of nine. One step to the
+
+40
+00:02:05,700 --> 00:02:08,787
+left is eight, so eight is the predecessor of
+
+41
+00:02:08,787 --> 00:02:11,953
+nine. The successor is the next number, and the
+
+42
+00:02:11,953 --> 00:02:16,477
+predecessor is the previous number. In general, the successor
+
+43
+00:02:16,477 --> 00:02:18,910
+of a number n is n plus one, and
+
+44
+00:02:18,910 --> 00:02:20,901
+its predecessor is n minus one.
+
+45
+00:02:21,407 --> 00:02:25,567
+Now a very important question. What comes before one?
+
+46
+00:02:25,567 --> 00:02:27,622
+In the whole numbers, one minus one is zero.
+
+47
+00:02:27,622 --> 00:02:31,330
+But remember, zero is not a natural number, it
+
+48
+00:02:31,330 --> 00:02:34,955
+is a whole number. So among the natural numbers,
+
+49
+00:02:34,955 --> 00:02:38,132
+one has no predecessor. In the whole numbers, the
+
+50
+00:02:38,132 --> 00:02:41,907
+predecessor of one is zero. And what is the
+
+51
+00:02:41,907 --> 00:02:45,996
+predecessor of zero? There is no whole number before
+
+52
+00:02:45,996 --> 00:02:49,124
+zero, so zero has no predecessor in the whole
+
+53
+00:02:49,124 --> 00:02:51,913
+numbers. But zero does have a successor: zero plus
+
+54
+00:02:51,913 --> 00:02:52,518
+one is one.
+
+55
+00:02:53,163 --> 00:02:58,037
+Let us practise with bigger numbers. Take thirteen. One
+
+56
+00:02:58,037 --> 00:03:01,617
+less is twelve, and one more is fourteen. Now
+
+57
+00:03:01,617 --> 00:03:04,800
+take nine hundred and ninety nine. One less is
+
+58
+00:03:04,800 --> 00:03:07,661
+nine hundred and ninety eight, and one more is
+
+59
+00:03:07,661 --> 00:03:10,995
+one thousand. The rule works even when the number
+
+60
+00:03:10,995 --> 00:03:12,534
+of digits changes.
+
+61
+00:03:13,200 --> 00:03:15,460
+Numbers describe real things. Our box has four pencils.
+
+62
+00:03:15,460 --> 00:03:17,580
+Add one pencil and we have five, so five
+
+63
+00:03:17,580 --> 00:03:20,160
+is the successor of four. Take the last pencil
+
+64
+00:03:20,160 --> 00:03:23,505
+out of a box that has one, and we
+
+65
+00:03:23,505 --> 00:03:27,530
+are left with zero. Adding one gives the successor;
+
+66
+00:03:27,530 --> 00:03:31,980
+removing one gives the predecessor, when it exists in
+
+67
+00:03:31,980 --> 00:03:33,071
+our collection.
+
+68
+00:03:33,693 --> 00:03:36,573
+Your turn! Look at the number line. What is
+
+69
+00:03:36,573 --> 00:03:40,873
+the successor of eleven? And what is the predecessor
+
+70
+00:03:40,873 --> 00:03:42,564
+of five? Pause the video and try both.
+
+71
+00:03:47,727 --> 00:03:50,327
+Let us check. Eleven plus one is twelve, so
+
+72
+00:03:50,327 --> 00:03:54,127
+the successor of eleven is twelve. Five minus one
+
+73
+00:03:54,127 --> 00:03:56,607
+is four, so the predecessor of five is four.
+
+74
+00:03:56,607 --> 00:04:01,767
+And one last question: does zero have a predecessor
+
+75
+00:04:01,767 --> 00:04:05,323
+in the whole numbers? No, because the whole number
+
+76
+00:04:05,323 --> 00:04:07,018
+line begins at zero.
+
+77
+00:04:07,483 --> 00:04:10,379
+Let us recap. The counting numbers, one, two, three
+
+78
+00:04:10,379 --> 00:04:14,217
+and so on, are the natural numbers. When zero
+
+79
+00:04:14,217 --> 00:04:17,093
+joins them we get the whole numbers: zero, one,
+
+80
+00:04:17,093 --> 00:04:20,733
+two, three and so on. The successor of a
+
+81
+00:04:20,733 --> 00:04:23,775
+number is one more, and the predecessor is one
+
+82
+00:04:23,775 --> 00:04:26,643
+less, where it exists. And zero is the smallest
+
+83
+00:04:26,643 --> 00:04:31,003
+whole number, with no predecessor. Whole numbers are natural
+
+84
+00:04:31,003 --> 00:04:33,594
+numbers plus zero. Thank you for watching!
