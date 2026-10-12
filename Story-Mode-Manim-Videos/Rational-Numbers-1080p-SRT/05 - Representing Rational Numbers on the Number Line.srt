@@ -1,0 +1,239 @@
+1
+00:00:00,000 --> 00:00:03,288
+Where do fractions live on the number line? Today
+
+2
+00:00:03,288 --> 00:00:06,942
+we're learning how to represent rational numbers — numbers
+
+3
+00:00:06,942 --> 00:00:08,842
+like p over q — as exact points on
+
+4
+00:00:08,842 --> 00:00:10,011
+a number line.
+
+5
+00:00:10,367 --> 00:00:13,913
+Imagine measuring a length with a rope. Here's zero,
+
+6
+00:00:13,913 --> 00:00:16,608
+and here's one whole unit. But what if the
+
+7
+00:00:16,608 --> 00:00:20,224
+length falls somewhere in between? We need numbers like
+
+8
+00:00:20,224 --> 00:00:24,338
+one-half and three-fourths to describe exactly where it lands.
+
+9
+00:00:24,700 --> 00:00:27,821
+Every rational number has an exact place on the
+
+10
+00:00:27,821 --> 00:00:31,983
+number line. Here are the integers: minus two, minus
+
+11
+00:00:31,983 --> 00:00:36,065
+one, zero, one, and two. Halfway between zero and
+
+12
+00:00:36,065 --> 00:00:39,827
+one is one-half. Halfway between minus one and zero
+
+13
+00:00:39,827 --> 00:00:44,469
+is minus one-half. And beyond one, we find three-halves.
+
+14
+00:00:44,469 --> 00:00:48,151
+Fractions aren't floating symbols — they live at exact
+
+15
+00:00:48,151 --> 00:00:49,031
+points.
+
+16
+00:00:49,383 --> 00:00:52,096
+Let's zoom into the interval from zero to one.
+
+17
+00:00:52,096 --> 00:00:56,616
+Look at this fraction: three-sevenths. The denominator, seven, tells
+
+18
+00:00:56,616 --> 00:00:58,877
+us how many equal parts to divide this unit
+
+19
+00:00:58,877 --> 00:01:01,977
+into. The numerator, three, tells us how many of
+
+20
+00:01:01,977 --> 00:01:05,787
+those parts to count from zero. Denominator: equal parts.
+
+21
+00:01:05,787 --> 00:01:09,274
+Numerator: parts counted. That's the whole secret!
+
+22
+00:01:09,633 --> 00:01:14,417
+Let's locate three-sevenths, step by step. First, divide zero
+
+23
+00:01:14,417 --> 00:01:17,946
+to one into seven equal parts. Now, count three
+
+24
+00:01:17,946 --> 00:01:23,122
+parts from zero. One... two... three. That's exactly where
+
+25
+00:01:23,122 --> 00:01:25,004
+three-sevenths lives.
+
+26
+00:01:25,367 --> 00:01:28,857
+What changes for a negative rational number, like minus
+
+27
+00:01:28,857 --> 00:01:32,277
+three-fourths? The rule is exactly the same — divide
+
+28
+00:01:32,277 --> 00:01:35,910
+the unit into equal parts. Here, the denominator four
+
+29
+00:01:35,910 --> 00:01:39,116
+means four equal parts, from minus one to zero.
+
+30
+00:01:39,116 --> 00:01:42,393
+The numerator three tells us to count three parts.
+
+31
+00:01:42,393 --> 00:01:44,957
+But now the negative sign means we move left
+
+32
+00:01:44,957 --> 00:01:49,018
+from zero, not right. Same rule, opposite direction.
+
+33
+00:01:49,383 --> 00:01:52,228
+This isn't just abstract — it's how we measure
+
+34
+00:01:52,228 --> 00:01:55,896
+real things. Say a length measures three-fourths of a
+
+35
+00:01:55,896 --> 00:01:59,938
+metre. Divide the one-metre ruler into four equal parts,
+
+36
+00:01:59,938 --> 00:02:03,830
+and count three of them. That's exactly three-fourths of
+
+37
+00:02:03,830 --> 00:02:06,001
+a metre — the same idea as our number
+
+38
+00:02:06,001 --> 00:02:06,674
+line!
+
+39
+00:02:07,033 --> 00:02:10,119
+Now it's your turn. Try to locate minus four-fifths
+
+40
+00:02:10,119 --> 00:02:12,745
+on the number line. Pause the video and work
+
+41
+00:02:12,745 --> 00:02:14,124
+it out for yourself.
+
+42
+00:02:24,933 --> 00:02:28,832
+Let's check your answer. The denominator five means five
+
+43
+00:02:28,832 --> 00:02:32,131
+equal parts, from minus one to zero. Now count
+
+44
+00:02:32,131 --> 00:02:35,955
+four parts, moving left because of the negative sign.
+
+45
+00:02:35,955 --> 00:02:39,105
+One, two, three, four — there it is: minus
+
+46
+00:02:39,105 --> 00:02:40,304
+four-fifths!
+
+47
+00:02:40,667 --> 00:02:44,071
+Let's lock in the method with three simple rules.
+
+48
+00:02:44,071 --> 00:02:48,156
+Denominator tells you the number of equal parts. Numerator
+
+49
+00:02:48,156 --> 00:02:51,031
+tells you how many parts to count. And the
+
+50
+00:02:51,031 --> 00:02:54,663
+sign tells you which direction to move. Any rational
+
+51
+00:02:54,663 --> 00:02:56,932
+number p over q, with q not equal to
+
+52
+00:02:56,932 --> 00:02:59,278
+zero, can be located this way.
+
+53
+00:02:59,633 --> 00:03:02,902
+Let's recap what we learned today. The denominator divides
+
+54
+00:03:02,902 --> 00:03:05,627
+the unit into equal parts, and the numerator counts
+
+55
+00:03:05,627 --> 00:03:07,866
+how many of them to take. A positive sign
+
+56
+00:03:07,866 --> 00:03:10,651
+moves right, a negative sign moves left. We used
+
+57
+00:03:10,651 --> 00:03:14,828
+this to locate three-sevenths, minus three-fourths, a real measurement,
+
+58
+00:03:14,828 --> 00:03:17,976
+and even solved minus four-fifths together. Thank you so
+
+59
+00:03:17,976 --> 00:03:20,035
+much for watching, and I will see you in
+
+60
+00:03:20,035 --> 00:03:21,124
+the next lesson!

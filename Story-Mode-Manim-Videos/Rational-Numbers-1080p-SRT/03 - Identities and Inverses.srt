@@ -1,0 +1,211 @@
+1
+00:00:00,000 --> 00:00:02,677
+What brings a number back to where it started?
+
+2
+00:00:02,677 --> 00:00:06,436
+Identities & Inverses. What Brings You Back? Identity means
+
+3
+00:00:06,436 --> 00:00:09,495
+it changes nothing. Inverse means it brings you back
+
+4
+00:00:09,495 --> 00:00:12,809
+to a special result. We'll explore this through addition
+
+5
+00:00:12,809 --> 00:00:14,211
+and multiplication.
+
+6
+00:00:14,567 --> 00:00:18,727
+Let's build the idea of identity, starting simple. Take
+
+7
+00:00:18,727 --> 00:00:23,750
+three-fifths, plus zero. Send it through the addition machine.
+
+8
+00:00:23,750 --> 00:00:28,459
+Out comes three-fifths again — completely unchanged! Adding zero
+
+9
+00:00:28,459 --> 00:00:31,677
+changes nothing — that's why zero is the additive
+
+10
+00:00:31,677 --> 00:00:32,698
+identity.
+
+11
+00:00:33,050 --> 00:00:38,010
+Multiplication has its own do-nothing number too. Three-sevenths, times
+
+12
+00:00:38,010 --> 00:00:42,252
+one. The result is still three-sevenths! Multiplying by one
+
+13
+00:00:42,252 --> 00:00:46,781
+changes nothing. That's why one is the multiplicative identity.
+
+14
+00:00:47,133 --> 00:00:50,043
+Let's compare the two, so we never mix them
+
+15
+00:00:50,043 --> 00:00:54,997
+up. For addition, the identity is zero. For multiplication,
+
+16
+00:00:54,997 --> 00:00:58,929
+the identity is one. Remember it simply: add zero,
+
+17
+00:00:58,929 --> 00:01:00,344
+multiply by one.
+
+18
+00:01:00,700 --> 00:01:05,444
+Now, something different — the additive inverse. Take three,
+
+19
+00:01:05,444 --> 00:01:09,239
+and minus three. Watch them come together and cancel
+
+20
+00:01:09,239 --> 00:01:13,114
+out completely to zero! It works for fractions too:
+
+21
+00:01:13,114 --> 00:01:18,332
+two-thirds, plus minus two-thirds, collapses straight to zero. Any
+
+22
+00:01:18,332 --> 00:01:21,732
+number plus its opposite always gives zero — that's
+
+23
+00:01:21,732 --> 00:01:23,551
+the additive inverse.
+
+24
+00:01:23,917 --> 00:01:26,993
+Multiplication has its own kind of inverse too —
+
+25
+00:01:26,993 --> 00:01:31,376
+the reciprocal. What number can multiply with two-sevenths to
+
+26
+00:01:31,376 --> 00:01:36,068
+make one? Try seven-halves. Multiply them together, and you
+
+27
+00:01:36,068 --> 00:01:39,836
+get exactly one! Reciprocals always multiply to one —
+
+28
+00:01:39,836 --> 00:01:42,528
+that's the multiplicative inverse.
+
+29
+00:01:42,883 --> 00:01:46,579
+But there's one crucial exception — the zero trap.
+
+30
+00:01:46,579 --> 00:01:50,675
+Can zero, times something, ever equal one? Try zero
+
+31
+00:01:50,675 --> 00:01:53,648
+times two — that's zero. Try zero times a
+
+32
+00:01:53,648 --> 00:01:57,263
+hundred — still zero. No matter what you multiply
+
+33
+00:01:57,263 --> 00:02:00,395
+zero by, you always get zero. So zero has
+
+34
+00:02:00,395 --> 00:02:03,850
+no multiplicative inverse — one over zero is simply
+
+35
+00:02:03,850 --> 00:02:04,974
+undefined.
+
+36
+00:02:05,333 --> 00:02:08,182
+Now it's your turn — figure out identity or
+
+37
+00:02:08,182 --> 00:02:12,578
+inverse in each one. First, four-fifths plus zero equals
+
+38
+00:02:12,578 --> 00:02:19,008
+four-fifths. Second, four-fifths plus minus four-fifths equals zero. Third,
+
+39
+00:02:19,008 --> 00:02:24,543
+five-sixths times six-fifths equals one. Fourth, five-sixths times one
+
+40
+00:02:24,543 --> 00:02:29,264
+equals five-sixths. Pause the video and classify each one.
+
+41
+00:02:40,067 --> 00:02:42,396
+The first one added zero and stayed the same
+
+42
+00:02:42,396 --> 00:02:45,761
+— that's the Additive Identity. The second one cancelled
+
+43
+00:02:45,761 --> 00:02:48,607
+to zero — that's the Additive Inverse. The third
+
+44
+00:02:48,607 --> 00:02:52,101
+one multiplied to one — that's the Multiplicative Inverse.
+
+45
+00:02:52,101 --> 00:02:54,625
+The fourth one multiplied by one and stayed the
+
+46
+00:02:54,625 --> 00:02:57,278
+same — that's the Multiplicative Identity.
+
+47
+00:02:58,283 --> 00:03:02,286
+Let's lock in the four rules. Additive identity: a
+
+48
+00:03:02,286 --> 00:03:06,790
+plus zero equals a. Multiplicative identity: a times one
+
+49
+00:03:06,790 --> 00:03:10,709
+equals a. Additive inverse: a plus minus a equals
+
+50
+00:03:10,709 --> 00:03:15,129
+zero. Multiplicative inverse: a times one over a equals
+
+51
+00:03:15,129 --> 00:03:20,884
+one. Remember: identity changes nothing, inverse brings you back.
+
+52
+00:03:20,884 --> 00:03:23,886
+Thank you so much for watching, and I will
+
+53
+00:03:23,886 --> 00:03:26,054
+see you in the next lesson!

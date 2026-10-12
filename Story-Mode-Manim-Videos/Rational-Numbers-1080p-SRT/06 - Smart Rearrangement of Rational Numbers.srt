@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:04,283
+Smart Rearrangement. Same numbers, a smarter order. Let's make
+
+2
+00:00:04,283 --> 00:00:06,491
+rational number addition easier.
+
+3
+00:00:06,850 --> 00:00:11,349
+Long before calculators, people combined fractional quantities by hand
+
+4
+00:00:11,349 --> 00:00:15,145
+— in trade, measurement, and record-keeping. Here is a
+
+5
+00:00:15,145 --> 00:00:18,801
+simple ledger of measurements. As entries pile up, the
+
+6
+00:00:18,801 --> 00:00:22,386
+calculation starts to look messy. Can we calculate this
+
+7
+00:00:22,386 --> 00:00:23,581
+more cleverly?
+
+8
+00:00:23,933 --> 00:00:28,157
+Here is our expression. Two fifths, plus three sevenths,
+
+9
+00:00:28,157 --> 00:00:32,230
+minus six fifths, minus thirteen sevenths. The usual way
+
+10
+00:00:32,230 --> 00:00:35,322
+is to work left to right, converting every pair
+
+11
+00:00:35,322 --> 00:00:38,792
+to a common denominator of thirty five. Two fifths
+
+12
+00:00:38,792 --> 00:00:42,790
+plus three sevenths becomes twenty nine over thirty five.
+
+13
+00:00:42,790 --> 00:00:45,580
+Bring in minus six fifths, and we get minus
+
+14
+00:00:45,580 --> 00:00:50,332
+thirteen over thirty five. Finally, minus thirteen sevenths gives
+
+15
+00:00:50,332 --> 00:00:53,877
+minus seventy eight over thirty five. Correct — but
+
+16
+00:00:53,877 --> 00:00:56,064
+that is a lot of repeated work.
+
+17
+00:00:56,417 --> 00:01:00,621
+Let's look again, before calculating. Two of these fractions
+
+18
+00:01:00,621 --> 00:01:03,955
+already share the same denominator — five. And two
+
+19
+00:01:03,955 --> 00:01:07,361
+of them already share the same denominator — seven.
+
+20
+00:01:07,361 --> 00:01:10,551
+If we group the friendly pairs together first, the
+
+21
+00:01:10,551 --> 00:01:12,508
+work becomes much simpler.
+
+22
+00:01:12,867 --> 00:01:16,095
+This works because addition lets us change the order
+
+23
+00:01:16,095 --> 00:01:18,442
+of the terms. A plus B equals B plus
+
+24
+00:01:18,442 --> 00:01:21,523
+A — the commutative property. Watch two of our
+
+25
+00:01:21,523 --> 00:01:24,678
+terms swap places without changing the total.
+
+26
+00:01:25,033 --> 00:01:29,071
+Addition also lets us change the grouping. Open bracket
+
+27
+00:01:29,071 --> 00:01:32,159
+A plus B close bracket, plus C, equals A,
+
+28
+00:01:32,159 --> 00:01:34,851
+plus open bracket B plus C close bracket —
+
+29
+00:01:34,851 --> 00:01:40,155
+the associative property. Together, reordering and regrouping are the
+
+30
+00:01:40,155 --> 00:01:43,084
+two moves behind smart rearrangement.
+
+31
+00:01:43,450 --> 00:01:46,611
+Let's apply both moves to our example. Two fifths,
+
+32
+00:01:46,611 --> 00:01:50,760
+three sevenths, minus six fifths, minus thirteen sevenths. Move
+
+33
+00:01:50,760 --> 00:01:53,395
+minus six fifths next to two fifths, and minus
+
+34
+00:01:53,395 --> 00:01:56,819
+thirteen sevenths next to three sevenths. Now group each
+
+35
+00:01:56,819 --> 00:01:58,861
+friendly pair inside brackets.
+
+36
+00:01:59,217 --> 00:02:02,247
+Two fifths minus six fifths gives minus four fifths,
+
+37
+00:02:02,247 --> 00:02:05,541
+and three sevenths minus thirteen sevenths gives minus ten
+
+38
+00:02:05,541 --> 00:02:09,560
+sevenths. There's still one common denominator step left: minus
+
+39
+00:02:09,560 --> 00:02:12,722
+twenty eight over thirty five, minus fifty over thirty
+
+40
+00:02:12,722 --> 00:02:15,950
+five. That gives minus seventy eight over thirty five
+
+41
+00:02:15,950 --> 00:02:18,388
+— the same answer, with far less work.
+
+42
+00:02:18,750 --> 00:02:22,037
+Here's why this matters outside the textbook. A weather
+
+43
+00:02:22,037 --> 00:02:25,261
+station records four temperature changes: plus one and a
+
+44
+00:02:25,261 --> 00:02:28,484
+half, minus half, plus one and three quarters, minus
+
+45
+00:02:28,484 --> 00:02:31,578
+three quarters degrees. To find the net change, we
+
+46
+00:02:31,578 --> 00:02:34,865
+can group compatible fractions regardless of the order they
+
+47
+00:02:34,865 --> 00:02:37,444
+happened in. One and a half minus half gives
+
+48
+00:02:37,444 --> 00:02:40,409
+one, and one and three quarters minus three quarters
+
+49
+00:02:40,409 --> 00:02:43,374
+gives one as well. Together, that's a net change
+
+50
+00:02:43,374 --> 00:02:44,921
+of two degrees Celsius.
+
+51
+00:02:45,283 --> 00:02:49,287
+Now it's your turn. Five eighths, minus one third,
+
+52
+00:02:49,287 --> 00:02:52,891
+minus one eighth, plus two thirds. Look for the
+
+53
+00:02:52,891 --> 00:02:56,654
+friendly pairs, and try grouping them yourself.
+
+54
+00:03:05,467 --> 00:03:08,886
+First, pair the eighths: five eighths minus one eighth
+
+55
+00:03:08,886 --> 00:03:12,442
+gives four eighths, which simplifies to one half. Then
+
+56
+00:03:12,442 --> 00:03:15,315
+pair the thirds: minus one third plus two thirds
+
+57
+00:03:15,315 --> 00:03:18,529
+gives one third. Add those together, and one half
+
+58
+00:03:18,529 --> 00:03:20,718
+plus one third gives five sixths.
+
+59
+00:03:21,083 --> 00:03:24,432
+Let's remember the two moves. A plus B equals
+
+60
+00:03:24,432 --> 00:03:27,536
+B plus A — reorder. A, plus open bracket
+
+61
+00:03:27,536 --> 00:03:30,721
+B plus C close bracket, equals open bracket A
+
+62
+00:03:30,721 --> 00:03:34,152
+plus B close bracket, plus C — regroup. Same
+
+63
+00:03:34,152 --> 00:03:38,317
+sum, smarter route. Thank you so much for watching,
+
+64
+00:03:38,317 --> 00:03:41,094
+and I will see you in the next lesson!

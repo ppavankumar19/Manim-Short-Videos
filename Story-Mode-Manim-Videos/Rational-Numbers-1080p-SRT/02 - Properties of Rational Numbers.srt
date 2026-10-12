@@ -1,0 +1,243 @@
+1
+00:00:00,000 --> 00:00:03,308
+What rules do numbers follow when we add, subtract,
+
+2
+00:00:03,308 --> 00:00:07,179
+multiply, or divide them? Let's explore the Properties of
+
+3
+00:00:07,179 --> 00:00:11,331
+Rational Numbers — Closure, Commutative, and Associative!
+
+4
+00:00:11,683 --> 00:00:16,255
+Three properties. Three simple tips. Closure stays inside the
+
+5
+00:00:16,255 --> 00:00:20,826
+set. Commutative asks: can we change the order? Associative
+
+6
+00:00:20,826 --> 00:00:23,374
+asks: can we change the grouping?
+
+7
+00:00:23,733 --> 00:00:28,189
+Every property describes how numbers behave under an operation.
+
+8
+00:00:28,189 --> 00:00:31,058
+Take a, b, and c, with an operation like
+
+9
+00:00:31,058 --> 00:00:35,363
+addition. Closure: does the result stay inside the set?
+
+10
+00:00:35,363 --> 00:00:39,667
+Commutative: can we change the order? Associative: can we
+
+11
+00:00:39,667 --> 00:00:44,198
+change the grouping? These three questions guide everything that
+
+12
+00:00:44,198 --> 00:00:45,104
+follows.
+
+13
+00:00:45,467 --> 00:00:50,090
+Let's test Closure first. Adding two whole numbers, like
+
+14
+00:00:50,090 --> 00:00:52,401
+3 plus 4, gives 7 — still a whole
+
+15
+00:00:52,401 --> 00:00:56,682
+number. The result stays right inside the set! But
+
+16
+00:00:56,682 --> 00:00:59,507
+watch: 5 minus 6 gives negative 1 — and
+
+17
+00:00:59,507 --> 00:01:03,359
+that's NOT a whole number. Closure depends on the
+
+18
+00:01:03,359 --> 00:01:04,558
+operation.
+
+19
+00:01:04,917 --> 00:01:09,359
+Now, Commutative: does changing the order change the result?
+
+20
+00:01:09,359 --> 00:01:12,840
+Five plus three equals eight. Swap it: three plus
+
+21
+00:01:12,840 --> 00:01:17,134
+five also equals eight! Order doesn't matter for addition.
+
+22
+00:01:17,134 --> 00:01:20,244
+The same rule holds for multiplication: a plus b
+
+23
+00:01:20,244 --> 00:01:22,540
+equals b plus a, and a times b equals
+
+24
+00:01:22,540 --> 00:01:25,946
+b times a. But try subtraction: five minus three
+
+25
+00:01:25,946 --> 00:01:29,278
+is two, while three minus five is negative two.
+
+26
+00:01:29,278 --> 00:01:31,648
+Subtraction is NOT commutative!
+
+27
+00:01:32,000 --> 00:01:36,559
+Finally, Associative: does regrouping change the result? Take two
+
+28
+00:01:36,559 --> 00:01:40,066
+plus three, plus four. Group the first two: that's
+
+29
+00:01:40,066 --> 00:01:43,152
+five, plus four, which is nine. Now move the
+
+30
+00:01:43,152 --> 00:01:47,290
+brackets: two, plus three plus four, still nine! Grouping
+
+31
+00:01:47,290 --> 00:01:50,657
+doesn't matter for addition. The same rule holds for
+
+32
+00:01:50,657 --> 00:01:54,304
+multiplication: open bracket a times b close bracket times
+
+33
+00:01:54,304 --> 00:01:56,478
+c equals a times open bracket b times c
+
+34
+00:01:56,478 --> 00:02:00,757
+close bracket. But subtraction fails again: five minus three,
+
+35
+00:02:00,757 --> 00:02:03,843
+minus one, is one, while five minus the quantity
+
+36
+00:02:03,843 --> 00:02:08,051
+three minus one, is three. Subtraction is NOT associative!
+
+37
+00:02:08,417 --> 00:02:11,458
+Let's put all three side by side. Closure checks
+
+38
+00:02:11,458 --> 00:02:14,914
+the result: does it stay inside the set? Commutative
+
+39
+00:02:14,914 --> 00:02:18,509
+checks the order: can we change it? Associative checks
+
+40
+00:02:18,509 --> 00:02:22,794
+the grouping: can we regroup? Three different questions, three
+
+41
+00:02:22,794 --> 00:02:24,108
+different tests.
+
+42
+00:02:24,467 --> 00:02:28,410
+Now it's your turn — identify the property! Test
+
+43
+00:02:28,410 --> 00:02:31,367
+one: 5 plus 3 equals 3 plus 5. Test
+
+44
+00:02:31,367 --> 00:02:35,131
+two: open bracket 2 plus 3 close bracket, plus
+
+45
+00:02:35,131 --> 00:02:38,268
+4, equals 2, plus open bracket 3 plus 4
+
+46
+00:02:38,268 --> 00:02:42,480
+close bracket. Test three: 3 plus 4 equals 7.
+
+47
+00:02:42,480 --> 00:02:45,438
+Which property does each one test?
+
+48
+00:02:56,250 --> 00:02:59,947
+Test one changed the order — that's Commutative! Test
+
+49
+00:02:59,947 --> 00:03:03,946
+two changed the grouping — that's Associative! Test three
+
+50
+00:03:03,946 --> 00:03:06,663
+checked if the result stays inside the set —
+
+51
+00:03:06,663 --> 00:03:08,021
+that's Closure!
+
+52
+00:03:08,383 --> 00:03:12,572
+Let's lock in the three tests, with their formulas.
+
+53
+00:03:12,572 --> 00:03:15,650
+Closure: a plus b, and a times b, stay
+
+54
+00:03:15,650 --> 00:03:19,326
+in the same set. Commutative: a plus b equals
+
+55
+00:03:19,326 --> 00:03:21,549
+b plus a, and a times b equals b
+
+56
+00:03:21,549 --> 00:03:25,567
+times a. Associative: open bracket a plus b close
+
+57
+00:03:25,567 --> 00:03:28,816
+bracket plus c, equals a plus open bracket b
+
+58
+00:03:28,816 --> 00:03:31,466
+plus c close bracket — and the same for
+
+59
+00:03:31,466 --> 00:03:37,451
+multiplication. Remember: Stay, Swap, Regroup. Thank you so much
+
+60
+00:03:37,451 --> 00:03:40,272
+for watching, and I will see you in the
+
+61
+00:03:40,272 --> 00:03:41,554
+next lesson!

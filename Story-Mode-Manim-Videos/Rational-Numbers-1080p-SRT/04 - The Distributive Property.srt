@@ -1,0 +1,347 @@
+1
+00:00:00,000 --> 00:00:04,305
+Distributive Property. One multiplier — every term inside gets
+
+2
+00:00:04,305 --> 00:00:07,052
+it. It's one of the most useful tricks in
+
+3
+00:00:07,052 --> 00:00:08,611
+all of mathematics.
+
+4
+00:00:08,967 --> 00:00:12,157
+Imagine you're an ancient land surveyor. You have a
+
+5
+00:00:12,157 --> 00:00:15,212
+large field divided into two sections: wheat on one
+
+6
+00:00:15,212 --> 00:00:17,860
+side, corn on the other. You need to know
+
+7
+00:00:17,860 --> 00:00:21,119
+the total area. Do you measure the entire field?
+
+8
+00:00:21,119 --> 00:00:24,038
+Or measure each section and add them? Both give
+
+9
+00:00:24,038 --> 00:00:26,618
+the same answer — that's our story today.
+
+10
+00:00:26,983 --> 00:00:30,897
+Watch this carefully. Here's the whole field. Now let
+
+11
+00:00:30,897 --> 00:00:33,924
+me split it into two pieces. The yellow piece
+
+12
+00:00:33,924 --> 00:00:36,509
+and the green piece. If I add them back
+
+13
+00:00:36,509 --> 00:00:39,831
+together, do I get the same total? Yes! The
+
+14
+00:00:39,831 --> 00:00:42,194
+whole equals the sum of the parts.
+
+15
+00:00:42,550 --> 00:00:46,003
+Let me show you this idea with letters. Let's
+
+16
+00:00:46,003 --> 00:00:49,624
+call the height of our rectangle 'a'. The width
+
+17
+00:00:49,624 --> 00:00:52,488
+of the yellow part is 'b', and the width
+
+18
+00:00:52,488 --> 00:00:55,267
+of the green part is 'c'. The area of
+
+19
+00:00:55,267 --> 00:00:58,467
+the whole rectangle is a times (b plus c).
+
+20
+00:00:58,467 --> 00:01:00,993
+The area of the yellow part is a times
+
+21
+00:01:00,993 --> 00:01:03,773
+b, and the green part is a times c.
+
+22
+00:01:03,773 --> 00:01:08,068
+So: a(b+c) equals ab plus ac. That's the distributive
+
+23
+00:01:08,068 --> 00:01:12,194
+property over addition. The same idea also works over
+
+24
+00:01:12,194 --> 00:01:15,310
+subtraction: a times (b minus c) equals a b
+
+25
+00:01:15,310 --> 00:01:16,321
+minus a c.
+
+26
+00:01:16,683 --> 00:01:20,195
+Let's try this with real numbers. What is 4
+
+27
+00:01:20,195 --> 00:01:25,057
+times 23? Instead of multiplying directly, break 23 into
+
+28
+00:01:25,057 --> 00:01:27,578
+20 and 3. So we have 4 times (20
+
+29
+00:01:27,578 --> 00:01:31,360
+plus 3). Distribute the 4: 4 times 20 equals
+
+30
+00:01:31,360 --> 00:01:34,782
+80, and 4 times 3 equals 12. Add them:
+
+31
+00:01:34,782 --> 00:01:39,284
+80 plus 12 equals 92. That's the distributive property
+
+32
+00:01:39,284 --> 00:01:44,236
+over addition. Now let's try one over subtraction. What
+
+33
+00:01:44,236 --> 00:01:46,847
+is 6 times 98? Think of 98 as 100
+
+34
+00:01:46,847 --> 00:01:49,909
+minus 2. So we have 6 times (100 minus
+
+35
+00:01:49,909 --> 00:01:53,960
+2). Distribute the 6: 6 times 100 equals 600,
+
+36
+00:01:53,960 --> 00:01:57,652
+and 6 times 2 equals 12. Subtract them: 600
+
+37
+00:01:57,652 --> 00:02:02,334
+minus 12 equals 588. Same trick, works either way!
+
+38
+00:02:02,700 --> 00:02:06,737
+Here's a mistake many students make. When solving 4
+
+39
+00:02:06,737 --> 00:02:10,258
+times (20 plus 3), some multiply only the first
+
+40
+00:02:10,258 --> 00:02:13,264
+term. They write 4 times 20, plus 3 —
+
+41
+00:02:13,264 --> 00:02:17,472
+forgetting to multiply the second term! That gives 80
+
+42
+00:02:17,472 --> 00:02:20,650
+plus 3, which is 83 — and that's wrong.
+
+43
+00:02:20,650 --> 00:02:24,515
+Remember: the 4 must multiply every term inside the
+
+44
+00:02:24,515 --> 00:02:28,208
+brackets. The correct way is 4 times 20, plus
+
+45
+00:02:28,208 --> 00:02:32,073
+4 times 3, which gives 92. Always distribute to
+
+46
+00:02:32,073 --> 00:02:33,791
+every single term!
+
+47
+00:02:34,150 --> 00:02:39,039
+Subtraction has its own tricky mistake. When solving 6
+
+48
+00:02:39,039 --> 00:02:43,341
+times the quantity 100 minus 2, some students flip
+
+49
+00:02:43,341 --> 00:02:47,056
+the sign. They write 6 times 100, plus 6
+
+50
+00:02:47,056 --> 00:02:50,576
+times 2 — turning the minus into a plus!
+
+51
+00:02:50,576 --> 00:02:53,704
+That gives 600 plus 12, which is 612 —
+
+52
+00:02:53,704 --> 00:02:58,593
+and that's wrong. Remember: the minus sign must stay
+
+53
+00:02:58,593 --> 00:03:03,677
+between the two distributed products. The correct way is
+
+54
+00:03:03,677 --> 00:03:07,295
+6 times 100, minus 6 times 2, which gives
+
+55
+00:03:07,295 --> 00:03:11,597
+588. Keep the operation exactly as it was inside
+
+56
+00:03:11,597 --> 00:03:13,161
+the brackets!
+
+57
+00:03:13,517 --> 00:03:17,365
+Here's a real-world example. 5 friends each buy a
+
+58
+00:03:17,365 --> 00:03:19,930
+notebook for 20 rupees and a pen for 3
+
+59
+00:03:19,930 --> 00:03:23,864
+rupees. What's the total cost? We can think of
+
+60
+00:03:23,864 --> 00:03:26,600
+it as 5 times (20 plus 3). Or, buy
+
+61
+00:03:26,600 --> 00:03:30,277
+all 5 notebooks first: 100 rupees. Then all 5
+
+62
+00:03:30,277 --> 00:03:36,263
+pens: 15 rupees. Total: 115 rupees. Distribution happens naturally
+
+63
+00:03:36,263 --> 00:03:37,888
+in everyday life!
+
+64
+00:03:38,250 --> 00:03:42,276
+Time to try one yourself: seven times nineteen. Here's
+
+65
+00:03:42,276 --> 00:03:45,605
+a hint — nineteen equals twenty minus one. Take
+
+66
+00:03:45,605 --> 00:03:48,005
+a moment here and work it out using the
+
+67
+00:03:48,005 --> 00:03:49,941
+distributive property.
+
+68
+00:04:00,750 --> 00:04:04,325
+Seven times nineteen becomes seven times the quantity twenty
+
+69
+00:04:04,325 --> 00:04:07,488
+minus one, which splits into one hundred forty minus
+
+70
+00:04:07,488 --> 00:04:11,476
+seven, giving one hundred thirty three. Quick mental math,
+
+71
+00:04:11,476 --> 00:04:13,401
+all thanks to distributing.
+
+72
+00:04:13,767 --> 00:04:18,168
+Remember: the distributive property is just breaking things apart.
+
+73
+00:04:18,168 --> 00:04:21,262
+Wherever you see a(b+c), you can distribute — split
+
+74
+00:04:21,262 --> 00:04:24,632
+the parts, multiply each, then add them back. Use
+
+75
+00:04:24,632 --> 00:04:28,139
+it for mental math, and for real-life shopping. Break
+
+76
+00:04:28,139 --> 00:04:29,858
+it down to make it simple.
+
+77
+00:04:30,217 --> 00:04:33,993
+Let's recap the power of breaking it apart. Over
+
+78
+00:04:33,993 --> 00:04:37,341
+addition: a times open bracket b plus c close
+
+79
+00:04:37,341 --> 00:04:41,118
+bracket equals a b plus a c. Over subtraction:
+
+80
+00:04:41,118 --> 00:04:44,208
+a times open bracket b minus c close bracket
+
+81
+00:04:44,208 --> 00:04:46,611
+equals a b minus a c. We used it
+
+82
+00:04:46,611 --> 00:04:50,131
+for quick mental math, and for splitting a real
+
+83
+00:04:50,131 --> 00:04:54,251
+shopping bill. Whenever a number multiplies a sum or
+
+84
+00:04:54,251 --> 00:04:58,285
+a difference, you can distribute it across every term
+
+85
+00:04:58,285 --> 00:05:01,375
+— break it down to make it simple. Thank
+
+86
+00:05:01,375 --> 00:05:04,293
+you so much for watching, and I will see
+
+87
+00:05:04,293 --> 00:05:06,268
+you in the next lesson!

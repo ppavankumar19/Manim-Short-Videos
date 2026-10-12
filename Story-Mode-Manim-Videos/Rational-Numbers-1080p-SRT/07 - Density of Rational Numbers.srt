@@ -1,0 +1,351 @@
+1
+00:00:00,000 --> 00:00:02,986
+Think about everyday life for a second. When you
+
+2
+00:00:02,986 --> 00:00:05,836
+slice a pizza into equal pieces, measure a plank
+
+3
+00:00:05,836 --> 00:00:08,415
+of wood down to the last half centimetre, or
+
+4
+00:00:08,415 --> 00:00:11,062
+split a dinner bill three ways, you are using
+
+5
+00:00:11,062 --> 00:00:14,048
+rational numbers all the time. So let's dig into
+
+6
+00:00:14,048 --> 00:00:16,491
+one of their most surprising secrets.
+
+7
+00:00:17,483 --> 00:00:20,044
+Come sit down. Today we are going on a
+
+8
+00:00:20,044 --> 00:00:23,509
+tiny expedition, right here on our number line, to
+
+9
+00:00:23,509 --> 00:00:27,275
+find something that feels almost like magic: the density
+
+10
+00:00:27,275 --> 00:00:29,534
+property of rational numbers.
+
+11
+00:00:30,567 --> 00:00:34,225
+Look at zero and one. They are neighbours. Successive
+
+12
+00:00:34,225 --> 00:00:36,779
+integers. If I ask you for a whole number
+
+13
+00:00:36,779 --> 00:00:40,093
+strictly between them, you would search and search and
+
+14
+00:00:40,093 --> 00:00:42,854
+find nothing. It is a canyon with no integer
+
+15
+00:00:42,854 --> 00:00:46,858
+bridge across it. But rational numbers, fractions, are far
+
+16
+00:00:46,858 --> 00:00:50,447
+more adventurous than whole numbers. Let's see what they
+
+17
+00:00:50,447 --> 00:00:51,138
+can do.
+
+18
+00:00:52,133 --> 00:00:56,613
+Fractions themselves are ancient. Egyptian and Babylonian traders were
+
+19
+00:00:56,613 --> 00:00:59,464
+splitting bread and land into pieces like one half
+
+20
+00:00:59,464 --> 00:01:02,857
+and two thirds, thousands of years ago. Later, the
+
+21
+00:01:02,857 --> 00:01:06,658
+Greeks turned fractions into ratios and proportions. But the
+
+22
+00:01:06,658 --> 00:01:10,391
+deeper question, exactly how many rational numbers are hiding
+
+23
+00:01:10,391 --> 00:01:13,717
+between two others, was only answered rigorously in the
+
+24
+00:01:13,717 --> 00:01:18,197
+eighteen seventies, when the mathematician Richard Dedekind was building
+
+25
+00:01:18,197 --> 00:01:21,048
+a precise theory of numbers. He proved what we
+
+26
+00:01:21,048 --> 00:01:23,966
+are about to discover ourselves: the gap is never
+
+27
+00:01:23,966 --> 00:01:24,984
+truly empty.
+
+28
+00:01:25,983 --> 00:01:29,054
+Here is our first trick. Take the two numbers
+
+29
+00:01:29,054 --> 00:01:31,826
+at the edges of the canyon, zero and one,
+
+30
+00:01:31,826 --> 00:01:35,421
+and average them. Add them, and divide by two.
+
+31
+00:01:35,421 --> 00:01:38,192
+Zero plus one over two gives us one half.
+
+32
+00:01:38,192 --> 00:01:41,114
+Watch our explorer zoom in twice, and plant a
+
+33
+00:01:41,114 --> 00:01:43,885
+flag exactly in the middle. One half is a
+
+34
+00:01:43,885 --> 00:01:48,154
+brand new rational number, sitting right inside the canyon.
+
+35
+00:01:49,150 --> 00:01:51,741
+But why stop there? We can repeat the very
+
+36
+00:01:51,741 --> 00:01:54,672
+same trick. Average zero and one half, and we
+
+37
+00:01:54,672 --> 00:01:57,672
+land on one quarter. Average one half and one,
+
+38
+00:01:57,672 --> 00:02:00,535
+and we land on three quarters. Zooming in four
+
+39
+00:02:00,535 --> 00:02:03,602
+times reveals two more numbers hiding inside the same
+
+40
+00:02:03,602 --> 00:02:06,602
+tiny canyon, and neither of them existed for whole
+
+41
+00:02:06,602 --> 00:02:07,761
+numbers at all.
+
+42
+00:02:08,750 --> 00:02:12,262
+Now zoom in even further, to a microscopic scale.
+
+43
+00:02:12,262 --> 00:02:15,326
+Bisect each of those little gaps again, and one
+
+44
+00:02:15,326 --> 00:02:19,511
+eighth, three eighths, five eighths, and seven eighths all
+
+45
+00:02:19,511 --> 00:02:23,247
+appear, one after another. Every single time we take
+
+46
+00:02:23,247 --> 00:02:26,535
+an average, a brand new rational number is born,
+
+47
+00:02:26,535 --> 00:02:29,524
+and there is nothing stopping us from doing this
+
+48
+00:02:29,524 --> 00:02:31,841
+again, and again, forever.
+
+49
+00:02:32,833 --> 00:02:36,330
+Let's use this trick for real. Suppose someone asks:
+
+50
+00:02:36,330 --> 00:02:39,267
+find a rational number between one quarter and one
+
+51
+00:02:39,267 --> 00:02:43,044
+half. We do exactly what we practised. Average them:
+
+52
+00:02:43,044 --> 00:02:46,121
+one quarter plus one half, over two, gives three
+
+53
+00:02:46,121 --> 00:02:49,408
+eighths. Check it on the line, three eighths sits
+
+54
+00:02:49,408 --> 00:02:53,324
+neatly between one quarter and one half. Problem solved.
+
+55
+00:02:54,317 --> 00:02:57,450
+Here is a trickier one. Find a rational number
+
+56
+00:02:57,450 --> 00:03:00,881
+between zero point three and zero point three two.
+
+57
+00:03:00,881 --> 00:03:04,164
+These two are already very close together, but the
+
+58
+00:03:04,164 --> 00:03:07,446
+trick never fails us. Average them, and we get
+
+59
+00:03:07,446 --> 00:03:10,952
+zero point three one. It slots in perfectly. No
+
+60
+00:03:10,952 --> 00:03:14,682
+matter how close two rational numbers already are, their
+
+61
+00:03:14,682 --> 00:03:17,368
+average always finds room in between.
+
+62
+00:03:18,367 --> 00:03:21,726
+That is the density property. For any two rational
+
+63
+00:03:21,726 --> 00:03:25,086
+numbers a and b, their average lies strictly between
+
+64
+00:03:25,086 --> 00:03:28,738
+them, and it is rational too. Repeat this forever,
+
+65
+00:03:28,738 --> 00:03:31,221
+and the canyon is not empty at all. It
+
+66
+00:03:31,221 --> 00:03:35,092
+becomes an endless, glowing highway of numbers, fifty one
+
+67
+00:03:35,092 --> 00:03:38,086
+over one hundred, five hundred and two over one
+
+68
+00:03:38,086 --> 00:03:42,176
+thousand, eight hundred and ninety nine over one thousand.
+
+69
+00:03:42,176 --> 00:03:46,120
+Between any two rational numbers, there live infinitely many
+
+70
+00:03:46,120 --> 00:03:46,778
+more.
+
+71
+00:03:47,783 --> 00:03:50,939
+Now it's your turn! Find one rational number that
+
+72
+00:03:50,939 --> 00:03:55,007
+lies strictly between one-fourth and one-half. Use the halfway
+
+73
+00:03:55,007 --> 00:03:58,093
+trick you just learned. Pause the video and work
+
+74
+00:03:58,093 --> 00:03:58,794
+it out!
+
+75
+00:04:09,600 --> 00:04:13,596
+Add them up: one-fourth plus one-half, divided by two.
+
+76
+00:04:13,596 --> 00:04:18,407
+That gives us three-eighths! And three-eighths sits perfectly between
+
+77
+00:04:18,407 --> 00:04:20,331
+one-fourth and one-half.
+
+78
+00:04:21,333 --> 00:04:24,978
+Let's quickly recap what we discovered today. First, the
+
+79
+00:04:24,978 --> 00:04:27,880
+average of any two rational numbers always gives us
+
+80
+00:04:27,880 --> 00:04:31,187
+a brand new rational number, sitting exactly in between
+
+81
+00:04:31,187 --> 00:04:34,899
+them. Second, we can repeat this trick forever, zooming
+
+82
+00:04:34,899 --> 00:04:38,004
+in again and again, from halves, to quarters, to
+
+83
+00:04:38,004 --> 00:04:41,311
+eighths, and beyond. Third, it works just as well
+
+84
+00:04:41,311 --> 00:04:44,416
+for decimals, even when two numbers are already very
+
+85
+00:04:44,416 --> 00:04:48,870
+close together. And that, together, is exactly what mathematicians
+
+86
+00:04:48,870 --> 00:04:52,380
+call the density property of rational numbers. Thank you
+
+87
+00:04:52,380 --> 00:04:54,674
+so much for watching, and I will see you
+
+88
+00:04:54,674 --> 00:04:56,024
+in the next lesson!

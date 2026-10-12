@@ -1,0 +1,239 @@
+1
+00:00:00,000 --> 00:00:02,167
+Where does a fraction go when we write it
+
+2
+00:00:02,167 --> 00:00:06,962
+as a decimal? Decimal Forms. Take five-eighths, and three-sevenths.
+
+3
+00:00:06,962 --> 00:00:10,115
+A fraction can always become a decimal. What decimal
+
+4
+00:00:10,115 --> 00:00:11,691
+does a fraction become?
+
+5
+00:00:12,050 --> 00:00:15,530
+Here's the key idea: a fraction is really just
+
+6
+00:00:15,530 --> 00:00:18,923
+a division. P over Q simply means P divided
+
+7
+00:00:18,923 --> 00:00:23,013
+by Q. Take five-eighths — that becomes five divided
+
+8
+00:00:23,013 --> 00:00:26,754
+by eight. To get the decimal form, divide the
+
+9
+00:00:26,754 --> 00:00:31,104
+numerator by the denominator. Of course, Q can never
+
+10
+00:00:31,104 --> 00:00:32,061
+be zero.
+
+11
+00:00:32,417 --> 00:00:35,286
+Let's actually do the division for five divided by
+
+12
+00:00:35,286 --> 00:00:38,429
+eight. Set it up and start dividing. The first
+
+13
+00:00:38,429 --> 00:00:41,435
+digit is six, leaving a remainder of two. Keep
+
+14
+00:00:41,435 --> 00:00:44,509
+going: the next digit is two, leaving a remainder
+
+15
+00:00:44,509 --> 00:00:47,242
+of four. One more step gives five, and now
+
+16
+00:00:47,242 --> 00:00:50,999
+the remainder becomes zero! When the remainder hits zero,
+
+17
+00:00:50,999 --> 00:00:54,757
+the decimal simply stops. So five-eighths equals zero point
+
+18
+00:00:54,757 --> 00:00:57,148
+six two five — a terminating decimal.
+
+19
+00:00:57,500 --> 00:01:00,884
+Now let's try three divided by seven. Setting up
+
+20
+00:01:00,884 --> 00:01:04,500
+the division. Watch the digits appear one by one,
+
+21
+00:01:04,500 --> 00:01:07,961
+while we track the remainder at every step. After
+
+22
+00:01:07,961 --> 00:01:11,422
+six steps, look closely — the remainder three shows
+
+23
+00:01:11,422 --> 00:01:15,422
+up again! Since the remainder repeats, the digits must
+
+24
+00:01:15,422 --> 00:01:19,499
+repeat too: three-sevenths equals zero point four two eight
+
+25
+00:01:19,499 --> 00:01:23,960
+five seven one, repeating forever. The digits repeat forever
+
+26
+00:01:23,960 --> 00:01:26,191
+— this is a recurring decimal.
+
+27
+00:01:26,550 --> 00:01:29,135
+So why do the digits repeat? The secret is
+
+28
+00:01:29,135 --> 00:01:32,537
+the remainder. Follow the chain of remainders from our
+
+29
+00:01:32,537 --> 00:01:37,027
+division: three, two, six, four, five, one. Each remainder
+
+30
+00:01:37,027 --> 00:01:40,157
+leads to the next through the same division steps.
+
+31
+00:01:40,157 --> 00:01:43,694
+And eventually, the very first remainder shows up again,
+
+32
+00:01:43,694 --> 00:01:47,232
+closing the loop. The same remainder always produces the
+
+33
+00:01:47,232 --> 00:01:51,246
+same division steps, and therefore the same repeating digits.
+
+34
+00:01:51,246 --> 00:01:54,784
+For terminating decimals, the remainder reaches zero — for
+
+35
+00:01:54,784 --> 00:01:57,641
+recurring decimals, a remainder repeats.
+
+36
+00:01:58,000 --> 00:02:01,051
+Let's place both side by side. On the left,
+
+37
+00:02:01,051 --> 00:02:04,102
+five-eighths equals zero point six two five — the
+
+38
+00:02:04,102 --> 00:02:07,896
+remainder reached zero, so the division stops. On the
+
+39
+00:02:07,896 --> 00:02:11,840
+right, three-sevenths equals zero point four two eight five
+
+40
+00:02:11,840 --> 00:02:15,114
+seven one repeating — a remainder repeated, so the
+
+41
+00:02:15,114 --> 00:02:20,100
+division loops forever. Remember it simply: stop means terminating,
+
+42
+00:02:20,100 --> 00:02:21,811
+loop means recurring.
+
+43
+00:02:22,167 --> 00:02:25,160
+Time to predict the decimal type for two fractions.
+
+44
+00:02:25,160 --> 00:02:28,663
+The first fraction is three-fourths. The second fraction is
+
+45
+00:02:28,663 --> 00:02:32,166
+two-sevenths. Take a moment here, and watch the remainder
+
+46
+00:02:32,166 --> 00:02:33,058
+carefully.
+
+47
+00:02:43,867 --> 00:02:47,581
+Three divided by four gives zero point seven five,
+
+48
+00:02:47,581 --> 00:02:50,620
+and the remainder becomes zero — so that one
+
+49
+00:02:50,620 --> 00:02:54,756
+is terminating. Two divided by seven gives zero point
+
+50
+00:02:54,756 --> 00:02:58,301
+two eight five seven one four, and the remainder
+
+51
+00:02:58,301 --> 00:03:01,678
+keeps repeating — so that one is recurring.
+
+52
+00:03:02,683 --> 00:03:05,782
+Let's lock in the big idea. Every fraction becomes
+
+53
+00:03:05,782 --> 00:03:09,555
+a decimal through division. If the remainder reaches zero,
+
+54
+00:03:09,555 --> 00:03:13,260
+the decimal terminates — like five-eighths, which equals zero
+
+55
+00:03:13,260 --> 00:03:16,291
+point six two five. If a remainder repeats, the
+
+56
+00:03:16,291 --> 00:03:19,996
+decimal recurs — like three-sevenths, which equals zero point
+
+57
+00:03:19,996 --> 00:03:23,836
+four two eight five seven one, repeating forever. Divide,
+
+58
+00:03:23,836 --> 00:03:27,271
+watch the remainder, and you'll always know: stop, or
+
+59
+00:03:27,271 --> 00:03:30,033
+loop. Thank you so much for watching, and I
+
+60
+00:03:30,033 --> 00:03:32,054
+will see you in the next lesson!

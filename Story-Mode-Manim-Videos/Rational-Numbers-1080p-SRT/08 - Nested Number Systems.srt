@@ -1,0 +1,163 @@
+1
+00:00:00,000 --> 00:00:05,508
+Numbers grow, one system inside another. Nested Number Systems.
+
+2
+00:00:05,508 --> 00:00:11,270
+From Natural Numbers to Rational Numbers. Natural, Whole, Integer,
+
+3
+00:00:11,270 --> 00:00:15,931
+Rational. How does one number system grow into another?
+
+4
+00:00:16,283 --> 00:00:19,301
+Let's start with the simplest numbers — the natural
+
+5
+00:00:19,301 --> 00:00:23,021
+numbers. One, two, three, four, five, and on it
+
+6
+00:00:23,021 --> 00:00:26,319
+goes. These make up the set of Natural Numbers.
+
+7
+00:00:26,319 --> 00:00:28,214
+But where does zero belong?
+
+8
+00:00:28,567 --> 00:00:31,951
+All natural numbers are whole numbers — but whole
+
+9
+00:00:31,951 --> 00:00:35,995
+numbers add one more. Watch zero join the family.
+
+10
+00:00:35,995 --> 00:00:39,792
+Now we have zero, one, two, three, and on.
+
+11
+00:00:39,792 --> 00:00:44,744
+Natural numbers are completely inside whole numbers. But numbers
+
+12
+00:00:44,744 --> 00:00:47,138
+below zero are still missing.
+
+13
+00:00:47,500 --> 00:00:50,574
+Whole numbers grow again — this time into negative
+
+14
+00:00:50,574 --> 00:00:55,111
+territory. Watch the negative numbers join: minus three, minus
+
+15
+00:00:55,111 --> 00:00:59,355
+two, minus one. Integers add the negative numbers. Whole
+
+16
+00:00:59,355 --> 00:01:03,673
+numbers are completely inside integers. But fractions are still
+
+17
+00:01:03,673 --> 00:01:04,551
+missing.
+
+18
+00:01:04,917 --> 00:01:09,559
+Now integers expand into rational numbers. Watch: five becomes
+
+19
+00:01:09,559 --> 00:01:13,041
+five over one, minus three becomes minus three over
+
+20
+00:01:13,041 --> 00:01:16,987
+one, and zero becomes zero over one. Rational numbers
+
+21
+00:01:16,987 --> 00:01:20,237
+also fill in fractions between the integers — like
+
+22
+00:01:20,237 --> 00:01:24,725
+one half, and minus three quarters. Rational Numbers include
+
+23
+00:01:24,725 --> 00:01:29,599
+integers AND fractions. Integers are completely inside the rational
+
+24
+00:01:29,599 --> 00:01:30,528
+numbers.
+
+25
+00:01:31,533 --> 00:01:35,145
+Let's see the whole picture together. Natural numbers form
+
+26
+00:01:35,145 --> 00:01:39,226
+the smallest circle. Whole numbers wrap around them. Integers
+
+27
+00:01:39,226 --> 00:01:42,972
+wrap around whole numbers. And rational numbers contain them
+
+28
+00:01:42,972 --> 00:01:46,784
+all. Every smaller system fits perfectly inside the next.
+
+29
+00:01:47,150 --> 00:01:50,232
+Now it's your turn — where does each number
+
+30
+00:01:50,232 --> 00:01:56,221
+belong? Number one: three. Number two: zero. Number three:
+
+31
+00:01:56,221 --> 00:02:00,008
+minus one half. Pause and figure out which sets
+
+32
+00:02:00,008 --> 00:02:01,681
+contain each one!
+
+33
+00:02:12,483 --> 00:02:17,077
+Three is natural, so it's whole, integer, and rational
+
+34
+00:02:17,077 --> 00:02:20,788
+too. Zero is not natural, but it is whole,
+
+35
+00:02:20,788 --> 00:02:25,382
+integer, and rational. Minus one half is only rational
+
+36
+00:02:25,382 --> 00:02:27,414
+— not whole or integer.
+
+37
+00:02:28,417 --> 00:02:31,664
+Let's lock in the big picture. Watch the whole
+
+38
+00:02:31,664 --> 00:02:34,989
+chain build. Natural is a subset of Whole, is
+
+39
+00:02:34,989 --> 00:02:38,314
+a subset of Integer, is a subset of Rational.
+
+40
+00:02:38,314 --> 00:02:41,097
+Thank you so much for watching, and I will
+
+41
+00:02:41,097 --> 00:02:43,108
+see you in the next lesson!
