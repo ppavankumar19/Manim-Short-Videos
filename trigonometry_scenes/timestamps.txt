@@ -1,0 +1,23 @@
+Heights and Distances — Scene Timestamps
+======================================================================
+
+Beat   Name                Start      End   Duration
+----------------------------------------------------------------------
+1      Intro (Why)       0:00.00  0:25.15    25.15s
+2      Title             0:25.15  0:30.15     5.00s
+3      Hook              0:30.15  0:50.72    20.57s
+4      Triangle          0:50.72  1:12.82    22.10s
+5      In Space          1:12.82  1:38.03    25.22s
+6      Ratio             1:38.03  2:04.17    26.13s
+7      Similarity        2:04.17  2:25.25    21.08s
+8      Formal            2:25.25  2:45.60    20.35s
+9      Working           2:45.60  3:04.90    19.31s
+10     Example           3:04.90  3:29.90    25.00s
+11     Summary           3:29.90  3:41.00    11.10s
+12     Overview          3:41.00  4:01.50    20.50s
+----------------------------------------------------------------------
+
+Total duration: 4:01.50 (241.50s)
+Total scenes: 12
+
+Individual scene MP4s in: D:\Manim-Short-Videos\trigonometry_scenes\renders
