@@ -1,0 +1,295 @@
+1
+00:00:00,260 --> 00:00:04,180
+Advanced laws of exponents. Power of a power, power
+
+2
+00:00:04,180 --> 00:00:07,517
+of a product, power of a fraction, and the
+
+3
+00:00:07,517 --> 00:00:12,651
+zero exponent. First recognise the structure, then choose the law.
+
+4
+00:00:13,137 --> 00:00:15,154
+In the last video we multiplied powers with the
+
+5
+00:00:15,154 --> 00:00:16,819
+same base and added the exponents. But look at
+
+6
+00:00:16,819 --> 00:00:20,345
+this: a to the power m, all raised to
+
+7
+00:00:20,345 --> 00:00:23,392
+the power n. Should we add the exponents again?
+
+8
+00:00:23,392 --> 00:00:28,477
+The structure is different, so the rule is different.
+
+9
+00:00:28,477 --> 00:00:30,268
+First recognise the structure.
+
+10
+00:00:30,813 --> 00:00:34,838
+Take a small example: two cubed, all squared. The
+
+11
+00:00:34,838 --> 00:00:37,543
+inner power is three factors of two: one group.
+
+12
+00:00:37,543 --> 00:00:42,593
+The outer exponent two makes two copies of that
+
+13
+00:00:42,593 --> 00:00:45,253
+whole group. So there are two groups with three
+
+14
+00:00:45,253 --> 00:00:48,785
+factors each: six factors altogether. That is two to
+
+15
+00:00:48,785 --> 00:00:51,263
+the power six, because three times two is six.
+
+16
+00:00:51,263 --> 00:00:55,844
+So a power raised to another power multiplies the exponents.
+
+17
+00:00:56,540 --> 00:01:00,040
+Now with letters. A to the power m, all
+
+18
+00:01:00,040 --> 00:01:02,953
+raised to the power n, means n copies of
+
+19
+00:01:02,953 --> 00:01:06,640
+a to the power m. That is m plus
+
+20
+00:01:06,640 --> 00:01:10,032
+m plus m, n times over, which is m
+
+21
+00:01:10,032 --> 00:01:13,780
+times n factors of a. So the exponents multiply:
+
+22
+00:01:13,780 --> 00:01:17,060
+a to the power m, all raised to the
+
+23
+00:01:17,060 --> 00:01:20,411
+power n, is a to the power m n.
+
+24
+00:01:21,047 --> 00:01:24,624
+Next, a product inside the brackets: two times three,
+
+25
+00:01:24,624 --> 00:01:28,267
+all to the power four. The outer exponent four
+
+26
+00:01:28,267 --> 00:01:31,507
+makes four copies of the bracket. Now regroup: all
+
+27
+00:01:31,507 --> 00:01:35,712
+the twos together, and all the threes together. That
+
+28
+00:01:35,712 --> 00:01:38,727
+gives two to the power four times three to
+
+29
+00:01:38,727 --> 00:01:42,087
+the power four. In general, a b all to
+
+30
+00:01:42,087 --> 00:01:44,327
+the power m is a to the power m
+
+31
+00:01:44,327 --> 00:01:49,098
+times b to the power m: the exponent reaches every factor.
+
+32
+00:01:49,770 --> 00:01:53,370
+Fractions work the same way: two fifths, all cubed.
+
+33
+00:01:53,370 --> 00:01:58,910
+That is two fifths, times two fifths, times two
+
+34
+00:01:58,910 --> 00:02:01,946
+fifths. The numerators group: two times two times two,
+
+35
+00:02:01,946 --> 00:02:06,590
+which is two cubed. The denominators group: five times
+
+36
+00:02:06,590 --> 00:02:10,157
+five times five, which is five cubed. A fraction
+
+37
+00:02:10,157 --> 00:02:13,781
+inside brackets is powered on the top and on the bottom.
+
+38
+00:02:14,413 --> 00:02:17,117
+Why is any non-zero number to the power zero
+
+39
+00:02:17,117 --> 00:02:20,623
+equal to one? Start with a to the power
+
+40
+00:02:20,623 --> 00:02:24,673
+four over a to the power four. By ordinary
+
+41
+00:02:24,673 --> 00:02:28,113
+division, anything divided by itself is one. But by
+
+42
+00:02:28,113 --> 00:02:31,823
+the quotient law the exponents subtract: four minus four
+
+43
+00:02:31,823 --> 00:02:34,153
+is zero, so it is also a to the
+
+44
+00:02:34,153 --> 00:02:37,773
+power zero. Both answers describe the same quantity, so
+
+45
+00:02:37,773 --> 00:02:41,704
+a to the power zero is one, for any non-zero a.
+
+46
+00:02:42,207 --> 00:02:45,267
+Now look at the four shapes together. A power
+
+47
+00:02:45,267 --> 00:02:49,942
+raised to another power: multiply the exponents. A product
+
+48
+00:02:49,942 --> 00:02:54,307
+inside brackets: distribute the power to both factors. A
+
+49
+00:02:54,307 --> 00:02:58,073
+fraction inside brackets: power the top and the bottom.
+
+50
+00:02:58,073 --> 00:03:01,758
+And an exponent of zero: the answer is simply one.
+
+51
+00:03:02,457 --> 00:03:06,557
+Four mistakes to avoid. First: x squared, all cubed,
+
+52
+00:03:06,557 --> 00:03:08,572
+is x to the power six, not x to
+
+53
+00:03:08,572 --> 00:03:14,563
+the power five, because the exponents multiply. Second: a
+
+54
+00:03:14,563 --> 00:03:18,457
+b all cubed is a cubed b cubed, not
+
+55
+00:03:18,457 --> 00:03:24,037
+a cubed b. Third: a over b, all squared,
+
+56
+00:03:24,037 --> 00:03:27,845
+is a squared over b squared. And fourth: seven
+
+57
+00:03:27,845 --> 00:03:30,728
+to the power zero is one, not zero.
+
+58
+00:03:31,323 --> 00:03:34,883
+Your turn. Four questions, one for each law. Simplify
+
+59
+00:03:34,883 --> 00:03:38,639
+three to the power four, all squared. Simplify five
+
+60
+00:03:38,639 --> 00:03:42,823
+x, all cubed. Simplify three sevenths, all squared. And
+
+61
+00:03:42,823 --> 00:03:47,294
+work out minus six, all to the power zero.
+
+62
+00:03:58,487 --> 00:04:01,783
+Three to the power four, all squared, multiplies the
+
+63
+00:04:01,783 --> 00:04:05,757
+exponents: three to the power eight. Five x, all
+
+64
+00:04:05,757 --> 00:04:09,777
+cubed, is five cubed x cubed: one hundred and
+
+65
+00:04:09,777 --> 00:04:13,847
+twenty five x cubed. Three sevenths squared is three
+
+66
+00:04:13,847 --> 00:04:17,533
+squared over seven squared, that is nine over forty
+
+67
+00:04:17,533 --> 00:04:21,218
+nine. And minus six to the power zero is one.
+
+68
+00:04:21,790 --> 00:04:24,266
+One last look. A power of a power multiplies
+
+69
+00:04:24,266 --> 00:04:27,515
+the exponents. A power of a product distributes to
+
+70
+00:04:27,515 --> 00:04:31,310
+every factor. A power of a fraction powers the
+
+71
+00:04:31,310 --> 00:04:34,720
+top and the bottom. And any non-zero base to
+
+72
+00:04:34,720 --> 00:04:37,540
+the power zero is one. See the structure, then
+
+73
+00:04:37,540 --> 00:04:40,055
+choose the law. Thank you for watching, and see
+
+74
+00:04:40,055 --> 00:04:41,381
+you in the next lesson.

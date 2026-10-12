@@ -1,0 +1,303 @@
+1
+00:00:00,280 --> 00:00:03,506
+The product and quotient laws of exponents. When powers
+
+2
+00:00:03,506 --> 00:00:06,120
+with the same base are multiplied, the exponents are
+
+3
+00:00:06,120 --> 00:00:10,491
+added. When they are divided, the exponents are subtracted.
+
+4
+00:00:11,150 --> 00:00:13,250
+Suppose we want two to the power four, times
+
+5
+00:00:13,250 --> 00:00:17,450
+two to the power three. We could expand both:
+
+6
+00:00:17,450 --> 00:00:18,910
+four twos, and then three more twos. That is
+
+7
+00:00:18,910 --> 00:00:22,630
+seven twos multiplied together, which is two to the
+
+8
+00:00:22,630 --> 00:00:27,510
+power seven. Expanding everything every time is slow. There
+
+9
+00:00:27,510 --> 00:00:28,821
+must be a shortcut.
+
+10
+00:00:29,483 --> 00:00:32,988
+Let us watch the factors instead. Two to the
+
+11
+00:00:32,988 --> 00:00:35,752
+power four is four tiles, and two to the
+
+12
+00:00:35,752 --> 00:00:38,923
+power three is three tiles. Multiply, and the two
+
+13
+00:00:38,923 --> 00:00:42,143
+groups join into one chain of seven. So four
+
+14
+00:00:42,143 --> 00:00:46,143
+plus three gives the new exponent, seven. For any
+
+15
+00:00:46,143 --> 00:00:49,270
+base: a to the power m times a to
+
+16
+00:00:49,270 --> 00:00:52,034
+the power n is a to the power m plus n.
+
+17
+00:00:52,720 --> 00:00:54,780
+Does the same rule work when an exponent is
+
+18
+00:00:54,780 --> 00:00:58,420
+negative? Look at three squared times three to the
+
+19
+00:00:58,420 --> 00:01:01,360
+power minus four. The base is the same, so
+
+20
+00:01:01,360 --> 00:01:04,905
+add the exponents: two plus minus four. That is
+
+21
+00:01:04,905 --> 00:01:08,033
+minus two, so the answer is three to the
+
+22
+00:01:08,033 --> 00:01:11,107
+power minus two. And from the last lesson, that
+
+23
+00:01:11,107 --> 00:01:13,651
+is one over three squared, or one ninth.
+
+24
+00:01:14,277 --> 00:01:17,374
+Now division. Take a to the power seven over
+
+25
+00:01:17,374 --> 00:01:20,011
+a to the power three: seven factors on top,
+
+26
+00:01:20,011 --> 00:01:23,543
+three below. Every factor below can cancel one on
+
+27
+00:01:23,543 --> 00:01:27,133
+top. Three pairs cancel, leaving four factors. So the
+
+28
+00:01:27,133 --> 00:01:30,309
+exponent is seven minus three, which is four. In
+
+29
+00:01:30,309 --> 00:01:35,003
+general, a to the power m over a to
+
+30
+00:01:35,003 --> 00:01:38,948
+the power n is a to the power m minus n.
+
+31
+00:01:39,580 --> 00:01:42,867
+Let us use the textbook's example: four to the
+
+32
+00:01:42,867 --> 00:01:46,580
+power seven over four to the power four. The
+
+33
+00:01:46,580 --> 00:01:50,308
+bases are the same. Subtract the exponents, top minus
+
+34
+00:01:50,308 --> 00:01:54,087
+bottom: seven minus four. That is three, so the
+
+35
+00:01:54,087 --> 00:01:57,871
+answer is four cubed. And four cubed is sixty four.
+
+36
+00:01:58,493 --> 00:02:01,888
+What if the bottom exponent is bigger? Look at
+
+37
+00:02:01,888 --> 00:02:04,553
+five squared over five to the power five. The
+
+38
+00:02:04,553 --> 00:02:06,893
+base is the same, so subtract: two minus five.
+
+39
+00:02:06,893 --> 00:02:09,881
+That is minus three, so the answer is five
+
+40
+00:02:09,881 --> 00:02:13,133
+to the power minus three. A negative exponent is
+
+41
+00:02:13,133 --> 00:02:17,388
+a perfectly good answer: it is one over five
+
+42
+00:02:17,388 --> 00:02:20,644
+cubed, which is one over one hundred and twenty five.
+
+43
+00:02:21,280 --> 00:02:24,000
+Now put the two laws side by side. For
+
+44
+00:02:24,000 --> 00:02:27,672
+a product, the factor groups join, so the exponents
+
+45
+00:02:27,672 --> 00:02:30,800
+are added: a to the power m times a
+
+46
+00:02:30,800 --> 00:02:33,320
+to the power n is a to the power
+
+47
+00:02:33,320 --> 00:02:38,040
+m plus n. For a quotient, matching factors cancel,
+
+48
+00:02:38,040 --> 00:02:41,378
+so the exponents are subtracted: a to the power
+
+49
+00:02:41,378 --> 00:02:44,103
+m over a to the power n is a
+
+50
+00:02:44,103 --> 00:02:47,108
+to the power m minus n. In both laws
+
+51
+00:02:47,108 --> 00:02:48,851
+the base stays exactly the same.
+
+52
+00:02:49,597 --> 00:02:52,677
+Here are three mistakes to avoid. First: x to
+
+53
+00:02:52,677 --> 00:02:55,857
+the power minus three times x to the power
+
+54
+00:02:55,857 --> 00:02:58,727
+minus two is x to the power minus five,
+
+55
+00:02:58,727 --> 00:03:02,877
+not minus six. Second: two cubed times three to
+
+56
+00:03:02,877 --> 00:03:06,634
+the fourth has different bases, so the exponents cannot
+
+57
+00:03:06,634 --> 00:03:10,077
+be added. Third: a squared over a to the
+
+58
+00:03:10,077 --> 00:03:12,647
+power five is a to the power minus three,
+
+59
+00:03:12,647 --> 00:03:16,428
+not a cubed. Read the operation carefully.
+
+60
+00:03:16,963 --> 00:03:20,312
+Your turn. Three questions. Simplify two to the power
+
+61
+00:03:20,312 --> 00:03:23,288
+minus three times two to the power minus two.
+
+62
+00:03:23,288 --> 00:03:27,663
+Simplify seven to the power minus two times seven
+
+63
+00:03:27,663 --> 00:03:31,243
+to the power five. And simplify four to the
+
+64
+00:03:31,243 --> 00:03:33,954
+power seven over four to the power four.
+
+65
+00:03:45,373 --> 00:03:48,060
+For the first, the exponents add: minus three plus
+
+66
+00:03:48,060 --> 00:03:50,640
+minus two is minus five, so two to the
+
+67
+00:03:50,640 --> 00:03:54,409
+power minus five. For the second, minus two plus
+
+68
+00:03:54,409 --> 00:03:57,613
+five is three, so seven cubed. And for the
+
+69
+00:03:57,613 --> 00:04:00,421
+third, seven minus four is three, so four cubed,
+
+70
+00:04:00,421 --> 00:04:02,204
+which is sixty four.
+
+71
+00:04:02,817 --> 00:04:04,757
+One last look. When powers with the same base
+
+72
+00:04:04,757 --> 00:04:08,337
+are multiplied, the factor groups join, so the exponents
+
+73
+00:04:08,337 --> 00:04:11,557
+are added. When they are divided, matching factors cancel,
+
+74
+00:04:11,557 --> 00:04:14,191
+so the exponents are subtracted. Keep the base, and
+
+75
+00:04:14,191 --> 00:04:21,113
+remember: multiplication adds, division subtracts. Thank you for watching,
+
+76
+00:04:21,113 --> 00:04:23,448
+and see you in the next lesson.

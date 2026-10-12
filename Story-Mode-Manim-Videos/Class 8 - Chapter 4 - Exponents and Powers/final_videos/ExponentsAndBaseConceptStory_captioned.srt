@@ -1,0 +1,255 @@
+1
+00:00:00,120 --> 00:00:03,420
+Exponents and powers. A short way to write repeated
+
+2
+00:00:03,420 --> 00:00:08,283
+multiplication: base, exponent and power. Let us see why
+
+3
+00:00:08,283 --> 00:00:09,131
+we need it.
+
+4
+00:00:09,687 --> 00:00:13,227
+Start with a simple product: three times three times
+
+5
+00:00:13,227 --> 00:00:17,127
+three. Now keep going, up to six factors of
+
+6
+00:00:17,127 --> 00:00:19,987
+three. Every single three has to be written out.
+
+7
+00:00:19,987 --> 00:00:23,281
+Do we really need to write three six times?
+
+8
+00:00:23,281 --> 00:00:25,598
+There must be a shorter way.
+
+9
+00:00:26,193 --> 00:00:29,187
+Let us count them. Three times three times three
+
+10
+00:00:29,187 --> 00:00:32,673
+times three times three times three: six equal factors.
+
+11
+00:00:32,673 --> 00:00:36,507
+That small raised number tells us how many times
+
+12
+00:00:36,507 --> 00:00:39,790
+the base is used as a factor. So three
+
+13
+00:00:39,790 --> 00:00:44,104
+to the power six means six threes multiplied together.
+
+14
+00:00:44,747 --> 00:00:47,664
+Look closely at three to the power six. The
+
+15
+00:00:47,664 --> 00:00:49,987
+large number at the bottom is the base: three,
+
+16
+00:00:49,987 --> 00:00:53,809
+the number that is multiplied again and again. The
+
+17
+00:00:53,809 --> 00:00:58,127
+small raised number is the exponent: six, the number
+
+18
+00:00:58,127 --> 00:01:01,809
+of factors. The whole expression is called a power.
+
+19
+00:01:01,809 --> 00:01:04,638
+We read it as three raised to the power six.
+
+20
+00:01:05,260 --> 00:01:08,080
+Now send five factors of four through the power
+
+21
+00:01:08,080 --> 00:01:11,791
+compressor. In they go: four times four times four
+
+22
+00:01:11,791 --> 00:01:14,915
+times four times four. The machine counts five factors
+
+23
+00:01:14,915 --> 00:01:19,380
+and writes four to the power five. Send it
+
+24
+00:01:19,380 --> 00:01:22,155
+back the other way, and four to the power
+
+25
+00:01:22,155 --> 00:01:25,251
+five expands into five fours multiplied.
+
+26
+00:01:25,910 --> 00:01:28,710
+Here is a mistake to avoid. Four to the
+
+27
+00:01:28,710 --> 00:01:30,983
+power five is not four times five. Four to
+
+28
+00:01:30,983 --> 00:01:34,257
+the power five means five fours multiplied, which is
+
+29
+00:01:34,257 --> 00:01:37,790
+one thousand and twenty four. Four times five is
+
+30
+00:01:37,790 --> 00:01:42,480
+only twenty. The exponent counts factors, not how many
+
+31
+00:01:42,480 --> 00:01:44,081
+times to multiply.
+
+32
+00:01:44,784 --> 00:01:47,864
+Powers of ten are the most useful of all.
+
+33
+00:01:47,864 --> 00:01:50,457
+Ten to the power one is ten, and ten
+
+34
+00:01:50,457 --> 00:01:54,156
+squared is ten times ten: one hundred. Ten cubed
+
+35
+00:01:54,156 --> 00:01:57,246
+is one thousand. Every new factor of ten adds
+
+36
+00:01:57,246 --> 00:02:00,224
+another zero. Ten to the power nine is a
+
+37
+00:02:00,224 --> 00:02:03,695
+one followed by nine zeros: one thousand million.
+
+38
+00:02:04,337 --> 00:02:06,192
+Now the reason we need all this. The Sun
+
+39
+00:02:06,192 --> 00:02:10,017
+is about fourteen crore metres across: a one and
+
+40
+00:02:10,017 --> 00:02:13,504
+a four, followed by eight zeros. In exponential form
+
+41
+00:02:13,504 --> 00:02:16,269
+that is one point four times ten to the
+
+42
+00:02:16,269 --> 00:02:20,129
+power nine. The same short line writes the distance
+
+43
+00:02:20,129 --> 00:02:22,828
+to the Sun, or the age of the universe.
+
+44
+00:02:23,323 --> 00:02:26,659
+Numbers can also grow very fast. One grain on
+
+45
+00:02:26,659 --> 00:02:29,243
+the first square of a chessboard, two on the
+
+46
+00:02:29,243 --> 00:02:32,523
+next, four on the next, then eight, sixteen, thirty
+
+47
+00:02:32,523 --> 00:02:35,999
+two. Every square doubles the one before it. By
+
+48
+00:02:35,999 --> 00:02:39,371
+the last square the number is enormous, and only
+
+49
+00:02:39,371 --> 00:02:42,614
+exponents can write it comfortably.
+
+50
+00:02:43,289 --> 00:02:47,307
+Your turn. Three questions. Write seven times seven times
+
+51
+00:02:47,307 --> 00:02:52,569
+seven times seven in exponential form. Expand two to
+
+52
+00:02:52,569 --> 00:02:56,385
+the power five. Name the base and the exponent
+
+53
+00:02:56,385 --> 00:02:58,000
+in ten to the power six.
+
+54
+00:03:08,960 --> 00:03:11,887
+Seven is repeated four times, so that is seven
+
+55
+00:03:11,887 --> 00:03:14,894
+to the power four. Two to the power five
+
+56
+00:03:14,894 --> 00:03:18,435
+is five twos multiplied together. And in ten to
+
+57
+00:03:18,435 --> 00:03:21,660
+the power six, ten is the base and six
+
+58
+00:03:21,660 --> 00:03:23,491
+is the exponent.
+
+59
+00:03:24,014 --> 00:03:26,382
+One last look. The base is the number that
+
+60
+00:03:26,382 --> 00:03:29,784
+repeats. The exponent counts how many times it is
+
+61
+00:03:29,784 --> 00:03:33,854
+used as a factor. The power is the compact
+
+62
+00:03:33,854 --> 00:03:38,039
+expression that writes it in one place. Remember: exponents
+
+63
+00:03:38,039 --> 00:03:41,824
+make repeated multiplication short. Thank you for watching, and
+
+64
+00:03:41,824 --> 00:03:43,305
+see you in the next lesson.

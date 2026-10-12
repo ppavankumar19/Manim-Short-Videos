@@ -1,0 +1,343 @@
+1
+00:00:00,400 --> 00:00:03,031
+Standard form with powers of ten. Among all the
+
+2
+00:00:03,031 --> 00:00:05,439
+exponent laws, this one is the most useful in
+
+3
+00:00:05,439 --> 00:00:08,520
+science: it writes very large and very small numbers
+
+4
+00:00:08,520 --> 00:00:13,200
+compactly. Move the decimal point, count the places, and
+
+5
+00:00:13,200 --> 00:00:14,811
+write the power of ten.
+
+6
+00:00:15,327 --> 00:00:18,387
+Standard form begins with two extremes. The Sun is
+
+7
+00:00:18,387 --> 00:00:21,367
+about three hundred million metres away. A wire inside
+
+8
+00:00:21,367 --> 00:00:24,593
+a computer chip is about zero point zero zero
+
+9
+00:00:24,593 --> 00:00:28,087
+zero zero zero three metres across. Powers of ten
+
+10
+00:00:28,087 --> 00:00:30,980
+write both: three times ten to the power eight,
+
+11
+00:00:30,980 --> 00:00:34,418
+and three times ten to the power minus six.
+
+12
+00:00:35,063 --> 00:00:36,915
+Powers of ten are really a scale. Ten to
+
+13
+00:00:36,915 --> 00:00:39,983
+the power zero is one, in the middle. To
+
+14
+00:00:39,983 --> 00:00:43,803
+the right the numbers grow: ten, one hundred, one
+
+15
+00:00:43,803 --> 00:00:47,187
+thousand. To the left they shrink below one: one
+
+16
+00:00:47,187 --> 00:00:52,003
+tenth, one hundredth, one thousandth. So a positive exponent
+
+17
+00:00:52,003 --> 00:00:55,332
+means a large scale, and a negative exponent means
+
+18
+00:00:55,332 --> 00:00:56,434
+a small scale.
+
+19
+00:00:57,100 --> 00:00:59,489
+Now convert a large number: three hundred million. The
+
+20
+00:00:59,489 --> 00:01:02,640
+decimal point sits at the right-hand end. Move it
+
+21
+00:01:02,640 --> 00:01:06,240
+left, one place at a time, until a single
+
+22
+00:01:06,240 --> 00:01:08,520
+non-zero digit stands in front of it: that is
+
+23
+00:01:08,520 --> 00:01:13,169
+eight places. So three hundred million is three times
+
+24
+00:01:13,169 --> 00:01:15,011
+ten to the power eight.
+
+25
+00:01:15,867 --> 00:01:19,180
+Here is a second large number: six thousand and
+
+26
+00:01:19,180 --> 00:01:23,858
+twenty million. Again the decimal point begins at the
+
+27
+00:01:23,858 --> 00:01:26,456
+right-hand end. Move it left until only one non-zero
+
+28
+00:01:26,456 --> 00:01:30,567
+digit stands in front: one, two, three, four, five,
+
+29
+00:01:30,567 --> 00:01:34,972
+six, seven, eight, nine places. The digits we keep
+
+30
+00:01:34,972 --> 00:01:38,007
+are six, zero, two. So the number is six
+
+31
+00:01:38,007 --> 00:01:40,898
+point zero two times ten to the power nine.
+
+32
+00:01:41,431 --> 00:01:44,351
+Now a very small number: the wire inside a
+
+33
+00:01:44,351 --> 00:01:47,762
+chip is zero point zero zero zero zero zero
+
+34
+00:01:47,762 --> 00:01:51,378
+three metres across. This time the decimal point starts
+
+35
+00:01:51,378 --> 00:01:54,586
+at the left. Move it right until only one
+
+36
+00:01:54,586 --> 00:01:57,116
+non-zero digit stands in front: that is six places,
+
+37
+00:01:57,116 --> 00:02:01,283
+and the digit is three. Because we moved right,
+
+38
+00:02:01,283 --> 00:02:05,184
+into a number that was smaller than one, the
+
+39
+00:02:05,184 --> 00:02:11,102
+exponent is negative: three times ten to the power minus six.
+
+40
+00:02:11,868 --> 00:02:15,112
+A plant cell is even more interesting: it is
+
+41
+00:02:15,112 --> 00:02:17,824
+zero point zero zero zero zero one two seven
+
+42
+00:02:17,824 --> 00:02:21,398
+five metres across. The significant digits are one, two,
+
+43
+00:02:21,398 --> 00:02:24,488
+seven and five, and they do not change. Move
+
+44
+00:02:24,488 --> 00:02:27,328
+the decimal point right: one, two, three, four, five
+
+45
+00:02:27,328 --> 00:02:30,017
+places. So the standard form is one point two
+
+46
+00:02:30,017 --> 00:02:32,636
+seven five times ten to the power minus five.
+
+47
+00:02:32,636 --> 00:02:36,184
+The quantity is the same; only the way we
+
+48
+00:02:36,184 --> 00:02:37,919
+write it has changed.
+
+49
+00:02:38,541 --> 00:02:42,801
+Now the other direction: from standard form back to
+
+50
+00:02:42,801 --> 00:02:45,961
+usual form. Four point six seven times ten to
+
+51
+00:02:45,961 --> 00:02:49,106
+the power four: the exponent is positive, so the
+
+52
+00:02:49,106 --> 00:02:53,123
+decimal point moves right four places, giving forty six
+
+53
+00:02:53,123 --> 00:02:55,751
+thousand seven hundred. Three point zero two times ten
+
+54
+00:02:55,751 --> 00:02:59,621
+to the power minus six: the exponent is negative,
+
+55
+00:02:59,621 --> 00:03:02,369
+so the decimal point moves left six places, giving
+
+56
+00:03:02,369 --> 00:03:04,904
+zero point zero zero zero zero zero three zero
+
+57
+00:03:04,904 --> 00:03:07,911
+two. These directions are for going back to usual
+
+58
+00:03:07,911 --> 00:03:11,572
+form; making standard form moves the decimal the other way.
+
+59
+00:03:12,311 --> 00:03:15,496
+Here is the complete map. A large number in
+
+60
+00:03:15,496 --> 00:03:17,917
+usual form moves its decimal point left and takes
+
+61
+00:03:17,917 --> 00:03:22,378
+a positive exponent. A small number moves its decimal
+
+62
+00:03:22,378 --> 00:03:26,518
+point right and takes a negative exponent. Coming back
+
+63
+00:03:26,518 --> 00:03:30,759
+from standard form the movements reverse: a positive exponent
+
+64
+00:03:30,759 --> 00:03:34,293
+moves the decimal right, and a negative exponent moves
+
+65
+00:03:34,293 --> 00:03:36,742
+it left. Always ask which direction you are converting.
+
+66
+00:03:37,238 --> 00:03:41,293
+Your turn. Three conversions. Write zero point zero zero
+
+67
+00:03:41,293 --> 00:03:44,584
+zero zero four five six in standard form. Write
+
+68
+00:03:44,584 --> 00:03:48,213
+six thousand and twenty million in standard form. And
+
+69
+00:03:48,213 --> 00:03:51,338
+write five point eight times ten to the power
+
+70
+00:03:51,338 --> 00:03:52,949
+seven in usual form.
+
+71
+00:04:03,954 --> 00:04:07,074
+For the first, the decimal moves right five places,
+
+72
+00:04:07,074 --> 00:04:09,126
+so it is four point five six times ten
+
+73
+00:04:09,126 --> 00:04:12,454
+to the power minus five. For the second, the
+
+74
+00:04:12,454 --> 00:04:15,576
+decimal moves left nine places: six point zero two
+
+75
+00:04:15,576 --> 00:04:18,114
+times ten to the power nine. And for the
+
+76
+00:04:18,114 --> 00:04:22,091
+third the exponent is positive seven, so the decimal
+
+77
+00:04:22,091 --> 00:04:24,865
+moves right seven places: fifty eight million.
+
+78
+00:04:25,501 --> 00:04:27,821
+One last look at the whole idea. Move the
+
+79
+00:04:27,821 --> 00:04:31,001
+decimal point, count the places, choose the sign, and
+
+80
+00:04:31,001 --> 00:04:34,006
+write times ten to the power: three hundred million
+
+81
+00:04:34,006 --> 00:04:36,690
+is three times ten to the power eight. And
+
+82
+00:04:36,690 --> 00:04:39,232
+zero point zero zero zero zero zero three is
+
+83
+00:04:39,232 --> 00:04:42,841
+three times ten to the power minus six. Powers
+
+84
+00:04:42,841 --> 00:04:44,511
+of ten let us write the very large and
+
+85
+00:04:44,511 --> 00:04:47,751
+the very small compactly. Thank you for watching the
+
+86
+00:04:47,751 --> 00:04:50,392
+chapter, and see you in the next lesson.
