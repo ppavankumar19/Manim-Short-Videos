@@ -1,0 +1,1226 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/17/26 15:21:12] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: Create(RoundedRectangle), etc.:   0%|          | 0/14 [00:00<?, ?it/s]                                                                                   [09/17/26 15:21:14] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1583504468_82324                         
+                             8203_2531147091.mp4'                              
+Animation 1: _MethodAnimation(Rectangle), etc.:   0%|          | 0/10 [00:00<?, ?it/s]                                                                                                          INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_36783                         
+                             51441_1684234183.mp4'                             
+Animation 2: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/16 [00:00<?, ?it/s]                                                                                                               INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_30077                         
+                             60519_671115585.mp4'                              
+Animation 3: Write(Text('Breaking It Apart')):   0%|          | 0/20 [00:00<?, ?it/s]                                                                                     [09/17/26 15:21:15] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_40069                         
+                             89984_1577765538.mp4'                             
+Animation 4: FadeIn(VGroup of 2 submobjects):   0%|          | 0/82 [00:00<?, ?it/s]Animation 4: FadeIn(VGroup of 2 submobjects):  22%|##1       | 18/82 [00:00<00:00, 172.53it/s]Animation 4: FadeIn(VGroup of 2 submobjects):  44%|####3     | 36/82 [00:00<00:00, 166.55it/s]Animation 4: FadeIn(VGroup of 2 submobjects):  65%|######4   | 53/82 [00:00<00:00, 153.12it/s]Animation 4: FadeIn(VGroup of 2 submobjects):  84%|########4 | 69/82 [00:00<00:00, 145.20it/s]                                                                                              [09/17/26 15:21:16] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_22249                         
+                             24446_4091510117.mp4'                             
+Animation 5: Indicate(VGroup of 3 submobjects):   0%|          | 0/298 [00:00<?, ?it/s]Animation 5: Indicate(VGroup of 3 submobjects):   4%|4         | 12/298 [00:00<00:02, 111.79it/s]Animation 5: Indicate(VGroup of 3 submobjects):   8%|8         | 24/298 [00:00<00:02, 111.37it/s]Animation 5: Indicate(VGroup of 3 submobjects):  12%|#2        | 36/298 [00:00<00:02, 113.99it/s]Animation 5: Indicate(VGroup of 3 submobjects):  16%|#6        | 48/298 [00:00<00:02, 109.26it/s]Animation 5: Indicate(VGroup of 3 submobjects):  20%|#9        | 59/298 [00:00<00:02, 106.95it/s]Animation 5: Indicate(VGroup of 3 submobjects):  23%|##3       | 70/298 [00:00<00:02, 101.91it/s]Animation 5: Indicate(VGroup of 3 submobjects):  27%|##7       | 81/298 [00:00<00:02, 100.68it/s]Animation 5: Indicate(VGroup of 3 submobjects):  31%|###       | 92/298 [00:00<00:02, 94.06it/s] Animation 5: Indicate(VGroup of 3 submobjects):  34%|###4      | 102/298 [00:01<00:02, 91.92it/s]Animation 5: Indicate(VGroup of 3 submobjects):  38%|###8      | 114/298 [00:01<00:01, 96.61it/s]Animation 5: Indicate(VGroup of 3 submobjects):  42%|####1     | 125/298 [00:01<00:01, 98.36it/s]Animation 5: Indicate(VGroup of 3 submobjects):  45%|####5     | 135/298 [00:01<00:01, 98.43it/s]Animation 5: Indicate(VGroup of 3 submobjects):  49%|####8     | 145/298 [00:01<00:01, 98.78it/s]Animation 5: Indicate(VGroup of 3 submobjects):  52%|#####2    | 155/298 [00:01<00:01, 98.06it/s]Animation 5: Indicate(VGroup of 3 submobjects):  55%|#####5    | 165/298 [00:01<00:01, 97.99it/s]Animation 5: Indicate(VGroup of 3 submobjects):  59%|#####8    | 175/298 [00:01<00:01, 96.68it/s]Animation 5: Indicate(VGroup of 3 submobjects):  62%|######2   | 186/298 [00:01<00:01, 99.42it/s]Animation 5: Indicate(VGroup of 3 submobjects):  66%|######6   | 197/298 [00:01<00:00, 101.22it/s]Animation 5: Indicate(VGroup of 3 submobjects):  70%|######9   | 208/298 [00:02<00:00, 97.98it/s] Animation 5: Indicate(VGroup of 3 submobjects):  73%|#######3  | 218/298 [00:02<00:00, 97.75it/s]Animation 5: Indicate(VGroup of 3 submobjects):  77%|#######6  | 228/298 [00:02<00:00, 97.81it/s]Animation 5: Indicate(VGroup of 3 submobjects):  80%|#######9  | 238/298 [00:02<00:00, 96.86it/s]Animation 5: Indicate(VGroup of 3 submobjects):  83%|########3 | 248/298 [00:02<00:00, 95.68it/s]Animation 5: Indicate(VGroup of 3 submobjects):  87%|########6 | 258/298 [00:02<00:00, 95.97it/s]Animation 5: Indicate(VGroup of 3 submobjects):  90%|######### | 269/298 [00:02<00:00, 97.57it/s]Animation 5: Indicate(VGroup of 3 submobjects):  94%|#########3| 280/298 [00:02<00:00, 100.73it/s]Animation 5: Indicate(VGroup of 3 submobjects):  98%|#########7| 291/298 [00:02<00:00, 102.38it/s]                                                                                                  [09/17/26 15:21:19] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_17656                         
+                             34459_671115585.mp4'                              
+                    INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_2783055311.mp4'                             
+Animation 7: Create(VGroup of 2 submobjects):   0%|          | 0/77 [00:00<?, ?it/s]                                                                                    [09/17/26 15:21:20] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_41443                         
+                             73604_2531147091.mp4'                             
+Animation 8: Create(DashedLine):   0%|          | 0/33 [00:00<?, ?it/s]                                                                                           INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_15180                         
+                             10720_2113860678.mp4'                             
+Animation 9: LaggedStart(Group), etc.:   0%|          | 0/71 [00:00<?, ?it/s]Animation 9: LaggedStart(Group), etc.:  25%|##5       | 18/71 [00:00<00:00, 169.41it/s]Animation 9: LaggedStart(Group), etc.:  49%|####9     | 35/71 [00:00<00:00, 138.03it/s]Animation 9: LaggedStart(Group), etc.:  70%|#######   | 50/71 [00:00<00:00, 119.36it/s]Animation 9: LaggedStart(Group), etc.:  89%|########8 | 63/71 [00:00<00:00, 119.08it/s]                                                                                       [09/17/26 15:21:21] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_14787                         
+                             57888_3280016287.mp4'                             
+Animation 10: LaggedStart(Group), etc.:   0%|          | 0/57 [00:00<?, ?it/s]Animation 10: LaggedStart(Group), etc.:  26%|##6       | 15/57 [00:00<00:00, 145.55it/s]Animation 10: LaggedStart(Group), etc.:  53%|#####2    | 30/57 [00:00<00:00, 135.15it/s]Animation 10: LaggedStart(Group), etc.:  77%|#######7  | 44/57 [00:00<00:00, 108.42it/s]Animation 10: LaggedStart(Group), etc.:  98%|#########8| 56/57 [00:00<00:00, 108.01it/s]                                                                                        [09/17/26 15:21:22] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_14794                         
+                             40475_3193321314.mp4'                             
+Animation 11: FadeIn(Text('How much land total?')), etc.:   0%|          | 0/196 [00:00<?, ?it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  10%|#         | 20/196 [00:00<00:00, 188.19it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  20%|#9        | 39/196 [00:00<00:00, 181.60it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  30%|##9       | 58/196 [00:00<00:00, 168.79it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  38%|###8      | 75/196 [00:00<00:00, 161.50it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  47%|####6     | 92/196 [00:00<00:00, 157.83it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  55%|#####5    | 108/196 [00:00<00:00, 157.59it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  63%|######3   | 124/196 [00:00<00:00, 152.72it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  72%|#######1  | 141/196 [00:00<00:00, 156.04it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  80%|########  | 157/196 [00:00<00:00, 157.16it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  89%|########8 | 174/196 [00:01<00:00, 157.99it/s]Animation 11: FadeIn(Text('How much land total?')), etc.:  98%|#########7| 192/196 [00:01<00:00, 163.39it/s]                                                                                                            [09/17/26 15:21:24] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_25581                         
+                             42242_3806128207.mp4'                             
+Animation 12: Indicate(RoundedRectangle):   0%|          | 0/96 [00:00<?, ?it/s]Animation 12: Indicate(RoundedRectangle):   9%|9         | 9/96 [00:00<00:01, 84.28it/s]Animation 12: Indicate(RoundedRectangle):  19%|#8        | 18/96 [00:00<00:00, 82.16it/s]Animation 12: Indicate(RoundedRectangle):  28%|##8       | 27/96 [00:00<00:00, 83.26it/s]Animation 12: Indicate(RoundedRectangle):  38%|###7      | 36/96 [00:00<00:00, 84.36it/s]Animation 12: Indicate(RoundedRectangle):  47%|####6     | 45/96 [00:00<00:00, 80.60it/s]Animation 12: Indicate(RoundedRectangle):  56%|#####6    | 54/96 [00:00<00:00, 79.22it/s]Animation 12: Indicate(RoundedRectangle):  65%|######4   | 62/96 [00:00<00:00, 75.93it/s]Animation 12: Indicate(RoundedRectangle):  73%|#######2  | 70/96 [00:00<00:00, 76.46it/s]Animation 12: Indicate(RoundedRectangle):  81%|########1 | 78/96 [00:00<00:00, 75.74it/s]Animation 12: Indicate(RoundedRectangle):  90%|########9 | 86/96 [00:01<00:00, 76.26it/s]Animation 12: Indicate(RoundedRectangle):  98%|#########7| 94/96 [00:01<00:00, 76.11it/s]                                                                                         [09/17/26 15:21:25] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_22980                         
+                             32087_1845055843.mp4'                             
+[09/17/26 15:21:26] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_1759443311.mp4'                             
+Animation 14: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/49 [00:00<?, ?it/s]                                                                                                               INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_44661                         
+                             9120_2531147091.mp4'                              
+Animation 15: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/126 [00:00<?, ?it/s]Animation 15: Create(VGroup of 2 submobjects), etc.:  72%|#######2  | 91/126 [00:00<00:00, 904.58it/s]                                                                                                                          INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_24402                         
+                             29211_1934857236.mp4'                             
+Animation 16: _MethodAnimation(Rectangle), etc.:   0%|          | 0/77 [00:00<?, ?it/s]                                                                                       [09/17/26 15:21:27] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_39340                         
+                             20141_3439788929.mp4'                             
+Animation 17: Write(Text('Whole  =  Sum of Parts')):   0%|          | 0/205 [00:00<?, ?it/s]Animation 17: Write(Text('Whole  =  Sum of Parts')):  18%|#8        | 37/205 [00:00<00:00, 366.32it/s]Animation 17: Write(Text('Whole  =  Sum of Parts')):  36%|###6      | 74/205 [00:00<00:00, 310.78it/s]Animation 17: Write(Text('Whole  =  Sum of Parts')):  52%|#####1    | 106/205 [00:00<00:00, 289.50it/s]Animation 17: Write(Text('Whole  =  Sum of Parts')):  66%|######6   | 136/205 [00:00<00:00, 280.67it/s]Animation 17: Write(Text('Whole  =  Sum of Parts')):  80%|########  | 165/205 [00:00<00:00, 274.24it/s]Animation 17: Write(Text('Whole  =  Sum of Parts')):  95%|#########5| 195/205 [00:00<00:00, 280.47it/s]                                                                                                       [09/17/26 15:21:28] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_96947                         
+                             6354_2396471872.mp4'                              
+                    INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_2782956906.mp4'                             
+Animation 19: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/88 [00:00<?, ?it/s]                                                                                           [09/17/26 15:21:29] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_53584                         
+                             0558_2531147091.mp4'                              
+Animation 20: GrowFromCenter(Brace), etc.:   0%|          | 0/100 [00:00<?, ?it/s]                                                                                                      INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_26054                         
+                             41711_2969764634.mp4'                             
+Animation 21: GrowFromCenter(Brace), etc.:   0%|          | 0/167 [00:00<?, ?it/s]Animation 21: GrowFromCenter(Brace), etc.:  54%|#####3    | 90/167 [00:00<00:00, 891.09it/s]                                                                                                                INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_56977                         
+                             0285_1990259409.mp4'                              
+Animation 22: Indicate(VGroup of 7 submobjects):   0%|          | 0/118 [00:00<?, ?it/s]Animation 22: Indicate(VGroup of 7 submobjects):  53%|#####3    | 63/118 [00:00<00:00, 616.36it/s]                                                                                                  [09/17/26 15:21:30] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_22936                         
+                             96108_2473359743.mp4'                             
+Animation 23: FadeIn(MathTex('ab')):   0%|          | 0/79 [00:00<?, ?it/s]                                                                                               INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_19883                         
+                             42847_2300881246.mp4'                             
+Animation 24: FadeIn(MathTex('ac')):   0%|          | 0/79 [00:00<?, ?it/s]                                                                           [09/17/26 15:21:31] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_48446                         
+                             4239_1385735795.mp4'                              
+Animation 25: Write(VGroup of 2 submobjects):   0%|          | 0/194 [00:00<?, ?it/s]Animation 25: Write(VGroup of 2 submobjects):  15%|#5        | 30/194 [00:00<00:00, 294.49it/s]Animation 25: Write(VGroup of 2 submobjects):  31%|###       | 60/194 [00:00<00:00, 258.74it/s]Animation 25: Write(VGroup of 2 submobjects):  45%|####4     | 87/194 [00:00<00:00, 239.99it/s]Animation 25: Write(VGroup of 2 submobjects):  58%|#####7    | 112/194 [00:00<00:00, 226.12it/s]Animation 25: Write(VGroup of 2 submobjects):  70%|######9   | 135/194 [00:00<00:00, 219.18it/s]Animation 25: Write(VGroup of 2 submobjects):  81%|########  | 157/194 [00:00<00:00, 214.52it/s]Animation 25: Write(VGroup of 2 submobjects):  92%|#########2| 179/194 [00:00<00:00, 207.21it/s]                                                                                                [09/17/26 15:21:32] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_14381                         
+                             27901_1168253918.mp4'                             
+Animation 26: Write(VGroup of 2 submobjects):   0%|          | 0/187 [00:00<?, ?it/s]Animation 26: Write(VGroup of 2 submobjects):  16%|#6        | 30/187 [00:00<00:00, 299.68it/s]Animation 26: Write(VGroup of 2 submobjects):  32%|###2      | 60/187 [00:00<00:00, 235.35it/s]Animation 26: Write(VGroup of 2 submobjects):  45%|####5     | 85/187 [00:00<00:00, 208.09it/s]Animation 26: Write(VGroup of 2 submobjects):  57%|#####7    | 107/187 [00:00<00:00, 194.48it/s]Animation 26: Write(VGroup of 2 submobjects):  68%|######7   | 127/187 [00:00<00:00, 190.67it/s]Animation 26: Write(VGroup of 2 submobjects):  79%|#######8  | 147/187 [00:00<00:00, 188.73it/s]Animation 26: Write(VGroup of 2 submobjects):  89%|########8 | 166/187 [00:00<00:00, 188.80it/s]Animation 26: Write(VGroup of 2 submobjects): 100%|##########| 187/187 [00:00<00:00, 193.77it/s]                                                                                                [09/17/26 15:21:33] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_27232                         
+                             341_203537027.mp4'                                
+                    INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_309107534.mp4'                              
+Animation 28: Write(MathTex('4 \\times 23')):   0%|          | 0/83 [00:00<?, ?it/s]Animation 28: Write(MathTex('4 \\times 23')):  94%|#########3| 78/83 [00:00<00:00, 779.13it/s]                                                                                              [09/17/26 15:21:34] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_32842                         
+                             83574_2531147091.mp4'                             
+Animation 29: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/51 [00:00<?, ?it/s]                                                                                                               INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_23352                         
+                             43111_4131715182.mp4'                             
+Animation 30: Create(DashedLine):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                            INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_11085                         
+                             48618_4257867548.mp4'                             
+Animation 31: GrowFromCenter(Brace), etc.:   0%|          | 0/112 [00:00<?, ?it/s]Animation 31: GrowFromCenter(Brace), etc.:  63%|######3   | 71/112 [00:00<00:00, 700.15it/s]                                                                                            [09/17/26 15:21:35] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_44510                         
+                             7248_290324762.mp4'                               
+Animation 32: ReplacementTransform(MathTex('4 \\times 23')):   0%|          | 0/76 [00:00<?, ?it/s]Animation 32: ReplacementTransform(MathTex('4 \\times 23')):  54%|#####3    | 41/76 [00:00<00:00, 404.24it/s]                                                                                                                                 INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_17978                         
+                             12967_2262399361.mp4'                             
+Animation 33: ReplacementTransform(MathTex('4(20+3)')):   0%|          | 0/160 [00:00<?, ?it/s]Animation 33: ReplacementTransform(MathTex('4(20+3)')):  24%|##3       | 38/160 [00:00<00:00, 371.69it/s]Animation 33: ReplacementTransform(MathTex('4(20+3)')):  48%|####7     | 76/160 [00:00<00:00, 299.88it/s]Animation 33: ReplacementTransform(MathTex('4(20+3)')):  67%|######6   | 107/160 [00:00<00:00, 280.09it/s]Animation 33: ReplacementTransform(MathTex('4(20+3)')):  85%|########5 | 136/160 [00:00<00:00, 264.82it/s]                                                                                                          [09/17/26 15:21:36] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_17543                         
+                             4465_3459249537.mp4'                              
+Animation 34: FadeIn(MathTex('= 92')):   0%|          | 0/83 [00:00<?, ?it/s]                                                                             [09/17/26 15:21:37] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_90014                         
+                             7255_348676215.mp4'                               
+Animation 35: Indicate(VGroup of 2 submobjects):   0%|          | 0/126 [00:00<?, ?it/s]Animation 35: Indicate(VGroup of 2 submobjects):  46%|####6     | 58/126 [00:00<00:00, 574.92it/s]Animation 35: Indicate(VGroup of 2 submobjects):  92%|#########2| 116/126 [00:00<00:00, 523.81it/s]                                                                                                                       INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_27458                         
+                             3723_1770489332.mp4'                              
+Animation 36: FadeOut(VGroup of 10 submobjects):   0%|          | 0/92 [00:00<?, ?it/s]Animation 36: FadeOut(VGroup of 10 submobjects):  26%|##6       | 24/92 [00:00<00:00, 232.58it/s]Animation 36: FadeOut(VGroup of 10 submobjects):  52%|#####2    | 48/92 [00:00<00:00, 194.88it/s]Animation 36: FadeOut(VGroup of 10 submobjects):  74%|#######3  | 68/92 [00:00<00:00, 183.48it/s]Animation 36: FadeOut(VGroup of 10 submobjects):  95%|#########4| 87/92 [00:00<00:00, 169.41it/s]                                                                                                 [09/17/26 15:21:38] INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_13049                         
+                             56455_2733055106.mp4'                             
+Animation 37: Write(MathTex('6 \\times 98')), etc.:   0%|          | 0/50 [00:00<?, ?it/s]Animation 37: Write(MathTex('6 \\times 98')), etc.:  82%|########2 | 41/50 [00:00<00:00, 402.82it/s]                                                                                                                        INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_36188                         
+                             97834_3072870630.mp4'                             
+Animation 38: Create(DashedLine), etc.:   0%|          | 0/27 [00:00<?, ?it/s]                                                                              [09/17/26 15:21:39] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_16228                         
+                             38792_3987873556.mp4'                             
+Animation 39: GrowFromCenter(Brace), etc.:   0%|          | 0/40 [00:00<?, ?it/s]                                                                                                     INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_40857                         
+                             34425_4167782718.mp4'                             
+Animation 40: ReplacementTransform(MathTex('6 \\times 98')):   0%|          | 0/81 [00:00<?, ?it/s]Animation 40: ReplacementTransform(MathTex('6 \\times 98')):  23%|##3       | 19/81 [00:00<00:00, 185.79it/s]Animation 40: ReplacementTransform(MathTex('6 \\times 98')):  47%|####6     | 38/81 [00:00<00:00, 184.34it/s]Animation 40: ReplacementTransform(MathTex('6 \\times 98')):  74%|#######4  | 60/81 [00:00<00:00, 200.31it/s]Animation 40: ReplacementTransform(MathTex('6 \\times 98')): 100%|##########| 81/81 [00:00<00:00, 195.67it/s]                                                                                                             [09/17/26 15:21:40] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_26696                         
+                             48707_2336070551.mp4'                             
+Animation 41: ReplacementTransform(MathTex('6(100-2)')):   0%|          | 0/165 [00:00<?, ?it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  12%|#2        | 20/165 [00:00<00:00, 196.09it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  25%|##5       | 42/165 [00:00<00:00, 207.24it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  38%|###8      | 63/165 [00:00<00:00, 172.66it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  49%|####9     | 81/165 [00:00<00:00, 158.56it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  62%|######1   | 102/165 [00:00<00:00, 172.44it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  75%|#######5  | 124/165 [00:00<00:00, 185.80it/s]Animation 41: ReplacementTransform(MathTex('6(100-2)')):  88%|########8 | 146/165 [00:00<00:00, 193.51it/s]                                                                                                           [09/17/26 15:21:41] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_16015                         
+                             33239_1608981259.mp4'                             
+Animation 42: FadeIn(MathTex('= 588')):   0%|          | 0/106 [00:00<?, ?it/s]Animation 42: FadeIn(MathTex('= 588')):  61%|######1   | 65/106 [00:00<00:00, 643.70it/s]                                                                                         [09/17/26 15:21:42] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_43301                         
+                             127_1819589582.mp4'                               
+Animation 43: Indicate(VGroup of 2 submobjects):   0%|          | 0/88 [00:00<?, ?it/s]Animation 43: Indicate(VGroup of 2 submobjects):  28%|##8       | 25/88 [00:00<00:00, 246.35it/s]Animation 43: Indicate(VGroup of 2 submobjects):  67%|######7   | 59/88 [00:00<00:00, 295.81it/s]                                                                                                                     INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_19550                         
+                             35715_1322669751.mp4'                             
+[09/17/26 15:21:43] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_3846565927.mp4'                             
+Animation 45: Write(Text('A Common Mistake!')):   0%|          | 0/87 [00:00<?, ?it/s]Animation 45: Write(Text('A Common Mistake!')):  17%|#7        | 15/87 [00:00<00:00, 144.96it/s]Animation 45: Write(Text('A Common Mistake!')):  39%|###9      | 34/87 [00:00<00:00, 170.40it/s]Animation 45: Write(Text('A Common Mistake!')):  66%|######5   | 57/87 [00:00<00:00, 195.05it/s]Animation 45: Write(Text('A Common Mistake!')):  89%|########8 | 77/87 [00:00<00:00, 176.71it/s]                                                                                                [09/17/26 15:21:44] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_98572                         
+                             1709_2531147091.mp4'                              
+Animation 46: FadeIn(VGroup of 2 submobjects):   0%|          | 0/160 [00:00<?, ?it/s]Animation 46: FadeIn(VGroup of 2 submobjects):  19%|#9        | 31/160 [00:00<00:00, 309.11it/s]Animation 46: FadeIn(VGroup of 2 submobjects):  39%|###8      | 62/160 [00:00<00:00, 300.33it/s]Animation 46: FadeIn(VGroup of 2 submobjects):  58%|#####8    | 93/160 [00:00<00:00, 290.79it/s]Animation 46: FadeIn(VGroup of 2 submobjects):  77%|#######6  | 123/160 [00:00<00:00, 293.14it/s]Animation 46: FadeIn(VGroup of 2 submobjects):  96%|#########5| 153/160 [00:00<00:00, 291.50it/s]                                                                                                 [09/17/26 15:21:45] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_28721                         
+                             91604_2778773876.mp4'                             
+Animation 47: Indicate(MathTex('4\\times 20+3')):   0%|          | 0/164 [00:00<?, ?it/s]Animation 47: Indicate(MathTex('4\\times 20+3')):  23%|##3       | 38/164 [00:00<00:00, 372.78it/s]Animation 47: Indicate(MathTex('4\\times 20+3')):  52%|#####1    | 85/164 [00:00<00:00, 424.76it/s]Animation 47: Indicate(MathTex('4\\times 20+3')):  80%|#######9  | 131/164 [00:00<00:00, 438.67it/s]                                                                                                                        INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_23111                         
+                             91663_412400252.mp4'                              
+Animation 48: Write(MathTex('=\\ 83')), etc.:   0%|          | 0/124 [00:00<?, ?it/s]Animation 48: Write(MathTex('=\\ 83')), etc.:  33%|###3      | 41/124 [00:00<00:00, 404.73it/s]Animation 48: Write(MathTex('=\\ 83')), etc.:  68%|######7   | 84/124 [00:00<00:00, 417.51it/s]                                                                                               [09/17/26 15:21:46] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_39226                         
+                             3248_1405902950.mp4'                              
+Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):   0%|          | 0/150 [00:00<?, ?it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  14%|#4        | 21/150 [00:00<00:00, 206.84it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  28%|##8       | 42/150 [00:00<00:00, 191.63it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  41%|####1     | 62/150 [00:00<00:00, 143.54it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  52%|#####2    | 78/150 [00:00<00:00, 141.66it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  62%|######2   | 93/150 [00:00<00:00, 131.16it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  73%|#######3  | 110/150 [00:00<00:00, 141.06it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  83%|########3 | 125/150 [00:00<00:00, 129.29it/s]Animation 49: FadeIn(Text('The 4 must multiply BOTH terms!')):  93%|#########2| 139/150 [00:01<00:00, 122.17it/s]                                                                                                                 [09/17/26 15:21:48] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_17319                         
+                             44482_1678570034.mp4'                             
+Animation 50: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/146 [00:00<?, ?it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  13%|#3        | 19/146 [00:00<00:00, 186.38it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  27%|##6       | 39/146 [00:00<00:00, 193.70it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  40%|####      | 59/146 [00:00<00:00, 171.50it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  53%|#####2    | 77/146 [00:00<00:00, 159.53it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  64%|######4   | 94/146 [00:00<00:00, 155.95it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  75%|#######5  | 110/146 [00:00<00:00, 149.11it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  86%|########6 | 126/146 [00:00<00:00, 151.02it/s]Animation 50: FadeIn(VGroup of 2 submobjects), etc.:  99%|#########8| 144/146 [00:00<00:00, 158.29it/s]                                                                                                       [09/17/26 15:21:50] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_35546                         
+                             58356_3645437517.mp4'                             
+Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:   0%|          | 0/102 [00:00<?, ?it/s]Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:  16%|#5        | 16/102 [00:00<00:00, 154.02it/s]Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:  31%|###1      | 32/102 [00:00<00:00, 155.24it/s]Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:  47%|####7     | 48/102 [00:00<00:00, 153.66it/s]Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:  63%|######2   | 64/102 [00:00<00:00, 150.72it/s]Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:  78%|#######8  | 80/102 [00:00<00:00, 132.38it/s]Animation 51: FadeIn(Text('Always distribute to every single term!')), etc.:  92%|#########2| 94/102 [00:00<00:00, 118.64it/s]                                                                                                                              [09/17/26 15:21:51] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_41491                         
+                             45260_3564286626.mp4'                             
+[09/17/26 15:21:52] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_2641962789.mp4'                             
+Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:   0%|          | 0/71 [00:00<?, ?it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  15%|#5        | 11/71 [00:00<00:00, 101.17it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  31%|###       | 22/71 [00:00<00:00, 81.40it/s] Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  44%|####3     | 31/71 [00:00<00:00, 73.16it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  55%|#####4    | 39/71 [00:00<00:00, 74.61it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  66%|######6   | 47/71 [00:00<00:00, 64.14it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  76%|#######6  | 54/71 [00:00<00:00, 57.62it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  85%|########4 | 60/71 [00:00<00:00, 54.85it/s]Animation 53: Write(Text('5 Friends: Notebooks & Pens')), etc.:  93%|#########2| 66/71 [00:01<00:00, 54.27it/s]                                                                                                               [09/17/26 15:21:54] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_12058                         
+                             98048_1342555286.mp4'                             
+Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):   0%|          | 0/147 [00:00<?, ?it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  14%|#3        | 20/147 [00:00<00:00, 189.31it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  27%|##6       | 39/147 [00:00<00:00, 186.32it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  39%|###9      | 58/147 [00:00<00:00, 177.19it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  52%|#####1    | 76/147 [00:00<00:00, 153.62it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  64%|######3   | 94/147 [00:00<00:00, 161.47it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  76%|#######5  | 111/147 [00:00<00:00, 163.99it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  87%|########7 | 128/147 [00:00<00:00, 152.48it/s]Animation 54: FadeIn(Text('Notebooks Each Rs 20 and Pens Each Rs 3')):  99%|#########8| 145/147 [00:00<00:00, 156.06it/s]                                                                                                                         [09/17/26 15:21:55] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_38955                         
+                             39461_1017504732.mp4'                             
+Animation 55: FadeOut(Text('Notebooks Each Rs 20 and Pens Each Rs 3')), etc.:   0%|          | 0/58 [00:00<?, ?it/s]Animation 55: FadeOut(Text('Notebooks Each Rs 20 and Pens Each Rs 3')), etc.:  26%|##5       | 15/58 [00:00<00:00, 148.94it/s]Animation 55: FadeOut(Text('Notebooks Each Rs 20 and Pens Each Rs 3')), etc.:  60%|######    | 35/58 [00:00<00:00, 172.25it/s]Animation 55: FadeOut(Text('Notebooks Each Rs 20 and Pens Each Rs 3')), etc.:  91%|#########1| 53/58 [00:00<00:00, 154.21it/s]                                                                                                                              [09/17/26 15:21:56] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_29603                         
+                             17545_2514986113.mp4'                             
+Animation 56: Indicate(MathTex('5(20+3)')):   0%|          | 0/92 [00:00<?, ?it/s]Animation 56: Indicate(MathTex('5(20+3)')):  51%|#####1    | 47/92 [00:00<00:00, 469.94it/s]                                                                                                                INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_11692                         
+                             27184_1859484832.mp4'                             
+Animation 57: ReplacementTransform(MathTex('5(20+3)')):   0%|          | 0/83 [00:00<?, ?it/s]Animation 57: ReplacementTransform(MathTex('5(20+3)')):  53%|#####3    | 44/83 [00:00<00:00, 430.58it/s]                                                                                                        [09/17/26 15:21:57] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_17688                         
+                             28713_1859484832.mp4'                             
+Animation 58: ReplacementTransform(MathTex('5(20) + 5(3)')):   0%|          | 0/100 [00:00<?, ?it/s]Animation 58: ReplacementTransform(MathTex('5(20) + 5(3)')):  43%|####3     | 43/100 [00:00<00:00, 423.24it/s]Animation 58: ReplacementTransform(MathTex('5(20) + 5(3)')):  86%|########6 | 86/100 [00:00<00:00, 366.48it/s]                                                                                                              [09/17/26 15:21:58] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_32890                         
+                             60660_3867840087.mp4'                             
+Animation 59: FadeIn(MathTex('= 115')):   0%|          | 0/73 [00:00<?, ?it/s]Animation 59: FadeIn(MathTex('= 115')):  60%|######    | 44/73 [00:00<00:00, 439.54it/s]                                                                                                            INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_22791                         
+                             37475_3877390234.mp4'                             
+Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):   0%|          | 0/108 [00:00<?, ?it/s]Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):  16%|#5        | 17/108 [00:00<00:00, 167.00it/s]Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):  31%|###1      | 34/108 [00:00<00:00, 165.00it/s]Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):  48%|####8     | 52/108 [00:00<00:00, 167.51it/s]Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):  64%|######3   | 69/108 [00:00<00:00, 168.34it/s]Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):  81%|########1 | 88/108 [00:00<00:00, 174.98it/s]Animation 60: FadeIn(Text('(5 notebooks @ Rs.20 + 5 pens @ Rs.3)')):  99%|#########9| 107/108 [00:00<00:00, 178.80it/s]                                                                                                                       [09/17/26 15:21:59] INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_26262                         
+                             55003_1991850501.mp4'                             
+[09/17/26 15:22:00] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_2264332771.mp4'                             
+Animation 62: Write(Text('It Works With Fractions Too!')):   0%|          | 0/135 [00:00<?, ?it/s]Animation 62: Write(Text('It Works With Fractions Too!')):  24%|##3       | 32/135 [00:00<00:00, 312.33it/s]Animation 62: Write(Text('It Works With Fractions Too!')):  47%|####7     | 64/135 [00:00<00:00, 220.16it/s]Animation 62: Write(Text('It Works With Fractions Too!')):  65%|######5   | 88/135 [00:00<00:00, 200.23it/s]Animation 62: Write(Text('It Works With Fractions Too!')):  81%|########  | 109/135 [00:00<00:00, 199.05it/s]Animation 62: Write(Text('It Works With Fractions Too!')):  96%|#########6| 130/135 [00:00<00:00, 199.42it/s]                                                                                                             [09/17/26 15:22:01] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_35280                         
+                             32939_2531147091.mp4'                             
+Animation 63: FadeIn(MathTex('a=\\frac{2}{5}\\ \\ \\ b=\\frac{1}{2}\\ \\ \\ c=\\frac{3}{4}')):   0%|          | 0/52 [00:00<?, ?it/s]Animation 63: FadeIn(MathTex('a=\\frac{2}{5}\\ \\ \\ b=\\frac{1}{2}\\ \\ \\ c=\\frac{3}{4}')):  81%|########  | 42/52 [00:00<00:00, 419.73it/s]                                                                                                                                                                   INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_38068                         
+                             70900_3337763944.mp4'                             
+Animation 64: Write(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):   0%|          | 0/77 [00:00<?, ?it/s]Animation 64: Write(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):  51%|#####     | 39/77 [00:00<00:00, 382.19it/s]                                                                                                                                      [09/17/26 15:22:02] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_35034                         
+                             78304_1625523103.mp4'                             
+Animation 65: ReplacementTransform(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):   0%|          | 0/179 [00:00<?, ?it/s]Animation 65: ReplacementTransform(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):  23%|##3       | 42/179 [00:00<00:00, 415.70it/s]Animation 65: ReplacementTransform(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):  47%|####6     | 84/179 [00:00<00:00, 355.85it/s]Animation 65: ReplacementTransform(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):  68%|######7   | 121/179 [00:00<00:00, 328.21it/s]Animation 65: ReplacementTransform(MathTex('\\frac{2}{5}\\left(\\frac{1}{2}+\\frac{3}{4}\\right)')):  87%|########6 | 155/179 [00:00<00:00, 314.23it/s]                                                                                                                                                       [09/17/26 15:22:03] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_29258                         
+                             92085_1605540108.mp4'                             
+Animation 66: Write(MathTex('=\\ \\frac{1}{2}')):   0%|          | 0/135 [00:00<?, ?it/s]Animation 66: Write(MathTex('=\\ \\frac{1}{2}')):  56%|#####5    | 75/135 [00:00<00:00, 737.41it/s]                                                                                                   [09/17/26 15:22:04] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_36988                         
+                             27771_1467158679.mp4'                             
+Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):   0%|          | 0/251 [00:00<?, ?it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  10%|9         | 24/251 [00:00<00:00, 233.44it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  22%|##1       | 54/251 [00:00<00:00, 271.82it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  33%|###3      | 83/251 [00:00<00:00, 276.83it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  44%|####4     | 111/251 [00:00<00:00, 269.83it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  55%|#####5    | 139/251 [00:00<00:00, 257.80it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  66%|######6   | 166/251 [00:00<00:00, 259.14it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  77%|#######6  | 193/251 [00:00<00:00, 260.85it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  88%|########7 | 220/251 [00:00<00:00, 261.96it/s]Animation 67: Write(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')): 100%|##########| 251/251 [00:00<00:00, 275.35it/s]                                                                                                                                                   [09/17/26 15:22:05] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_22734                         
+                             24954_2980519205.mp4'                             
+Animation 68: ReplacementTransform(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):   0%|          | 0/81 [00:00<?, ?it/s]Animation 68: ReplacementTransform(MathTex('\\frac{2}{5}\\times\\frac{1}{2}+\\frac{2}{5}\\times\\frac{3}{4}')):  53%|#####3    | 43/81 [00:00<00:00, 424.19it/s]                                                                                                                                                                [09/17/26 15:22:06] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_22860                         
+                             70875_2722808394.mp4'                             
+Animation 69: Write(MathTex('=\\ \\frac{1}{2}')):   0%|          | 0/54 [00:00<?, ?it/s]                                                                                                            INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_72814                         
+                             3942_3790398770.mp4'                              
+Animation 70: Indicate(VGroup of 2 submobjects), etc.:   0%|          | 0/107 [00:00<?, ?it/s]Animation 70: Indicate(VGroup of 2 submobjects), etc.:  20%|#9        | 21/107 [00:00<00:00, 206.54it/s]Animation 70: Indicate(VGroup of 2 submobjects), etc.:  39%|###9      | 42/107 [00:00<00:00, 182.42it/s]Animation 70: Indicate(VGroup of 2 submobjects), etc.:  57%|#####7    | 61/107 [00:00<00:00, 181.94it/s]Animation 70: Indicate(VGroup of 2 submobjects), etc.:  77%|#######6  | 82/107 [00:00<00:00, 189.63it/s]Animation 70: Indicate(VGroup of 2 submobjects), etc.:  95%|#########5| 102/107 [00:00<00:00, 191.50it/s]                                                                                                         [09/17/26 15:22:07] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_37203                         
+                             4523_1104111904.mp4'                              
+                    INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_3066043010.mp4'                             
+Animation 72: Write(Text('YOUR TURN')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                              [09/17/26 15:22:08] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_11669                         
+                             17209_2531147091.mp4'                             
+Animation 73: Write(MathTex('6\\times 98')), etc.:   0%|          | 0/21 [00:00<?, ?it/s]Animation 73: Write(MathTex('6\\times 98')), etc.: 100%|##########| 21/21 [00:00<00:00, 207.13it/s]                                                                                                                       INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_41699                         
+                             8823_1351972235.mp4'                              
+Animation 74: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                             [09/17/26 15:22:09] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_16846                         
+                             83135_1568956418.mp4'                             
+Animation 75: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_27644                         
+                             62208_3348749391.mp4'                             
+Animation 76: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_34872                         
+                             65152_3348749391.mp4'                             
+Animation 77: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/17/26 15:22:10] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_94270                         
+                             5152_3348749391.mp4'                              
+Animation 78: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_12958                         
+                             2501_3348749391.mp4'                              
+Animation 79: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/17/26 15:22:11] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_36699                         
+                             73139_3348749391.mp4'                             
+Animation 80: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_20957                         
+                             99792_3348749391.mp4'                             
+Animation 81: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31537                         
+                             00595_3348749391.mp4'                             
+Animation 82: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/17/26 15:22:12] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_42188                         
+                             74578_3348749391.mp4'                             
+Animation 83: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_20981                         
+                             34936_3348749391.mp4'                             
+Animation 84: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/17/26 15:22:13] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_28430                         
+                             09625_3348749391.mp4'                             
+Animation 85: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                  INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_21894                         
+                             26600_1946969013.mp4'                             
+Animation 86: FadeOut(Text('Pause and try it!')):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                            INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_40567                         
+                             19262_1890597060.mp4'                             
+Animation 87: FadeOut(MathTex('6\\times 98')), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 87: FadeOut(MathTex('6\\times 98')), etc.:  62%|######2   | 15/24 [00:00<00:00, 143.71it/s]                                                                                                     [09/17/26 15:22:14] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_25298                         
+                             61120_149512247.mp4'                              
+Animation 88: FadeIn(Text('Quick mental math -- distribute!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                      [09/17/26 15:22:15] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_30941                         
+                             70902_788300985.mp4'                              
+                    INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_38103                         
+                             16983_3748375721.mp4'                             
+Animation 90: Write(Text("It's All About Breaking Things Apart!")):   0%|          | 0/132 [00:00<?, ?it/s]Animation 90: Write(Text("It's All About Breaking Things Apart!")):  17%|#6        | 22/132 [00:00<00:00, 214.83it/s]Animation 90: Write(Text("It's All About Breaking Things Apart!")):  34%|###4      | 45/132 [00:00<00:00, 214.95it/s]Animation 90: Write(Text("It's All About Breaking Things Apart!")):  51%|#####     | 67/132 [00:00<00:00, 177.44it/s]Animation 90: Write(Text("It's All About Breaking Things Apart!")):  65%|######5   | 86/132 [00:00<00:00, 157.79it/s]Animation 90: Write(Text("It's All About Breaking Things Apart!")):  78%|#######8  | 103/132 [00:00<00:00, 158.36it/s]Animation 90: Write(Text("It's All About Breaking Things Apart!")):  91%|######### | 120/132 [00:00<00:00, 143.22it/s]                                                                                                                      [09/17/26 15:22:16] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_21073                         
+                             52855_2531147091.mp4'                             
+Animation 91: Create(VGroup of 2 submobjects), etc.:   0%|          | 0/115 [00:00<?, ?it/s]Animation 91: Create(VGroup of 2 submobjects), etc.:  62%|######1   | 71/115 [00:00<00:00, 708.74it/s]                                                                                                      [09/17/26 15:22:17] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_36045                         
+                             84483_1762680125.mp4'                             
+Animation 92: _MethodAnimation(Rectangle), etc.:   0%|          | 0/77 [00:00<?, ?it/s]                                                                                       [09/17/26 15:22:18] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_27041                         
+                             46630_219913721.mp4'                              
+Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:   0%|          | 0/141 [00:00<?, ?it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  11%|#1        | 16/141 [00:00<00:00, 152.71it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  23%|##2       | 32/141 [00:00<00:00, 156.76it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  34%|###4      | 48/141 [00:00<00:00, 126.41it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  44%|####3     | 62/141 [00:00<00:00, 108.95it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  52%|#####2    | 74/141 [00:00<00:00, 108.88it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  62%|######1   | 87/141 [00:00<00:00, 112.81it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  72%|#######1  | 101/141 [00:00<00:00, 118.98it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  81%|########  | 114/141 [00:00<00:00, 113.23it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  90%|######### | 127/141 [00:01<00:00, 116.93it/s]Animation 93: Write(MathTex('a(b+c) = ab + ac')), etc.:  99%|#########8| 139/141 [00:01<00:00, 113.72it/s]                                                                                                          [09/17/26 15:22:19] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_15672                         
+                             7712_3199804001.mp4'                              
+Animation 94: Circumscribe(Group):   0%|          | 0/60 [00:00<?, ?it/s]                                                                         [09/17/26 15:22:20] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_19984                         
+                             39199_1167702721.mp4'                             
+                    INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31970                         
+                             81273_2905640094.mp4'                             
+Animation 96: Write(Text('Summary')):   0%|          | 0/85 [00:00<?, ?it/s]Animation 96: Write(Text('Summary')):  64%|######3   | 54/85 [00:00<00:00, 529.83it/s]                                                                                      [09/17/26 15:22:21] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_41693                         
+                             8340_2531147091.mp4'                              
+Animation 97: FadeIn(VGroup of 2 submobjects):   0%|          | 0/150 [00:00<?, ?it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  11%|#         | 16/150 [00:00<00:00, 157.86it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  21%|##1       | 32/150 [00:00<00:00, 145.43it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  33%|###2      | 49/150 [00:00<00:00, 154.03it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  45%|####5     | 68/150 [00:00<00:00, 165.18it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  57%|#####7    | 86/150 [00:00<00:00, 167.76it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  69%|######9   | 104/150 [00:00<00:00, 170.28it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  81%|########1 | 122/150 [00:00<00:00, 163.10it/s]Animation 97: FadeIn(VGroup of 2 submobjects):  93%|#########3| 140/150 [00:00<00:00, 164.99it/s]                                                                                                 [09/17/26 15:22:22] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_10700                         
+                             59472_3821735595.mp4'                             
+Animation 98: FadeIn(VGroup of 2 submobjects):   0%|          | 0/163 [00:00<?, ?it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  11%|#1        | 18/163 [00:00<00:00, 176.49it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  22%|##2       | 36/163 [00:00<00:00, 172.28it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  33%|###3      | 54/163 [00:00<00:00, 167.23it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  44%|####3     | 71/163 [00:00<00:00, 157.84it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  53%|#####3    | 87/163 [00:00<00:00, 134.03it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  62%|######1   | 101/163 [00:00<00:00, 119.72it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  70%|######9   | 114/163 [00:00<00:00, 115.79it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  78%|#######7  | 127/163 [00:00<00:00, 118.63it/s]Animation 98: FadeIn(VGroup of 2 submobjects):  90%|########9 | 146/163 [00:01<00:00, 137.44it/s]                                                                                                 [09/17/26 15:22:24] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_13205                         
+                             72474_1716331575.mp4'                             
+Animation 99: FadeIn(VGroup of 2 submobjects):   0%|          | 0/130 [00:00<?, ?it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  17%|#6        | 22/130 [00:00<00:00, 213.47it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  34%|###3      | 44/130 [00:00<00:00, 206.28it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  50%|#####     | 65/130 [00:00<00:00, 164.15it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  64%|######3   | 83/130 [00:00<00:00, 166.09it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  78%|#######7  | 101/130 [00:00<00:00, 163.89it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  91%|######### | 118/130 [00:00<00:00, 156.92it/s]                                                                                                 [09/17/26 15:22:25] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_82405                         
+                             7697_3694816283.mp4'                              
+Animation 100: FadeIn(VGroup of 2 submobjects):   0%|          | 0/106 [00:00<?, ?it/s]Animation 100: FadeIn(VGroup of 2 submobjects):  20%|#9        | 21/106 [00:00<00:00, 202.12it/s]Animation 100: FadeIn(VGroup of 2 submobjects):  40%|###9      | 42/106 [00:00<00:00, 202.13it/s]Animation 100: FadeIn(VGroup of 2 submobjects):  59%|#####9    | 63/106 [00:00<00:00, 160.80it/s]Animation 100: FadeIn(VGroup of 2 submobjects):  75%|#######5  | 80/106 [00:00<00:00, 147.67it/s]Animation 100: FadeIn(VGroup of 2 submobjects):  91%|######### | 96/106 [00:00<00:00, 149.90it/s]                                                                                                 [09/17/26 15:22:26] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_31034                         
+                             66763_2279940317.mp4'                             
+Animation 101: Indicate(VGroup of 4 submobjects), etc.:   0%|          | 0/239 [00:00<?, ?it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:   2%|2         | 5/239 [00:00<00:04, 47.26it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:   5%|4         | 11/239 [00:00<00:04, 49.82it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:   7%|6         | 16/239 [00:00<00:04, 47.11it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:   9%|9         | 22/239 [00:00<00:04, 51.03it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  12%|#1        | 28/239 [00:00<00:04, 51.56it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  14%|#4        | 34/239 [00:00<00:03, 53.31it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  17%|#6        | 40/239 [00:00<00:03, 52.15it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  19%|#9        | 46/239 [00:00<00:04, 46.12it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  22%|##1       | 52/239 [00:01<00:03, 47.49it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  24%|##3       | 57/239 [00:01<00:04, 44.98it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  26%|##5       | 62/239 [00:01<00:04, 44.24it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  28%|##8       | 67/239 [00:01<00:03, 43.15it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  30%|###       | 72/239 [00:01<00:03, 42.64it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  32%|###2      | 77/239 [00:01<00:03, 44.16it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  35%|###4      | 83/239 [00:01<00:03, 46.44it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  37%|###6      | 88/239 [00:01<00:03, 40.88it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  39%|###9      | 94/239 [00:02<00:03, 43.57it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  42%|####1     | 100/239 [00:02<00:03, 45.95it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  44%|####4     | 106/239 [00:02<00:02, 48.94it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  46%|####6     | 111/239 [00:02<00:02, 49.10it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  49%|####8     | 116/239 [00:02<00:02, 45.99it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  51%|#####     | 121/239 [00:02<00:02, 44.91it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  53%|#####3    | 127/239 [00:02<00:02, 46.79it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  55%|#####5    | 132/239 [00:02<00:02, 46.38it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  57%|#####7    | 137/239 [00:02<00:02, 43.36it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  59%|#####9    | 142/239 [00:03<00:02, 43.97it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  62%|######1   | 148/239 [00:03<00:02, 44.72it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  64%|######4   | 154/239 [00:03<00:01, 48.03it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  67%|######6   | 160/239 [00:03<00:01, 49.37it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  69%|######9   | 166/239 [00:03<00:01, 50.05it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  72%|#######1  | 172/239 [00:03<00:01, 48.57it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  74%|#######4  | 177/239 [00:03<00:01, 48.13it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  77%|#######6  | 183/239 [00:03<00:01, 50.70it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  79%|#######9  | 189/239 [00:04<00:01, 46.74it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  82%|########1 | 195/239 [00:04<00:00, 47.77it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  84%|########3 | 200/239 [00:04<00:00, 43.85it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  86%|########5 | 205/239 [00:04<00:00, 40.92it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  88%|########7 | 210/239 [00:04<00:00, 40.06it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  90%|######### | 216/239 [00:04<00:00, 43.21it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  92%|#########2| 221/239 [00:04<00:00, 43.93it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  95%|#########4| 227/239 [00:04<00:00, 47.42it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.:  97%|#########7| 233/239 [00:05<00:00, 47.30it/s]Animation 101: Indicate(VGroup of 4 submobjects), etc.: 100%|##########| 239/239 [00:05<00:00, 48.00it/s]                                                                                                         [09/17/26 15:22:32] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_42741                         
+                             63303_3697792967.mp4'                             
+Animation 102: FadeOut(VGroup of 3 submobjects):   0%|          | 0/35 [00:00<?, ?it/s]Animation 102: FadeOut(VGroup of 3 submobjects):  17%|#7        | 6/35 [00:00<00:00, 52.42it/s]Animation 102: FadeOut(VGroup of 3 submobjects):  34%|###4      | 12/35 [00:00<00:00, 51.97it/s]Animation 102: FadeOut(VGroup of 3 submobjects):  51%|#####1    | 18/35 [00:00<00:00, 53.91it/s]Animation 102: FadeOut(VGroup of 3 submobjects):  69%|######8   | 24/35 [00:00<00:00, 54.38it/s]Animation 102: FadeOut(VGroup of 3 submobjects):  86%|########5 | 30/35 [00:00<00:00, 47.68it/s]                                                                                                [09/17/26 15:22:34] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_40910                         
+                             07067_671115585.mp4'                              
+Animation 103: Write(Text('Thank You for Watching!')):   0%|          | 0/63 [00:00<?, ?it/s]Animation 103: Write(Text('Thank You for Watching!')):  43%|####2     | 27/63 [00:00<00:00, 267.93it/s]Animation 103: Write(Text('Thank You for Watching!')):  86%|########5 | 54/63 [00:00<00:00, 250.11it/s]                                                                                                       [09/17/26 15:22:35] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_38528                         
+                             62328_2531147091.mp4'                             
+Animation 104: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/41 [00:00<?, ?it/s]Animation 104: FadeIn(Text('See you in the next lesson :)')):  71%|#######   | 29/41 [00:00<00:00, 287.40it/s]                                                                                                                                  INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_17182                         
+                             49069_3670776707.mp4'                             
+Animation 105: Circumscribe(Group):   0%|          | 0/18 [00:00<?, ?it/s]                                                                          [09/17/26 15:22:36] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_40851                         
+                             58857_3052773460.mp4'                             
+                    INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dis                         
+                             tributive-Property-Smart-                         
+                             Simplification\media\vide                         
+                             os\distributive_property_                         
+                             story\360p30\partial_movi                         
+                             e_files\DistributivePrope                         
+                             rtyStory\1490007039_49932                         
+                             8632_3528332319.mp4'                              
+[real SRT written] D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Distributive-Property-Smart-Simplification\media\videos\distributive_property_story\DistributivePropertyStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[09/17/26 15:22:48] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\Manim-Short-Videos\S                          
+                             tory-Mode-Manim-Videos\D                          
+                             istributive-Property-Sma                          
+                             rt-Simplification\media\                          
+                             videos\distributive_prop                          
+                             erty_story\360p30\Distri                          
+                             butivePropertyStory.mp4'                          
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 108                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered DistributivePropertyStory    scene.py:290
+                             Played 107 animations                             
