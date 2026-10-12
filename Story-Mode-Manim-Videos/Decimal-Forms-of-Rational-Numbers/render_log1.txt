@@ -1,0 +1,789 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/16/26 20:16:19] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+[09/16/26 20:16:20] INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[09/16/26 20:16:35] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1583504468_31613                         
+                             72392_3627191807.mp4'                             
+Animation 1: Write(Text('Decimal Forms')):   0%|          | 0/35 [00:00<?, ?it/s]Animation 1: Write(Text('Decimal Forms')):  71%|#######1  | 25/35 [00:00<00:00, 236.12it/s]                                                                                           [09/16/26 20:16:36] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_39153                         
+                             22601_1191457239.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac58                           
+                             \qquad                                            
+                             \frac37\special{dvisvgm:ra                        
+                             w </g>} to                                        
+                             media\Tex\54decb1d6e68e895                        
+                             .tex                                              
+Animation 2: Write(MathTex('\\frac58 \\qquad \\frac37')):   0%|          | 0/81 [00:00<?, ?it/s]Animation 2: Write(MathTex('\\frac58 \\qquad \\frac37')):  42%|####1     | 34/81 [00:00<00:00, 332.41it/s]Animation 2: Write(MathTex('\\frac58 \\qquad \\frac37')):  84%|########3 | 68/81 [00:00<00:00, 335.11it/s]                                                                                                          [09/16/26 20:16:37] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_22942                         
+                             24022_2623483235.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac pq \                        
+                             \longrightarrow\                                  
+                             ?\special{dvisvgm:raw                             
+                             </g>} to                                          
+                             media\Tex\e4c6617848dee98e                        
+                             .tex                                              
+Animation 3: Write(MathTex('\\frac pq \\ \\longrightarrow\\ ?')):   0%|          | 0/73 [00:00<?, ?it/s]Animation 3: Write(MathTex('\\frac pq \\ \\longrightarrow\\ ?')):  44%|####3     | 32/73 [00:00<00:00, 319.40it/s]                                                                                                                  [09/16/26 20:16:39] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_38161                         
+                             46415_1743692534.mp4'                             
+Animation 4: FadeIn(Text('What decimal does a fraction become?')):   0%|          | 0/71 [00:00<?, ?it/s]Animation 4: FadeIn(Text('What decimal does a fraction become?')):  25%|##5       | 18/71 [00:00<00:00, 166.93it/s]Animation 4: FadeIn(Text('What decimal does a fraction become?')):  49%|####9     | 35/71 [00:00<00:00, 165.24it/s]Animation 4: FadeIn(Text('What decimal does a fraction become?')):  73%|#######3  | 52/71 [00:00<00:00, 154.22it/s]Animation 4: FadeIn(Text('What decimal does a fraction become?')):  96%|#########5| 68/71 [00:00<00:00, 150.65it/s]                                                                                                                   [09/16/26 20:16:40] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_14195                         
+                             02001_2999873887.mp4'                             
+                    INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31970                         
+                             81273_2503828223.mp4'                             
+Animation 6: Write(Text('A Fraction Is a Division')):   0%|          | 0/138 [00:00<?, ?it/s]Animation 6: Write(Text('A Fraction Is a Division')):  17%|#7        | 24/138 [00:00<00:00, 232.89it/s]Animation 6: Write(Text('A Fraction Is a Division')):  35%|###4      | 48/138 [00:00<00:00, 233.83it/s]Animation 6: Write(Text('A Fraction Is a Division')):  52%|#####2    | 72/138 [00:00<00:00, 202.80it/s]Animation 6: Write(Text('A Fraction Is a Division')):  67%|######7   | 93/138 [00:00<00:00, 194.46it/s]Animation 6: Write(Text('A Fraction Is a Division')):  82%|########1 | 113/138 [00:00<00:00, 190.12it/s]Animation 6: Write(Text('A Fraction Is a Division')):  96%|#########6| 133/138 [00:00<00:00, 182.70it/s]                                                                                                        [09/16/26 20:16:58] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_78299                         
+                             5375_2394598489.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac pq =                        
+                             p\div                                             
+                             q\special{dvisvgm:raw                             
+                             </g>} to                                          
+                             media\Tex\40b54370afe1fdac                        
+                             .tex                                              
+Animation 7: Write(MathTex('\\frac pq = p\\div q')):   0%|          | 0/84 [00:00<?, ?it/s]Animation 7: Write(MathTex('\\frac pq = p\\div q')):  33%|###3      | 28/84 [00:00<00:00, 274.33it/s]Animation 7: Write(MathTex('\\frac pq = p\\div q')):  67%|######6   | 56/84 [00:00<00:00, 256.67it/s]Animation 7: Write(MathTex('\\frac pq = p\\div q')):  98%|#########7| 82/84 [00:00<00:00, 247.37it/s]                                                                                                     [09/16/26 20:17:00] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_24320                         
+                             17943_3983081012.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac58\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             media\Tex\286987647e8560e9                        
+                             .tex                                              
+[09/16/26 20:17:01] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\longright                        
+                             arrow\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             media\Tex\15d0017e42f929a8                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}5\div8\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             media\Tex\c0953ebfc6d15417                        
+                             .tex                                              
+Animation 8: Write(MathTex('\\frac58')):   0%|          | 0/54 [00:00<?, ?it/s]Animation 8: Write(MathTex('\\frac58')):  94%|#########4| 51/54 [00:00<00:00, 501.93it/s]                                                                                         [09/16/26 20:17:03] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_14457                         
+                             76830_1106895095.mp4'                             
+Animation 9: Write(MathTex('\\longrightarrow')), etc.:   0%|          | 0/81 [00:00<?, ?it/s]Animation 9: Write(MathTex('\\longrightarrow')), etc.:  51%|#####     | 41/81 [00:00<00:00, 400.54it/s]                                                                                                                           INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_22022                         
+                             2110_3598515519.mp4'                              
+Animation 10: FadeIn(Text('Divide numerator by denominator.')):   0%|          | 0/160 [00:00<?, ?it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):   8%|7         | 12/160 [00:00<00:01, 114.29it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  16%|#5        | 25/160 [00:00<00:01, 121.26it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  24%|##4       | 39/160 [00:00<00:00, 128.63it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  33%|###3      | 53/160 [00:00<00:00, 131.63it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  42%|####1     | 67/160 [00:00<00:00, 130.03it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  51%|#####1    | 82/160 [00:00<00:00, 134.88it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  60%|######    | 96/160 [00:00<00:00, 134.16it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  69%|######8   | 110/160 [00:00<00:00, 124.19it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  77%|#######6  | 123/160 [00:00<00:00, 122.27it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  85%|########5 | 136/160 [00:01<00:00, 120.51it/s]Animation 10: FadeIn(Text('Divide numerator by denominator.')):  95%|#########5| 152/160 [00:01<00:00, 131.62it/s]                                                                                                                  [09/16/26 20:17:05] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_25907                         
+                             61166_1662982288.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}q\ne0\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             media\Tex\7f49bede0b5e5a65                        
+                             .tex                                              
+Animation 11: FadeIn(MathTex('q\\ne0')):   0%|          | 0/84 [00:00<?, ?it/s]Animation 11: FadeIn(MathTex('q\\ne0')):  52%|#####2    | 44/84 [00:00<00:00, 436.73it/s]                                                                                         [09/16/26 20:17:07] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_61189                         
+                             4726_1517921953.mp4'                              
+                    INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31970                         
+                             81273_4099117763.mp4'                             
+Animation 13: Write(Text('Terminating Decimal: The Division Ends')):   0%|          | 0/104 [00:00<?, ?it/s]Animation 13: Write(Text('Terminating Decimal: The Division Ends')):  17%|#7        | 18/104 [00:00<00:00, 177.93it/s]Animation 13: Write(Text('Terminating Decimal: The Division Ends')):  35%|###4      | 36/104 [00:00<00:00, 147.18it/s]Animation 13: Write(Text('Terminating Decimal: The Division Ends')):  50%|#####     | 52/104 [00:00<00:00, 143.34it/s]Animation 13: Write(Text('Terminating Decimal: The Division Ends')):  64%|######4   | 67/104 [00:00<00:00, 137.85it/s]Animation 13: Write(Text('Terminating Decimal: The Division Ends')):  78%|#######7  | 81/104 [00:00<00:00, 123.31it/s]Animation 13: Write(Text('Terminating Decimal: The Division Ends')):  90%|######### | 94/104 [00:00<00:00, 115.78it/s]                                                                                                                      [09/16/26 20:17:28] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_14406                         
+                             07715_2394598489.mp4'                             
+Animation 14: Write(MathTex('5\\div8')):   0%|          | 0/58 [00:00<?, ?it/s]Animation 14: Write(MathTex('5\\div8')):  86%|########6 | 50/58 [00:00<00:00, 499.25it/s]                                                                                                             INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31668                         
+                             27520_2483347650.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.6\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             media\Tex\707ae4025b15736e                        
+                             .tex                                              
+Animation 15: Write(MathTex('0.6')), etc.:   0%|          | 0/169 [00:00<?, ?it/s]Animation 15: Write(MathTex('0.6')), etc.:  16%|#5        | 27/169 [00:00<00:00, 259.68it/s]Animation 15: Write(MathTex('0.6')), etc.:  31%|###1      | 53/169 [00:00<00:00, 217.76it/s]Animation 15: Write(MathTex('0.6')), etc.:  45%|####4     | 76/169 [00:00<00:00, 178.49it/s]Animation 15: Write(MathTex('0.6')), etc.:  56%|#####6    | 95/169 [00:00<00:00, 166.26it/s]Animation 15: Write(MathTex('0.6')), etc.:  67%|######6   | 113/169 [00:00<00:00, 165.67it/s]Animation 15: Write(MathTex('0.6')), etc.:  77%|#######6  | 130/169 [00:00<00:00, 163.23it/s]Animation 15: Write(MathTex('0.6')), etc.:  89%|########8 | 150/169 [00:00<00:00, 172.09it/s]Animation 15: Write(MathTex('0.6')), etc.:  99%|#########9| 168/169 [00:00<00:00, 173.77it/s]                                                                                             [09/16/26 20:17:31] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_36628                         
+                             98926_4107221532.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.62\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             media\Tex\ffcbfea215d9aa05                        
+                             .tex                                              
+Animation 16: ReplacementTransform(MathTex('0.6')), etc.:   0%|          | 0/135 [00:00<?, ?it/s]Animation 16: ReplacementTransform(MathTex('0.6')), etc.:  17%|#7        | 23/135 [00:00<00:00, 227.63it/s]Animation 16: ReplacementTransform(MathTex('0.6')), etc.:  34%|###4      | 46/135 [00:00<00:00, 206.57it/s]Animation 16: ReplacementTransform(MathTex('0.6')), etc.:  50%|####9     | 67/135 [00:00<00:00, 207.16it/s]Animation 16: ReplacementTransform(MathTex('0.6')), etc.:  67%|######7   | 91/135 [00:00<00:00, 216.62it/s]Animation 16: ReplacementTransform(MathTex('0.6')), etc.:  84%|########4 | 114/135 [00:00<00:00, 218.02it/s]                                                                                                            [09/16/26 20:17:33] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_42277                         
+                             69863_550450677.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.625\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             media\Tex\fe2592acd6902f29                        
+                             .tex                                              
+Animation 17: ReplacementTransform(MathTex('0.62')), etc.:   0%|          | 0/34 [00:00<?, ?it/s]Animation 17: ReplacementTransform(MathTex('0.62')), etc.:  65%|######4   | 22/34 [00:00<00:00, 206.47it/s]                                                                                                           [09/16/26 20:17:35] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_23443                         
+                             85817_1817641991.mp4'                             
+Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):   0%|          | 0/108 [00:00<?, ?it/s]Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):  15%|#4        | 16/108 [00:00<00:00, 157.59it/s]Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):  35%|###5      | 38/108 [00:00<00:00, 190.12it/s]Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):  53%|#####2    | 57/108 [00:00<00:00, 161.08it/s]Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):  69%|######8   | 74/108 [00:00<00:00, 157.48it/s]Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):  83%|########3 | 90/108 [00:00<00:00, 151.55it/s]Animation 18: FadeIn(Text('Remainder = 0  ->  the decimal STOPS.')):  99%|#########9| 107/108 [00:00<00:00, 153.69it/s]                                                                                                                       [09/16/26 20:17:36] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_40685                         
+                             3770_3601568165.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac58=0.                        
+                             625 \quad                                         
+                             \text{(Terminating)}\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             media\Tex\a784c36073d24db0                        
+                             .tex                                              
+Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):   0%|          | 0/134 [00:00<?, ?it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  10%|#         | 14/134 [00:00<00:00, 131.34it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  21%|##        | 28/134 [00:00<00:00, 115.20it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  34%|###3      | 45/134 [00:00<00:00, 136.66it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  45%|####4     | 60/134 [00:00<00:00, 139.63it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  57%|#####6    | 76/134 [00:00<00:00, 145.86it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  69%|######8   | 92/134 [00:00<00:00, 147.24it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  81%|########  | 108/134 [00:00<00:00, 149.48it/s]Animation 19: Write(MathTex('\\frac58=0.625 \\quad \\text{(Terminating)}')):  93%|#########2| 124/134 [00:00<00:00, 149.00it/s]                                                                                                                               [09/16/26 20:17:38] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_30923                         
+                             12402_3286721746.mp4'                             
+[09/16/26 20:17:39] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31970                         
+                             81273_343646247.mp4'                              
+Animation 21: Write(Text('Recurring Decimal: The Division Loops')):   0%|          | 0/78 [00:00<?, ?it/s]Animation 21: Write(Text('Recurring Decimal: The Division Loops')):  28%|##8       | 22/78 [00:00<00:00, 210.34it/s]Animation 21: Write(Text('Recurring Decimal: The Division Loops')):  56%|#####6    | 44/78 [00:00<00:00, 191.98it/s]Animation 21: Write(Text('Recurring Decimal: The Division Loops')):  82%|########2 | 64/78 [00:00<00:00, 163.97it/s]                                                                                                                    [09/16/26 20:18:06] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_66686                         
+                             6750_2394598489.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}3\div7\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             media\Tex\395b3a0ca76e5fd3                        
+                             .tex                                              
+Animation 22: Write(MathTex('3\\div7')):   0%|          | 0/58 [00:00<?, ?it/s]Animation 22: Write(MathTex('3\\div7')):  93%|#########3| 54/58 [00:00<00:00, 535.36it/s]                                                                                         [09/16/26 20:18:07] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_98491                         
+                             6132_3801271648.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.4\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             media\Tex\c604461df4107521                        
+                             .tex                                              
+Animation 23: Write(MathTex('0.4')), etc.:   0%|          | 0/49 [00:00<?, ?it/s]Animation 23: Write(MathTex('0.4')), etc.:  55%|#####5    | 27/49 [00:00<00:00, 266.94it/s]                                                                                           [09/16/26 20:18:09] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_19048                         
+                             82100_4217716907.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.42\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             media\Tex\8c3664b5fcb93f6a                        
+                             .tex                                              
+Animation 24: ReplacementTransform(MathTex('0.4')), etc.:   0%|          | 0/19 [00:00<?, ?it/s]                                                                                                [09/16/26 20:18:10] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_21859                         
+                             10709_847775891.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.428\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             media\Tex\ecc0abeb6df943b6                        
+                             .tex                                              
+Animation 25: ReplacementTransform(MathTex('0.42')), etc.:   0%|          | 0/19 [00:00<?, ?it/s]                                                                                                 [09/16/26 20:18:12] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_38222                         
+                             34236_607305930.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.4285\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             media\Tex\9e28ef1e2a1901f5                        
+                             .tex                                              
+Animation 26: ReplacementTransform(MathTex('0.428')), etc.:   0%|          | 0/19 [00:00<?, ?it/s]                                                                                                  [09/16/26 20:18:13] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_22414                         
+                             52153_1512366438.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.42857\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             media\Tex\745eb981bea3384d                        
+                             .tex                                              
+Animation 27: ReplacementTransform(MathTex('0.4285')), etc.:   0%|          | 0/19 [00:00<?, ?it/s]                                                                                                   [09/16/26 20:18:15] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_19470                         
+                             52032_773714984.mp4'                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.428571\s                        
+                             pecial{dvisvgm:raw </g>}                          
+                             to                                                
+                             media\Tex\55adf3c24e07dfd6                        
+                             .tex                                              
+Animation 28: ReplacementTransform(MathTex('0.42857')), etc.:   0%|          | 0/19 [00:00<?, ?it/s]                                                                                                    [09/16/26 20:18:16] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_66405                         
+                             5823_4260352282.mp4'                              
+Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:   0%|          | 0/163 [00:00<?, ?it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:   5%|4         | 8/163 [00:00<00:02, 72.91it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  13%|#2        | 21/163 [00:00<00:01, 100.51it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  20%|##        | 33/163 [00:00<00:01, 105.56it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  28%|##8       | 46/163 [00:00<00:01, 113.58it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  36%|###5      | 58/163 [00:00<00:00, 110.11it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  43%|####2     | 70/163 [00:00<00:00, 111.06it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  50%|#####     | 82/163 [00:00<00:00, 113.61it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  58%|#####7    | 94/163 [00:00<00:00, 112.04it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  65%|######5   | 106/163 [00:00<00:00, 114.15it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  72%|#######2  | 118/163 [00:01<00:00, 112.78it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  80%|#######9  | 130/163 [00:01<00:00, 97.35it/s] Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  87%|########6 | 141/163 [00:01<00:00, 87.81it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  93%|#########2| 151/163 [00:01<00:00, 85.00it/s]Animation 29: FadeIn(Text('Remainder 3 is back where we started!')), etc.:  98%|#########8| 160/163 [00:01<00:00, 84.29it/s]                                                                                                                            [09/16/26 20:18:19] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_20962                         
+                             34164_1114382386.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac37=0.                        
+                             \overline{428571}\special{                        
+                             dvisvgm:raw </g>} to                              
+                             media\Tex\972ce0ebc8468f7d                        
+                             .tex                                              
+Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:   0%|          | 0/297 [00:00<?, ?it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:   4%|3         | 11/297 [00:00<00:02, 108.95it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:   8%|8         | 24/297 [00:00<00:02, 118.57it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  12%|#2        | 36/297 [00:00<00:02, 98.34it/s] Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  16%|#6        | 48/297 [00:00<00:02, 103.37it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  20%|##        | 60/297 [00:00<00:02, 106.93it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  24%|##3       | 71/297 [00:00<00:02, 107.68it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  28%|##7       | 83/297 [00:00<00:01, 111.34it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  32%|###1      | 95/297 [00:00<00:01, 113.08it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  36%|###6      | 107/297 [00:00<00:01, 114.29it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  40%|####      | 119/297 [00:01<00:01, 114.82it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  45%|####4     | 133/297 [00:01<00:01, 119.69it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  49%|####9     | 147/297 [00:01<00:01, 124.36it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  54%|#####3    | 160/297 [00:01<00:01, 120.35it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  58%|#####8    | 173/297 [00:01<00:01, 114.72it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  62%|######2   | 185/297 [00:01<00:00, 113.56it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  67%|######6   | 198/297 [00:01<00:00, 115.90it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  71%|#######1  | 211/297 [00:01<00:00, 118.64it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  75%|#######5  | 224/297 [00:01<00:00, 121.43it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  80%|#######9  | 237/297 [00:02<00:00, 121.71it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  84%|########4 | 250/297 [00:02<00:00, 123.19it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  89%|########8 | 263/297 [00:02<00:00, 114.28it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  93%|#########3| 277/297 [00:02<00:00, 118.98it/s]Animation 30: FadeOut(Text('Remainder 3 is back where we started!')), etc.:  98%|#########7| 290/297 [00:02<00:00, 119.48it/s]                                                                                                                              [09/16/26 20:18:23] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_90202                         
+                             6988_3660737498.mp4'                              
+Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):   0%|          | 0/121 [00:00<?, ?it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  12%|#2        | 15/121 [00:00<00:00, 145.51it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  25%|##4       | 30/121 [00:00<00:00, 145.71it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  37%|###7      | 45/121 [00:00<00:00, 145.99it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  50%|####9     | 60/121 [00:00<00:00, 138.75it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  61%|######1   | 74/121 [00:00<00:00, 136.94it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  73%|#######2  | 88/121 [00:00<00:00, 136.97it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  84%|########4 | 102/121 [00:00<00:00, 124.25it/s]Animation 31: FadeIn(Text('The digits repeat forever -- Recurring Decimal.')):  95%|#########5| 115/121 [00:00<00:00, 120.00it/s]                                                                                                                                 [09/16/26 20:18:24] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_16016                         
+                             51766_525016374.mp4'                              
+[09/16/26 20:18:25] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31970                         
+                             81273_4224220511.mp4'                             
+Animation 33: Write(Text('The Secret Is the Remainder')):   0%|          | 0/110 [00:00<?, ?it/s]Animation 33: Write(Text('The Secret Is the Remainder')):  21%|##        | 23/110 [00:00<00:00, 220.05it/s]Animation 33: Write(Text('The Secret Is the Remainder')):  42%|####1     | 46/110 [00:00<00:00, 194.54it/s]Animation 33: Write(Text('The Secret Is the Remainder')):  60%|######    | 66/110 [00:00<00:00, 165.83it/s]Animation 33: Write(Text('The Secret Is the Remainder')):  75%|#######5  | 83/110 [00:00<00:00, 163.86it/s]Animation 33: Write(Text('The Secret Is the Remainder')):  91%|######### | 100/110 [00:00<00:00, 164.00it/s]                                                                                                            [09/16/26 20:18:49] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_36574                         
+                             02506_2394598489.mp4'                             
+Animation 34: LaggedStart(Group):   0%|          | 0/175 [00:00<?, ?it/s]Animation 34: LaggedStart(Group):  18%|#8        | 32/175 [00:00<00:00, 311.82it/s]Animation 34: LaggedStart(Group):  37%|###6      | 64/175 [00:00<00:00, 251.32it/s]Animation 34: LaggedStart(Group):  51%|#####1    | 90/175 [00:00<00:00, 230.50it/s]Animation 34: LaggedStart(Group):  65%|######5   | 114/175 [00:00<00:00, 232.87it/s]Animation 34: LaggedStart(Group):  80%|########  | 140/175 [00:00<00:00, 239.93it/s]Animation 34: LaggedStart(Group):  95%|#########4| 166/175 [00:00<00:00, 245.39it/s]                                                                                    [09/16/26 20:18:51] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_67536                         
+                             3706_2460707920.mp4'                              
+Animation 35: LaggedStart(Group):   0%|          | 0/121 [00:00<?, ?it/s]Animation 35: LaggedStart(Group):  49%|####8     | 59/121 [00:00<00:00, 574.46it/s]Animation 35: LaggedStart(Group):  97%|#########6| 117/121 [00:00<00:00, 504.89it/s]                                                                                    [09/16/26 20:18:52] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_17627                         
+                             34158_3178023500.mp4'                             
+Animation 36: Create(CurvedArrow), etc.:   0%|          | 0/145 [00:00<?, ?it/s]Animation 36: Create(CurvedArrow), etc.:  13%|#3        | 19/145 [00:00<00:00, 184.56it/s]Animation 36: Create(CurvedArrow), etc.:  26%|##6       | 38/145 [00:00<00:00, 180.46it/s]Animation 36: Create(CurvedArrow), etc.:  39%|###9      | 57/145 [00:00<00:00, 168.39it/s]Animation 36: Create(CurvedArrow), etc.:  51%|#####1    | 74/145 [00:00<00:00, 165.45it/s]Animation 36: Create(CurvedArrow), etc.:  63%|######2   | 91/145 [00:00<00:00, 159.07it/s]Animation 36: Create(CurvedArrow), etc.:  75%|#######5  | 109/145 [00:00<00:00, 164.27it/s]Animation 36: Create(CurvedArrow), etc.:  87%|########6 | 126/145 [00:00<00:00, 165.62it/s]Animation 36: Create(CurvedArrow), etc.:  99%|#########9| 144/145 [00:00<00:00, 168.16it/s]                                                                                           [09/16/26 20:18:53] INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_10948                         
+                             77795_1801615885.mp4'                             
+Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):   0%|          | 0/188 [00:00<?, ?it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):   7%|6         | 13/188 [00:00<00:01, 123.85it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  14%|#3        | 26/188 [00:00<00:01, 121.42it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  21%|##        | 39/188 [00:00<00:01, 122.23it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  28%|##7       | 52/188 [00:00<00:01, 111.55it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  34%|###4      | 64/188 [00:00<00:01, 110.09it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  40%|####      | 76/188 [00:00<00:01, 107.40it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  46%|####6     | 87/188 [00:00<00:01, 98.86it/s] Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  52%|#####2    | 98/188 [00:00<00:00, 101.38it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  58%|#####7    | 109/188 [00:01<00:00, 101.13it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  64%|######4   | 121/188 [00:01<00:00, 103.20it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  71%|#######   | 133/188 [00:01<00:00, 105.38it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  77%|#######6  | 144/188 [00:01<00:00, 106.38it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  82%|########2 | 155/188 [00:01<00:00, 99.66it/s] Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  88%|########8 | 166/188 [00:01<00:00, 94.41it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  94%|#########3| 176/188 [00:01<00:00, 91.34it/s]Animation 37: FadeIn(Text('Same remainder -> same division steps -> repeating digits.')):  99%|#########8| 186/188 [00:01<00:00, 86.73it/s]                                                                                                                                           [09/16/26 20:18:55] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_16753                         
+                             13682_1278630010.mp4'                             
+[09/16/26 20:18:56] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\text{Term                        
+                             inating: remainder}\to0                           
+                             \qquad \text{Recurring: a                         
+                             remainder                                         
+                             repeats}\special{dvisvgm:r                        
+                             aw </g>} to                                       
+                             media\Tex\d15cca9aac2059da                        
+                             .tex                                              
+Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):   0%|          | 0/194 [00:00<?, ?it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):   6%|6         | 12/194 [00:00<00:01, 115.83it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  13%|#2        | 25/194 [00:00<00:01, 121.66it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  20%|##        | 39/194 [00:00<00:01, 126.66it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  27%|##6       | 52/194 [00:00<00:01, 122.15it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  34%|###3      | 65/194 [00:00<00:01, 116.49it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  40%|###9      | 77/194 [00:00<00:01, 111.55it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  46%|####5     | 89/194 [00:00<00:00, 111.22it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  52%|#####2    | 101/194 [00:00<00:00, 93.56it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  57%|#####7    | 111/194 [00:01<00:00, 90.80it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  62%|######2   | 121/194 [00:01<00:00, 84.91it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  67%|######7   | 130/194 [00:01<00:00, 83.14it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  73%|#######2  | 141/194 [00:01<00:00, 88.97it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  78%|#######8  | 152/194 [00:01<00:00, 92.09it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  84%|########3 | 162/194 [00:01<00:00, 87.27it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  89%|########8 | 172/194 [00:01<00:00, 88.42it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  94%|#########4| 183/194 [00:01<00:00, 93.60it/s]Animation 38: FadeIn(MathTex('\\text{Terminating: remainder}\\to0 \\qquad \\text{Recurring: a remainder repeats}')):  99%|#########9| 193/194 [00:01<00:00, 94.57it/s]                                                                                                                                                                      [09/16/26 20:18:59] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_35765                         
+                             11307_3622730072.mp4'                             
+[09/16/26 20:19:00] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31970                         
+                             81273_1059088968.mp4'                             
+Animation 40: Write(Text('Terminating vs Recurring')):   0%|          | 0/62 [00:00<?, ?it/s]Animation 40: Write(Text('Terminating vs Recurring')):  31%|###       | 19/62 [00:00<00:00, 184.69it/s]Animation 40: Write(Text('Terminating vs Recurring')):  61%|######1   | 38/62 [00:00<00:00, 161.22it/s]Animation 40: Write(Text('Terminating vs Recurring')):  89%|########8 | 55/62 [00:00<00:00, 162.67it/s]                                                                                                       [09/16/26 20:19:19] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_14845                         
+                             82186_2394598489.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac58=0.                        
+                             625\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\90167449809243c0                        
+                             .tex                                              
+Animation 41: Write(MathTex('\\frac58=0.625')):   0%|          | 0/111 [00:00<?, ?it/s]Animation 41: Write(MathTex('\\frac58=0.625')):  26%|##6       | 29/111 [00:00<00:00, 280.51it/s]Animation 41: Write(MathTex('\\frac58=0.625')):  52%|#####2    | 58/111 [00:00<00:00, 260.86it/s]Animation 41: Write(MathTex('\\frac58=0.625')):  77%|#######6  | 85/111 [00:00<00:00, 236.10it/s]                                                                                                 [09/16/26 20:19:21] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_15308                         
+                             15954_327860554.mp4'                              
+Animation 42: FadeIn(Text('remainder -> 0')), etc.:   0%|          | 0/110 [00:00<?, ?it/s]Animation 42: FadeIn(Text('remainder -> 0')), etc.:  25%|##4       | 27/110 [00:00<00:00, 260.80it/s]Animation 42: FadeIn(Text('remainder -> 0')), etc.:  49%|####9     | 54/110 [00:00<00:00, 251.09it/s]Animation 42: FadeIn(Text('remainder -> 0')), etc.:  73%|#######2  | 80/110 [00:00<00:00, 227.84it/s]Animation 42: FadeIn(Text('remainder -> 0')), etc.:  94%|#########3| 103/110 [00:00<00:00, 209.38it/s]                                                                                                      [09/16/26 20:19:22] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_83184                         
+                             9590_2205654656.mp4'                              
+Animation 43: Write(MathTex('\\frac37=0.\\overline{428571}')):   0%|          | 0/142 [00:00<?, ?it/s]Animation 43: Write(MathTex('\\frac37=0.\\overline{428571}')):  20%|#9        | 28/142 [00:00<00:00, 275.45it/s]Animation 43: Write(MathTex('\\frac37=0.\\overline{428571}')):  39%|###9      | 56/142 [00:00<00:00, 241.67it/s]Animation 43: Write(MathTex('\\frac37=0.\\overline{428571}')):  57%|#####7    | 81/142 [00:00<00:00, 213.48it/s]Animation 43: Write(MathTex('\\frac37=0.\\overline{428571}')):  73%|#######2  | 103/142 [00:00<00:00, 198.49it/s]Animation 43: Write(MathTex('\\frac37=0.\\overline{428571}')):  87%|########7 | 124/142 [00:00<00:00, 200.23it/s]                                                                                                                 [09/16/26 20:19:23] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_36466                         
+                             88137_799983673.mp4'                              
+Animation 44: FadeIn(Text('a remainder repeats')), etc.:   0%|          | 0/142 [00:00<?, ?it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  15%|#5        | 22/142 [00:00<00:00, 219.69it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  31%|###       | 44/142 [00:00<00:00, 183.41it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  44%|####4     | 63/142 [00:00<00:00, 170.09it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  57%|#####7    | 81/142 [00:00<00:00, 159.37it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  69%|######9   | 98/142 [00:00<00:00, 150.24it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  81%|########  | 115/142 [00:00<00:00, 152.94it/s]Animation 44: FadeIn(Text('a remainder repeats')), etc.:  93%|#########2| 132/142 [00:00<00:00, 155.18it/s]                                                                                                           [09/16/26 20:19:25] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_42818                         
+                             99813_1819723878.mp4'                             
+Animation 45: Create(Line):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                     INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_30631                         
+                             51109_1067650616.mp4'                             
+Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:   0%|          | 0/144 [00:00<?, ?it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  14%|#3        | 20/144 [00:00<00:00, 197.85it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  28%|##7       | 40/144 [00:00<00:00, 189.25it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  41%|####      | 59/144 [00:00<00:00, 162.54it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  53%|#####2    | 76/144 [00:00<00:00, 158.24it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  65%|######4   | 93/144 [00:00<00:00, 148.33it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  76%|#######5  | 109/144 [00:00<00:00, 147.14it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  86%|########6 | 124/144 [00:00<00:00, 144.39it/s]Animation 46: FadeIn(Text('STOP -> Terminating.   LOOP -> Recurring.')), etc.:  97%|#########6| 139/144 [00:00<00:00, 139.20it/s]                                                                                                                                 [09/16/26 20:19:27] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_37789                         
+                             05583_2785729859.mp4'                             
+                    INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Dec                         
+                             imal-Forms-of-Rational-Nu                         
+                             mbers\media\videos\decima                         
+                             l_forms_story\360p30\part                         
+                             ial_movie_files\DecimalFo                         
+                             rmsStory\1490007039_31970                         
+                             81273_2985848789.mp4'                             
+[09/16/26 20:19:28] WARNING  Gemini TTS attempt 1  gemini_speech_service.py:125
+                             returned 400: {                                   
+                               "error": {                                      
+                                 "code": 400,                                  
+                                 "message": "Model                             
+                             tried to generate                                 
+                             text, but it should                               
+                             only be used for TTS.                             
+                             Make sure your                                    
+                             instructions are                                  
+                             clear to only                                     
+                             generate audio from a                             
+                             given text transcr                                
+[09/16/26 20:19:32] WARNING  Gemini TTS attempt 2  gemini_speech_service.py:125
+                             returned 400: {                                   
+                               "error": {                                      
+                                 "code": 400,                                  
+                                 "message": "Model                             
+                             tried to generate                                 
+                             text, but it should                               
+                             only be used for TTS.                             
+                             Make sure your                                    
+                             instructions are                                  
+                             clear to only                                     
+                             generate audio from a                             
+                             given text transcr                                
+[09/16/26 20:19:37] WARNING  Gemini TTS attempt 3  gemini_speech_service.py:125
+                             returned 400: {                                   
+                               "error": {                                      
+                                 "code": 400,                                  
+                                 "message": "Model                             
+                             tried to generate                                 
+                             text, but it should                               
+                             only be used for TTS.                             
+                             Make sure your                                    
+                             instructions are                                  
+                             clear to only                                     
+                             generate audio from a                             
+                             given text transcr                                
++--------------------- Traceback (most recent call last) ---------------------+
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim\scene\scene.py:259 in   |
+| render                                                                      |
+|                                                                             |
+|    256         """                                                          |
+|    257         self.setup()                                                 |
+|    258         try:                                                         |
+| >  259             self.construct()                                         |
+|    260         except EndSceneEarlyException:                               |
+|    261             pass                                                     |
+|    262         except RerunSceneException:                                  |
+|                                                                             |
+| D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Decimal-Forms-of-Rational-Num |
+| bers\decimal_forms_story.py:190 in construct                                |
+|                                                                             |
+|   187         self.beat3_recurring()                                        |
+|   188         self.beat4_why_repeat()                                       |
+|   189         self.beat5_comparison()                                       |
+| > 190         self.beat6_challenge()                                        |
+|   191         self.beat7_summary()                                          |
+|   192                                                                       |
+|   193         self._write_real_srt()                                        |
+|                                                                             |
+| D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Decimal-Forms-of-Rational-Num |
+| bers\decimal_forms_story.py:468 in beat6_challenge                          |
+|                                                                             |
+|   465         Follows the series pattern: full-space bordered box, round TH |
+|   466         badge at board centre, whole-board dim while it counts down." |
+|   467         box_y = BOARD_CY - 0.3                                        |
+| > 468         with self.voiceover(text=NARRATION["challenge_setup"]) as tra |
+|   469             self.reset_board()                                        |
+|   470                                                                       |
+|   471             heading = board_text("YOUR TURN: Predict the Type", size= |
+|                                                                             |
+| C:\Python314\Lib\contextlib.py:141 in __enter__                             |
+|                                                                             |
+|   138         # they are only needed for recreation, which is not possible  |
+|   139         del self.args, self.kwds, self.func                           |
+|   140         try:                                                          |
+| > 141             return next(self.gen)                                     |
+|   142         except StopIteration:                                         |
+|   143             raise RuntimeError("generator didn't yield") from None    |
+|   144                                                                       |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim_voiceover\voiceover_sce |
+| ne.py:207 in voiceover                                                      |
+|                                                                             |
+|   204                                                                       |
+|   205         try:                                                          |
+|   206             if text is not None:                                      |
+| > 207                 yield self._add_voiceover_text(                       |
+|   208                     text,                                             |
+|   209                     service_kwargs=service_kwargs,                    |
+|   210                     subcaption=subcaption,                            |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim_voiceover\voiceover_sce |
+| ne.py:85 in _add_voiceover_text                                             |
+|                                                                             |
+|    82         if not hasattr(self, "speech_service"):                       |
+|    83             raise Exception("You need to call init_voiceover() before |
+|    84                                                                       |
+| >  85         dict_ = self.speech_service._wrap_generate_from_text(text, ** |
+|    86         tracker = VoiceoverTracker(self, dict_, Path(self.speech_serv |
+|    87         self.renderer.skip_animations = self.renderer._original_skipp |
+|    88         self.add_sound(str(Path(self.speech_service.cache_dir) / dict |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim_voiceover\services\base |
+| .py:183 in _wrap_generate_from_text                                         |
+|                                                                             |
+|   180             path = path_string                                        |
+|   181                                                                       |
+|   182         dict_ = serialize_voiceover_cache_entry(                      |
+| > 183             parse_voiceover_cache_entry(self.generate_from_text(text, |
+|   184         )                                                             |
+|   185         original_audio = dict_["original_audio"]                      |
+|   186                                                                       |
+|                                                                             |
+| D:\Manim-Short-Videos\gemini_speech_service.py:133 in generate_from_text    |
+|                                                                             |
+|   130                                                                       |
+|   131         if response is None or response.status_code != 200:           |
+|   132             err = response.text if response is not None else "Timeout |
+| > 133             raise RuntimeError(f"Gemini TTS request failed: {err}")   |
+|   134                                                                       |
+|   135         res_json = response.json()                                    |
+|   136         part = res_json["candidates"][0]["content"]["parts"][0]       |
++-----------------------------------------------------------------------------+
+RuntimeError: Gemini TTS request failed: {
+  "error": {
+    "code": 400,
+    "message": "Model tried to generate text, but it should only be used for 
+TTS. Make sure your instructions are clear to only generate audio from a given 
+text transcript.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
