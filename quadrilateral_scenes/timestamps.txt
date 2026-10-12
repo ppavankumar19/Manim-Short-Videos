@@ -1,0 +1,27 @@
+Constructing a Quadrilateral — Scene Timestamps
+======================================================================
+
+Beat   Name                Start      End   Duration
+----------------------------------------------------------------------
+1      Intro (Why)       0:00.00  0:22.29    22.29s
+2      Title             0:22.29  0:27.29     5.00s
+3      The Family        0:27.29  1:04.29    37.00s
+4      Types A           1:04.29  1:33.79    29.50s
+5      Types B           1:33.79  1:59.19    25.40s
+6      Family Tree       1:59.19  2:30.59    31.40s
+7      Rigidity          2:30.59  2:57.00    26.41s
+8      The Data          2:57.00  3:16.04    19.03s
+9      Counting          3:16.04  3:38.91    22.87s
+10     Choosing          3:38.91  4:03.64    24.73s
+11     S.S.S.            4:03.64  4:24.66    21.02s
+12     Construct         4:24.66  4:47.25    22.59s
+13     Locate D          4:47.25  5:07.28    20.03s
+14     Verify            5:07.28  5:31.12    23.83s
+15     Summary           5:31.12  5:42.62    11.50s
+16     Overview          5:42.62  6:04.62    22.00s
+----------------------------------------------------------------------
+
+Total duration: 6:04.62 (364.62s)
+Total scenes: 16
+
+Individual scene MP4s in: D:\Manim-Short-Videos\quadrilateral_scenes\renders
