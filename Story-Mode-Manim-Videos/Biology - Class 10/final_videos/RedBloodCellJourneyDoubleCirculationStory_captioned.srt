@@ -1,0 +1,339 @@
+1
+00:00:00,260 --> 00:00:04,200
+A red blood cell's journey. Understanding double circulation through
+
+2
+00:00:04,200 --> 00:00:06,171
+the heart, lungs and body.
+
+3
+00:00:06,800 --> 00:00:09,168
+Look inside a large vein. Millions of red blood
+
+4
+00:00:09,168 --> 00:00:10,957
+cells are flowing back towards the heart. Now freeze
+
+5
+00:00:10,957 --> 00:00:14,525
+them, and follow just one. This cell is low
+
+6
+00:00:14,525 --> 00:00:18,610
+on oxygen, its destination is unknown, and it has
+
+7
+00:00:18,610 --> 00:00:22,460
+visited the heart zero times. Can you trace its
+
+8
+00:00:22,460 --> 00:00:25,469
+complete journey? And how many times will it pass
+
+9
+00:00:25,469 --> 00:00:26,711
+through the heart?
+
+10
+00:00:27,293 --> 00:00:30,263
+The journey starts in the body. Our cell leaves
+
+11
+00:00:30,263 --> 00:00:33,553
+the body tissues and enters the veins. Blood from
+
+12
+00:00:33,553 --> 00:00:37,533
+the upper body returns through the superior vena cava,
+
+13
+00:00:37,533 --> 00:00:39,881
+and blood from the lower body returns through the
+
+14
+00:00:39,881 --> 00:00:43,397
+inferior vena cava. Both routes meet at the right
+
+15
+00:00:43,397 --> 00:00:46,056
+atrium. This is the cell's first visit to the
+
+16
+00:00:46,056 --> 00:00:51,044
+heart. So: body, vena cava, right atrium.
+
+17
+00:00:51,627 --> 00:00:54,159
+Now we are inside the heart. The cell waits
+
+18
+00:00:54,159 --> 00:00:57,723
+in the right atrium. Between the right atrium and
+
+19
+00:00:57,723 --> 00:01:01,420
+the right ventricle is the tricuspid valve. The valve
+
+20
+00:01:01,420 --> 00:01:05,271
+opens, and the cell moves into the right ventricle.
+
+21
+00:01:05,271 --> 00:01:08,217
+Then the valve closes behind it. If the blood
+
+22
+00:01:08,217 --> 00:01:11,160
+tries to flow backward, the valve blocks it. This
+
+23
+00:01:11,160 --> 00:01:14,687
+is one-way flow. Now the cell is in the
+
+24
+00:01:14,687 --> 00:01:16,578
+right ventricle. Where will this ventricle send the blood?
+
+25
+00:01:17,180 --> 00:01:19,542
+The right ventricle contracts, and the cell shoots into
+
+26
+00:01:19,542 --> 00:01:23,336
+the pulmonary artery. You might think an artery always
+
+27
+00:01:23,336 --> 00:01:28,156
+carries oxygenated blood. But not always: the pulmonary artery
+
+28
+00:01:28,156 --> 00:01:31,487
+carries deoxygenated blood to the lungs. The route right
+
+29
+00:01:31,487 --> 00:01:36,800
+ventricle, pulmonary artery, lungs is called pulmonary circulation. The
+
+30
+00:01:36,800 --> 00:01:38,631
+cell now approaches the lungs.
+
+31
+00:01:39,253 --> 00:01:41,946
+Inside the lungs, the cell enters a narrow capillary.
+
+32
+00:01:41,946 --> 00:01:45,703
+Capillaries are microscopic vessels that connect arteries to veins.
+
+33
+00:01:45,703 --> 00:01:48,824
+Before the lungs, the cell is deoxygenated. In the
+
+34
+00:01:48,824 --> 00:01:51,940
+lungs, it picks up oxygen, and its status changes
+
+35
+00:01:51,940 --> 00:01:55,867
+to oxygenated. Now it leaves through the pulmonary vein.
+
+36
+00:01:55,867 --> 00:02:00,293
+The pulmonary vein carries oxygenated blood, which is another
+
+37
+00:02:00,293 --> 00:02:04,593
+exception. Remember: an artery leads away from the heart,
+
+38
+00:02:04,593 --> 00:02:06,144
+and a vein leads towards it.
+
+39
+00:02:06,767 --> 00:02:09,244
+The cell has returned to the heart, this time
+
+40
+00:02:09,244 --> 00:02:13,293
+to the left atrium. The pulmonary loop is complete:
+
+41
+00:02:13,293 --> 00:02:16,187
+right ventricle, lungs, left atrium. This is the cell's
+
+42
+00:02:16,187 --> 00:02:19,267
+second visit to the heart. Between the left atrium
+
+43
+00:02:19,267 --> 00:02:23,127
+and the left ventricle is the bicuspid, or mitral,
+
+44
+00:02:23,127 --> 00:02:25,817
+valve. It opens, and the cell moves into the
+
+45
+00:02:25,817 --> 00:02:28,998
+left ventricle. Next stop: the whole body.
+
+46
+00:02:29,520 --> 00:02:32,480
+The left ventricle contracts strongly and pushes the cell
+
+47
+00:02:32,480 --> 00:02:36,300
+into the aorta. The aorta carries oxygenated blood to
+
+48
+00:02:36,300 --> 00:02:41,460
+the body: the brain, arms, liver, kidneys and lower
+
+49
+00:02:41,460 --> 00:02:44,733
+body. The cell travels along the aorta towards the
+
+50
+00:02:44,733 --> 00:02:50,151
+body. This route, left ventricle, aorta, body, is called systemic circulation.
+
+51
+00:02:50,727 --> 00:02:52,534
+Now the cell reaches a capillary bed in the
+
+52
+00:02:52,534 --> 00:02:56,345
+body tissues. It arrives oxygenated, and gives oxygen to
+
+53
+00:02:56,345 --> 00:02:58,887
+the cells around it. As it leaves, it is
+
+54
+00:02:58,887 --> 00:03:03,167
+deoxygenated again. The capillaries join up to form veins,
+
+55
+00:03:03,167 --> 00:03:06,478
+because capillaries connect arteries to veins. The cell returns
+
+56
+00:03:06,478 --> 00:03:09,027
+through the vena cava to the right atrium, exactly
+
+57
+00:03:09,027 --> 00:03:11,918
+where it started. One complete journey.
+
+58
+00:03:12,453 --> 00:03:14,333
+Now let us see why this is called double
+
+59
+00:03:14,333 --> 00:03:19,493
+circulation. The first loop: heart, lungs, heart. This is
+
+60
+00:03:19,493 --> 00:03:24,023
+pulmonary circulation. The second loop: heart, body, heart. This
+
+61
+00:03:24,023 --> 00:03:29,996
+is systemic circulation. In one complete circulation, the blood
+
+62
+00:03:29,996 --> 00:03:32,667
+passes through the heart twice. Two passes through the
+
+63
+00:03:32,667 --> 00:03:37,603
+heart: that is double circulation. Pulmonary loop plus systemic
+
+64
+00:03:37,603 --> 00:03:39,844
+loop equals double circulation.
+
+65
+00:03:40,427 --> 00:03:43,147
+Your turn. Be the red blood cell. You are
+
+66
+00:03:43,147 --> 00:03:45,567
+now in the right atrium. A: where do you
+
+67
+00:03:45,567 --> 00:03:50,047
+go next? B: which vessel takes you to the
+
+68
+00:03:50,047 --> 00:03:53,870
+lungs? C: after the lungs, which chamber do you
+
+69
+00:03:53,870 --> 00:03:57,135
+reach first? D: from the left ventricle, which major
+
+70
+00:03:57,135 --> 00:04:01,527
+vessel carries you to the body? E: why is
+
+71
+00:04:01,527 --> 00:04:05,195
+it called double circulation? Take your time, and pause
+
+72
+00:04:05,195 --> 00:04:06,978
+the video if you need to.
+
+73
+00:04:18,280 --> 00:04:22,200
+Let us check. A: the right ventricle. B: the
+
+74
+00:04:22,200 --> 00:04:26,040
+pulmonary artery. C: the left atrium. D: the aorta.
+
+75
+00:04:26,040 --> 00:04:29,647
+E: because the blood passes through the heart twice
+
+76
+00:04:29,647 --> 00:04:31,751
+in one complete circulation.
+
+77
+00:04:32,427 --> 00:04:33,950
+Here is the whole journey in one go. From
+
+78
+00:04:33,950 --> 00:04:37,247
+the body, through the vena cava, into the right
+
+79
+00:04:37,247 --> 00:04:41,099
+atrium and the right ventricle. Then the pulmonary artery
+
+80
+00:04:41,099 --> 00:04:43,511
+and the lungs. Then the pulmonary veins, the left
+
+81
+00:04:43,511 --> 00:04:46,887
+atrium and the left ventricle. Then the aorta, and
+
+82
+00:04:46,887 --> 00:04:50,587
+back to the body. Remember: right to the lungs,
+
+83
+00:04:50,587 --> 00:04:54,067
+left to the body. A pulmonary loop plus a
+
+84
+00:04:54,067 --> 00:04:57,303
+systemic loop is double circulation. Thank you for watching,
+
+85
+00:04:57,303 --> 00:04:59,198
+and see you in the next lesson.

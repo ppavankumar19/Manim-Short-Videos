@@ -1,0 +1,359 @@
+1
+00:00:00,260 --> 00:00:03,483
+How does water reach the top of a tree?
+
+2
+00:00:03,483 --> 00:00:05,931
+Xylem, root pressure and transpiration pull.
+
+3
+00:00:06,493 --> 00:00:10,893
+Look at this eucalyptus tree, and a person standing
+
+4
+00:00:10,893 --> 00:00:14,457
+beside it. Now let us climb. Twenty metres, sixty
+
+5
+00:00:14,457 --> 00:00:19,061
+metres, one hundred metres, and finally, about one hundred
+
+6
+00:00:19,061 --> 00:00:22,660
+and eighty metres. Far below, in the soil near
+
+7
+00:00:22,660 --> 00:00:26,173
+a root, is one tiny drop of water. So
+
+8
+00:00:26,173 --> 00:00:29,124
+how can this drop get all the way up there?
+
+9
+00:00:29,953 --> 00:00:32,117
+The first gate is the root hair. A root
+
+10
+00:00:32,117 --> 00:00:35,853
+has many fine, microscopic projections, and each one is
+
+11
+00:00:35,853 --> 00:00:38,760
+a root hair. Water sits in thin films between
+
+12
+00:00:38,760 --> 00:00:42,587
+the soil particles. Our drop moves towards a root
+
+13
+00:00:42,587 --> 00:00:45,953
+hair and crosses into it. This is where water
+
+14
+00:00:45,953 --> 00:00:49,145
+enters the plant. Each root hair is tiny, but
+
+15
+00:00:49,145 --> 00:00:52,728
+together they make a huge absorbing region. So how
+
+16
+00:00:52,728 --> 00:00:55,724
+does water move in? The answer is osmosis.
+
+17
+00:00:56,293 --> 00:00:59,096
+Now follow the drop inside the root. The soil
+
+18
+00:00:59,096 --> 00:01:01,663
+water is more dilute, and the cell sap of
+
+19
+00:01:01,663 --> 00:01:04,939
+the root hair is more concentrated. So water moves
+
+20
+00:01:04,939 --> 00:01:08,153
+into the root hair by osmosis. The same drop
+
+21
+00:01:08,153 --> 00:01:12,273
+then passes from cell to cell, through the neighbouring
+
+22
+00:01:12,273 --> 00:01:16,633
+root cells. Finally, it enters a large vertical tube:
+
+23
+00:01:16,633 --> 00:01:19,873
+the xylem vessel. Many root hairs feed many xylem
+
+24
+00:01:19,873 --> 00:01:24,364
+pathways. So the path is: soil, root hair, root cells, xylem.
+
+25
+00:01:24,807 --> 00:01:27,572
+Many root hairs keep adding water, and it collects
+
+26
+00:01:27,572 --> 00:01:30,667
+in the xylem. Pressure builds up there, and it
+
+27
+00:01:30,667 --> 00:01:33,650
+can push the water upward. This is called root
+
+28
+00:01:33,650 --> 00:01:38,707
+pressure. You can see it in a simple activity.
+
+29
+00:01:38,707 --> 00:01:41,337
+Cut a stem, and fix a glass tube to
+
+30
+00:01:41,337 --> 00:01:44,287
+it. The water level rises from M one to
+
+31
+00:01:44,287 --> 00:01:47,147
+M two. But notice the arrow. It is only
+
+32
+00:01:47,147 --> 00:01:48,798
+a small push, and it is not the main force.
+
+33
+00:01:49,420 --> 00:01:53,157
+Now picture the whole tree. The xylem runs unbroken
+
+34
+00:01:53,157 --> 00:01:56,787
+from the roots to the crown. Root pressure pushes
+
+35
+00:01:56,787 --> 00:01:59,712
+from the bottom, but next to the height of
+
+36
+00:01:59,712 --> 00:02:02,650
+the tree, it is small. In fact, root pressure
+
+37
+00:02:02,650 --> 00:02:05,810
+is seldom high, and sometimes it may be nil.
+
+38
+00:02:05,810 --> 00:02:08,560
+Then what lifts the water to the top? To
+
+39
+00:02:08,560 --> 00:02:10,751
+find out, go up to a leaf.
+
+40
+00:02:11,307 --> 00:02:13,770
+Inside a leaf, the xylem ends near the mesophyll
+
+41
+00:02:13,770 --> 00:02:16,516
+cells. Water reaches the mesophyll region. From the moist
+
+42
+00:02:16,516 --> 00:02:20,522
+surfaces of these cells, water evaporates into the air
+
+43
+00:02:20,522 --> 00:02:23,810
+spaces as vapour. The vapour moves out through the
+
+44
+00:02:23,810 --> 00:02:27,827
+stomata into the atmosphere. This loss of water by
+
+45
+00:02:27,827 --> 00:02:32,892
+evaporation from the leaf is called transpiration. Molecule after
+
+46
+00:02:32,892 --> 00:02:36,167
+molecule leaves in this way. A little water also
+
+47
+00:02:36,167 --> 00:02:39,658
+evaporates through the lenticels of the stem. So what
+
+48
+00:02:39,658 --> 00:02:41,278
+happens to the water below?
+
+49
+00:02:41,920 --> 00:02:43,930
+Think of the xylem as a tall, narrow tube,
+
+50
+00:02:43,930 --> 00:02:49,200
+completely filled with a continuous column of water. At
+
+51
+00:02:49,200 --> 00:02:52,260
+the top, one water molecule evaporates from the leaf.
+
+52
+00:02:52,260 --> 00:02:55,190
+The molecule below moves up to take its place,
+
+53
+00:02:55,190 --> 00:02:58,210
+then the next, then the next. The movement passes
+
+54
+00:02:58,210 --> 00:03:00,672
+down the whole column, and the column moves as
+
+55
+00:03:00,672 --> 00:03:05,480
+one connected stream. This pulling effect is the transpiration
+
+56
+00:03:05,480 --> 00:03:07,618
+pull. At the bottom, root pressure is a small
+
+57
+00:03:07,618 --> 00:03:11,733
+push. At the top, transpiration is the main pull.
+
+58
+00:03:11,733 --> 00:03:14,134
+So the main pull comes from above, and the
+
+59
+00:03:14,134 --> 00:03:16,251
+push from below is minor and variable.
+
+60
+00:03:17,027 --> 00:03:20,321
+Why does the water column not break? Because water
+
+61
+00:03:20,321 --> 00:03:23,759
+molecules attract one another. So when the top molecule
+
+62
+00:03:23,759 --> 00:03:27,727
+is pulled, its neighbours follow. The column stretches a
+
+63
+00:03:27,727 --> 00:03:30,211
+little, but it stays connected. It is like drinking
+
+64
+00:03:30,211 --> 00:03:32,487
+through a straw: pull at the top, and the
+
+65
+00:03:32,487 --> 00:03:35,487
+whole column of water rises. In the same way,
+
+66
+00:03:35,487 --> 00:03:38,387
+one continuous pathway runs from the root, through the
+
+67
+00:03:38,387 --> 00:03:39,658
+stem, to the leaf.
+
+68
+00:03:40,207 --> 00:03:43,527
+Your turn. Build the water pathway. A: where does
+
+69
+00:03:43,527 --> 00:03:47,229
+water enter the plant? B: which process helps water
+
+70
+00:03:47,229 --> 00:03:49,987
+enter and move towards the xylem? C: which tissue
+
+71
+00:03:49,987 --> 00:03:53,902
+carries water upward? D: in a tall tree, which
+
+72
+00:03:53,902 --> 00:03:57,347
+is the main pull, root pressure or transpiration? E:
+
+73
+00:03:57,347 --> 00:04:01,107
+put these in order: xylem, soil, leaf, root hair,
+
+74
+00:04:01,107 --> 00:04:05,687
+atmosphere. Take your time, and pause the video if
+
+75
+00:04:05,687 --> 00:04:06,818
+you need to.
+
+76
+00:04:18,193 --> 00:04:22,393
+Let us check. A: the root hair. B: osmosis.
+
+77
+00:04:22,393 --> 00:04:27,883
+C: the xylem. D: transpiration pull. E: soil, root
+
+78
+00:04:27,883 --> 00:04:33,713
+hair, xylem, leaf, atmosphere. Roots push a little, but
+
+79
+00:04:33,713 --> 00:04:35,224
+leaves pull the most.
+
+80
+00:04:36,033 --> 00:04:38,773
+Follow one last drop. It enters a root hair,
+
+81
+00:04:38,773 --> 00:04:41,626
+and moves from cell to cell by osmosis. It
+
+82
+00:04:41,626 --> 00:04:45,533
+enters the xylem, where a small, variable push from
+
+83
+00:04:45,533 --> 00:04:49,813
+root pressure helps from below. At the leaf, water
+
+84
+00:04:49,813 --> 00:04:53,829
+evaporates. This is transpiration, and it pulls the whole
+
+85
+00:04:53,829 --> 00:04:58,167
+water column upward. This is the transpiration pull, the
+
+86
+00:04:58,167 --> 00:05:01,990
+main pull. Finally, the water vapour leaves into the
+
+87
+00:05:01,990 --> 00:05:06,106
+atmosphere. This continuous moving column is the transpiration stream.
+
+88
+00:05:06,106 --> 00:05:11,273
+So: roots absorb, xylem connects, leaves transpire, and the
+
+89
+00:05:11,273 --> 00:05:14,027
+transpiration pull lifts the water. Thank you for watching,
+
+90
+00:05:14,027 --> 00:05:17,824
+and see you in the next lesson.

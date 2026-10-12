@@ -1,0 +1,339 @@
+1
+00:00:00,400 --> 00:00:06,011
+Photosynthesis. Inputs, process and outputs, in one visual flow.
+
+2
+00:00:06,730 --> 00:00:09,285
+A person eats a plate of food. That is
+
+3
+00:00:09,285 --> 00:00:12,417
+how an animal gets its food: from outside. Now
+
+4
+00:00:12,417 --> 00:00:15,166
+try the same with a plant. Nobody puts a
+
+5
+00:00:15,166 --> 00:00:18,250
+plate of food in front of it. And yet
+
+6
+00:00:18,250 --> 00:00:21,900
+the plant keeps growing. New leaves open, and fruits
+
+7
+00:00:21,900 --> 00:00:24,865
+form. So where does a plant's food come from?
+
+8
+00:00:24,865 --> 00:00:27,397
+The answer begins in one green leaf. The leaf
+
+9
+00:00:27,397 --> 00:00:28,601
+can help make it.
+
+10
+00:00:29,250 --> 00:00:33,220
+What does photosynthesis need? Four things. Water comes from
+
+11
+00:00:33,220 --> 00:00:35,670
+the soil, and the roots carry it up to
+
+12
+00:00:35,670 --> 00:00:38,741
+the leaf. Carbon dioxide comes from the air around
+
+13
+00:00:38,741 --> 00:00:43,150
+the leaf. Light energy comes from the Sun. And
+
+14
+00:00:43,150 --> 00:00:47,537
+chlorophyll, the green pigment, is already inside the green
+
+15
+00:00:47,537 --> 00:00:51,388
+parts of the plant. Water, carbon dioxide, light and
+
+16
+00:00:51,388 --> 00:00:53,201
+chlorophyll: these are the four requirements.
+
+17
+00:00:53,850 --> 00:00:55,450
+But the four do not play the same role.
+
+18
+00:00:55,450 --> 00:00:58,314
+Carbon dioxide and water are the chemical materials. They
+
+19
+00:00:58,314 --> 00:01:02,050
+are the matter that gets used. Light is the
+
+20
+00:01:02,050 --> 00:01:05,320
+energy source. It supplies energy, but it does not
+
+21
+00:01:05,320 --> 00:01:11,730
+become part of the food. Chlorophyll is the light-capturing
+
+22
+00:01:11,730 --> 00:01:14,250
+pigment. It helps to catch the light, and it
+
+23
+00:01:14,250 --> 00:01:16,430
+is not used up like water. Materials, energy and
+
+24
+00:01:16,430 --> 00:01:20,376
+pigment work together in photosynthesis. So needed for the
+
+25
+00:01:20,376 --> 00:01:22,361
+process does not mean consumed in the same way.
+
+26
+00:01:23,000 --> 00:01:26,331
+Where does all this happen? Zoom into a leaf.
+
+27
+00:01:26,331 --> 00:01:28,535
+Inside it are cells, and each green cell holds
+
+28
+00:01:28,535 --> 00:01:31,240
+many small green bodies. One of them is a
+
+29
+00:01:31,240 --> 00:01:35,920
+chloroplast. The chloroplast is the site of photosynthesis. Carbon
+
+30
+00:01:35,920 --> 00:01:39,460
+dioxide, water and light all meet here. We will
+
+31
+00:01:39,460 --> 00:01:41,911
+open the chloroplast in the next video.
+
+32
+00:01:42,550 --> 00:01:47,710
+Now, what does the chloroplast make? Carbon dioxide enters
+
+33
+00:01:47,710 --> 00:01:51,358
+from the air. Water arrives from the soil. Light
+
+34
+00:01:51,358 --> 00:01:56,870
+energy switches the chloroplast on. Inside, it is not
+
+35
+00:01:56,870 --> 00:02:01,378
+one step. A series of reactions takes place, with
+
+36
+00:02:01,378 --> 00:02:08,050
+several intermediate compounds. The main product is glucose, a
+
+37
+00:02:08,050 --> 00:02:16,394
+carbohydrate. The light energy is now stored in it
+
+38
+00:02:16,394 --> 00:02:19,072
+as chemical energy.
+
+39
+00:02:19,797 --> 00:02:23,741
+Photosynthesis also gives out a gas. Oxygen forms inside
+
+40
+00:02:23,741 --> 00:02:27,077
+the chloroplast. It leaves the cell, and then the
+
+41
+00:02:27,077 --> 00:02:30,557
+leaf, and goes out into the air. So, in:
+
+42
+00:02:30,557 --> 00:02:35,222
+carbon dioxide and water, with light. Out: glucose and
+
+43
+00:02:35,222 --> 00:02:39,848
+oxygen. The purpose is food. Oxygen is an important
+
+44
+00:02:39,848 --> 00:02:42,588
+product that is released along the way.
+
+45
+00:02:43,173 --> 00:02:46,693
+Now let us read the equation as a story.
+
+46
+00:02:46,693 --> 00:02:49,600
+In words: carbon dioxide plus water, with light and
+
+47
+00:02:49,600 --> 00:02:54,533
+chlorophyll, gives glucose, water and oxygen. Carbon dioxide is
+
+48
+00:02:54,533 --> 00:02:56,765
+C O two. Water is H two O, and
+
+49
+00:02:56,765 --> 00:02:59,717
+glucose is C six H twelve O six. Now
+
+50
+00:02:59,717 --> 00:03:04,587
+the numbers. The textbook equation is: six C O
+
+51
+00:03:04,587 --> 00:03:07,833
+two plus twelve H two O, in light and
+
+52
+00:03:07,833 --> 00:03:10,593
+chlorophyll, gives C six H twelve O six, plus
+
+53
+00:03:10,593 --> 00:03:13,982
+six H two O, plus six O two. Notice
+
+54
+00:03:13,982 --> 00:03:16,923
+that water appears on both sides, twelve going in
+
+55
+00:03:16,923 --> 00:03:21,166
+and six coming out. So overall, six water molecules
+
+56
+00:03:21,166 --> 00:03:24,993
+are used, and the net equation is six C
+
+57
+00:03:24,993 --> 00:03:27,233
+O two plus six H two O gives C
+
+58
+00:03:27,233 --> 00:03:30,104
+six H twelve O six plus six O two.
+
+59
+00:03:30,670 --> 00:03:34,561
+Glucose is only the beginning of plant material. Many
+
+60
+00:03:34,561 --> 00:03:39,250
+glucose units can join into larger carbohydrates. Glucose can
+
+61
+00:03:39,250 --> 00:03:42,427
+be used to form starch, which the plant stores,
+
+62
+00:03:42,427 --> 00:03:45,370
+and cellulose, which builds the cell wall. Each arrow
+
+63
+00:03:45,370 --> 00:03:48,895
+says can be used to form, because each takes
+
+64
+00:03:48,895 --> 00:03:52,981
+more steps. So photosynthesis provides the starting food material.
+
+65
+00:03:53,497 --> 00:03:57,825
+Your turn. Complete the photosynthesis map. A: which gas
+
+66
+00:03:57,825 --> 00:04:00,577
+enters the leaf from the air? B: what is
+
+67
+00:04:00,577 --> 00:04:03,753
+carried up from the roots? C: which is the
+
+68
+00:04:03,753 --> 00:04:06,985
+energy source? D: which food is made inside the
+
+69
+00:04:06,985 --> 00:04:10,087
+plant? E: which gas is released into the air?
+
+70
+00:04:10,087 --> 00:04:14,797
+And two quick checks: which supplies energy, carbon dioxide
+
+71
+00:04:14,797 --> 00:04:19,275
+or sunlight? And where does photosynthesis happen? Take your
+
+72
+00:04:19,275 --> 00:04:21,288
+time, and pause the video if you need to.
+
+73
+00:04:32,653 --> 00:04:36,633
+Let us check. A: carbon dioxide. B: water. C:
+
+74
+00:04:36,633 --> 00:04:40,773
+light energy from the Sun. D: glucose. E: oxygen.
+
+75
+00:04:40,773 --> 00:04:47,250
+Sunlight supplies the energy, not carbon dioxide, and photosynthesis
+
+76
+00:04:47,250 --> 00:04:48,964
+happens in the chloroplast.
+
+77
+00:04:49,560 --> 00:04:52,100
+Here is the whole story. Water rises from the
+
+78
+00:04:52,100 --> 00:04:55,340
+soil. Carbon dioxide enters the leaf. Sunlight strikes the
+
+79
+00:04:55,340 --> 00:05:00,900
+leaf. Chlorophyll in the chloroplast captures the light. Photosynthesis
+
+80
+00:05:00,900 --> 00:05:04,749
+happens inside. Glucose stays in the plant, and oxygen
+
+81
+00:05:04,749 --> 00:05:07,864
+goes out into the air. Simple materials plus light
+
+82
+00:05:07,864 --> 00:05:14,305
+energy become energy-rich food. Input, transform, output. But how
+
+83
+00:05:14,305 --> 00:05:16,525
+does one chloroplast capture light and build food? Next
+
+84
+00:05:16,525 --> 00:05:21,616
+time: grana, stroma and the pigments. Thank you for
+
+85
+00:05:21,616 --> 00:05:23,871
+watching, and see you in the next lesson.
