@@ -1,0 +1,1083 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/16/26 13:26:51] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: Create(RoundedRectangle), etc.:   0%|          | 0/32 [00:00<?, ?it/s]                                                                                   [09/16/26 13:26:52] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\15835                         
+                             04468_3980590665_83829656                         
+                             .mp4'                                             
+Animation 1: _MethodAnimation(Dot), etc.:   0%|          | 0/17 [00:00<?, ?it/s]                                                                                                    INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1743187143_22678224                         
+                             0.mp4'                                            
+Animation 2: FadeOut(RoundedRectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]                                                                                    [09/16/26 13:26:53] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3575260178_26348345                         
+                             79.mp4'                                           
+Animation 3: Write(Text('Commutative Property')):   0%|          | 0/82 [00:00<?, ?it/s]Animation 3: Write(Text('Commutative Property')):  27%|##6       | 22/82 [00:00<00:00, 210.19it/s]Animation 3: Write(Text('Commutative Property')):  54%|#####3    | 44/82 [00:00<00:00, 208.34it/s]Animation 3: Write(Text('Commutative Property')):  79%|#######9  | 65/82 [00:00<00:00, 196.47it/s]                                                                                                  [09/16/26 13:26:54] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1685465052_83829656                         
+                             .mp4'                                             
+Animation 4: Write(Text('The Swap Test')):   0%|          | 0/43 [00:00<?, ?it/s]Animation 4: Write(Text('The Swap Test')):  67%|######7   | 29/43 [00:00<00:00, 282.14it/s]                                                                                           [09/16/26 13:26:55] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2495054727_35304790                         
+                             3.mp4'                                            
+                    INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_16455093                         
+                             07.mp4'                                           
+Animation 6: Write(Text('The Swap Test')):   0%|          | 0/33 [00:00<?, ?it/s]Animation 6: Write(Text('The Swap Test')):  48%|####8     | 16/33 [00:00<00:00, 156.09it/s]Animation 6: Write(Text('The Swap Test')):  97%|#########6| 32/33 [00:00<00:00, 156.26it/s]                                                                                           [09/16/26 13:26:56] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2081198920_83829656                         
+                             .mp4'                                             
+Animation 7: FadeIn(MathTex('2')), etc.:   0%|          | 0/49 [00:00<?, ?it/s]                                                                                                   INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_78024366_3949707965                         
+                             .mp4'                                             
+Animation 8: Create(CurvedArrow), etc.:   0%|          | 0/57 [00:00<?, ?it/s]Animation 8: Create(CurvedArrow), etc.:  86%|########5 | 49/57 [00:00<00:00, 475.05it/s]                                                                                        [09/16/26 13:26:57] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_216259057_238552097                         
+                             3.mp4'                                            
+Animation 9: _MethodAnimation(MathTex('2')), etc.:   0%|          | 0/78 [00:00<?, ?it/s]Animation 9: _MethodAnimation(MathTex('2')), etc.:  38%|###8      | 30/78 [00:00<00:00, 292.16it/s]Animation 9: _MethodAnimation(MathTex('2')), etc.:  86%|########5 | 67/78 [00:00<00:00, 332.63it/s]                                                                                                                       INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_215797673_282232574                         
+                             7.mp4'                                            
+Animation 10: FadeOut(CurvedArrow), etc.:   0%|          | 0/103 [00:00<?, ?it/s]Animation 10: FadeOut(CurvedArrow), etc.:  13%|#2        | 13/103 [00:00<00:00, 126.74it/s]Animation 10: FadeOut(CurvedArrow), etc.:  29%|##9       | 30/103 [00:00<00:00, 149.28it/s]Animation 10: FadeOut(CurvedArrow), etc.:  44%|####3     | 45/103 [00:00<00:00, 131.96it/s]Animation 10: FadeOut(CurvedArrow), etc.:  57%|#####7    | 59/103 [00:00<00:00, 131.37it/s]Animation 10: FadeOut(CurvedArrow), etc.:  71%|#######   | 73/103 [00:00<00:00, 133.94it/s]Animation 10: FadeOut(CurvedArrow), etc.:  84%|########4 | 87/103 [00:00<00:00, 132.44it/s]Animation 10: FadeOut(CurvedArrow), etc.:  99%|#########9| 102/103 [00:00<00:00, 136.27it/s]                                                                                            [09/16/26 13:26:59] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3308813284_32081652                         
+                             47.mp4'                                           
+                    INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_30682274                         
+                             68.mp4'                                           
+Animation 12: Write(Text('Commutative Property')):   0%|          | 0/95 [00:00<?, ?it/s]Animation 12: Write(Text('Commutative Property')):  33%|###2      | 31/95 [00:00<00:00, 306.28it/s]Animation 12: Write(Text('Commutative Property')):  65%|######5   | 62/95 [00:00<00:00, 252.85it/s]Animation 12: Write(Text('Commutative Property')):  93%|#########2| 88/95 [00:00<00:00, 229.37it/s]                                                                                                   [09/16/26 13:27:00] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3886843241_83829656                         
+                             .mp4'                                             
+Animation 13: FadeIn(MathTex('a')), etc.:   0%|          | 0/48 [00:00<?, ?it/s]                                                                                                    INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_381341061_427587746                         
+                             6.mp4'                                            
+Animation 14: _MethodAnimation(MathTex('a')), etc.:   0%|          | 0/80 [00:00<?, ?it/s]Animation 14: _MethodAnimation(MathTex('a')), etc.:  52%|#####2    | 42/80 [00:00<00:00, 417.72it/s]                                                                                                    [09/16/26 13:27:01] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2222473436_48059109                         
+                             7.mp4'                                            
+Animation 15: Write(MathTex('a\\star b=b\\star a')):   0%|          | 0/131 [00:00<?, ?it/s]Animation 15: Write(MathTex('a\\star b=b\\star a')):  33%|###2      | 43/131 [00:00<00:00, 419.75it/s]Animation 15: Write(MathTex('a\\star b=b\\star a')):  65%|######4   | 85/131 [00:00<00:00, 365.28it/s]Animation 15: Write(MathTex('a\\star b=b\\star a')):  93%|#########3| 122/131 [00:00<00:00, 347.39it/s]                                                                                                       [09/16/26 13:27:02] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3455459212_27681468                         
+                             8.mp4'                                            
+Animation 16: FadeIn(Text('Order can change — result does not')), etc.:   0%|          | 0/93 [00:00<?, ?it/s]Animation 16: FadeIn(Text('Order can change — result does not')), etc.:  20%|##        | 19/93 [00:00<00:00, 189.78it/s]Animation 16: FadeIn(Text('Order can change — result does not')), etc.:  44%|####4     | 41/93 [00:00<00:00, 199.47it/s]Animation 16: FadeIn(Text('Order can change — result does not')), etc.:  66%|######5   | 61/93 [00:00<00:00, 183.02it/s]Animation 16: FadeIn(Text('Order can change — result does not')), etc.:  87%|########7 | 81/93 [00:00<00:00, 187.70it/s]                                                                                                                        [09/16/26 13:27:03] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3686075509_13833293                         
+                             42.mp4'                                           
+                    INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_39724075                         
+                             32.mp4'                                           
+Animation 18: Write(Text('Addition')):   0%|          | 0/17 [00:00<?, ?it/s]                                                                             [09/16/26 13:27:04] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_651541417_83829656.                         
+                             mp4'                                              
+Animation 19: Write(MathTex('2+3')):   0%|          | 0/39 [00:00<?, ?it/s]                                                                                               INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_193800649_278578436                         
+                             2.mp4'                                            
+Animation 20: Write(MathTex('=5')):   0%|          | 0/71 [00:00<?, ?it/s]Animation 20: Write(MathTex('=5')):  93%|#########2| 66/71 [00:00<00:00, 658.76it/s]                                                                                                        INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3352133212_14582012                         
+                             59.mp4'                                           
+Animation 21: Write(MathTex('3+2')):   0%|          | 0/43 [00:00<?, ?it/s]                                                                           [09/16/26 13:27:05] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2435158363_36035908                         
+                             51.mp4'                                           
+Animation 22: Write(MathTex('=5')):   0%|          | 0/29 [00:00<?, ?it/s]                                                                                              INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2421246280_31636852                         
+                             .mp4'                                             
+Animation 23: Create(SurroundingRectangle), etc.:   0%|          | 0/62 [00:00<?, ?it/s]Animation 23: Create(SurroundingRectangle), etc.:  65%|######4   | 40/62 [00:00<00:00, 392.25it/s]                                                                                                  [09/16/26 13:27:06] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1485977013_15183473                         
+                             14.mp4'                                           
+Animation 24: FadeIn(Text('Same answer — Addition is commutative!')):   0%|          | 0/113 [00:00<?, ?it/s]Animation 24: FadeIn(Text('Same answer — Addition is commutative!')):  21%|##1       | 24/113 [00:00<00:00, 229.67it/s]Animation 24: FadeIn(Text('Same answer — Addition is commutative!')):  42%|####1     | 47/113 [00:00<00:00, 184.92it/s]Animation 24: FadeIn(Text('Same answer — Addition is commutative!')):  58%|#####8    | 66/113 [00:00<00:00, 178.31it/s]Animation 24: FadeIn(Text('Same answer — Addition is commutative!')):  75%|#######5  | 85/113 [00:00<00:00, 172.88it/s]Animation 24: FadeIn(Text('Same answer — Addition is commutative!')):  91%|#########1| 103/113 [00:00<00:00, 168.47it/s]                                                                                                                        [09/16/26 13:27:07] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3256085808_38470750                         
+                             32.mp4'                                           
+                    INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_29659864                         
+                             20.mp4'                                           
+Animation 26: Write(Text('Rational Numbers')):   0%|          | 0/78 [00:00<?, ?it/s]Animation 26: Write(Text('Rational Numbers')):  38%|###8      | 30/78 [00:00<00:00, 297.17it/s]Animation 26: Write(Text('Rational Numbers')):  77%|#######6  | 60/78 [00:00<00:00, 250.98it/s]                                                                                               [09/16/26 13:27:08] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_665159922_83829656.                         
+                             mp4'                                              
+Animation 27: Write(MathTex('-\\frac52+\\frac34')):   0%|          | 0/67 [00:00<?, ?it/s]Animation 27: Write(MathTex('-\\frac52+\\frac34')):  46%|####6     | 31/67 [00:00<00:00, 300.69it/s]Animation 27: Write(MathTex('-\\frac52+\\frac34')):  93%|#########2| 62/67 [00:00<00:00, 292.93it/s]                                                                                                    [09/16/26 13:27:09] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3803391799_10408623                         
+                             51.mp4'                                           
+Animation 28: Write(MathTex('=-\\frac74')):   0%|          | 0/66 [00:00<?, ?it/s]Animation 28: Write(MathTex('=-\\frac74')):  97%|#########6| 64/66 [00:00<00:00, 630.07it/s]                                                                                                                INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2106510431_25900654                         
+                             25.mp4'                                           
+Animation 29: Write(MathTex('\\frac34+\\left(-\\frac52\\right)')):   0%|          | 0/54 [00:00<?, ?it/s]Animation 29: Write(MathTex('\\frac34+\\left(-\\frac52\\right)')):  57%|#####7    | 31/54 [00:00<00:00, 309.28it/s]                                                                                                                   [09/16/26 13:27:10] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4170765935_26251576                         
+                             03.mp4'                                           
+Animation 30: Write(MathTex('=-\\frac74')):   0%|          | 0/54 [00:00<?, ?it/s]                                                                                                      INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3994345397_32528786                         
+                             04.mp4'                                           
+Animation 31: Create(SurroundingRectangle), etc.:   0%|          | 0/79 [00:00<?, ?it/s]Animation 31: Create(SurroundingRectangle), etc.:  51%|#####     | 40/79 [00:00<00:00, 398.65it/s]                                                                                                  [09/16/26 13:27:11] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2081753050_13475089                         
+                             81.mp4'                                           
+Animation 32: FadeIn(Text('Swap -> Same Result:  a + b = b + a')):   0%|          | 0/134 [00:00<?, ?it/s]Animation 32: FadeIn(Text('Swap -> Same Result:  a + b = b + a')):  19%|#9        | 26/134 [00:00<00:00, 254.02it/s]Animation 32: FadeIn(Text('Swap -> Same Result:  a + b = b + a')):  39%|###8      | 52/134 [00:00<00:00, 241.45it/s]Animation 32: FadeIn(Text('Swap -> Same Result:  a + b = b + a')):  57%|#####7    | 77/134 [00:00<00:00, 201.50it/s]Animation 32: FadeIn(Text('Swap -> Same Result:  a + b = b + a')):  73%|#######3  | 98/134 [00:00<00:00, 142.92it/s]Animation 32: FadeIn(Text('Swap -> Same Result:  a + b = b + a')):  90%|########9 | 120/134 [00:00<00:00, 161.01it/s]                                                                                                                     [09/16/26 13:27:12] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1515790021_27348671                         
+                             71.mp4'                                           
+[09/16/26 13:27:13] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_22699933                         
+                             75.mp4'                                           
+Animation 34: Write(Text('Subtraction')):   0%|          | 0/21 [00:00<?, ?it/s]Animation 34: Write(Text('Subtraction')):  76%|#######6  | 16/21 [00:00<00:00, 156.72it/s]                                                                                                              INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3380642272_83829656                         
+                             .mp4'                                             
+Animation 35: Write(MathTex('5-2')):   0%|          | 0/49 [00:00<?, ?it/s]                                                                           [09/16/26 13:27:14] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2947456311_10067136                         
+                             35.mp4'                                           
+Animation 36: Write(MathTex('=3')):   0%|          | 0/74 [00:00<?, ?it/s]Animation 36: Write(MathTex('=3')):  50%|#####     | 37/74 [00:00<00:00, 355.28it/s]                                                                                                        INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4038275738_40573915                         
+                             94.mp4'                                           
+Animation 37: Write(MathTex('2-5')):   0%|          | 0/42 [00:00<?, ?it/s]Animation 37: Write(MathTex('2-5')): 100%|##########| 42/42 [00:00<00:00, 414.67it/s]                                                                                     [09/16/26 13:27:15] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1713696634_16059738                         
+                             90.mp4'                                           
+Animation 38: Write(MathTex('=-3')):   0%|          | 0/28 [00:00<?, ?it/s]                                                                           [09/16/26 13:27:16] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1746410301_16004863                         
+                             71.mp4'                                           
+Animation 39: FadeIn(MathTex('3\\neq-3')), etc.:   0%|          | 0/67 [00:00<?, ?it/s]Animation 39: FadeIn(MathTex('3\\neq-3')), etc.:  55%|#####5    | 37/67 [00:00<00:00, 362.31it/s]                                                                                                                     INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1093306251_19284272                         
+                             85.mp4'                                           
+Animation 40: FadeIn(Text('Different answer — NOT commutative!')):   0%|          | 0/165 [00:00<?, ?it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  12%|#1        | 19/165 [00:00<00:00, 182.70it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  23%|##3       | 38/165 [00:00<00:00, 173.60it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  35%|###5      | 58/165 [00:00<00:00, 181.62it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  47%|####7     | 78/165 [00:00<00:00, 186.19it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  59%|#####8    | 97/165 [00:00<00:00, 174.99it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  70%|######9   | 115/165 [00:00<00:00, 166.00it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  81%|########1 | 134/165 [00:00<00:00, 171.78it/s]Animation 40: FadeIn(Text('Different answer — NOT commutative!')):  92%|#########2| 152/165 [00:00<00:00, 157.54it/s]                                                                                                                     [09/16/26 13:27:18] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_951317412_406559277                         
+                             4.mp4'                                            
+                    INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_32496968                         
+                             6.mp4'                                            
+Animation 42: Write(Text('Rational Numbers')):   0%|          | 0/84 [00:00<?, ?it/s]Animation 42: Write(Text('Rational Numbers')):  42%|####1     | 35/84 [00:00<00:00, 345.35it/s]Animation 42: Write(Text('Rational Numbers')):  83%|########3 | 70/84 [00:00<00:00, 246.80it/s]                                                                                               [09/16/26 13:27:19] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1395243959_83829656                         
+                             .mp4'                                             
+Animation 43: Write(MathTex('\\frac23-\\frac78')):   0%|          | 0/67 [00:00<?, ?it/s]Animation 43: Write(MathTex('\\frac23-\\frac78')):  42%|####1     | 28/67 [00:00<00:00, 279.11it/s]Animation 43: Write(MathTex('\\frac23-\\frac78')):  96%|#########5| 64/67 [00:00<00:00, 325.07it/s]                                                                                                   [09/16/26 13:27:20] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3100841205_20465914                         
+                             69.mp4'                                           
+Animation 44: Write(MathTex('=-\\frac{5}{24}')):   0%|          | 0/67 [00:00<?, ?it/s]Animation 44: Write(MathTex('=-\\frac{5}{24}')):  63%|######2   | 42/67 [00:00<00:00, 405.20it/s]                                                                                                                     INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_999895819_199370162                         
+                             2.mp4'                                            
+Animation 45: Write(MathTex('\\frac78-\\frac23')):   0%|          | 0/46 [00:00<?, ?it/s]Animation 45: Write(MathTex('\\frac78-\\frac23')):  74%|#######3  | 34/46 [00:00<00:00, 336.26it/s]                                                                                                   [09/16/26 13:27:21] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_909809407_297263247                         
+                             4.mp4'                                            
+Animation 46: Write(MathTex('=\\frac{5}{24}')):   0%|          | 0/46 [00:00<?, ?it/s]                                                                                                          INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_898203256_120604315                         
+                             6.mp4'                                            
+Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:   0%|          | 0/100 [00:00<?, ?it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  11%|#1        | 11/100 [00:00<00:00, 107.01it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  24%|##4       | 24/100 [00:00<00:00, 118.13it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  36%|###6      | 36/100 [00:00<00:00, 113.36it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  48%|####8     | 48/100 [00:00<00:00, 114.79it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  60%|######    | 60/100 [00:00<00:00, 116.13it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  73%|#######3  | 73/100 [00:00<00:00, 119.01it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  85%|########5 | 85/100 [00:00<00:00, 107.89it/s]Animation 47: FadeIn(Text('Different results — subtraction is NOT commutative!')), etc.:  96%|#########6| 96/100 [00:00<00:00, 106.26it/s]                                                                                                                                          [09/16/26 13:27:23] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3021684429_63018661                         
+                             6.mp4'                                            
+                    INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_36031673                         
+                             57.mp4'                                           
+Animation 49: Write(Text('Multiplication & Division')):   0%|          | 0/84 [00:00<?, ?it/s]Animation 49: Write(Text('Multiplication & Division')):  26%|##6       | 22/84 [00:00<00:00, 209.98it/s]Animation 49: Write(Text('Multiplication & Division')):  55%|#####4    | 46/84 [00:00<00:00, 222.68it/s]Animation 49: Write(Text('Multiplication & Division')):  82%|########2 | 69/84 [00:00<00:00, 206.60it/s]                                                                                                        [09/16/26 13:27:24] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2617002135_83829656                         
+                             .mp4'                                             
+Animation 50: Write(MathTex('3\\times4')):   0%|          | 0/36 [00:00<?, ?it/s]                                                                                 [09/16/26 13:27:25] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2138792427_25294786                         
+                             15.mp4'                                           
+Animation 51: Write(MathTex('=12')):   0%|          | 0/35 [00:00<?, ?it/s]                                                                                               INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_333465173_100141427                         
+                             2.mp4'                                            
+Animation 52: Write(MathTex('4\\times3')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 52: Write(MathTex('4\\times3')): 100%|##########| 60/60 [00:00<00:00, 591.20it/s]                                                                                           [09/16/26 13:27:26] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1876972605_34333101                         
+                             72.mp4'                                           
+Animation 53: Write(MathTex('=12')):   0%|          | 0/40 [00:00<?, ?it/s]                                                                                               INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2480412819_32431017                         
+                             15.mp4'                                           
+Animation 54: Create(SurroundingRectangle), etc.:   0%|          | 0/4 [00:00<?, ?it/s]                                                                                                           INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3822764028_39227266                         
+                             87.mp4'                                           
+Animation 55: FadeIn(Text('Multiplication is commutative too!')):   0%|          | 0/75 [00:00<?, ?it/s]Animation 55: FadeIn(Text('Multiplication is commutative too!')):  29%|##9       | 22/75 [00:00<00:00, 208.88it/s]Animation 55: FadeIn(Text('Multiplication is commutative too!')):  57%|#####7    | 43/75 [00:00<00:00, 178.55it/s]Animation 55: FadeIn(Text('Multiplication is commutative too!')):  83%|########2 | 62/75 [00:00<00:00, 173.97it/s]                                                                                                                  [09/16/26 13:27:27] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4260533165_32620777                         
+                             31.mp4'                                           
+Animation 56: FadeIn(Text('What about division?')):   0%|          | 0/51 [00:00<?, ?it/s]Animation 56: FadeIn(Text('What about division?')):  49%|####9     | 25/51 [00:00<00:00, 227.98it/s]Animation 56: FadeIn(Text('What about division?')):  94%|#########4| 48/51 [00:00<00:00, 225.62it/s]                                                                                                    [09/16/26 13:27:28] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1979041663_34978140                         
+                             5.mp4'                                            
+Animation 57: FadeOut(Text('What about division?')), etc.:   0%|          | 0/192 [00:00<?, ?it/s]Animation 57: FadeOut(Text('What about division?')), etc.:   6%|5         | 11/192 [00:00<00:01, 103.50it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  11%|#1        | 22/192 [00:00<00:01, 94.96it/s] Animation 57: FadeOut(Text('What about division?')), etc.:  18%|#7        | 34/192 [00:00<00:01, 104.66it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  23%|##3       | 45/192 [00:00<00:01, 98.75it/s] Animation 57: FadeOut(Text('What about division?')), etc.:  29%|##8       | 55/192 [00:00<00:01, 97.64it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  35%|###4      | 67/192 [00:00<00:01, 103.38it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  41%|####      | 78/192 [00:00<00:01, 104.16it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  46%|####6     | 89/192 [00:00<00:00, 104.42it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  52%|#####2    | 100/192 [00:01<00:00, 92.20it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  58%|#####8    | 112/192 [00:01<00:00, 99.10it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  64%|######4   | 123/192 [00:01<00:00, 100.19it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  70%|######9   | 134/192 [00:01<00:00, 99.13it/s] Animation 57: FadeOut(Text('What about division?')), etc.:  76%|#######5  | 145/192 [00:01<00:00, 96.48it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  81%|########1 | 156/192 [00:01<00:00, 98.69it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  87%|########6 | 167/192 [00:01<00:00, 99.76it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  93%|#########2| 178/192 [00:01<00:00, 95.55it/s]Animation 57: FadeOut(Text('What about division?')), etc.:  98%|#########8| 189/192 [00:01<00:00, 98.53it/s]                                                                                                            [09/16/26 13:27:31] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3348619396_10970384                         
+                             94.mp4'                                           
+                    INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_51863631                         
+                             8.mp4'                                            
+Animation 59: Write(Text('YOUR TURN')):   0%|          | 0/42 [00:00<?, ?it/s]Animation 59: Write(Text('YOUR TURN')):  95%|#########5| 40/42 [00:00<00:00, 388.88it/s]                                                                                        [09/16/26 13:27:32] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1584590057_83829656                         
+                             .mp4'                                             
+Animation 60: FadeIn(MathTex('\\frac35+\\frac27')), etc.:   0%|          | 0/140 [00:00<?, ?it/s]Animation 60: FadeIn(MathTex('\\frac35+\\frac27')), etc.:  22%|##2       | 31/140 [00:00<00:00, 309.77it/s]Animation 60: FadeIn(MathTex('\\frac35+\\frac27')), etc.:  44%|####4     | 62/140 [00:00<00:00, 270.03it/s]Animation 60: FadeIn(MathTex('\\frac35+\\frac27')), etc.:  64%|######4   | 90/140 [00:00<00:00, 269.39it/s]Animation 60: FadeIn(MathTex('\\frac35+\\frac27')), etc.:  84%|########4 | 118/140 [00:00<00:00, 272.69it/s]                                                                                                            [09/16/26 13:27:33] INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_24831067_13080968.m                         
+                             p4'                                               
+Animation 61: FadeIn(Text('Same result or different? Think first!')):   0%|          | 0/92 [00:00<?, ?it/s]Animation 61: FadeIn(Text('Same result or different? Think first!')):  21%|##        | 19/92 [00:00<00:00, 186.01it/s]Animation 61: FadeIn(Text('Same result or different? Think first!')):  42%|####2     | 39/92 [00:00<00:00, 191.79it/s]Animation 61: FadeIn(Text('Same result or different? Think first!')):  64%|######4   | 59/92 [00:00<00:00, 164.71it/s]Animation 61: FadeIn(Text('Same result or different? Think first!')):  83%|########2 | 76/92 [00:00<00:00, 158.25it/s]                                                                                                                      [09/16/26 13:27:34] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3310302355_11230495                         
+                             98.mp4'                                           
+Animation 62: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                             [09/16/26 13:27:35] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1684683135_10496440                         
+                             57.mp4'                                           
+Animation 63: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2764462208_31830431                         
+                             96.mp4'                                           
+Animation 64: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:27:36] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3487265152_31830431                         
+                             96.mp4'                                           
+Animation 65: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_942705152_318304319                         
+                             6.mp4'                                            
+Animation 66: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:27:37] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_129582501_318304319                         
+                             6.mp4'                                            
+Animation 67: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3669973139_31830431                         
+                             96.mp4'                                           
+Animation 68: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:27:38] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2095799792_31830431                         
+                             96.mp4'                                           
+Animation 69: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3153700595_31830431                         
+                             96.mp4'                                           
+Animation 70: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:27:39] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4218874578_31830431                         
+                             96.mp4'                                           
+Animation 71: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2098134936_31830431                         
+                             96.mp4'                                           
+Animation 72: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:27:40] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2843009625_31830431                         
+                             96.mp4'                                           
+Animation 73: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                  INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2189426600_18775189                         
+                             17.mp4'                                           
+Animation 74: FadeOut(Text('Same result or different? Think first!')):   0%|          | 0/44 [00:00<?, ?it/s]Animation 74: FadeOut(Text('Same result or different? Think first!')):  30%|##9       | 13/44 [00:00<00:00, 125.17it/s]Animation 74: FadeOut(Text('Same result or different? Think first!')):  61%|######1   | 27/44 [00:00<00:00, 129.98it/s]Animation 74: FadeOut(Text('Same result or different? Think first!')):  93%|#########3| 41/44 [00:00<00:00, 133.61it/s]                                                                                                                       [09/16/26 13:27:41] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1250087485_29513813                         
+                             33.mp4'                                           
+Animation 75: Write(MathTex('=\\frac{31}{35}')):   0%|          | 0/101 [00:00<?, ?it/s]Animation 75: Write(MathTex('=\\frac{31}{35}')):  45%|####4     | 45/101 [00:00<00:00, 448.00it/s]Animation 75: Write(MathTex('=\\frac{31}{35}')):  89%|########9 | 90/101 [00:00<00:00, 385.47it/s]                                                                                                  [09/16/26 13:27:42] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4220784276_67599060                         
+                             1.mp4'                                            
+Animation 76: Write(MathTex('=\\frac{31}{35}')):   0%|          | 0/164 [00:00<?, ?it/s]Animation 76: Write(MathTex('=\\frac{31}{35}')):  29%|##8       | 47/164 [00:00<00:00, 463.14it/s]Animation 76: Write(MathTex('=\\frac{31}{35}')):  57%|#####7    | 94/164 [00:00<00:00, 396.56it/s]Animation 76: Write(MathTex('=\\frac{31}{35}')):  82%|########2 | 135/164 [00:00<00:00, 389.93it/s]                                                                                                                       INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_222716485_371184576                         
+                             5.mp4'                                            
+Animation 77: FadeIn(Text('Same result — Addition passes again!')), etc.:   0%|          | 0/83 [00:00<?, ?it/s]Animation 77: FadeIn(Text('Same result — Addition passes again!')), etc.:  19%|#9        | 16/83 [00:00<00:00, 151.86it/s]Animation 77: FadeIn(Text('Same result — Addition passes again!')), etc.:  39%|###8      | 32/83 [00:00<00:00, 149.28it/s]Animation 77: FadeIn(Text('Same result — Addition passes again!')), etc.:  57%|#####6    | 47/83 [00:00<00:00, 131.05it/s]Animation 77: FadeIn(Text('Same result — Addition passes again!')), etc.:  73%|#######3  | 61/83 [00:00<00:00, 127.16it/s]Animation 77: FadeIn(Text('Same result — Addition passes again!')), etc.:  89%|########9 | 74/83 [00:00<00:00, 124.96it/s]                                                                                                                          [09/16/26 13:27:44] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1548919078_95576793                         
+                             9.mp4'                                            
+                    INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_28615396                         
+                             09.mp4'                                           
+Animation 79: Write(Text('The Swap Test')):   0%|          | 0/79 [00:00<?, ?it/s]Animation 79: Write(Text('The Swap Test')):  47%|####6     | 37/79 [00:00<00:00, 361.74it/s]Animation 79: Write(Text('The Swap Test')):  94%|#########3| 74/79 [00:00<00:00, 282.86it/s]                                                                                            [09/16/26 13:27:45] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_420479054_83829656.                         
+                             mp4'                                              
+Animation 80: Create(Line):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                     INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2070724934_53296760                         
+                             7.mp4'                                            
+Animation 81: FadeIn(VGroup of 4 submobjects):   0%|          | 0/128 [00:00<?, ?it/s]Animation 81: FadeIn(VGroup of 4 submobjects):   8%|7         | 10/128 [00:00<00:01, 98.87it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  19%|#8        | 24/128 [00:00<00:00, 119.32it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  28%|##8       | 36/128 [00:00<00:00, 118.62it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  38%|###7      | 48/128 [00:00<00:00, 104.91it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  46%|####6     | 59/128 [00:00<00:00, 102.87it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  55%|#####4    | 70/128 [00:00<00:00, 103.53it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  64%|######4   | 82/128 [00:00<00:00, 108.36it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  73%|#######3  | 94/128 [00:00<00:00, 110.00it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  83%|########2 | 106/128 [00:00<00:00, 108.45it/s]Animation 81: FadeIn(VGroup of 4 submobjects):  93%|#########2| 119/128 [00:01<00:00, 112.27it/s]                                                                                                 [09/16/26 13:27:47] INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2170005997_33109390                         
+                             83.mp4'                                           
+Animation 82: FadeIn(VGroup of 4 submobjects):   0%|          | 0/109 [00:00<?, ?it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  13%|#2        | 14/109 [00:00<00:00, 139.78it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  26%|##5       | 28/109 [00:00<00:00, 116.82it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  37%|###6      | 40/109 [00:00<00:00, 116.74it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  48%|####7     | 52/109 [00:00<00:00, 107.73it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  59%|#####8    | 64/109 [00:00<00:00, 110.11it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  72%|#######1  | 78/109 [00:00<00:00, 117.37it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  83%|########3 | 91/109 [00:00<00:00, 120.07it/s]Animation 82: FadeIn(VGroup of 4 submobjects):  95%|#########5| 104/109 [00:00<00:00, 121.55it/s]                                                                                                 [09/16/26 13:27:49] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2641228048_14443693                         
+                             54.mp4'                                           
+Animation 83: FadeIn(Text('Swap the numbers -> check the result!')), etc.:   0%|          | 0/84 [00:00<?, ?it/s]Animation 83: FadeIn(Text('Swap the numbers -> check the result!')), etc.:  15%|#5        | 13/84 [00:00<00:00, 123.98it/s]Animation 83: FadeIn(Text('Swap the numbers -> check the result!')), etc.:  39%|###9      | 33/84 [00:00<00:00, 167.35it/s]Animation 83: FadeIn(Text('Swap the numbers -> check the result!')), etc.:  60%|#####9    | 50/84 [00:00<00:00, 158.62it/s]Animation 83: FadeIn(Text('Swap the numbers -> check the result!')), etc.:  79%|#######8  | 66/84 [00:00<00:00, 156.04it/s]Animation 83: FadeIn(Text('Swap the numbers -> check the result!')), etc.:  98%|#########7| 82/84 [00:00<00:00, 153.40it/s]                                                                                                                           [09/16/26 13:27:50] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2698603363_18261635                         
+                             00.mp4'                                           
+                    INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3197081273_38828442                         
+                             1.mp4'                                            
+Animation 85: Write(Text('Summary')):   0%|          | 0/64 [00:00<?, ?it/s]Animation 85: Write(Text('Summary')):  66%|######5   | 42/64 [00:00<00:00, 409.88it/s]                                                                                      [09/16/26 13:27:51] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1194815689_83829656                         
+                             .mp4'                                             
+Animation 86: FadeIn(VGroup of 2 submobjects):   0%|          | 0/164 [00:00<?, ?it/s]Animation 86: FadeIn(VGroup of 2 submobjects):   7%|7         | 12/164 [00:00<00:01, 117.56it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  15%|#4        | 24/164 [00:00<00:01, 106.33it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  21%|##1       | 35/164 [00:00<00:01, 100.20it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  28%|##8       | 46/164 [00:00<00:01, 100.77it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  35%|###5      | 58/164 [00:00<00:00, 106.02it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  42%|####2     | 69/164 [00:00<00:00, 104.05it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  49%|####8     | 80/164 [00:00<00:00, 98.76it/s] Animation 86: FadeIn(VGroup of 2 submobjects):  55%|#####4    | 90/164 [00:00<00:00, 96.39it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  61%|######    | 100/164 [00:01<00:00, 94.25it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  68%|######7   | 111/164 [00:01<00:00, 97.15it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  74%|#######3  | 121/164 [00:01<00:00, 95.16it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  81%|########1 | 133/164 [00:01<00:00, 101.94it/s]Animation 86: FadeIn(VGroup of 2 submobjects):  88%|########7 | 144/164 [00:01<00:00, 92.55it/s] Animation 86: FadeIn(VGroup of 2 submobjects):  95%|#########4| 155/164 [00:01<00:00, 95.60it/s]                                                                                                [09/16/26 13:27:54] INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_3291059257_17044108                         
+                             48.mp4'                                           
+Animation 87: FadeIn(VGroup of 2 submobjects):   0%|          | 0/149 [00:00<?, ?it/s]Animation 87: FadeIn(VGroup of 2 submobjects):   9%|8         | 13/149 [00:00<00:01, 126.22it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  17%|#7        | 26/149 [00:00<00:01, 103.59it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  25%|##4       | 37/149 [00:00<00:01, 105.24it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  32%|###2      | 48/149 [00:00<00:00, 102.74it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  41%|####      | 61/149 [00:00<00:00, 110.21it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  49%|####8     | 73/149 [00:00<00:00, 112.51it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  57%|#####7    | 85/149 [00:00<00:00, 105.21it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  65%|######5   | 97/149 [00:00<00:00, 109.39it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 109/149 [00:01<00:00, 109.78it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  81%|########1 | 121/149 [00:01<00:00, 104.40it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  89%|########9 | 133/149 [00:01<00:00, 105.98it/s]Animation 87: FadeIn(VGroup of 2 submobjects):  97%|#########7| 145/149 [00:01<00:00, 109.50it/s]                                                                                                 [09/16/26 13:27:56] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_46971767_1843032631                         
+                             .mp4'                                             
+Animation 88: FadeIn(VGroup of 2 submobjects):   0%|          | 0/135 [00:00<?, ?it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  10%|9         | 13/135 [00:00<00:01, 118.17it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  19%|#8        | 25/135 [00:00<00:00, 117.01it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  28%|##8       | 38/135 [00:00<00:00, 122.34it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  38%|###7      | 51/135 [00:00<00:00, 124.31it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  47%|####7     | 64/135 [00:00<00:00, 102.03it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  56%|#####5    | 75/135 [00:00<00:00, 94.01it/s] Animation 88: FadeIn(VGroup of 2 submobjects):  63%|######2   | 85/135 [00:00<00:00, 93.13it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  70%|#######   | 95/135 [00:00<00:00, 91.66it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  79%|#######8  | 106/135 [00:01<00:00, 96.06it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  87%|########7 | 118/135 [00:01<00:00, 101.55it/s]Animation 88: FadeIn(VGroup of 2 submobjects):  96%|#########6| 130/135 [00:01<00:00, 105.97it/s]                                                                                                 [09/16/26 13:27:58] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2951686978_35535177                         
+                             08.mp4'                                           
+Animation 89: FadeOut(VGroup of 2 submobjects):   0%|          | 0/32 [00:00<?, ?it/s]Animation 89: FadeOut(VGroup of 2 submobjects):  12%|#2        | 4/32 [00:00<00:00, 28.92it/s]Animation 89: FadeOut(VGroup of 2 submobjects):  31%|###1      | 10/32 [00:00<00:00, 38.91it/s]Animation 89: FadeOut(VGroup of 2 submobjects):  44%|####3     | 14/32 [00:00<00:00, 33.96it/s]Animation 89: FadeOut(VGroup of 2 submobjects):  62%|######2   | 20/32 [00:00<00:00, 40.27it/s]Animation 89: FadeOut(VGroup of 2 submobjects):  78%|#######8  | 25/32 [00:00<00:00, 41.71it/s]Animation 89: FadeOut(VGroup of 2 submobjects):  94%|#########3| 30/32 [00:00<00:00, 39.04it/s]                                                                                               [09/16/26 13:28:00] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_2111812528_24527894                         
+                             24.mp4'                                           
+Animation 90: Write(Text('Thank You for Watching!')):   0%|          | 0/56 [00:00<?, ?it/s]Animation 90: Write(Text('Thank You for Watching!')):  43%|####2     | 24/56 [00:00<00:00, 235.61it/s]Animation 90: Write(Text('Thank You for Watching!')):  86%|########5 | 48/56 [00:00<00:00, 218.51it/s]                                                                                                      [09/16/26 13:28:01] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_1270505432_83829656                         
+                             .mp4'                                             
+Animation 91: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/37 [00:00<?, ?it/s]Animation 91: FadeIn(Text('See you in the next lesson :)')):  68%|######7   | 25/37 [00:00<00:00, 231.51it/s]                                                                                                                                 INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4244975346_21633885                         
+                             94.mp4'                                           
+Animation 92: Circumscribe(Group):   0%|          | 0/18 [00:00<?, ?it/s]                                                                         [09/16/26 13:28:02] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_4085158857_19797105                         
+                             09.mp4'                                           
+                    INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Com                         
+                             mutative-Property-Swap-Te                         
+                             st\media\videos\commutati                         
+                             ve_property_story\360p30\                         
+                             partial_movie_files\Commu                         
+                             tativePropertyStory\14900                         
+                             07039_499328632_159315293                         
+                             9.mp4'                                            
+[real SRT written] D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Commutative-Property-Swap-Test\media\videos\commutative_property_story\CommutativePropertyStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[09/16/26 13:28:11] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\Manim-Short-Videos\S                          
+                             tory-Mode-Manim-Videos\C                          
+                             ommutative-Property-Swap                          
+                             -Test\media\videos\commu                          
+                             tative_property_story\36                          
+                             0p30\CommutativeProperty                          
+                             Story.mp4'                                        
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 89                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered CommutativePropertyStory     scene.py:290
+                             Played 94 animations                              
