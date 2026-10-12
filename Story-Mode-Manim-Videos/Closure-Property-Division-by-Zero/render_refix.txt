@@ -1,0 +1,985 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/16/26 13:24:56] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[09/16/26 13:24:58] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1583504468                         
+                             _3530419371_766579749.mp4                         
+                             '                                                 
+Animation 1: Write(Text('Closure Property')):   0%|          | 0/73 [00:00<?, ?it/s]Animation 1: Write(Text('Closure Property')):  29%|##8       | 21/73 [00:00<00:00, 205.51it/s]Animation 1: Write(Text('Closure Property')):  58%|#####7    | 42/73 [00:00<00:00, 198.87it/s]Animation 1: Write(Text('Closure Property')):  86%|########6 | 63/73 [00:00<00:00, 201.07it/s]                                                                                              [09/16/26 13:24:59] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1044647627_2993819204.mp                         
+                             4'                                                
+Animation 2: Write(Text("The 'Division by Zero' Trap")):   0%|          | 0/90 [00:00<?, ?it/s]Animation 2: Write(Text("The 'Division by Zero' Trap")):  20%|##        | 18/90 [00:00<00:00, 178.00it/s]Animation 2: Write(Text("The 'Division by Zero' Trap")):  40%|####      | 36/90 [00:00<00:00, 123.56it/s]Animation 2: Write(Text("The 'Division by Zero' Trap")):  62%|######2   | 56/90 [00:00<00:00, 149.84it/s]Animation 2: Write(Text("The 'Division by Zero' Trap")):  81%|########1 | 73/90 [00:00<00:00, 152.51it/s]Animation 2: Write(Text("The 'Division by Zero' Trap")): 100%|##########| 90/90 [00:00<00:00, 155.78it/s]                                                                                                         [09/16/26 13:25:00] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2043806568_3434100560.mp                         
+                             4'                                                
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_3436703521.mp                         
+                             4'                                                
+Animation 4: Write(Text("What does 'closed' mean?")):   0%|          | 0/87 [00:00<?, ?it/s]Animation 4: Write(Text("What does 'closed' mean?")):  25%|##5       | 22/87 [00:00<00:00, 217.00it/s]Animation 4: Write(Text("What does 'closed' mean?")):  51%|#####     | 44/87 [00:00<00:00, 216.62it/s]Animation 4: Write(Text("What does 'closed' mean?")):  76%|#######5  | 66/87 [00:00<00:00, 189.25it/s]Animation 4: Write(Text("What does 'closed' mean?")):  99%|#########8| 86/87 [00:00<00:00, 174.23it/s]                                                                                                      [09/16/26 13:25:01] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3730345337_3527661392.mp                         
+                             4'                                                
+Animation 5: Create(RoundedRectangle), etc.:   0%|          | 0/78 [00:00<?, ?it/s]Animation 5: Create(RoundedRectangle), etc.:  79%|#######9  | 62/78 [00:00<00:00, 609.43it/s]                                                                                             [09/16/26 13:25:02] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1441159313_320568195.mp4                         
+                             '                                                 
+Animation 6: FadeIn(MathTex('\\frac23')), etc.:   0%|          | 0/149 [00:00<?, ?it/s]Animation 6: FadeIn(MathTex('\\frac23')), etc.:  26%|##5       | 38/149 [00:00<00:00, 373.52it/s]Animation 6: FadeIn(MathTex('\\frac23')), etc.:  51%|#####1    | 76/149 [00:00<00:00, 344.45it/s]Animation 6: FadeIn(MathTex('\\frac23')), etc.:  74%|#######4  | 111/149 [00:00<00:00, 308.05it/s]Animation 6: FadeIn(MathTex('\\frac23')), etc.:  96%|#########5| 143/149 [00:00<00:00, 288.66it/s]                                                                                                  [09/16/26 13:25:03] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2244948577_648615836.mp4                         
+                             '                                                 
+Animation 7: GrowArrow(Arrow), etc.:   0%|          | 0/74 [00:00<?, ?it/s]Animation 7: GrowArrow(Arrow), etc.:  23%|##2       | 17/74 [00:00<00:00, 163.57it/s]Animation 7: GrowArrow(Arrow), etc.:  46%|####5     | 34/74 [00:00<00:00, 123.08it/s]Animation 7: GrowArrow(Arrow), etc.:  70%|#######   | 52/74 [00:00<00:00, 142.74it/s]Animation 7: GrowArrow(Arrow), etc.:  91%|######### | 67/74 [00:00<00:00, 138.58it/s]                                                                                     [09/16/26 13:25:04] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2709577073_1687372454.mp                         
+                             4'                                                
+[09/16/26 13:25:05] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_22361530.mp4'                         
+Animation 9: Create(VGroup of 2 submobjects):   0%|          | 0/70 [00:00<?, ?it/s]                                                                                                        INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3860159042_3527661392.mp                         
+                             4'                                                
+Animation 10: FadeIn(MathTex('2')), etc.:   0%|          | 0/137 [00:00<?, ?it/s]Animation 10: FadeIn(MathTex('2')), etc.:  24%|##4       | 33/137 [00:00<00:00, 326.85it/s]Animation 10: FadeIn(MathTex('2')), etc.:  48%|####8     | 66/137 [00:00<00:00, 308.26it/s]Animation 10: FadeIn(MathTex('2')), etc.:  71%|#######   | 97/137 [00:00<00:00, 297.86it/s]Animation 10: FadeIn(MathTex('2')), etc.:  93%|#########2| 127/137 [00:00<00:00, 277.65it/s]                                                                                            [09/16/26 13:25:06] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3093732050_54416051.mp4'                         
+Animation 11: ReplacementTransform(MathTex('?')), etc.:   0%|          | 0/61 [00:00<?, ?it/s]Animation 11: ReplacementTransform(MathTex('?')), etc.:  52%|#####2    | 32/61 [00:00<00:00, 309.86it/s]                                                                                                        [09/16/26 13:25:07] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _416117686_416774624.mp4'                         
+Animation 12: Create(RoundedRectangle), etc.:   0%|          | 0/85 [00:00<?, ?it/s]Animation 12: Create(RoundedRectangle), etc.:  45%|####4     | 38/85 [00:00<00:00, 371.02it/s]Animation 12: Create(RoundedRectangle), etc.:  89%|########9 | 76/85 [00:00<00:00, 364.28it/s]                                                                                                                  INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _4211468444_528963171.mp4                         
+                             '                                                 
+Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:   0%|          | 0/110 [00:00<?, ?it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  12%|#1        | 13/110 [00:00<00:00, 128.56it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  27%|##7       | 30/110 [00:00<00:00, 151.48it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  42%|####1     | 46/110 [00:00<00:00, 120.47it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  54%|#####3    | 59/110 [00:00<00:00, 112.11it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  65%|######4   | 71/110 [00:00<00:00, 113.67it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  75%|#######5  | 83/110 [00:00<00:00, 109.30it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  86%|########6 | 95/110 [00:00<00:00, 101.22it/s]Animation 13: FadeIn(Text('Closure = the result stays in the same set!')), etc.:  98%|#########8| 108/110 [00:00<00:00, 107.66it/s]                                                                                                                                   [09/16/26 13:25:09] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _201302104_2586547459.mp4                         
+                             '                                                 
+                    INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_2717455221.mp                         
+                             4'                                                
+Animation 15: Write(MathTex('2+3=5')):   0%|          | 0/129 [00:00<?, ?it/s]Animation 15: Write(MathTex('2+3=5')):  38%|###7      | 49/129 [00:00<00:00, 484.16it/s]Animation 15: Write(MathTex('2+3=5')):  76%|#######5  | 98/129 [00:00<00:00, 450.09it/s]                                                                                        [09/16/26 13:25:10] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2103608542_3527661392.mp                         
+                             4'                                                
+Animation 16: Create(RoundedRectangle), etc.:   0%|          | 0/161 [00:00<?, ?it/s]Animation 16: Create(RoundedRectangle), etc.:  27%|##6       | 43/161 [00:00<00:00, 425.15it/s]Animation 16: Create(RoundedRectangle), etc.:  53%|#####3    | 86/161 [00:00<00:00, 419.21it/s]Animation 16: Create(RoundedRectangle), etc.:  80%|#######9  | 128/161 [00:00<00:00, 364.87it/s]                                                                                                [09/16/26 13:25:11] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2400167507_3416058096.mp                         
+                             4'                                                
+Animation 17: Write(MathTex('a,b\\in S\\ \\Rightarrow\\ a\\star b\\in S')):   0%|          | 0/146 [00:00<?, ?it/s]Animation 17: Write(MathTex('a,b\\in S\\ \\Rightarrow\\ a\\star b\\in S')):  16%|#5        | 23/146 [00:00<00:00, 225.59it/s]Animation 17: Write(MathTex('a,b\\in S\\ \\Rightarrow\\ a\\star b\\in S')):  32%|###1      | 46/146 [00:00<00:00, 188.29it/s]Animation 17: Write(MathTex('a,b\\in S\\ \\Rightarrow\\ a\\star b\\in S')):  53%|#####2    | 77/146 [00:00<00:00, 237.77it/s]Animation 17: Write(MathTex('a,b\\in S\\ \\Rightarrow\\ a\\star b\\in S')):  70%|######9   | 102/146 [00:00<00:00, 242.01it/s]Animation 17: Write(MathTex('a,b\\in S\\ \\Rightarrow\\ a\\star b\\in S')):  87%|########6 | 127/146 [00:00<00:00, 226.58it/s]                                                                                                                              [09/16/26 13:25:12] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2501943297_2184128836.mp                         
+                             4'                                                
+Animation 18: FadeIn(Text('Closed under that operation')):   0%|          | 0/99 [00:00<?, ?it/s]Animation 18: FadeIn(Text('Closed under that operation')):   9%|9         | 9/99 [00:00<00:01, 85.57it/s]Animation 18: FadeIn(Text('Closed under that operation')):  22%|##2       | 22/99 [00:00<00:00, 110.55it/s]Animation 18: FadeIn(Text('Closed under that operation')):  43%|####3     | 43/99 [00:00<00:00, 153.12it/s]Animation 18: FadeIn(Text('Closed under that operation')):  63%|######2   | 62/99 [00:00<00:00, 163.10it/s]Animation 18: FadeIn(Text('Closed under that operation')):  82%|########1 | 81/99 [00:00<00:00, 170.18it/s]Animation 18: FadeIn(Text('Closed under that operation')): 100%|##########| 99/99 [00:00<00:00, 168.30it/s]                                                                                                           [09/16/26 13:25:13] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3771066500_399582502.mp4                         
+                             '                                                 
+Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   0%|          | 0/236 [00:00<?, ?it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   1%|          | 2/236 [00:00<00:20, 11.26it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   2%|1         | 4/236 [00:00<00:23,  9.71it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   3%|2         | 6/236 [00:00<00:21, 10.57it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   3%|3         | 8/236 [00:00<00:22, 10.33it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   4%|4         | 10/236 [00:01<00:25,  8.95it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   5%|5         | 12/236 [00:01<00:22,  9.75it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   6%|5         | 14/236 [00:01<00:21, 10.13it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   7%|6         | 16/236 [00:01<00:23,  9.23it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   7%|7         | 17/236 [00:01<00:23,  9.13it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   8%|8         | 19/236 [00:01<00:21,  9.93it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:   9%|8         | 21/236 [00:02<00:19, 10.80it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  10%|9         | 23/236 [00:02<00:23,  9.08it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  11%|#         | 25/236 [00:02<00:21,  9.76it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  11%|#1        | 27/236 [00:02<00:25,  8.22it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  12%|#2        | 29/236 [00:03<00:24,  8.30it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  13%|#3        | 31/236 [00:03<00:22,  9.04it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  14%|#3        | 33/236 [00:03<00:20,  9.96it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  15%|#4        | 35/236 [00:03<00:19, 10.58it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  16%|#5        | 37/236 [00:03<00:18, 10.85it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  17%|#6        | 39/236 [00:04<00:19, 10.09it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  17%|#7        | 41/236 [00:04<00:18, 10.28it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  18%|#8        | 43/236 [00:04<00:19,  9.96it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  19%|#9        | 45/236 [00:04<00:18, 10.12it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  20%|#9        | 47/236 [00:04<00:17, 10.74it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  21%|##        | 49/236 [00:04<00:17, 10.87it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  22%|##1       | 51/236 [00:05<00:17, 10.47it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  22%|##2       | 53/236 [00:05<00:19,  9.43it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  23%|##3       | 55/236 [00:05<00:18,  9.65it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  24%|##3       | 56/236 [00:05<00:19,  9.29it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  25%|##4       | 58/236 [00:05<00:17, 10.23it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  25%|##5       | 60/236 [00:06<00:17, 10.33it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  26%|##6       | 62/236 [00:06<00:17, 10.10it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  27%|##7       | 64/236 [00:06<00:17,  9.87it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  28%|##7       | 66/236 [00:06<00:16, 10.44it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  29%|##8       | 68/236 [00:06<00:14, 11.23it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  30%|##9       | 70/236 [00:06<00:14, 11.34it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  31%|###       | 72/236 [00:07<00:16, 10.03it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  31%|###1      | 74/236 [00:07<00:18,  8.71it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  32%|###2      | 76/236 [00:07<00:16,  9.63it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  33%|###3      | 78/236 [00:07<00:16,  9.66it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  34%|###3      | 80/236 [00:08<00:15, 10.37it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  35%|###4      | 82/236 [00:08<00:14, 10.64it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  36%|###5      | 84/236 [00:08<00:13, 11.51it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  36%|###6      | 86/236 [00:08<00:12, 11.59it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  37%|###7      | 88/236 [00:08<00:13, 10.87it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  38%|###8      | 90/236 [00:08<00:12, 11.52it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  39%|###8      | 92/236 [00:09<00:13, 10.39it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  40%|###9      | 94/236 [00:09<00:13, 10.17it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  41%|####      | 96/236 [00:09<00:13, 10.08it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  42%|####1     | 98/236 [00:09<00:14,  9.77it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  42%|####2     | 100/236 [00:09<00:13, 10.38it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  43%|####3     | 102/236 [00:10<00:12, 10.96it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  44%|####4     | 104/236 [00:10<00:11, 11.94it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  45%|####4     | 106/236 [00:10<00:10, 12.11it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  46%|####5     | 108/236 [00:10<00:10, 12.49it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  47%|####6     | 110/236 [00:10<00:10, 12.58it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  47%|####7     | 112/236 [00:10<00:10, 12.03it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  48%|####8     | 114/236 [00:11<00:09, 12.21it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  49%|####9     | 116/236 [00:11<00:09, 12.32it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  50%|#####     | 118/236 [00:11<00:09, 12.52it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  51%|#####     | 120/236 [00:11<00:09, 11.61it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  52%|#####1    | 122/236 [00:11<00:10, 10.80it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  53%|#####2    | 124/236 [00:11<00:10, 10.24it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  53%|#####3    | 126/236 [00:12<00:09, 11.06it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  54%|#####4    | 128/236 [00:12<00:10, 10.52it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  55%|#####5    | 130/236 [00:12<00:10, 10.33it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  56%|#####5    | 132/236 [00:12<00:09, 10.43it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  57%|#####6    | 134/236 [00:12<00:08, 11.57it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  58%|#####7    | 136/236 [00:13<00:08, 11.94it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  58%|#####8    | 138/236 [00:13<00:08, 11.51it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  59%|#####9    | 140/236 [00:13<00:08, 11.14it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  60%|######    | 142/236 [00:13<00:09, 10.18it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  61%|######1   | 144/236 [00:13<00:08, 10.22it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  62%|######1   | 146/236 [00:13<00:08, 11.16it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  63%|######2   | 148/236 [00:14<00:08, 10.72it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  64%|######3   | 150/236 [00:14<00:08, 10.40it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  64%|######4   | 152/236 [00:14<00:07, 11.10it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  65%|######5   | 154/236 [00:14<00:07, 10.90it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  66%|######6   | 156/236 [00:14<00:07, 10.77it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  67%|######6   | 158/236 [00:15<00:06, 11.48it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  68%|######7   | 160/236 [00:15<00:06, 11.96it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  69%|######8   | 162/236 [00:15<00:06, 11.62it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  69%|######9   | 164/236 [00:15<00:06, 11.67it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  70%|#######   | 166/236 [00:15<00:06, 10.75it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  71%|#######1  | 168/236 [00:15<00:06, 11.03it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  72%|#######2  | 170/236 [00:16<00:06, 10.35it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  73%|#######2  | 172/236 [00:16<00:06, 10.43it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  74%|#######3  | 174/236 [00:16<00:05, 10.45it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  75%|#######4  | 176/236 [00:16<00:05, 10.42it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  75%|#######5  | 178/236 [00:16<00:05, 10.66it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  76%|#######6  | 180/236 [00:17<00:04, 11.25it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  77%|#######7  | 182/236 [00:17<00:04, 10.92it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  78%|#######7  | 184/236 [00:17<00:04, 10.90it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  79%|#######8  | 186/236 [00:17<00:04, 11.00it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  80%|#######9  | 188/236 [00:17<00:04, 11.52it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  81%|########  | 190/236 [00:18<00:04, 10.23it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  81%|########1 | 192/236 [00:18<00:04, 10.26it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  82%|########2 | 194/236 [00:18<00:04, 10.32it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  83%|########3 | 196/236 [00:18<00:03, 11.37it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  84%|########3 | 198/236 [00:18<00:03, 10.81it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  85%|########4 | 200/236 [00:18<00:03, 11.16it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  86%|########5 | 202/236 [00:19<00:03, 11.05it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  86%|########6 | 204/236 [00:19<00:02, 10.84it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  87%|########7 | 206/236 [00:19<00:02, 11.82it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  88%|########8 | 208/236 [00:19<00:02, 12.31it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  89%|########8 | 210/236 [00:19<00:02, 12.11it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  90%|########9 | 212/236 [00:20<00:02, 10.59it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  91%|######### | 214/236 [00:20<00:02,  9.90it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  92%|#########1| 216/236 [00:20<00:02,  9.40it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  92%|#########1| 217/236 [00:20<00:02,  9.17it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  93%|#########2| 219/236 [00:20<00:01, 10.13it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  94%|#########3| 221/236 [00:20<00:01, 10.81it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  94%|#########4| 223/236 [00:21<00:01, 11.63it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  95%|#########5| 225/236 [00:21<00:00, 11.32it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  96%|#########6| 227/236 [00:21<00:00, 11.00it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  97%|#########7| 229/236 [00:21<00:00, 11.39it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  98%|#########7| 231/236 [00:21<00:00, 11.30it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.:  99%|#########8| 233/236 [00:21<00:00, 11.35it/s]Animation 19: ReplacementTransform(Text('Closed under that operation')), etc.: 100%|#########9| 235/236 [00:22<00:00, 10.60it/s]                                                                                                                                [09/16/26 13:25:41] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _611385075_2917311729.mp4                         
+                             '                                                 
+Animation 20: FadeIn(Text("Both must hold -- that's closure!")):   0%|          | 0/88 [00:00<?, ?it/s]Animation 20: FadeIn(Text("Both must hold -- that's closure!")):  26%|##6       | 23/88 [00:00<00:00, 208.47it/s]Animation 20: FadeIn(Text("Both must hold -- that's closure!")):  50%|#####     | 44/88 [00:00<00:00, 151.24it/s]Animation 20: FadeIn(Text("Both must hold -- that's closure!")):  68%|######8   | 60/88 [00:00<00:00, 148.48it/s]Animation 20: FadeIn(Text("Both must hold -- that's closure!")):  89%|########8 | 78/88 [00:00<00:00, 158.46it/s]                                                                                                                 [09/16/26 13:25:42] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1644770336_3995798359.mp                         
+                             4'                                                
+                    INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_1819969597.mp                         
+                             4'                                                
+Animation 22: Create(RoundedRectangle), etc.:   0%|          | 0/75 [00:00<?, ?it/s]Animation 22: Create(RoundedRectangle), etc.:  76%|#######6  | 57/75 [00:00<00:00, 565.31it/s]                                                                                              [09/16/26 13:25:43] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2299355379_3527661392.mp                         
+                             4'                                                
+Animation 23: FadeIn(VGroup of 2 submobjects):   0%|          | 0/147 [00:00<?, ?it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  13%|#2        | 19/147 [00:00<00:00, 189.56it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  27%|##7       | 40/147 [00:00<00:00, 198.44it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  41%|####      | 60/147 [00:00<00:00, 197.34it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  57%|#####7    | 84/147 [00:00<00:00, 211.78it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  72%|#######2  | 106/147 [00:00<00:00, 213.81it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  87%|########7 | 128/147 [00:00<00:00, 212.34it/s]                                                                                                 [09/16/26 13:25:44] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _386967121_2467503033.mp4                         
+                             '                                                 
+Animation 24: FadeIn(Text('(rational)')):   0%|          | 0/62 [00:00<?, ?it/s]Animation 24: FadeIn(Text('(rational)')):  69%|######9   | 43/62 [00:00<00:00, 422.67it/s]                                                                                                              INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _777237831_2858808632.mp4                         
+                             '                                                 
+Animation 25: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/157 [00:00<?, ?it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  10%|9         | 15/157 [00:00<00:01, 140.52it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  19%|#9        | 30/157 [00:00<00:01, 90.96it/s] Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  27%|##6       | 42/157 [00:00<00:01, 99.26it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  34%|###4      | 54/157 [00:00<00:00, 105.40it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  43%|####2     | 67/157 [00:00<00:00, 112.54it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  50%|#####     | 79/157 [00:00<00:00, 110.25it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  59%|#####8    | 92/157 [00:00<00:00, 116.08it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  66%|######6   | 104/157 [00:00<00:00, 111.63it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  74%|#######3  | 116/157 [00:01<00:00, 106.92it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  82%|########2 | 129/157 [00:01<00:00, 111.18it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  90%|######### | 142/157 [00:01<00:00, 115.19it/s]Animation 25: FadeOut(VGroup of 2 submobjects), etc.:  98%|#########8| 154/157 [00:01<00:00, 111.91it/s]                                                                                                        [09/16/26 13:25:46] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2443653020_2825912478.mp                         
+                             4'                                                
+Animation 26: FadeIn(Text('(rational)')):   0%|          | 0/67 [00:00<?, ?it/s]Animation 26: FadeIn(Text('(rational)')):  43%|####3     | 29/67 [00:00<00:00, 286.66it/s]Animation 26: FadeIn(Text('(rational)')):  87%|########6 | 58/67 [00:00<00:00, 263.92it/s]                                                                                          [09/16/26 13:25:47] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2519934762_3565211087.mp                         
+                             4'                                                
+Animation 27: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/131 [00:00<?, ?it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:   8%|7         | 10/131 [00:00<00:01, 99.91it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  20%|#9        | 26/131 [00:00<00:00, 132.46it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  31%|###       | 40/131 [00:00<00:00, 117.47it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  40%|###9      | 52/131 [00:00<00:00, 109.19it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  49%|####8     | 64/131 [00:00<00:00, 111.05it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  59%|#####8    | 77/131 [00:00<00:00, 115.56it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  68%|######7   | 89/131 [00:00<00:00, 101.97it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  76%|#######6  | 100/131 [00:00<00:00, 93.39it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  84%|########3 | 110/131 [00:01<00:00, 91.48it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  92%|#########1| 120/131 [00:01<00:00, 91.21it/s]Animation 27: FadeOut(VGroup of 2 submobjects), etc.:  99%|#########9| 130/131 [00:01<00:00, 88.12it/s]                                                                                                       [09/16/26 13:25:49] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _153334498_2825912478.mp4                         
+                             '                                                 
+Animation 28: FadeIn(Text('(rational)')):   0%|          | 0/57 [00:00<?, ?it/s]Animation 28: FadeIn(Text('(rational)')):  49%|####9     | 28/57 [00:00<00:00, 279.97it/s]                                                                                                              INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _212559266_3095606513.mp4                         
+                             '                                                 
+Animation 29: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/134 [00:00<?, ?it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:   8%|8         | 11/134 [00:00<00:01, 105.81it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  16%|#6        | 22/134 [00:00<00:01, 103.08it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  25%|##4       | 33/134 [00:00<00:00, 104.53it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  33%|###2      | 44/134 [00:00<00:00, 96.99it/s] Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  40%|####      | 54/134 [00:00<00:00, 89.57it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  48%|####7     | 64/134 [00:00<00:00, 81.08it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  54%|#####4    | 73/134 [00:00<00:00, 82.88it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  61%|######1   | 82/134 [00:00<00:00, 75.04it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  68%|######7   | 91/134 [00:01<00:00, 74.63it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  74%|#######3  | 99/134 [00:01<00:00, 73.98it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  80%|#######9  | 107/134 [00:01<00:00, 70.68it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  86%|########5 | 115/134 [00:01<00:00, 69.52it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  93%|#########2| 124/134 [00:01<00:00, 74.42it/s]Animation 29: FadeOut(VGroup of 2 submobjects), etc.:  99%|#########9| 133/134 [00:01<00:00, 76.20it/s]                                                                                                       [09/16/26 13:25:52] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1644326124_2825912478.mp                         
+                             4'                                                
+                    INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_599873458.mp4                         
+                             '                                                 
+Animation 31: Write(Text('Division')):   0%|          | 0/51 [00:00<?, ?it/s]Animation 31: Write(Text('Division')):  86%|########6 | 44/51 [00:00<00:00, 430.53it/s]                                                                                       [09/16/26 13:25:53] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _988497971_3527661392.mp4                         
+                             '                                                 
+Animation 32: Write(MathTex('\\frac23\\div\\frac78')):   0%|          | 0/68 [00:00<?, ?it/s]Animation 32: Write(MathTex('\\frac23\\div\\frac78')):  63%|######3   | 43/68 [00:00<00:00, 413.73it/s]                                                                                                                           INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _80597790_2403524660.mp4'                         
+Animation 33: ReplacementTransform(MathTex('\\frac23\\div\\frac78')):   0%|          | 0/102 [00:00<?, ?it/s]Animation 33: ReplacementTransform(MathTex('\\frac23\\div\\frac78')):  53%|#####2    | 54/102 [00:00<00:00, 539.54it/s]                                                                                                                       [09/16/26 13:25:54] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2091269360_3795620306.mp                         
+                             4'                                                
+Animation 34: Write(MathTex('=\\ \\frac{16}{21}')):   0%|          | 0/124 [00:00<?, ?it/s]Animation 34: Write(MathTex('=\\ \\frac{16}{21}')):  46%|####5     | 57/124 [00:00<00:00, 564.97it/s]Animation 34: Write(MathTex('=\\ \\frac{16}{21}')):  92%|#########1| 114/124 [00:00<00:00, 425.91it/s]                                                                                                      [09/16/26 13:25:55] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1709613274_2570117095.mp                         
+                             4'                                                
+Animation 35: FadeIn(Text('still rational!')):   0%|          | 0/131 [00:00<?, ?it/s]Animation 35: FadeIn(Text('still rational!')):  19%|#9        | 25/131 [00:00<00:00, 235.15it/s]Animation 35: FadeIn(Text('still rational!')):  37%|###7      | 49/131 [00:00<00:00, 231.75it/s]Animation 35: FadeIn(Text('still rational!')):  59%|#####8    | 77/131 [00:00<00:00, 249.67it/s]Animation 35: FadeIn(Text('still rational!')):  81%|########  | 106/131 [00:00<00:00, 262.12it/s]                                                                                                 [09/16/26 13:25:56] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3761542904_1172624511.mp                         
+                             4'                                                
+Animation 36: FadeOut(Text('still rational!')), etc.:   0%|          | 0/56 [00:00<?, ?it/s]Animation 36: FadeOut(Text('still rational!')), etc.:  30%|###       | 17/56 [00:00<00:00, 155.11it/s]Animation 36: FadeOut(Text('still rational!')), etc.:  61%|######    | 34/56 [00:00<00:00, 163.22it/s]                                                                                                                          INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2660147562_28331639.mp4'                         
+                    INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_2106767395.mp                         
+                             4'                                                
+Animation 38: Write(MathTex('5\\div0')):   0%|          | 0/69 [00:00<?, ?it/s]Animation 38: Write(MathTex('5\\div0')):  70%|######9   | 48/69 [00:00<00:00, 479.49it/s]                                                                                         [09/16/26 13:25:57] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _246549046_3527661392.mp4                         
+                             '                                                 
+Animation 39: ReplacementTransform(MathTex('5\\div0')), etc.:   0%|          | 0/78 [00:00<?, ?it/s]Animation 39: ReplacementTransform(MathTex('5\\div0')), etc.:  40%|###9      | 31/78 [00:00<00:00, 303.23it/s]Animation 39: ReplacementTransform(MathTex('5\\div0')), etc.:  92%|#########2| 72/78 [00:00<00:00, 364.97it/s]                                                                                                              [09/16/26 13:25:58] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2229760050_3811198032.mp                         
+                             4'                                                
+Animation 40: FadeIn(Text('(X)')), etc.:   0%|          | 0/97 [00:00<?, ?it/s]Animation 40: FadeIn(Text('(X)')), etc.:  54%|#####3    | 52/97 [00:00<00:00, 515.99it/s]                                                                                                             INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3066138038_144659346.mp4                         
+                             '                                                 
+Animation 41: GrowArrow(Arrow), etc.:   0%|          | 0/65 [00:00<?, ?it/s]Animation 41: GrowArrow(Arrow), etc.:  35%|###5      | 23/65 [00:00<00:00, 224.34it/s]Animation 41: GrowArrow(Arrow), etc.:  71%|#######   | 46/65 [00:00<00:00, 158.41it/s]Animation 41: GrowArrow(Arrow), etc.:  97%|#########6| 63/65 [00:00<00:00, 150.49it/s]                                                                                      [09/16/26 13:25:59] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _59240577_1745996802.mp4'                         
+Animation 42: FadeIn(Text('Undefined -- no quotient.')):   0%|          | 0/124 [00:00<?, ?it/s]Animation 42: FadeIn(Text('Undefined -- no quotient.')):  15%|#4        | 18/124 [00:00<00:00, 176.24it/s]Animation 42: FadeIn(Text('Undefined -- no quotient.')):  30%|##9       | 37/124 [00:00<00:00, 181.92it/s]Animation 42: FadeIn(Text('Undefined -- no quotient.')):  45%|####5     | 56/124 [00:00<00:00, 183.99it/s]Animation 42: FadeIn(Text('Undefined -- no quotient.')):  60%|######    | 75/124 [00:00<00:00, 177.19it/s]Animation 42: FadeIn(Text('Undefined -- no quotient.')):  76%|#######5  | 94/124 [00:00<00:00, 178.86it/s]Animation 42: FadeIn(Text('Undefined -- no quotient.')):  91%|#########1| 113/124 [00:00<00:00, 180.30it/s]                                                                                                           [09/16/26 13:26:00] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3110839937_3240619210.mp                         
+                             4'                                                
+[09/16/26 13:26:01] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_3676576373.mp                         
+                             4'                                                
+Animation 44: Write(MathTex('5\\div0=\\ ?')):   0%|          | 0/66 [00:00<?, ?it/s]Animation 44: Write(MathTex('5\\div0=\\ ?')):  91%|######### | 60/66 [00:00<00:00, 590.16it/s]                                                                                                                  INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _4091026220_3527661392.mp                         
+                             4'                                                
+Animation 45: ReplacementTransform(MathTex('5\\div0=\\ ?')):   0%|          | 0/150 [00:00<?, ?it/s]Animation 45: ReplacementTransform(MathTex('5\\div0=\\ ?')):  31%|###1      | 47/150 [00:00<00:00, 466.41it/s]Animation 45: ReplacementTransform(MathTex('5\\div0=\\ ?')):  65%|######4   | 97/150 [00:00<00:00, 483.98it/s]Animation 45: ReplacementTransform(MathTex('5\\div0=\\ ?')):  99%|#########9| 149/150 [00:00<00:00, 497.93it/s]                                                                                                               [09/16/26 13:26:02] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1957892448_3968052265.mp                         
+                             4'                                                
+Animation 46: Write(MathTex('0\\times x=0')):   0%|          | 0/105 [00:00<?, ?it/s]Animation 46: Write(MathTex('0\\times x=0')):  57%|#####7    | 60/105 [00:00<00:00, 590.68it/s]                                                                                               [09/16/26 13:26:03] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3753806086_4293014901.mp                         
+                             4'                                                
+Animation 47: LaggedStart(Group):   0%|          | 0/186 [00:00<?, ?it/s]Animation 47: LaggedStart(Group):   9%|9         | 17/186 [00:00<00:01, 164.09it/s]Animation 47: LaggedStart(Group):  26%|##5       | 48/186 [00:00<00:00, 247.79it/s]Animation 47: LaggedStart(Group):  39%|###9      | 73/186 [00:00<00:00, 230.61it/s]Animation 47: LaggedStart(Group):  52%|#####2    | 97/186 [00:00<00:00, 229.59it/s]Animation 47: LaggedStart(Group):  65%|######5   | 121/186 [00:00<00:00, 217.07it/s]Animation 47: LaggedStart(Group):  77%|#######6  | 143/186 [00:00<00:00, 217.95it/s]Animation 47: LaggedStart(Group):  89%|########8 | 165/186 [00:00<00:00, 214.96it/s]                                                                                    [09/16/26 13:26:04] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3248633406_3072792478.mp                         
+                             4'                                                
+Animation 48: Write(MathTex('0\\times x\\neq5')):   0%|          | 0/123 [00:00<?, ?it/s]Animation 48: Write(MathTex('0\\times x\\neq5')):  41%|####1     | 51/123 [00:00<00:00, 493.86it/s]Animation 48: Write(MathTex('0\\times x\\neq5')):  82%|########2 | 101/123 [00:00<00:00, 393.57it/s]                                                                                                    [09/16/26 13:26:05] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3736167024_2788116995.mp                         
+                             4'                                                
+Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):   0%|          | 0/75 [00:00<?, ?it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  12%|#2        | 9/75 [00:00<00:00, 83.46it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  24%|##4       | 18/75 [00:00<00:00, 75.71it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  35%|###4      | 26/75 [00:00<00:00, 62.44it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  44%|####4     | 33/75 [00:00<00:00, 64.76it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  53%|#####3    | 40/75 [00:00<00:00, 65.57it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  63%|######2   | 47/75 [00:00<00:00, 64.42it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  72%|#######2  | 54/75 [00:00<00:00, 62.67it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  81%|########1 | 61/75 [00:00<00:00, 54.39it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')):  91%|######### | 68/75 [00:01<00:00, 56.21it/s]Animation 49: ReplacementTransform(MathTex('0\\times x\\neq5')): 100%|##########| 75/75 [00:01<00:00, 57.39it/s]                                                                                                                [09/16/26 13:26:07] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1437795261_2674767695.mp                         
+                             4'                                                
+                    INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_386876856.mp4                         
+                             '                                                 
+Animation 51: Write(Text('YOUR TURN')):   0%|          | 0/43 [00:00<?, ?it/s]Animation 51: Write(Text('YOUR TURN')):  86%|########6 | 37/43 [00:00<00:00, 350.81it/s]                                                                                        [09/16/26 13:26:08] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2624246340_3527661392.mp                         
+                             4'                                                
+Animation 52: Create(RoundedRectangle), etc.:   0%|          | 0/165 [00:00<?, ?it/s]Animation 52: Create(RoundedRectangle), etc.:  13%|#2        | 21/165 [00:00<00:00, 208.72it/s]Animation 52: Create(RoundedRectangle), etc.:  33%|###2      | 54/165 [00:00<00:00, 276.32it/s]Animation 52: Create(RoundedRectangle), etc.:  50%|####9     | 82/165 [00:00<00:00, 273.43it/s]Animation 52: Create(RoundedRectangle), etc.:  67%|######6   | 110/165 [00:00<00:00, 275.54it/s]Animation 52: Create(RoundedRectangle), etc.:  87%|########7 | 144/165 [00:00<00:00, 294.56it/s]                                                                                                [09/16/26 13:26:09] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _80994172_3714559021.mp4'                         
+Animation 53: FadeIn(Text('Is division closed for rational numbers?')):   0%|          | 0/128 [00:00<?, ?it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  12%|#1        | 15/128 [00:00<00:00, 149.76it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  23%|##3       | 30/128 [00:00<00:00, 133.50it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  37%|###6      | 47/128 [00:00<00:00, 146.88it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  50%|#####     | 64/128 [00:00<00:00, 152.04it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  62%|######2   | 80/128 [00:00<00:00, 144.52it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  74%|#######4  | 95/128 [00:00<00:00, 131.56it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  85%|########5 | 109/128 [00:00<00:00, 121.16it/s]Animation 53: FadeIn(Text('Is division closed for rational numbers?')):  97%|#########6| 124/128 [00:00<00:00, 128.10it/s]                                                                                                                          [09/16/26 13:26:10] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2667170636_1763717231.mp                         
+                             4'                                                
+Animation 54: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                             [09/16/26 13:26:11] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1684683135_29351366.mp4'                         
+Animation 55: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2764462208_3896882714.mp                         
+                             4'                                                
+Animation 56: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3487265152_3896882714.mp                         
+                             4'                                                
+Animation 57: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:26:12] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _942705152_3896882714.mp4                         
+                             '                                                 
+Animation 58: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _129582501_3896882714.mp4                         
+                             '                                                 
+Animation 59: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:26:13] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3669973139_3896882714.mp                         
+                             4'                                                
+Animation 60: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2095799792_3896882714.mp                         
+                             4'                                                
+Animation 61: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3153700595_3896882714.mp                         
+                             4'                                                
+Animation 62: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:26:14] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _4218874578_3896882714.mp                         
+                             4'                                                
+Animation 63: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2098134936_3896882714.mp                         
+                             4'                                                
+Animation 64: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                      [09/16/26 13:26:15] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2843009625_3896882714.mp                         
+                             4'                                                
+Animation 65: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                  INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _2189426600_726974312.mp4                         
+                             '                                                 
+Animation 66: FadeOut(VGroup of 3 submobjects):   0%|          | 0/49 [00:00<?, ?it/s]Animation 66: FadeOut(VGroup of 3 submobjects):  31%|###       | 15/49 [00:00<00:00, 143.38it/s]Animation 66: FadeOut(VGroup of 3 submobjects):  61%|######1   | 30/49 [00:00<00:00, 127.50it/s]Animation 66: FadeOut(VGroup of 3 submobjects):  88%|########7 | 43/49 [00:00<00:00, 109.68it/s]                                                                                                [09/16/26 13:26:16] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3945007545_2876545004.mp                         
+                             4'                                                
+Animation 67: Write(VGroup of 2 submobjects):   0%|          | 0/113 [00:00<?, ?it/s]Animation 67: Write(VGroup of 2 submobjects):  16%|#5        | 18/113 [00:00<00:00, 173.17it/s]Animation 67: Write(VGroup of 2 submobjects):  32%|###1      | 36/113 [00:00<00:00, 162.34it/s]Animation 67: Write(VGroup of 2 submobjects):  52%|#####2    | 59/113 [00:00<00:00, 186.29it/s]Animation 67: Write(VGroup of 2 submobjects):  75%|#######5  | 85/113 [00:00<00:00, 210.74it/s]Animation 67: Write(VGroup of 2 submobjects):  96%|#########6| 109/113 [00:00<00:00, 220.18it/s]                                                                                                [09/16/26 13:26:17] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _891733676_842373219.mp4'                         
+Animation 68: Write(VGroup of 3 submobjects):   0%|          | 0/116 [00:00<?, ?it/s]Animation 68: Write(VGroup of 3 submobjects):  24%|##4       | 28/116 [00:00<00:00, 278.05it/s]Animation 68: Write(VGroup of 3 submobjects):  48%|####8     | 56/116 [00:00<00:00, 240.86it/s]Animation 68: Write(VGroup of 3 submobjects):  70%|######9   | 81/116 [00:00<00:00, 238.34it/s]Animation 68: Write(VGroup of 3 submobjects):  91%|######### | 105/116 [00:00<00:00, 228.34it/s]                                                                                                [09/16/26 13:26:18] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _1427673293_1847259968.mp                         
+                             4'                                                
+Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:   0%|          | 0/138 [00:00<?, ?it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:   9%|8         | 12/138 [00:00<00:01, 118.38it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  17%|#7        | 24/138 [00:00<00:01, 110.95it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  26%|##6       | 36/138 [00:00<00:00, 109.57it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  36%|###5      | 49/138 [00:00<00:00, 113.91it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  45%|####4     | 62/138 [00:00<00:00, 118.14it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  54%|#####4    | 75/138 [00:00<00:00, 120.08it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  64%|######3   | 88/138 [00:00<00:00, 118.89it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  72%|#######2  | 100/138 [00:00<00:00, 113.88it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  82%|########1 | 113/138 [00:00<00:00, 116.11it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  91%|######### | 125/138 [00:01<00:00, 112.64it/s]Animation 69: ReplacementTransform(Text('YOUR TURN')), etc.:  99%|#########9| 137/138 [00:01<00:00, 114.33it/s]                                                                                                               [09/16/26 13:26:20] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _4149409379_1049281538.mp                         
+                             4'                                                
+                    INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_2906730445.mp                         
+                             4'                                                
+Animation 71: Write(Text('Closure Under the Four Operations')):   0%|          | 0/70 [00:00<?, ?it/s]Animation 71: Write(Text('Closure Under the Four Operations')):  31%|###1      | 22/70 [00:00<00:00, 215.76it/s]Animation 71: Write(Text('Closure Under the Four Operations')):  63%|######2   | 44/70 [00:00<00:00, 133.92it/s]Animation 71: Write(Text('Closure Under the Four Operations')):  86%|########5 | 60/70 [00:00<00:00, 135.68it/s]                                                                                                                [09/16/26 13:26:21] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3413389689_3527661392.mp                         
+                             4'                                                
+Animation 72: LaggedStart(Group):   0%|          | 0/84 [00:00<?, ?it/s]Animation 72: LaggedStart(Group):  17%|#6        | 14/84 [00:00<00:00, 137.04it/s]Animation 72: LaggedStart(Group):  33%|###3      | 28/84 [00:00<00:00, 119.73it/s]Animation 72: LaggedStart(Group):  49%|####8     | 41/84 [00:00<00:00, 105.19it/s]Animation 72: LaggedStart(Group):  62%|######1   | 52/84 [00:00<00:00, 101.44it/s]Animation 72: LaggedStart(Group):  75%|#######5  | 63/84 [00:00<00:00, 96.31it/s] Animation 72: LaggedStart(Group):  87%|########6 | 73/84 [00:00<00:00, 80.80it/s]                                                                                 [09/16/26 13:26:23] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3162664456_1606632911.mp                         
+                             4'                                                
+Animation 73: Indicate(VGroup of 3 submobjects):   0%|          | 0/295 [00:00<?, ?it/s]Animation 73: Indicate(VGroup of 3 submobjects):   5%|4         | 14/295 [00:00<00:02, 127.76it/s]Animation 73: Indicate(VGroup of 3 submobjects):   9%|9         | 27/295 [00:00<00:02, 96.29it/s] Animation 73: Indicate(VGroup of 3 submobjects):  14%|#3        | 40/295 [00:00<00:02, 107.57it/s]Animation 73: Indicate(VGroup of 3 submobjects):  18%|#7        | 52/295 [00:00<00:02, 106.44it/s]Animation 73: Indicate(VGroup of 3 submobjects):  21%|##1       | 63/295 [00:00<00:02, 100.05it/s]Animation 73: Indicate(VGroup of 3 submobjects):  25%|##5       | 74/295 [00:00<00:02, 91.17it/s] Animation 73: Indicate(VGroup of 3 submobjects):  29%|##9       | 87/295 [00:00<00:02, 100.71it/s]Animation 73: Indicate(VGroup of 3 submobjects):  34%|###3      | 99/295 [00:00<00:01, 105.25it/s]Animation 73: Indicate(VGroup of 3 submobjects):  37%|###7      | 110/295 [00:01<00:01, 101.88it/s]Animation 73: Indicate(VGroup of 3 submobjects):  41%|####1     | 121/295 [00:01<00:01, 99.51it/s] Animation 73: Indicate(VGroup of 3 submobjects):  45%|####4     | 132/295 [00:01<00:01, 99.29it/s]Animation 73: Indicate(VGroup of 3 submobjects):  48%|####8     | 143/295 [00:01<00:01, 101.37it/s]Animation 73: Indicate(VGroup of 3 submobjects):  52%|#####2    | 154/295 [00:01<00:01, 102.61it/s]Animation 73: Indicate(VGroup of 3 submobjects):  56%|#####6    | 166/295 [00:01<00:01, 104.92it/s]Animation 73: Indicate(VGroup of 3 submobjects):  60%|######    | 177/295 [00:01<00:01, 99.10it/s] Animation 73: Indicate(VGroup of 3 submobjects):  64%|######4   | 189/295 [00:01<00:01, 103.66it/s]Animation 73: Indicate(VGroup of 3 submobjects):  68%|######8   | 202/295 [00:01<00:00, 108.10it/s]Animation 73: Indicate(VGroup of 3 submobjects):  74%|#######3  | 217/295 [00:02<00:00, 117.72it/s]Animation 73: Indicate(VGroup of 3 submobjects):  78%|#######7  | 229/295 [00:02<00:00, 116.53it/s]Animation 73: Indicate(VGroup of 3 submobjects):  82%|########1 | 241/295 [00:02<00:00, 112.29it/s]Animation 73: Indicate(VGroup of 3 submobjects):  87%|########6 | 256/295 [00:02<00:00, 121.94it/s]Animation 73: Indicate(VGroup of 3 submobjects):  91%|#########1| 269/295 [00:02<00:00, 121.12it/s]Animation 73: Indicate(VGroup of 3 submobjects):  96%|#########5| 282/295 [00:02<00:00, 103.52it/s]Animation 73: Indicate(VGroup of 3 submobjects):  99%|#########9| 293/295 [00:02<00:00, 103.03it/s]                                                                                                   [09/16/26 13:26:26] INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3831074337_3631822331.mp                         
+                             4'                                                
+Animation 74: Indicate(Text('Division          (X)')):   0%|          | 0/138 [00:00<?, ?it/s]Animation 74: Indicate(Text('Division          (X)')):   9%|8         | 12/138 [00:00<00:01, 108.94it/s]Animation 74: Indicate(Text('Division          (X)')):  22%|##1       | 30/138 [00:00<00:00, 148.46it/s]Animation 74: Indicate(Text('Division          (X)')):  35%|###4      | 48/138 [00:00<00:00, 158.21it/s]Animation 74: Indicate(Text('Division          (X)')):  46%|####6     | 64/138 [00:00<00:00, 132.51it/s]Animation 74: Indicate(Text('Division          (X)')):  57%|#####6    | 78/138 [00:00<00:00, 121.76it/s]Animation 74: Indicate(Text('Division          (X)')):  66%|######5   | 91/138 [00:00<00:00, 123.20it/s]Animation 74: Indicate(Text('Division          (X)')):  76%|#######6  | 105/138 [00:00<00:00, 125.45it/s]Animation 74: Indicate(Text('Division          (X)')):  86%|########5 | 118/138 [00:00<00:00, 123.03it/s]Animation 74: Indicate(Text('Division          (X)')):  96%|#########5| 132/138 [00:01<00:00, 124.86it/s]                                                                                                         [09/16/26 13:26:28] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3141068877_629816878.mp4                         
+                             '                                                 
+Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:   0%|          | 0/133 [00:00<?, ?it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  11%|#         | 14/133 [00:00<00:00, 137.77it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  26%|##5       | 34/133 [00:00<00:00, 170.46it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  39%|###9      | 52/133 [00:00<00:00, 159.16it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  51%|#####1    | 68/133 [00:00<00:00, 141.09it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  62%|######2   | 83/133 [00:00<00:00, 139.36it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  75%|#######5  | 100/133 [00:00<00:00, 147.08it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  87%|########7 | 116/133 [00:00<00:00, 147.36it/s]Animation 75: FadeIn(Text('Undefined = the machine jams, no answer at all')), etc.:  98%|#########8| 131/133 [00:00<00:00, 133.80it/s]                                                                                                                                      [09/16/26 13:26:29] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3254612014_2773430552.mp                         
+                             4'                                                
+[09/16/26 13:26:30] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3197081273_1171843662.mp                         
+                             4'                                                
+Animation 77: Write(Text('Summary')):   0%|          | 0/63 [00:00<?, ?it/s]Animation 77: Write(Text('Summary')):  62%|######1   | 39/63 [00:00<00:00, 388.78it/s]                                                                                                          INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3239009789_3527661392.mp                         
+                             4'                                                
+Animation 78: FadeIn(VGroup of 2 submobjects):   0%|          | 0/153 [00:00<?, ?it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  11%|#1        | 17/153 [00:00<00:00, 168.25it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  22%|##2       | 34/153 [00:00<00:00, 160.55it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  33%|###3      | 51/153 [00:00<00:00, 120.84it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  42%|####1     | 64/153 [00:00<00:00, 107.52it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  51%|#####     | 78/153 [00:00<00:00, 114.96it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  59%|#####9    | 91/153 [00:00<00:00, 113.05it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  67%|######7   | 103/153 [00:00<00:00, 104.38it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  75%|#######4  | 114/153 [00:01<00:00, 104.75it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  82%|########1 | 125/153 [00:01<00:00, 101.97it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  90%|########9 | 137/153 [00:01<00:00, 104.77it/s]Animation 78: FadeIn(VGroup of 2 submobjects):  97%|#########7| 149/153 [00:01<00:00, 107.43it/s]                                                                                                 [09/16/26 13:26:33] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _486170004_2959507585.mp4                         
+                             '                                                 
+Animation 79: FadeIn(VGroup of 2 submobjects):   0%|          | 0/140 [00:00<?, ?it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  12%|#2        | 17/140 [00:00<00:00, 163.43it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  24%|##4       | 34/140 [00:00<00:00, 138.37it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  36%|###6      | 51/140 [00:00<00:00, 149.40it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  48%|####7     | 67/140 [00:00<00:00, 135.55it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  58%|#####7    | 81/140 [00:00<00:00, 135.12it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  70%|#######   | 98/140 [00:00<00:00, 143.39it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  81%|########1 | 114/140 [00:00<00:00, 142.17it/s]Animation 79: FadeIn(VGroup of 2 submobjects):  92%|#########2| 129/140 [00:00<00:00, 143.98it/s]                                                                                                 [09/16/26 13:26:34] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _127807027_1525625192.mp4                         
+                             '                                                 
+Animation 80: FadeIn(VGroup of 2 submobjects):   0%|          | 0/189 [00:00<?, ?it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  13%|#2        | 24/189 [00:00<00:00, 236.57it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  25%|##5       | 48/189 [00:00<00:00, 198.75it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  37%|###6      | 69/189 [00:00<00:00, 148.76it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  46%|####5     | 86/189 [00:00<00:00, 155.02it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  54%|#####4    | 103/189 [00:00<00:00, 158.24it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  63%|######3   | 120/189 [00:00<00:00, 160.81it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  72%|#######2  | 137/189 [00:00<00:00, 161.51it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  81%|########1 | 154/189 [00:00<00:00, 161.29it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  90%|######### | 171/189 [00:01<00:00, 159.61it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  99%|#########9| 188/189 [00:01<00:00, 155.12it/s]                                                                                                 [09/16/26 13:26:36] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _95269417_4291950634.mp4'                         
+Animation 81: FadeOut(VGroup of 2 submobjects):   0%|          | 0/31 [00:00<?, ?it/s]Animation 81: FadeOut(VGroup of 2 submobjects):  13%|#2        | 4/31 [00:00<00:00, 29.68it/s]Animation 81: FadeOut(VGroup of 2 submobjects):  32%|###2      | 10/31 [00:00<00:00, 45.03it/s]Animation 81: FadeOut(VGroup of 2 submobjects):  48%|####8     | 15/31 [00:00<00:00, 40.95it/s]Animation 81: FadeOut(VGroup of 2 submobjects):  71%|#######   | 22/31 [00:00<00:00, 47.83it/s]Animation 81: FadeOut(VGroup of 2 submobjects):  87%|########7 | 27/31 [00:00<00:00, 46.77it/s]                                                                                               [09/16/26 13:26:37] INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3064477977_3064308189.mp                         
+                             4'                                                
+Animation 82: Write(Text('Thank You for Watching!')):   0%|          | 0/55 [00:00<?, ?it/s]Animation 82: Write(Text('Thank You for Watching!')):  58%|#####8    | 32/55 [00:00<00:00, 318.11it/s]                                                                                                      [09/16/26 13:26:38] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _919733431_3527661392.mp4                         
+                             '                                                 
+Animation 83: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 83: FadeIn(Text('See you in the next lesson :)')):  69%|######9   | 25/36 [00:00<00:00, 245.57it/s]                                                                                                             [09/16/26 13:26:39] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _3161621717_2182720435.mp                         
+                             4'                                                
+Animation 84: Circumscribe(Group):   0%|          | 0/18 [00:00<?, ?it/s]                                                                                             INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _4085158857_3466179665.mp                         
+                             4'                                                
+[09/16/26 13:26:40] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Clo                         
+                             sure-Property-Division-by                         
+                             -Zero\media\videos\closur                         
+                             e_property_story\360p30\p                         
+                             artial_movie_files\Closur                         
+                             ePropertyStory\1490007039                         
+                             _499328632_1888767717.mp4                         
+                             '                                                 
+[real SRT written] D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Closure-Property-Division-by-Zero\media\videos\closure_property_story\ClosurePropertyStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[09/16/26 13:26:49] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\Manim-Short-Videos\S                          
+                             tory-Mode-Manim-Videos\C                          
+                             losure-Property-Division                          
+                             -by-Zero\media\videos\cl                          
+                             osure_property_story\360                          
+                             p30\ClosurePropertyStory                          
+                             .mp4'                                             
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 75                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered ClosurePropertyStory         scene.py:290
+                             Played 86 animations                              
