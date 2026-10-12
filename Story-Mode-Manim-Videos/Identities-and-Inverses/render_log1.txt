@@ -1,0 +1,820 @@
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[09/16/26 19:51:17] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[09/16/26 19:51:30] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1583504468_263                         
+                             5955957_301244505.mp4'                            
+Animation 1: Write(Text('Identities & Inverses')):   0%|          | 0/47 [00:00<?, ?it/s]Animation 1: Write(Text('Identities & Inverses')):  49%|####8     | 23/47 [00:00<00:00, 223.12it/s]Animation 1: Write(Text('Identities & Inverses')):  98%|#########7| 46/47 [00:00<00:00, 186.70it/s]                                                                                                   [09/16/26 19:51:31] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_195                         
+                             595094_1712661598.mp4'                            
+Animation 2: Write(Text('What Brings You Back?')):   0%|          | 0/42 [00:00<?, ?it/s]Animation 2: Write(Text('What Brings You Back?')):  38%|###8      | 16/42 [00:00<00:00, 154.42it/s]Animation 2: Write(Text('What Brings You Back?')):  76%|#######6  | 32/42 [00:00<00:00, 149.23it/s]                                                                                                   [09/16/26 19:51:32] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_119                         
+                             1375502_211341244.mp4'                            
+Animation 3: Create(RoundedRectangle), etc.:   0%|          | 0/65 [00:00<?, ?it/s]Animation 3: Create(RoundedRectangle), etc.:  29%|##9       | 19/65 [00:00<00:00, 188.99it/s]Animation 3: Create(RoundedRectangle), etc.:  58%|#####8    | 38/65 [00:00<00:00, 187.80it/s]Animation 3: Create(RoundedRectangle), etc.:  88%|########7 | 57/65 [00:00<00:00, 170.97it/s]                                                                                             [09/16/26 19:51:33] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_125                         
+                             9885314_376872963.mp4'                            
+Animation 4: Create(RoundedRectangle), etc.:   0%|          | 0/92 [00:00<?, ?it/s]Animation 4: Create(RoundedRectangle), etc.:  20%|#9        | 18/92 [00:00<00:00, 169.28it/s]Animation 4: Create(RoundedRectangle), etc.:  41%|####1     | 38/92 [00:00<00:00, 186.12it/s]Animation 4: Create(RoundedRectangle), etc.:  62%|######1   | 57/92 [00:00<00:00, 158.22it/s]Animation 4: Create(RoundedRectangle), etc.:  80%|########  | 74/92 [00:00<00:00, 153.26it/s]Animation 4: Create(RoundedRectangle), etc.:  98%|#########7| 90/92 [00:00<00:00, 154.50it/s]                                                                                             [09/16/26 19:51:34] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_342                         
+                             0687069_896981174.mp4'                            
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}+ \quad                           
+                             \text{and} \quad                                  
+                             \times\special{dvisvgm:raw                        
+                             </g>} to                                          
+                             media\Tex\7b5eaf614c1adb57                        
+                             .tex                                              
+Animation 5: FadeIn(MathTex('+ \\quad \\text{and} \\quad \\times')):   0%|          | 0/104 [00:00<?, ?it/s]Animation 5: FadeIn(MathTex('+ \\quad \\text{and} \\quad \\times')):  44%|####4     | 46/104 [00:00<00:00, 455.48it/s]Animation 5: FadeIn(MathTex('+ \\quad \\text{and} \\quad \\times')):  88%|########8 | 92/104 [00:00<00:00, 432.78it/s]                                                                                                                      [09/16/26 19:51:36] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_129                         
+                             4446481_4210305263.mp4'                           
+[09/16/26 19:51:37] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_3651801441.mp4'                           
+Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):   0%|          | 0/113 [00:00<?, ?it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  16%|#5        | 18/113 [00:00<00:00, 173.33it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  32%|###1      | 36/113 [00:00<00:00, 174.08it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  48%|####7     | 54/113 [00:00<00:00, 156.83it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  62%|######1   | 70/113 [00:00<00:00, 148.11it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  75%|#######5  | 85/113 [00:00<00:00, 136.63it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  88%|########7 | 99/113 [00:00<00:00, 113.44it/s]Animation 7: Write(Text('Additive Identity: The Do-Nothing Number')):  98%|#########8| 111/113 [00:00<00:00, 108.96it/s]                                                                                                                        [09/16/26 19:51:52] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_236                         
+                             5815000_1330330698.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac35+0\                        
+                             special{dvisvgm:raw </g>}                         
+                             to                                                
+                             media\Tex\94f8f0304f998965                        
+                             .tex                                              
+Animation 8: Write(MathTex('\\frac35+0')):   0%|          | 0/75 [00:00<?, ?it/s]Animation 8: Write(MathTex('\\frac35+0')):  55%|#####4    | 41/75 [00:00<00:00, 407.47it/s]                                                                                           [09/16/26 19:51:53] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_150                         
+                             5786377_2767232394.mp4'                           
+Animation 9: Create(RoundedRectangle), etc.:   0%|          | 0/85 [00:00<?, ?it/s]Animation 9: Create(RoundedRectangle), etc.:  29%|##9       | 25/85 [00:00<00:00, 243.84it/s]Animation 9: Create(RoundedRectangle), etc.:  59%|#####8    | 50/85 [00:00<00:00, 246.34it/s]Animation 9: Create(RoundedRectangle), etc.:  88%|########8 | 75/85 [00:00<00:00, 223.38it/s]                                                                                             [09/16/26 19:51:54] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_240                         
+                             0925423_2382909075.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac35\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             media\Tex\d1f8144e92facc26                        
+                             .tex                                              
+Animation 10: GrowArrow(Arrow), etc.:   0%|          | 0/118 [00:00<?, ?it/s]Animation 10: GrowArrow(Arrow), etc.:  31%|###1      | 37/118 [00:00<00:00, 362.40it/s]Animation 10: GrowArrow(Arrow), etc.:  63%|######2   | 74/118 [00:00<00:00, 310.14it/s]Animation 10: GrowArrow(Arrow), etc.:  94%|#########4| 111/118 [00:00<00:00, 332.41it/s]                                                                                        [09/16/26 19:51:56] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_184                         
+                             9749664_3449700240.mp4'                           
+Animation 11: Indicate(MathTex('\\frac35')):   0%|          | 0/4 [00:00<?, ?it/s]                                                                                  [09/16/26 19:51:57] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_714                         
+                             711167_2135239633.mp4'                            
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}a+0=a\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             media\Tex\2c33a7a8d4c96f84                        
+                             .tex                                              
+Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:   0%|          | 0/149 [00:00<?, ?it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  14%|#4        | 21/149 [00:00<00:00, 203.19it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  28%|##8       | 42/149 [00:00<00:00, 181.01it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  41%|####      | 61/149 [00:00<00:00, 137.23it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  51%|#####1    | 76/149 [00:00<00:00, 124.08it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  60%|#####9    | 89/149 [00:00<00:00, 114.82it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  68%|######7   | 101/149 [00:00<00:00, 105.14it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  75%|#######5  | 112/149 [00:00<00:00, 100.82it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  83%|########3 | 124/149 [00:01<00:00, 103.58it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  91%|######### | 135/149 [00:01<00:00, 100.77it/s]Animation 12: FadeIn(Text('Adding 0 changes nothing.')), etc.:  99%|#########8| 147/149 [00:01<00:00, 105.16it/s]                                                                                                                 [09/16/26 19:52:00] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_219                         
+                             2042099_2291174780.mp4'                           
+                    INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_2224944836.mp4'                           
+Animation 14: Write(Text('Multiplicative Identity')):   0%|          | 0/98 [00:00<?, ?it/s]Animation 14: Write(Text('Multiplicative Identity')):  17%|#7        | 17/98 [00:00<00:00, 168.91it/s]Animation 14: Write(Text('Multiplicative Identity')):  35%|###4      | 34/98 [00:00<00:00, 140.53it/s]Animation 14: Write(Text('Multiplicative Identity')):  54%|#####4    | 53/98 [00:00<00:00, 156.37it/s]Animation 14: Write(Text('Multiplicative Identity')):  70%|#######   | 69/98 [00:00<00:00, 149.91it/s]Animation 14: Write(Text('Multiplicative Identity')):  89%|########8 | 87/98 [00:00<00:00, 157.64it/s]                                                                                                      [09/16/26 19:52:13] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_211                         
+                             888652_1330330698.mp4'                            
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac37\ti                        
+                             mes1\special{dvisvgm:raw                          
+                             </g>} to                                          
+                             media\Tex\b75df19c04a7e391                        
+                             .tex                                              
+[09/16/26 19:52:14] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}=\frac37\s                        
+                             pecial{dvisvgm:raw </g>}                          
+                             to                                                
+                             media\Tex\58b839dd943ed4d1                        
+                             .tex                                              
+Animation 15: Write(MathTex('\\frac37\\times1')):   0%|          | 0/65 [00:00<?, ?it/s]Animation 15: Write(MathTex('\\frac37\\times1')):  58%|#####8    | 38/65 [00:00<00:00, 378.09it/s]                                                                                                  [09/16/26 19:52:16] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_243                         
+                             728198_556492333.mp4'                             
+Animation 16: Write(MathTex('=\\frac37')), etc.:   0%|          | 0/76 [00:00<?, ?it/s]Animation 16: Write(MathTex('=\\frac37')), etc.:  86%|########5 | 65/76 [00:00<00:00, 647.43it/s]                                                                                                 [09/16/26 19:52:17] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_963                         
+                             067518_3776209848.mp4'                            
+Animation 17: FadeIn(Text('Multiplying by 1 changes nothing.')):   0%|          | 0/76 [00:00<?, ?it/s]Animation 17: FadeIn(Text('Multiplying by 1 changes nothing.')):  25%|##5       | 19/76 [00:00<00:00, 187.86it/s]Animation 17: FadeIn(Text('Multiplying by 1 changes nothing.')):  50%|#####     | 38/76 [00:00<00:00, 179.92it/s]Animation 17: FadeIn(Text('Multiplying by 1 changes nothing.')):  75%|#######5  | 57/76 [00:00<00:00, 162.48it/s]Animation 17: FadeIn(Text('Multiplying by 1 changes nothing.')):  97%|#########7| 74/76 [00:00<00:00, 156.28it/s]                                                                                                                 [09/16/26 19:52:18] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_400                         
+                             9160173_2851034233.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}a\times1=a                        
+                             \special{dvisvgm:raw </g>}                        
+                             to                                                
+                             media\Tex\cb1e427a8b5f0af5                        
+                             .tex                                              
+Animation 18: Write(MathTex('a\\times1=a')), etc.:   0%|          | 0/97 [00:00<?, ?it/s]Animation 18: Write(MathTex('a\\times1=a')), etc.:  20%|#9        | 19/97 [00:00<00:00, 171.53it/s]Animation 18: Write(MathTex('a\\times1=a')), etc.:  40%|####      | 39/97 [00:00<00:00, 184.36it/s]Animation 18: Write(MathTex('a\\times1=a')), etc.:  60%|#####9    | 58/97 [00:00<00:00, 145.35it/s]Animation 18: Write(MathTex('a\\times1=a')), etc.:  76%|#######6  | 74/97 [00:00<00:00, 149.91it/s]Animation 18: Write(MathTex('a\\times1=a')), etc.:  93%|#########2| 90/97 [00:00<00:00, 152.91it/s]                                                                                                   [09/16/26 19:52:20] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_254                         
+                             9846537_2615964396.mp4'                           
+                    INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_3250755707.mp4'                           
+Animation 20: Write(Text('Two "Do-Nothing" Numbers')):   0%|          | 0/100 [00:00<?, ?it/s]Animation 20: Write(Text('Two "Do-Nothing" Numbers')):  20%|##        | 20/100 [00:00<00:00, 197.51it/s]Animation 20: Write(Text('Two "Do-Nothing" Numbers')):  40%|####      | 40/100 [00:00<00:00, 176.06it/s]Animation 20: Write(Text('Two "Do-Nothing" Numbers')):  58%|#####8    | 58/100 [00:00<00:00, 149.77it/s]Animation 20: Write(Text('Two "Do-Nothing" Numbers')):  74%|#######4  | 74/100 [00:00<00:00, 133.26it/s]Animation 20: Write(Text('Two "Do-Nothing" Numbers')):  88%|########8 | 88/100 [00:00<00:00, 134.61it/s]                                                                                                        [09/16/26 19:52:34] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_402                         
+                             370805_1330330698.mp4'                            
+Animation 21: Write(MathTex('a+0=a')), etc.:   0%|          | 0/86 [00:00<?, ?it/s]Animation 21: Write(MathTex('a+0=a')), etc.:  30%|###       | 26/86 [00:00<00:00, 256.90it/s]Animation 21: Write(MathTex('a+0=a')), etc.:  62%|######1   | 53/86 [00:00<00:00, 261.93it/s]Animation 21: Write(MathTex('a+0=a')), etc.:  93%|#########3| 80/86 [00:00<00:00, 216.83it/s]                                                                                             [09/16/26 19:52:35] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_363                         
+                             0816495_3874161011.mp4'                           
+Animation 22: Write(MathTex('a\\times1=a')), etc.:   0%|          | 0/96 [00:00<?, ?it/s]Animation 22: Write(MathTex('a\\times1=a')), etc.:  24%|##3       | 23/96 [00:00<00:00, 225.06it/s]Animation 22: Write(MathTex('a\\times1=a')), etc.:  48%|####7     | 46/96 [00:00<00:00, 204.28it/s]Animation 22: Write(MathTex('a\\times1=a')), etc.:  70%|######9   | 67/96 [00:00<00:00, 174.71it/s]Animation 22: Write(MathTex('a\\times1=a')), etc.:  90%|########9 | 86/96 [00:00<00:00, 176.71it/s]                                                                                                   [09/16/26 19:52:36] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_976                         
+                             560577_1031679268.mp4'                            
+Animation 23: FadeIn(Text('Add 0. Multiply by 1.')), etc.:   0%|          | 0/115 [00:00<?, ?it/s]Animation 23: FadeIn(Text('Add 0. Multiply by 1.')), etc.:  21%|##        | 24/115 [00:00<00:00, 232.75it/s]Animation 23: FadeIn(Text('Add 0. Multiply by 1.')), etc.:  42%|####1     | 48/115 [00:00<00:00, 215.73it/s]Animation 23: FadeIn(Text('Add 0. Multiply by 1.')), etc.:  61%|######    | 70/115 [00:00<00:00, 182.94it/s]Animation 23: FadeIn(Text('Add 0. Multiply by 1.')), etc.:  78%|#######8  | 90/115 [00:00<00:00, 187.53it/s]Animation 23: FadeIn(Text('Add 0. Multiply by 1.')), etc.:  96%|#########5| 110/115 [00:00<00:00, 190.43it/s]                                                                                                             [09/16/26 19:52:37] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_135                         
+                             2539299_1716574329.mp4'                           
+[09/16/26 19:52:38] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_3401719003.mp4'                           
+Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):   0%|          | 0/111 [00:00<?, ?it/s]Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):  14%|#4        | 16/111 [00:00<00:00, 158.14it/s]Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):  29%|##8       | 32/111 [00:00<00:00, 136.05it/s]Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):  41%|####1     | 46/111 [00:00<00:00, 115.07it/s]Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):  56%|#####5    | 62/111 [00:00<00:00, 129.22it/s]Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):  70%|#######   | 78/111 [00:00<00:00, 137.55it/s]Animation 25: Write(Text('Additive Inverse: Cancel to Zero')):  86%|########5 | 95/111 [00:00<00:00, 145.72it/s]                                                                                                                [09/16/26 19:52:58] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_239                         
+                             9594020_1330330698.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}3\special{                        
+                             dvisvgm:raw </g>} to                              
+                             media\Tex\9ca767606662f643                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-3\special                        
+                             {dvisvgm:raw </g>} to                             
+                             media\Tex\9e1c417a4338b0d6                        
+                             .tex                                              
+Animation 26: FadeIn(MathTex('3')), etc.:   0%|          | 0/71 [00:00<?, ?it/s]Animation 26: FadeIn(MathTex('3')), etc.:  70%|#######   | 50/71 [00:00<00:00, 494.35it/s]                                                                                          [09/16/26 19:53:00] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_526                         
+                             305852_1137595755.mp4'                            
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0\special{                        
+                             dvisvgm:raw </g>} to                              
+                             media\Tex\ab0de9a363d86c5f                        
+                             .tex                                              
+Animation 27: _MethodAnimation(MathTex('3')), etc.:   0%|          | 0/128 [00:00<?, ?it/s]Animation 27: _MethodAnimation(MathTex('3')), etc.:  58%|#####7    | 74/128 [00:00<00:00, 732.53it/s]                                                                                                     [09/16/26 19:53:01] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_310                         
+                             7083212_2479952037.mp4'                           
+Animation 28: FadeOut(MathTex('3')), etc.:   0%|          | 0/4 [00:00<?, ?it/s]                                                                                                    INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_144                         
+                             1456431_2227114163.mp4'                           
+[09/16/26 19:53:02] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac23\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             media\Tex\ddee67258f0d6965                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}+\special{                        
+                             dvisvgm:raw </g>} to                              
+                             media\Tex\713151ed93a8b1f5                        
+                             .tex                                              
+[09/16/26 19:53:03] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\left(-\fr                        
+                             ac23\right)\special{dvisvg                        
+                             m:raw </g>} to                                    
+                             media\Tex\3036ba95fb809f72                        
+                             .tex                                              
+[09/16/26 19:53:04] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}=0\special                        
+                             {dvisvgm:raw </g>} to                             
+                             media\Tex\0a0199d6570d003e                        
+                             .tex                                              
+Animation 29: Write(MathTex('\\frac23')), etc.:   0%|          | 0/139 [00:00<?, ?it/s]Animation 29: Write(MathTex('\\frac23')), etc.:  25%|##5       | 35/139 [00:00<00:00, 344.67it/s]Animation 29: Write(MathTex('\\frac23')), etc.:  50%|#####     | 70/139 [00:00<00:00, 267.42it/s]Animation 29: Write(MathTex('\\frac23')), etc.:  71%|#######   | 98/139 [00:00<00:00, 247.56it/s]Animation 29: Write(MathTex('\\frac23')), etc.:  89%|########9 | 124/139 [00:00<00:00, 249.55it/s]                                                                                                  [09/16/26 19:53:06] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_655                         
+                             120827_3422676902.mp4'                            
+Animation 30: Write(MathTex('=0')), etc.:   0%|          | 0/66 [00:00<?, ?it/s]                                                                                                    INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_304                         
+                             6085055_3530235275.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}a+(-a)=0\s                        
+                             pecial{dvisvgm:raw </g>}                          
+                             to                                                
+                             media\Tex\435bd00c1aea07ee                        
+                             .tex                                              
+Animation 31: Write(MathTex('a+(-a)=0')), etc.:   0%|          | 0/167 [00:00<?, ?it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:   9%|8         | 15/167 [00:00<00:01, 137.43it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  22%|##2       | 37/167 [00:00<00:00, 179.23it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  33%|###2      | 55/167 [00:00<00:00, 168.76it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  43%|####3     | 72/167 [00:00<00:00, 164.28it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  53%|#####3    | 89/167 [00:00<00:00, 158.84it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  63%|######2   | 105/167 [00:00<00:00, 154.20it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  74%|#######3  | 123/167 [00:00<00:00, 159.36it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  84%|########3 | 140/167 [00:00<00:00, 160.43it/s]Animation 31: Write(MathTex('a+(-a)=0')), etc.:  94%|#########4| 157/167 [00:00<00:00, 162.84it/s]                                                                                                  [09/16/26 19:53:08] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_411                         
+                             919978_2761673354.mp4'                            
+[09/16/26 19:53:09] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_3424423755.mp4'                           
+Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):   0%|          | 0/125 [00:00<?, ?it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):  16%|#6        | 20/125 [00:00<00:00, 196.91it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):  32%|###2      | 40/125 [00:00<00:00, 195.08it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):  48%|####8     | 60/125 [00:00<00:00, 166.34it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):  62%|######2   | 78/125 [00:00<00:00, 156.89it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):  75%|#######5  | 94/125 [00:00<00:00, 153.88it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')):  88%|########8 | 110/125 [00:00<00:00, 143.97it/s]Animation 33: Write(Text('Multiplicative Inverse: Multiply to One')): 100%|##########| 125/125 [00:00<00:00, 141.66it/s]                                                                                                                        [09/16/26 19:53:31] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_267                         
+                             4596343_1330330698.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac27\ti                        
+                             mes\ ?\                                           
+                             =1\special{dvisvgm:raw                            
+                             </g>} to                                          
+                             media\Tex\214f06fe4c7aabe4                        
+                             .tex                                              
+Animation 34: Write(MathTex('\\frac27\\times\\ ?\\ =1')):   0%|          | 0/110 [00:00<?, ?it/s]Animation 34: Write(MathTex('\\frac27\\times\\ ?\\ =1')):  33%|###2      | 36/110 [00:00<00:00, 354.98it/s]Animation 34: Write(MathTex('\\frac27\\times\\ ?\\ =1')):  65%|######5   | 72/110 [00:00<00:00, 305.51it/s]Animation 34: Write(MathTex('\\frac27\\times\\ ?\\ =1')):  94%|#########3| 103/110 [00:00<00:00, 305.28it/s]                                                                                                            [09/16/26 19:53:33] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_919                         
+                             107835_198740863.mp4'                             
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac27\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             media\Tex\a6045625a6d3aef3                        
+                             .tex                                              
+[09/16/26 19:53:34] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\times\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             media\Tex\efd14ae78c99da44                        
+                             .tex                                              
+[09/16/26 19:53:35] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac72\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             media\Tex\d7867427b34e13b1                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}=1\special                        
+                             {dvisvgm:raw </g>} to                             
+                             media\Tex\1ff89b2fa48c1fc1                        
+                             .tex                                              
+Animation 35: FadeOut(MathTex('\\frac27\\times\\ ?\\ =1')), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 35: FadeOut(MathTex('\\frac27\\times\\ ?\\ =1')), etc.:  80%|########  | 36/45 [00:00<00:00, 354.70it/s]                                                                                                                  [09/16/26 19:53:37] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_208                         
+                             1603822_3814239337.mp4'                           
+Animation 36: Write(MathTex('=1')), etc.:   0%|          | 0/102 [00:00<?, ?it/s]                                                                                                     INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_396                         
+                             6816841_3406773498.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac                             
+                             ab\times\frac                                     
+                             ba=1\special{dvisvgm:raw                          
+                             </g>} to                                          
+                             media\Tex\8e12dfc99dc73928                        
+                             .tex                                              
+Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:   0%|          | 0/145 [00:00<?, ?it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  14%|#4        | 21/145 [00:00<00:00, 191.78it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  28%|##8       | 41/145 [00:00<00:00, 156.93it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  40%|####      | 58/145 [00:00<00:00, 149.11it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  51%|#####1    | 74/145 [00:00<00:00, 143.04it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  61%|######1   | 89/145 [00:00<00:00, 133.05it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  71%|#######1  | 103/145 [00:00<00:00, 131.60it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  81%|########1 | 118/145 [00:00<00:00, 135.71it/s]Animation 37: FadeIn(Text('Reciprocals multiply to 1.')), etc.:  91%|#########1| 132/145 [00:00<00:00, 131.31it/s]                                                                                                                  [09/16/26 19:53:40] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_413                         
+                             1984046_2935645654.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}5\leftrigh                        
+                             tarrow\frac15 \qquad                              
+                             -3\leftrightarrow-\frac13\                        
+                             special{dvisvgm:raw </g>}                         
+                             to                                                
+                             media\Tex\ecc55e7a5c1a8f51                        
+                             .tex                                              
+Animation 38: FadeIn(MathTex('5\\leftrightarrow\\frac15 \\qquad -3\\leftrightarrow-\\frac13')):   0%|          | 0/171 [00:00<?, ?it/s]Animation 38: FadeIn(MathTex('5\\leftrightarrow\\frac15 \\qquad -3\\leftrightarrow-\\frac13')):  23%|##2       | 39/171 [00:00<00:00, 374.40it/s]Animation 38: FadeIn(MathTex('5\\leftrightarrow\\frac15 \\qquad -3\\leftrightarrow-\\frac13')):  45%|####5     | 77/171 [00:00<00:00, 317.94it/s]Animation 38: FadeIn(MathTex('5\\leftrightarrow\\frac15 \\qquad -3\\leftrightarrow-\\frac13')):  64%|######4   | 110/171 [00:00<00:00, 297.31it/s]Animation 38: FadeIn(MathTex('5\\leftrightarrow\\frac15 \\qquad -3\\leftrightarrow-\\frac13')):  82%|########2 | 141/171 [00:00<00:00, 288.11it/s]                                                                                                                                                  [09/16/26 19:53:42] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_258                         
+                             5216604_3003283872.mp4'                           
+                    INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_1519383718.mp4'                           
+Animation 40: Write(Text('The Zero Trap')):   0%|          | 0/108 [00:00<?, ?it/s]Animation 40: Write(Text('The Zero Trap')):  29%|##8       | 31/108 [00:00<00:00, 303.47it/s]Animation 40: Write(Text('The Zero Trap')):  57%|#####7    | 62/108 [00:00<00:00, 236.06it/s]Animation 40: Write(Text('The Zero Trap')):  81%|########  | 87/108 [00:00<00:00, 234.02it/s]                                                                                             [09/16/26 19:54:00] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_402                         
+                             2488843_1330330698.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0\times\                          
+                             ?\ =1\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             media\Tex\87090e8befc3da38                        
+                             .tex                                              
+Animation 41: Write(MathTex('0\\times\\ ?\\ =1')):   0%|          | 0/106 [00:00<?, ?it/s]Animation 41: Write(MathTex('0\\times\\ ?\\ =1')):  40%|###9      | 42/106 [00:00<00:00, 414.19it/s]Animation 41: Write(MathTex('0\\times\\ ?\\ =1')):  79%|#######9  | 84/106 [00:00<00:00, 359.49it/s]                                                                                                    [09/16/26 19:54:01] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_423                         
+                             8325859_1671370336.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0\times2=0                        
+                             \special{dvisvgm:raw </g>}                        
+                             to                                                
+                             media\Tex\edddc95857c27216                        
+                             .tex                                              
+[09/16/26 19:54:02] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0\times100                        
+                             =0\special{dvisvgm:raw                            
+                             </g>} to                                          
+                             media\Tex\9d3109b4c83204f0                        
+                             .tex                                              
+Animation 42: Write(MathTex('0\\times2=0')):   0%|          | 0/80 [00:00<?, ?it/s]Animation 42: Write(MathTex('0\\times2=0')):  36%|###6      | 29/80 [00:00<00:00, 282.11it/s]Animation 42: Write(MathTex('0\\times2=0')):  88%|########7 | 70/80 [00:00<00:00, 353.90it/s]                                                                                             [09/16/26 19:54:04] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_149                         
+                             5334672_2114679230.mp4'                           
+Animation 43: Write(MathTex('0\\times100=0')):   0%|          | 0/79 [00:00<?, ?it/s]Animation 43: Write(MathTex('0\\times100=0')):  44%|####4     | 35/79 [00:00<00:00, 345.76it/s]Animation 43: Write(MathTex('0\\times100=0')):  94%|#########3| 74/79 [00:00<00:00, 370.51it/s]                                                                                               [09/16/26 19:54:05] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_210                         
+                             8676764_4123925754.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0\times                           
+                             x=0\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             media\Tex\0779e4126ef2225f                        
+                             .tex                                              
+Animation 44: Write(MathTex('0\\times x=0')), etc.:   0%|          | 0/128 [00:00<?, ?it/s]Animation 44: Write(MathTex('0\\times x=0')), etc.:  52%|#####1    | 66/128 [00:00<00:00, 653.96it/s]                                                                                                     [09/16/26 19:54:06] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_148                         
+                             9557679_184723165.mp4'                            
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac10\                          
+                             \text{is                                          
+                             undefined}\special{dvisvgm                        
+                             :raw </g>} to                                     
+                             media\Tex\d1356b4b0d53f3f9                        
+                             .tex                                              
+Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:   0%|          | 0/162 [00:00<?, ?it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  10%|#         | 17/162 [00:00<00:00, 168.22it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  23%|##2       | 37/162 [00:00<00:00, 183.57it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  35%|###4      | 56/162 [00:00<00:00, 176.42it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  46%|####5     | 74/162 [00:00<00:00, 171.57it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  57%|#####6    | 92/162 [00:00<00:00, 156.33it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  67%|######6   | 108/162 [00:00<00:00, 155.72it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  77%|#######6  | 124/162 [00:00<00:00, 148.89it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  86%|########5 | 139/162 [00:00<00:00, 142.63it/s]Animation 45: FadeIn(Text('0 has no reciprocal.')), etc.:  96%|#########5| 155/162 [00:01<00:00, 146.31it/s]                                                                                                            [09/16/26 19:54:09] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_348                         
+                             9949619_3705994892.mp4'                           
+                    INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\Manim-Short-Videos\St                         
+                             ory-Mode-Manim-Videos\Ide                         
+                             ntities-and-Inverses\medi                         
+                             a\videos\identities_inver                         
+                             ses_story\360p30\partial_                         
+                             movie_files\IdentitiesInv                         
+                             ersesStory\1490007039_319                         
+                             7081273_1701083323.mp4'                           
+[09/16/26 19:54:10] WARNING  Gemini TTS attempt 1  gemini_speech_service.py:125
+                             returned 400: {                                   
+                               "error": {                                      
+                                 "code": 400,                                  
+                                 "message": "Model                             
+                             tried to generate                                 
+                             text, but it should                               
+                             only be used for TTS.                             
+                             Make sure your                                    
+                             instructions are                                  
+                             clear to only                                     
+                             generate audio from a                             
+                             given text transcr                                
+[09/16/26 19:54:14] WARNING  Gemini TTS attempt 2  gemini_speech_service.py:125
+                             returned 400: {                                   
+                               "error": {                                      
+                                 "code": 400,                                  
+                                 "message": "Model                             
+                             tried to generate                                 
+                             text, but it should                               
+                             only be used for TTS.                             
+                             Make sure your                                    
+                             instructions are                                  
+                             clear to only                                     
+                             generate audio from a                             
+                             given text transcr                                
+[09/16/26 19:54:19] WARNING  Gemini TTS attempt 3  gemini_speech_service.py:125
+                             returned 400: {                                   
+                               "error": {                                      
+                                 "code": 400,                                  
+                                 "message": "Model                             
+                             tried to generate                                 
+                             text, but it should                               
+                             only be used for TTS.                             
+                             Make sure your                                    
+                             instructions are                                  
+                             clear to only                                     
+                             generate audio from a                             
+                             given text transcr                                
++--------------------- Traceback (most recent call last) ---------------------+
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim\scene\scene.py:259 in   |
+| render                                                                      |
+|                                                                             |
+|    256         """                                                          |
+|    257         self.setup()                                                 |
+|    258         try:                                                         |
+| >  259             self.construct()                                         |
+|    260         except EndSceneEarlyException:                               |
+|    261             pass                                                     |
+|    262         except RerunSceneException:                                  |
+|                                                                             |
+| D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Identities-and-Inverses\ident |
+| ities_inverses_story.py:186 in construct                                    |
+|                                                                             |
+|   183         self.beat4_additive_inverse()                                 |
+|   184         self.beat5_multiplicative_inverse()                           |
+|   185         self.beat6_zero_trap()                                        |
+| > 186         self.beat7_challenge()                                        |
+|   187         self.beat8_summary()                                          |
+|   188                                                                       |
+|   189         self._write_real_srt()                                        |
+|                                                                             |
+| D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Identities-and-Inverses\ident |
+| ities_inverses_story.py:492 in beat7_challenge                              |
+|                                                                             |
+|   489         badge at board centre, whole-board dim while it counts down." |
+|   490         box_y = BOARD_CY - 0.3                                        |
+|   491         row_ys = [1.5, 0.55, -0.4, -1.35]                             |
+| > 492         with self.voiceover(text=NARRATION["challenge_setup"]) as tra |
+|   493             self.reset_board()                                        |
+|   494                                                                       |
+|   495             heading = board_text("YOUR TURN: Identity or Inverse?", s |
+|                                                                             |
+| C:\Python314\Lib\contextlib.py:141 in __enter__                             |
+|                                                                             |
+|   138         # they are only needed for recreation, which is not possible  |
+|   139         del self.args, self.kwds, self.func                           |
+|   140         try:                                                          |
+| > 141             return next(self.gen)                                     |
+|   142         except StopIteration:                                         |
+|   143             raise RuntimeError("generator didn't yield") from None    |
+|   144                                                                       |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim_voiceover\voiceover_sce |
+| ne.py:207 in voiceover                                                      |
+|                                                                             |
+|   204                                                                       |
+|   205         try:                                                          |
+|   206             if text is not None:                                      |
+| > 207                 yield self._add_voiceover_text(                       |
+|   208                     text,                                             |
+|   209                     service_kwargs=service_kwargs,                    |
+|   210                     subcaption=subcaption,                            |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim_voiceover\voiceover_sce |
+| ne.py:85 in _add_voiceover_text                                             |
+|                                                                             |
+|    82         if not hasattr(self, "speech_service"):                       |
+|    83             raise Exception("You need to call init_voiceover() before |
+|    84                                                                       |
+| >  85         dict_ = self.speech_service._wrap_generate_from_text(text, ** |
+|    86         tracker = VoiceoverTracker(self, dict_, Path(self.speech_serv |
+|    87         self.renderer.skip_animations = self.renderer._original_skipp |
+|    88         self.add_sound(str(Path(self.speech_service.cache_dir) / dict |
+|                                                                             |
+| D:\Manim-Short-Videos\.venv\Lib\site-packages\manim_voiceover\services\base |
+| .py:183 in _wrap_generate_from_text                                         |
+|                                                                             |
+|   180             path = path_string                                        |
+|   181                                                                       |
+|   182         dict_ = serialize_voiceover_cache_entry(                      |
+| > 183             parse_voiceover_cache_entry(self.generate_from_text(text, |
+|   184         )                                                             |
+|   185         original_audio = dict_["original_audio"]                      |
+|   186                                                                       |
+|                                                                             |
+| D:\Manim-Short-Videos\gemini_speech_service.py:133 in generate_from_text    |
+|                                                                             |
+|   130                                                                       |
+|   131         if response is None or response.status_code != 200:           |
+|   132             err = response.text if response is not None else "Timeout |
+| > 133             raise RuntimeError(f"Gemini TTS request failed: {err}")   |
+|   134                                                                       |
+|   135         res_json = response.json()                                    |
+|   136         part = res_json["candidates"][0]["content"]["parts"][0]       |
++-----------------------------------------------------------------------------+
+RuntimeError: Gemini TTS request failed: {
+  "error": {
+    "code": 400,
+    "message": "Model tried to generate text, but it should only be used for 
+TTS. Make sure your instructions are clear to only generate audio from a given 
+text transcript.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
