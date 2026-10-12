@@ -1,0 +1,203 @@
+﻿operable program or batch file.
+                             here:                                             
+                                  - - -                                        
+                                 If you do (or think that you                  
+                                 path variables.                               
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[hook          ] start board: 0 text mobjects
+[10/06/26 11:31:50] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[title         ] start board: 6 text mobjects -> Text('WhyTheseTests?') @(0.50,2.72); VGroup('4') @(0.40,1.66); VGroup('8') @(0.01,0.62); VGroup('11') @(0.50,-0.42); Text('Thetestsarealreadyaroundyo') @(0.50,-1.16); Text('Lookforthemoutsidethetextb') @(0.50,-1.80)
+[10/06/26 11:31:53] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[scene1        ] start board: 7 text mobjects -> Text('AdvancedDivisibilityTests') @(0.50,1.82); Text('QuickTestsfor4,8and11') @(0.50,1.06); VGroup('4') @(-1.06,-0.04); VGroup('8') @(0.50,-0.04); VGroup('11') @(2.06,-0.04); Text('Testdivisibilitywithoutdiv') @(0.50,-1.20)
+[10/06/26 11:31:55] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[scene2        ] start board: 15 text mobjects -> Text('NewNumbers,NewPatterns') @(0.50,2.72); VGroup('2') @(-1.80,1.98); VGroup('3') @(-0.88,1.98); VGroup('5') @(0.04,1.98); VGroup('6') @(0.96,1.98); VGroup('9') @(1.88,1.98)
+[10/06/26 11:32:04] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[scene3        ] start board: 7 text mobjects -> Text('Why4NeedsOnlyTwoDigits') @(0.50,2.72); VGroup('7') @(0.50,2.02); MathTex('76532 = 76500 + 32') @(0.50,1.22); MathTex('76500 = 765 \\times 100\\qqu') @(0.50,0.54); Text('thefirstpartisalreadydivis') @(0.50,-0.12); VGroup('32 \\div 4 = 8') @(0.50,-0.86)
+[10/06/26 11:32:08] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[scene4        ] start board: 8 text mobjects -> Text('Last2Digits') @(0.50,2.72); VGroup('9') @(1.00,1.98); VGroup('6') @(1.50,1.98); VGroup('5') @(-0.00,1.98); MathTex('96 = 4 \\times 24') @(0.50,0.98); Text('56496isdivisibleby4') @(0.50,-0.34)
+[10/06/26 11:32:15] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+                             93000 +                                           
+                             </g>} to                                          
+                             media\Tex\14cd21c91a4e6189                        
+                             .tex                                              
+[scene5        ] start board: 7 text mobjects -> Text('Why8NeedsThreeDigits') @(0.50,2.72); VGroup('100') @(0.50,2.02); VGroup('9') @(0.50,1.24); MathTex('93624 = 93000 + 624') @(0.50,0.50); Text('93000isamultipleof1000,soi') @(0.50,-0.20); Text('624=8×78,so93624isdivisibl') @(0.50,-1.02)
+[10/06/26 11:32:22] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[scene6        ] start board: 6 text mobjects -> Text("Don'tMixtheTwo") @(0.50,2.72); VGroup('2') @(0.50,1.90); Text('for4:lasttwo→04=4') @(0.50,1.02); Text('for8:lastthree→104=8×13') @(0.50,0.30); Text('4→TWOdigits8→THREEdigits') @(0.50,-0.66); Text('4looksattwodigits;8looksat') @(0.50,-1.80)
+[10/06/26 11:32:27] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+                             </g>} to                                          
+                             media\Tex\004c92a3952f9196                        
+                             .tex                                              
+[scene7        ] start board: 12 text mobjects -> Text('Divisibilityby11') @(0.50,2.72); VGroup('1') @(-0.05,2.02); Text('odd') @(0.70,1.56); Text('even') @(0.20,1.56); Text('odd') @(-0.30,1.56); Text('even') @(-0.80,1.56)
+[10/06/26 11:32:35] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+                             </g>} to                                          
+                             media\Tex\1d27cd581a541e3b                        
+                             .tex                                              
+                             </g>} to                                          
+                             media\Tex\4dad6ff24864ec4b                        
+                             .tex                                              
+[scene8        ] start board: 11 text mobjects -> Text('WhentheTestFails') @(0.50,2.72); VGroup('6') @(-0.05,2.02); Text('odd') @(0.70,1.56); Text('even') @(0.20,1.56); Text('odd') @(-0.30,1.56); Text('even') @(-0.80,1.56)
+[10/06/26 11:32:42] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+[apply         ] start board: 6 text mobjects -> Text('ThreeAdvancedRules,ThreeCl') @(0.50,2.72); VGroup('÷4LAST2DIGITS') @(-2.80,0.90); VGroup('÷8LAST3DIGITS') @(0.50,0.90); VGroup('÷11ALTERNATINGSUMS') @(3.80,0.90); Text('4→2digits8→3digits11→2alte') @(0.50,-0.86); Text('Threecluesinsteadofthreetr') @(0.50,-1.80)
+[10/06/26 11:32:48] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+                             </g>} to                                          
+                             media\Tex\8a310f89494b6cee                        
+                             .tex                                              
+[scene9        ] start board: 7 text mobjects -> Text('RealSeats,RealBoxes') @(0.50,2.72); VGroup('5') @(0.50,1.86); VGroup('boxesoffourseats') @(0.50,1.00); MathTex('96 \\div 4 = 24') @(0.50,0.28); Text('so56496dividesbyfour') @(0.50,-0.30); VGroup('noseatisleftover') @(0.50,-1.05)
+[10/06/26 11:32:57] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+                             </g>} to                                          
+                             media\Tex\c0d1a9d44dbae868                        
+                             .tex                                              
+[scene10       ] start board: 7 text mobjects -> Text('YOURTURN') @(0.50,2.62); Text('Choosetherulebeforeyoucalc') @(0.50,2.24); VGroup('1') @(0.50,1.55); Text('oddplaces:4+8+1=13') @(-1.70,0.62); Text('evenplaces:2+0=2') @(2.50,0.62); VGroup('13 - 2 = 11') @(0.50,-0.25)
+[10/06/26 11:33:10] WARNING  [synced_voice] keeping service synced_voice.py:187
+                             timings:                                          
+                             'DivisibilityRulesAdvancedStor                    
+                             y' object has no attribute                        
+                             'speech_service'                                  
+===== SYNC (animation time vs audio duration per beat) =====
+hook           audio= 11.16s anim= 11.16s stretch= 0.00s
+title          audio=  9.00s anim=  9.00s stretch= 0.00s
+scene1         audio= 13.32s anim= 13.32s stretch= 0.00s
+scene2         audio= 17.28s anim= 17.28s stretch= 0.00s
+scene3         audio= 14.04s anim= 14.04s stretch= 0.00s
+scene4         audio= 20.16s anim= 20.16s stretch= 0.00s
+scene5         audio= 14.40s anim= 14.40s stretch= 0.00s
+scene6         audio= 12.96s anim= 12.96s stretch= 0.00s
+scene7         audio= 13.32s anim= 13.32s stretch= 0.00s
+scene8         audio= 11.52s anim= 11.52s stretch= 0.00s
+apply          audio= 12.24s anim= 12.24s stretch= 0.00s
+scene9         audio= 23.04s anim= 23.04s stretch= 0.00s
+scene10        audio= 12.60s anim= 12.60s stretch= 0.00s
+TOTAL          audio=185.04s anim=185.04s stretch= 0.00s   (video time incl. gaps ~ 191.2s)
+===== OVERLAPS =====
+[hook         step  3] OFF-CENTRE  dx=-0.49 span=[-2.10..+2.12] VGroup('8') @(0.01,0.62)
+[hook         step  4] OFF-CENTRE  dx=-0.49 span=[-2.10..+2.12] VGroup('8') @(0.01,0.62)
+[hook         step  5] OFF-CENTRE  dx=-0.49 span=[-2.10..+2.12] VGroup('8') @(0.01,0.62)
+[hook         step  6] OFF-CENTRE  dx=-0.49 span=[-2.10..+2.12] VGroup('8') @(0.01,0.62)
+[hook         step  7] OFF-CENTRE  dx=-0.49 span=[-2.10..+2.12] VGroup('8') @(0.01,0.62)
+[scene6       step 58] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 59] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 60] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 60] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 61] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 61] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 61] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene6       step 62] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 62] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 62] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene6       step 62] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene6       step 63] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 63] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 63] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene6       step 63] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene6       step 64] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 64] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 64] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene6       step 64] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene6       step 65] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 65] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 65] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene6       step 65] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene6       step 66] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('1') @(-0.05,2.02)
+[scene6       step 66] OFF-CENTRE  dx=+3.05 span=[+2.36..+4.74] Text('startfromtheright←') @(3.55,2.02)
+[scene6       step 66] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene6       step 66] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene7       step 68] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 69] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 70] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 70] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene7       step 70] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene7       step 71] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 71] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene7       step 71] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene7       step 72] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 72] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene7       step 72] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene7       step 73] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 73] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene7       step 73] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene7       step 74] OFF-CENTRE  dx=-0.55 span=[-1.00..+0.90] VGroup('6') @(-0.05,2.02)
+[scene7       step 74] OFF-CENTRE  dx=-2.90 span=[-4.10..-0.70] VGroup('oddplaces') @(-2.40,0.50)
+[scene7       step 74] OFF-CENTRE  dx=+2.90 span=[+1.70..+5.10] VGroup('evenplaces') @(3.40,0.50)
+[scene8       step 76] OFF-CENTRE  dx=-3.30 span=[-4.30..-1.30] VGroup('÷4LAST2DIGITS') @(-2.80,0.90)
+[scene8       step 77] OFF-CENTRE  dx=-3.30 span=[-4.30..-1.30] VGroup('÷4LAST2DIGITS') @(-2.80,0.90)
+[scene8       step 78] OFF-CENTRE  dx=-3.30 span=[-4.30..-1.30] VGroup('÷4LAST2DIGITS') @(-2.80,0.90)
+[scene8       step 78] OFF-CENTRE  dx=+3.30 span=[+2.30..+5.30] VGroup('÷11ALTERNATINGSUMS') @(3.80,0.90)
+[scene8       step 79] OFF-CENTRE  dx=-3.30 span=[-4.30..-1.30] VGroup('÷4LAST2DIGITS') @(-2.80,0.90)
+[scene8       step 79] OFF-CENTRE  dx=+3.30 span=[+2.30..+5.30] VGroup('÷11ALTERNATINGSUMS') @(3.80,0.90)
+[scene8       step 80] OFF-CENTRE  dx=-3.30 span=[-4.30..-1.30] VGroup('÷4LAST2DIGITS') @(-2.80,0.90)
+[scene8       step 80] OFF-CENTRE  dx=+3.30 span=[+2.30..+5.30] VGroup('÷11ALTERNATINGSUMS') @(3.80,0.90)
+[scene8       step 81] OFF-CENTRE  dx=-3.30 span=[-4.30..-1.30] VGroup('÷4LAST2DIGITS') @(-2.80,0.90)
+[scene8       step 81] OFF-CENTRE  dx=+3.30 span=[+2.30..+5.30] VGroup('÷11ALTERNATINGSUMS') @(3.80,0.90)
+[scene9       step 93] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 94] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 95] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 96] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 97] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 98] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 99] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 100] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 100] OFF-CENTRE  dx=-3.05 span=[-3.95..-1.15] VGroup('lasttwo:52=4×13') @(-2.55,0.94)
+[scene9       step 100] OFF-CENTRE  dx=-3.05 span=[-4.10..-1.00] VGroup('lastthree:352=8×44') @(-2.55,0.44)
+[scene9       step 101] OFF-CENTRE  dx=-3.05 span=[-4.00..-1.10] VGroup('7') @(-2.55,1.58)
+[scene9       step 101] OFF-CENTRE  dx=-3.05 span=[-3.95..-1.15] VGroup('lasttwo:52=4×13') @(-2.55,0.94)
+[scene9       step 101] OFF-CENTRE  dx=-3.05 span=[-4.10..-1.00] VGroup('lastthree:352=8×44') @(-2.55,0.44)
+[scene9       step 104] OFF-CENTRE  dx=-2.20 span=[-3.61..+0.21] Text('oddplaces:4+8+1=13') @(-1.70,0.62)
+[scene9       step 104] OFF-CENTRE  dx=+2.00 span=[+0.90..+4.10] Text('evenplaces:2+0=2') @(2.50,0.62)
+[scene9       step 105] OFF-CENTRE  dx=-2.20 span=[-3.61..+0.21] Text('oddplaces:4+8+1=13') @(-1.70,0.62)
+[scene9       step 105] OFF-CENTRE  dx=+2.00 span=[+0.90..+4.10] Text('evenplaces:2+0=2') @(2.50,0.62)
+[scene9       step 106] OFF-CENTRE  dx=-2.20 span=[-3.61..+0.21] Text('oddplaces:4+8+1=13') @(-1.70,0.62)
+[scene9       step 106] OFF-CENTRE  dx=+2.00 span=[+0.90..+4.10] Text('evenplaces:2+0=2') @(2.50,0.62)
+[scene9       step 107] OFF-CENTRE  dx=-2.20 span=[-3.61..+0.21] Text('oddplaces:4+8+1=13') @(-1.70,0.62)
+[scene9       step 107] OFF-CENTRE  dx=+2.00 span=[+0.90..+4.10] Text('evenplaces:2+0=2') @(2.50,0.62)

@@ -1,0 +1,199 @@
+1
+00:00:00,140 --> 00:00:03,550
+Every number carries a clue about its divisors. Here
+
+2
+00:00:03,550 --> 00:00:07,058
+are the quick tests for six divisors, with no
+
+3
+00:00:07,058 --> 00:00:10,331
+long division at all. Look, add, combine.
+
+4
+00:00:10,987 --> 00:00:14,680
+Hasini has one hundred and twenty five chocolates to
+
+5
+00:00:14,680 --> 00:00:17,027
+share. Traders shared grain this way for centuries. Five
+
+6
+00:00:17,027 --> 00:00:19,857
+at a time gives twenty five groups; six leaves
+
+7
+00:00:19,857 --> 00:00:23,557
+five over. Every guess costs a division. So can
+
+8
+00:00:23,557 --> 00:00:26,918
+we tell without dividing? Yes, with a divisibility rule.
+
+9
+00:00:27,407 --> 00:00:30,850
+What does divisible mean? Twenty four divided by four
+
+10
+00:00:30,850 --> 00:00:34,747
+is six equal groups, remainder zero. Twenty nine leaves
+
+11
+00:00:34,747 --> 00:00:39,147
+one over. Remainder zero: that is the test. Now
+
+12
+00:00:39,147 --> 00:00:40,758
+inspect the digits.
+
+13
+00:00:41,540 --> 00:00:45,580
+Divisibility by two. Take nine hundred fifty three and
+
+14
+00:00:45,580 --> 00:00:49,160
+nine thousand five hundred thirty four. Only the ones
+
+15
+00:00:49,160 --> 00:00:53,720
+digit matters. Even endings: zero, two, four, six, eight.
+
+16
+00:00:53,720 --> 00:01:00,111
+The second passes; the first does not. Ignore every other digit.
+
+17
+00:01:00,587 --> 00:01:04,307
+Divisibility by five and ten. Five thousand seven hundred
+
+18
+00:01:04,307 --> 00:01:07,879
+eighty five ends in five: five divides it. One
+
+19
+00:01:07,879 --> 00:01:10,930
+thousand two hundred fifty ends in zero: five and
+
+20
+00:01:10,930 --> 00:01:14,987
+ten divide it. Two needs even; five needs zero
+
+21
+00:01:14,987 --> 00:01:18,238
+or five; ten needs zero. Three rules, one glance.
+
+22
+00:01:18,920 --> 00:01:22,682
+Divisibility by three is different. Twenty seven and thirty
+
+23
+00:01:22,682 --> 00:01:25,248
+seven both end in seven, yet only twenty seven
+
+24
+00:01:25,248 --> 00:01:28,771
+divides by three. Add the digits of thirty six
+
+25
+00:01:28,771 --> 00:01:32,453
+thousand one hundred twenty nine. Three, six, one, two,
+
+26
+00:01:32,453 --> 00:01:36,531
+nine: twenty one, which three divides. So the number does too.
+
+27
+00:01:37,153 --> 00:01:41,993
+Divisibility by nine: the same digits, a stronger question.
+
+28
+00:01:41,993 --> 00:01:45,213
+Nine thousand eight hundred forty six. Nine, eight, four,
+
+29
+00:01:45,213 --> 00:01:49,043
+six: twenty seven, which is nine times three. So
+
+30
+00:01:49,043 --> 00:01:53,584
+nine divides it. Same digits, stronger question.
+
+31
+00:01:54,310 --> 00:01:58,419
+Divisibility by six needs two tests. Seven thousand two
+
+32
+00:01:58,419 --> 00:02:02,150
+hundred twenty four ends in four, an even digit.
+
+33
+00:02:02,150 --> 00:02:07,660
+Seven, two, two, four: fifteen, and three divides fifteen.
+
+34
+00:02:07,660 --> 00:02:11,561
+Both pass, so six divides it. Remember the word both.
+
+35
+00:02:12,191 --> 00:02:16,171
+Now use it. Three hundred seventy two runners want
+
+36
+00:02:16,171 --> 00:02:21,251
+equal teams of six. Test two: the number ends
+
+37
+00:02:21,251 --> 00:02:24,891
+in two. Test three: three, seven, two, twelve. Both
+
+38
+00:02:24,891 --> 00:02:27,222
+pass: sixty two teams, nobody out.
+
+39
+00:02:27,844 --> 00:02:30,464
+Which of two, three, five, six, nine and ten
+
+40
+00:02:30,464 --> 00:02:33,504
+divide twelve thousand three hundred forty five? Pause and
+
+41
+00:02:33,504 --> 00:02:37,984
+decide. The last digit is five, which is odd:
+
+42
+00:02:37,984 --> 00:02:42,284
+two fails, and six too. Five passes, and ten
+
+43
+00:02:42,284 --> 00:02:46,674
+fails. The digits add to fifteen: three passes, nine
+
+44
+00:02:46,674 --> 00:02:49,815
+fails. Divisible by three and five.
+
+45
+00:02:50,456 --> 00:02:54,546
+All six rules, in three ideas. Last digit: two
+
+46
+00:02:54,546 --> 00:02:57,236
+needs even; five needs zero or five; ten needs
+
+47
+00:02:57,236 --> 00:03:00,960
+zero. Add the digits: three needs a sum divisible
+
+48
+00:03:00,960 --> 00:03:04,036
+by three; nine by nine. Combine: six needs two
+
+49
+00:03:04,036 --> 00:03:08,176
+and three together. Look, add, combine. Thank you for
+
+50
+00:03:08,176 --> 00:03:10,267
+watching. See you next lesson.

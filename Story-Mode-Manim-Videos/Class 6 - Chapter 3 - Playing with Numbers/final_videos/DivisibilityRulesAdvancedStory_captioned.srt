@@ -1,0 +1,243 @@
+1
+00:00:00,240 --> 00:00:02,733
+These tests are not only for the classroom. A
+
+2
+00:00:02,733 --> 00:00:07,389
+leap year arrives every four years. A tiler checks
+
+3
+00:00:07,389 --> 00:00:10,605
+whether eight tiles fit the wall. A bank reads
+
+4
+00:00:10,605 --> 00:00:13,051
+eleven on long account numbers.
+
+5
+00:00:13,660 --> 00:00:18,404
+Three more divisibility tests. Four, eight and eleven need
+
+6
+00:00:18,404 --> 00:00:21,085
+more than the last digit, and more than the
+
+7
+00:00:21,085 --> 00:00:24,931
+digit sum. Zoom in, zoom deeper, and alternate.
+
+8
+00:00:25,587 --> 00:00:28,717
+The scanner knows six rules: two, three, five, six,
+
+9
+00:00:28,717 --> 00:00:32,498
+nine and ten. Three new numbers join them: four,
+
+10
+00:00:32,498 --> 00:00:36,663
+eight and eleven. One digit is not enough for
+
+11
+00:00:36,663 --> 00:00:42,358
+these. Four and eight look deeper; eleven needs a new idea.
+
+12
+00:00:42,940 --> 00:00:45,851
+Divisibility by four. Seventy six thousand five hundred thirty
+
+13
+00:00:45,851 --> 00:00:49,940
+two is seventy six thousand five hundred, plus thirty
+
+14
+00:00:49,940 --> 00:00:52,280
+two. The first part is a multiple of one
+
+15
+00:00:52,280 --> 00:00:55,453
+hundred, which divides by four. So it is already
+
+16
+00:00:55,453 --> 00:00:58,620
+divisible by four. Only thirty two is left, and
+
+17
+00:00:58,620 --> 00:00:59,831
+it divides by four.
+
+18
+00:01:00,727 --> 00:01:03,040
+Now use it on fifty six thousand four hundred
+
+19
+00:01:03,040 --> 00:01:06,170
+ninety six. The lens closes on ninety six. Ninety
+
+20
+00:01:06,170 --> 00:01:09,827
+six is four times twenty four, so it passes.
+
+21
+00:01:09,827 --> 00:01:13,667
+So the whole number divides by four. The test
+
+22
+00:01:13,667 --> 00:01:15,418
+works above one hundred.
+
+23
+00:01:16,087 --> 00:01:19,817
+Divisibility by eight. One hundred fails, but one thousand
+
+24
+00:01:19,817 --> 00:01:23,961
+works: eight times one hundred twenty five. Break ninety
+
+25
+00:01:23,961 --> 00:01:27,507
+three thousand six hundred twenty four into two parts:
+
+26
+00:01:27,507 --> 00:01:30,847
+ninety three thousand, plus six hundred twenty four. That
+
+27
+00:01:30,847 --> 00:01:33,187
+part is a multiple of one thousand, so eight
+
+28
+00:01:33,187 --> 00:01:36,557
+already divides it. And six hundred twenty four divides
+
+29
+00:01:36,557 --> 00:01:37,978
+by eight exactly.
+
+30
+00:01:39,017 --> 00:01:41,677
+Do not mix the two. Take two thousand one
+
+31
+00:01:41,677 --> 00:01:44,329
+hundred four. For four, the last two digits are
+
+32
+00:01:44,329 --> 00:01:47,617
+zero four: four itself. For eight, the last three:
+
+33
+00:01:47,617 --> 00:01:50,917
+one hundred four, eight times thirteen. Four looks at
+
+34
+00:01:50,917 --> 00:01:53,328
+two digits, eight at three.
+
+35
+00:01:54,117 --> 00:01:59,397
+Divisibility by eleven. Count the places from the right:
+
+36
+00:01:59,397 --> 00:02:05,647
+odd, even, odd, even. Odd places: one plus two
+
+37
+00:02:05,647 --> 00:02:09,893
+is three. Even places: two plus one is three.
+
+38
+00:02:09,893 --> 00:02:13,928
+Compare: three minus three is zero. Zero: eleven divides it.
+
+39
+00:02:14,563 --> 00:02:17,788
+Now a number that fails. Six thousand five hundred
+
+40
+00:02:17,788 --> 00:02:22,711
+thirty five. Odd places: five plus five, ten. Even
+
+41
+00:02:22,711 --> 00:02:26,560
+places: three plus six, nine. Ten minus nine is
+
+42
+00:02:26,560 --> 00:02:30,394
+one. One is not zero and not a multiple of eleven.
+
+43
+00:02:31,047 --> 00:02:33,050
+Three advanced rules, three clues. For four, zoom into
+
+44
+00:02:33,050 --> 00:02:37,227
+the last two digits. For eight, zoom into the
+
+45
+00:02:37,227 --> 00:02:41,087
+last three. For eleven, split the digits into two
+
+46
+00:02:41,087 --> 00:02:43,878
+alternating groups and compare their sums.
+
+47
+00:02:44,757 --> 00:02:47,457
+Fifty six thousand four hundred ninety six seats go
+
+48
+00:02:47,457 --> 00:02:51,137
+into four-seat boxes. Does anything stay empty? The last
+
+49
+00:02:51,137 --> 00:02:54,583
+two digits, ninety six, divide by four. So the
+
+50
+00:02:54,583 --> 00:02:57,268
+whole number does. No seat is left over.
+
+51
+00:02:57,877 --> 00:03:02,917
+Your turn. First, seven hundred twenty six thousand three
+
+52
+00:03:02,917 --> 00:03:07,197
+hundred fifty two. Pause and decide. Last two digits,
+
+53
+00:03:07,197 --> 00:03:11,617
+fifty two: four divides it. Last three digits, three
+
+54
+00:03:11,617 --> 00:03:15,097
+hundred fifty two: eight divides it too. So that
+
+55
+00:03:15,097 --> 00:03:18,505
+number passes both tests. Now a second number: ten
+
+56
+00:03:18,505 --> 00:03:22,483
+thousand eight hundred twenty four. Odd places thirteen, even
+
+57
+00:03:22,483 --> 00:03:27,228
+places two. Thirteen minus two is eleven, so eleven divides it.
+
+58
+00:03:27,843 --> 00:03:30,859
+One last look. Four: the last two digits. Eight:
+
+59
+00:03:30,859 --> 00:03:37,023
+the last three digits. Eleven: alternate the places, add
+
+60
+00:03:37,023 --> 00:03:42,923
+each group, compare. Zoom, zoom more, alternate. Thank you
+
+61
+00:03:42,923 --> 00:03:45,514
+for watching, and see you in the next lesson.
