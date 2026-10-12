@@ -1,0 +1,21 @@
+What is Trigonometry? — Scene Timestamps
+======================================================================
+
+Beat   Name                Start      End   Duration
+----------------------------------------------------------------------
+1      Greeting          0:00.00  0:14.80    14.80s
+2      The Word          0:14.80  0:40.83    26.03s
+3      Why Triangles (3D)  0:40.83  1:15.92    35.08s
+4      Cannot Reach      1:15.92  1:40.52    24.60s
+5      The Trick (3D)    1:40.52  2:17.80    37.28s
+6      Three Sides       2:17.80  2:40.17    22.37s
+7      Same Angle -> tan  2:40.17  3:13.13    32.97s
+8      Where It Is Used (3D)  3:13.13  3:39.22    26.08s
+9      Summary Points    3:39.22  4:03.43    24.22s
+10     Thanks            4:03.43  4:17.75    14.32s
+----------------------------------------------------------------------
+
+Total duration: 4:17.75 (257.75s)
+Total scenes: 10
+
+Individual scene MP4s in: D:\Manim-Short-Videos\trigonometry_intro_scenes\renders
