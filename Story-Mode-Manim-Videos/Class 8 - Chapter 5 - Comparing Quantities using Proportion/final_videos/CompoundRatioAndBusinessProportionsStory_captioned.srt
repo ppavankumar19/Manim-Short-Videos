@@ -1,0 +1,407 @@
+1
+00:00:00,240 --> 00:00:05,011
+Compound ratio and inverse ratio. Applications in business profit sharing.
+
+2
+00:00:05,513 --> 00:00:08,376
+Meet two partners. Ramayya invests two thousand rupees, and
+
+3
+00:00:08,376 --> 00:00:11,398
+keeps that money in the business for twelve months.
+
+4
+00:00:11,398 --> 00:00:14,142
+Gopalam invests three thousand rupees for nine months. At
+
+5
+00:00:14,142 --> 00:00:16,757
+the end of the year the business earns a
+
+6
+00:00:16,757 --> 00:00:20,913
+profit. Should the two partners share that profit equally?
+
+7
+00:00:20,913 --> 00:00:24,513
+No. Profit in a partnership is shared in the
+
+8
+00:00:24,513 --> 00:00:26,744
+ratio of what each partner contributed.
+
+9
+00:00:27,327 --> 00:00:31,016
+A ratio is an ordered comparison. Three to two
+
+10
+00:00:31,016 --> 00:00:33,407
+is not the same as two to three. The
+
+11
+00:00:33,407 --> 00:00:36,627
+order of the two terms matters. If we swap
+
+12
+00:00:36,627 --> 00:00:38,767
+the two terms of a ratio, we get its
+
+13
+00:00:38,767 --> 00:00:42,775
+inverse ratio: a to b becomes b to a.
+
+14
+00:00:42,775 --> 00:00:45,427
+So the inverse of four to five is five
+
+15
+00:00:45,427 --> 00:00:49,215
+to four. Inverse means swap the terms. It never
+
+16
+00:00:49,215 --> 00:00:52,118
+means add them, and it never means change their signs.
+
+17
+00:00:52,773 --> 00:00:55,078
+Now suppose both partners keep their money in for
+
+18
+00:00:55,078 --> 00:00:57,793
+the same time. Ramayya invests two thousand rupees for
+
+19
+00:00:57,793 --> 00:01:00,663
+twelve months. Gopalam also invests for twelve months, but
+
+20
+00:01:00,663 --> 00:01:03,547
+he puts in three thousand rupees. The time is
+
+21
+00:01:03,547 --> 00:01:07,013
+the same for both, so the time factor cancels.
+
+22
+00:01:07,013 --> 00:01:10,707
+The capitals are in the ratio two thousand to
+
+23
+00:01:10,707 --> 00:01:13,983
+three thousand, which simplifies to two to three. So
+
+24
+00:01:13,983 --> 00:01:17,804
+the profit is divided in the ratio two to three.
+
+25
+00:01:18,353 --> 00:01:20,475
+Now suppose both partners invest the same capital. Each
+
+26
+00:01:20,475 --> 00:01:23,513
+of them invests five thousand rupees. But Ramayya keeps
+
+27
+00:01:23,513 --> 00:01:26,963
+his money in for twelve months, while Gopalam keeps
+
+28
+00:01:26,963 --> 00:01:29,846
+his in for only nine months. The capital is
+
+29
+00:01:29,846 --> 00:01:33,713
+the same for both, so the capital factor cancels.
+
+30
+00:01:33,713 --> 00:01:36,370
+The times are in the ratio twelve to nine,
+
+31
+00:01:36,370 --> 00:01:39,613
+and that simplifies to four to three. So here
+
+32
+00:01:39,613 --> 00:01:43,024
+the profit follows the time ratio, four to three.
+
+33
+00:01:43,553 --> 00:01:45,530
+But in our business, both the money and the
+
+34
+00:01:45,530 --> 00:01:49,543
+time are different. Ramayya gives two thousand rupees for
+
+35
+00:01:49,543 --> 00:01:52,578
+twelve months. Gopalam gives three thousand rupees for nine
+
+36
+00:01:52,578 --> 00:01:56,600
+months. The capital ratio is two to three. The
+
+37
+00:01:56,600 --> 00:01:58,733
+time ratio is twelve to nine, that is four
+
+38
+00:01:58,733 --> 00:02:02,453
+to three. Neither ratio alone can decide the profit,
+
+39
+00:02:02,453 --> 00:02:04,824
+so the two ratios must be combined.
+
+40
+00:02:05,513 --> 00:02:08,101
+To combine two ratios we use the compound ratio.
+
+41
+00:02:08,101 --> 00:02:10,433
+For the ratios a to b and c to
+
+42
+00:02:10,433 --> 00:02:14,063
+d, multiply the first terms together, and multiply the
+
+43
+00:02:14,063 --> 00:02:17,798
+second terms together. The compound ratio is a times
+
+44
+00:02:17,798 --> 00:02:21,633
+c to b times d. A common mistake is
+
+45
+00:02:21,633 --> 00:02:24,193
+to add the terms instead, and write a plus
+
+46
+00:02:24,193 --> 00:02:26,738
+c to b plus d. That is wrong. A
+
+47
+00:02:26,738 --> 00:02:30,744
+compound ratio multiplies corresponding terms; it never adds them.
+
+48
+00:02:31,350 --> 00:02:35,450
+Let us apply the rule. We multiply the capital
+
+49
+00:02:35,450 --> 00:02:38,970
+ratio two to three by the time ratio four
+
+50
+00:02:38,970 --> 00:02:41,326
+to three. Two times four is eight, and three
+
+51
+00:02:41,326 --> 00:02:44,530
+times three is nine, so the compound ratio is
+
+52
+00:02:44,530 --> 00:02:48,015
+eight to nine. Let us cross-check with money multiplied
+
+53
+00:02:48,015 --> 00:02:51,033
+by time. Two thousand times twelve is twenty four
+
+54
+00:02:51,033 --> 00:02:53,850
+thousand, and three thousand times nine is twenty seven
+
+55
+00:02:53,850 --> 00:02:58,667
+thousand. Twenty four thousand to twenty seven thousand simplifies
+
+56
+00:02:58,667 --> 00:03:02,001
+to eight to nine, so the compound ratio is correct.
+
+57
+00:03:02,607 --> 00:03:05,227
+Now let us turn that ratio into rupees. Suppose
+
+58
+00:03:05,227 --> 00:03:08,207
+the profit for the year is seventeen thousand rupees.
+
+59
+00:03:08,207 --> 00:03:11,767
+This total is an example, not a textbook figure.
+
+60
+00:03:11,767 --> 00:03:14,682
+The ratio is eight to nine, so the profit
+
+61
+00:03:14,682 --> 00:03:17,767
+is divided into eight plus nine, that is seventeen,
+
+62
+00:03:17,767 --> 00:03:22,237
+equal parts. Seventeen thousand divided by seventeen gives one
+
+63
+00:03:22,237 --> 00:03:24,900
+thousand rupees for each part. Ramayya takes eight parts,
+
+64
+00:03:24,900 --> 00:03:28,240
+that is eight thousand rupees. Gopalam takes nine parts,
+
+65
+00:03:28,240 --> 00:03:31,668
+that is nine thousand rupees, and eight thousand plus
+
+66
+00:03:31,668 --> 00:03:35,798
+nine thousand is seventeen thousand. The whole profit is shared.
+
+67
+00:03:36,397 --> 00:03:39,174
+Here is the decision rule to remember. If the
+
+68
+00:03:39,174 --> 00:03:40,658
+time is the same, share the profit in the
+
+69
+00:03:40,658 --> 00:03:44,417
+ratio of the capitals. If the capital is the
+
+70
+00:03:44,417 --> 00:03:47,613
+same, share it in the ratio of the times.
+
+71
+00:03:47,613 --> 00:03:50,108
+If both the capital and the time are different,
+
+72
+00:03:50,108 --> 00:03:53,342
+share it in the compound ratio of capital and
+
+73
+00:03:53,342 --> 00:03:55,245
+time. So the share of the profit follows capital
+
+74
+00:03:55,245 --> 00:03:56,368
+multiplied by time.
+
+75
+00:03:56,833 --> 00:04:00,969
+Your turn. Four quick checks. First: write the inverse
+
+76
+00:04:00,969 --> 00:04:04,733
+of the ratio seven to five. Second: find the
+
+77
+00:04:04,733 --> 00:04:07,137
+compound ratio of three to four and two to
+
+78
+00:04:07,137 --> 00:04:11,413
+three. Third: compound three to four with the inverse
+
+79
+00:04:11,413 --> 00:04:15,893
+of four to five. And last: partner P invests
+
+80
+00:04:15,893 --> 00:04:18,823
+four thousand rupees for six months, and partner Q
+
+81
+00:04:18,823 --> 00:04:22,080
+invests three thousand rupees for eight months. In what
+
+82
+00:04:22,080 --> 00:04:23,984
+ratio should they share the profit?
+
+83
+00:04:35,230 --> 00:04:36,640
+The inverse of seven to five is five to
+
+84
+00:04:36,640 --> 00:04:39,024
+seven, because the inverse swaps the two terms. The
+
+85
+00:04:39,024 --> 00:04:41,615
+compound ratio of three to four and two to
+
+86
+00:04:41,615 --> 00:04:43,466
+three is six to twelve, which simplifies to one
+
+87
+00:04:43,466 --> 00:04:47,237
+to two. Three to four, compounded with the inverse
+
+88
+00:04:47,237 --> 00:04:49,290
+of four to five, is three times five to
+
+89
+00:04:49,290 --> 00:04:51,510
+four times four, that is fifteen to sixteen. And
+
+90
+00:04:51,510 --> 00:04:56,261
+for P and Q, four thousand times six is
+
+91
+00:04:56,261 --> 00:04:59,343
+twenty four thousand, and three thousand times eight is
+
+92
+00:04:59,343 --> 00:05:02,068
+also twenty four thousand. So the ratio is one
+
+93
+00:05:02,068 --> 00:05:05,521
+to one, and the two partners share the profit equally.
+
+94
+00:05:06,090 --> 00:05:08,748
+One last look. The inverse ratio swaps the two
+
+95
+00:05:08,748 --> 00:05:13,005
+terms: a to b becomes b to a. The
+
+96
+00:05:13,005 --> 00:05:16,330
+compound ratio multiplies corresponding terms: a to b and
+
+97
+00:05:16,330 --> 00:05:18,726
+c to d give a times c to b
+
+98
+00:05:18,726 --> 00:05:22,461
+times d. In a partnership, a partner's share follows
+
+99
+00:05:22,461 --> 00:05:25,350
+capital multiplied by time. And when the profit is
+
+100
+00:05:25,350 --> 00:05:28,750
+known, divide it into equal parts using the ratio.
+
+101
+00:05:28,750 --> 00:05:31,613
+Money and time together decide the share. Thank you
+
+102
+00:05:31,613 --> 00:05:35,081
+for watching, and see you in the next lesson.

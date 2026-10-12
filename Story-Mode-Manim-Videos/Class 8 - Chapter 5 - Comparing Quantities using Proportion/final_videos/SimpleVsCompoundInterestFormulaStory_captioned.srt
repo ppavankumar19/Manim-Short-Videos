@@ -1,0 +1,483 @@
+1
+00:00:00,260 --> 00:00:05,931
+Simple interest versus compound interest. Deriving the compound interest formula.
+
+2
+00:00:06,373 --> 00:00:07,840
+Ramesh and Sreenu lent the same money to two
+
+3
+00:00:07,840 --> 00:00:11,873
+different borrowers. Ramesh lent one hundred rupees at ten
+
+4
+00:00:11,873 --> 00:00:14,525
+percent for two years, and got back one hundred
+
+5
+00:00:14,525 --> 00:00:18,373
+and twenty rupees. Sreenu lent one hundred rupees at
+
+6
+00:00:18,373 --> 00:00:20,553
+the same ten percent, for the same two years,
+
+7
+00:00:20,553 --> 00:00:24,593
+and got back one hundred and twenty one rupees.
+
+8
+00:00:24,593 --> 00:00:26,981
+Same principal, same rate, same time, and yet one
+
+9
+00:00:26,981 --> 00:00:28,733
+rupee more. Where did that extra rupee come from?
+
+10
+00:00:28,733 --> 00:00:33,160
+The two friends used two different methods. Ramesh's method
+
+11
+00:00:33,160 --> 00:00:37,204
+is simple interest, and Sreenu's method is compound interest.
+
+12
+00:00:37,793 --> 00:00:41,426
+Ramesh uses simple interest. The interest is always calculated
+
+13
+00:00:41,426 --> 00:00:45,793
+on the original principal, so the base never changes.
+
+14
+00:00:45,793 --> 00:00:49,040
+One hundred rupees at ten percent gives ten rupees
+
+15
+00:00:49,040 --> 00:00:51,893
+of interest every year. Year one pays ten rupees,
+
+16
+00:00:51,893 --> 00:00:54,093
+and year two pays ten rupees again, because the
+
+17
+00:00:54,093 --> 00:00:55,983
+base is still the original one hundred. Ten plus
+
+18
+00:00:55,983 --> 00:00:59,264
+ten is twenty, so the amount is one hundred
+
+19
+00:00:59,264 --> 00:01:02,233
+plus twenty, that is one hundred and twenty rupees.
+
+20
+00:01:02,233 --> 00:01:06,313
+Simple interest is P times T times R, divided
+
+21
+00:01:06,313 --> 00:01:09,444
+by one hundred. For example, two thousand five hundred
+
+22
+00:01:09,444 --> 00:01:12,527
+rupees at twelve percent for three years gives nine
+
+23
+00:01:12,527 --> 00:01:15,070
+hundred rupees of interest, and the amount is three
+
+24
+00:01:15,070 --> 00:01:17,104
+thousand four hundred rupees.
+
+25
+00:01:17,713 --> 00:01:21,058
+Sreenu uses compound interest. Here each new amount becomes
+
+26
+00:01:21,058 --> 00:01:24,102
+the next principal, so the base itself grows. In
+
+27
+00:01:24,102 --> 00:01:26,736
+year one, ten percent of one hundred is ten
+
+28
+00:01:26,736 --> 00:01:28,913
+rupees, so the amount is one hundred and ten
+
+29
+00:01:28,913 --> 00:01:31,530
+rupees. That one hundred and ten rupees is now
+
+30
+00:01:31,530 --> 00:01:33,789
+the principal for year two. In year two, ten
+
+31
+00:01:33,789 --> 00:01:36,987
+percent of one hundred and ten is eleven rupees,
+
+32
+00:01:36,987 --> 00:01:40,111
+so the amount becomes one hundred and twenty one
+
+33
+00:01:40,111 --> 00:01:43,821
+rupees. The second interest is eleven rupees, one rupee
+
+34
+00:01:43,821 --> 00:01:46,778
+more than the first. That extra rupee is ten
+
+35
+00:01:46,778 --> 00:01:49,133
+percent of the first year's ten rupees of interest:
+
+36
+00:01:49,133 --> 00:01:52,564
+the interest itself earned interest.
+
+37
+00:01:53,107 --> 00:01:56,060
+Watch one period only. In one period the amount
+
+38
+00:01:56,060 --> 00:01:59,360
+is the principal plus the interest on it: A
+
+39
+00:01:59,360 --> 00:02:03,587
+one equals P plus P R over one hundred.
+
+40
+00:02:03,587 --> 00:02:05,987
+Take P outside the bracket, and the same amount
+
+41
+00:02:05,987 --> 00:02:07,817
+is P times one plus R over one hundred.
+
+42
+00:02:07,817 --> 00:02:11,287
+The bracket, one plus R over one hundred, is
+
+43
+00:02:11,287 --> 00:02:15,791
+the one period growth factor. Whatever the principal is,
+
+44
+00:02:15,791 --> 00:02:18,438
+one period multiplies it by that same factor.
+
+45
+00:02:19,067 --> 00:02:22,787
+Now the second year. The amount from year one
+
+46
+00:02:22,787 --> 00:02:25,882
+becomes the principal for year two. So the same
+
+47
+00:02:25,882 --> 00:02:30,375
+growth factor multiplies again. A two equals P times
+
+48
+00:02:30,375 --> 00:02:32,967
+one plus R over one hundred, times one plus
+
+49
+00:02:32,967 --> 00:02:36,100
+R over one hundred once more. Which is P
+
+50
+00:02:36,100 --> 00:02:39,421
+into the square of one plus R over one
+
+51
+00:02:39,421 --> 00:02:42,882
+hundred. Two years means two factors, and two factors
+
+52
+00:02:42,882 --> 00:02:46,587
+compress into one single power. That power is the
+
+53
+00:02:46,587 --> 00:02:48,938
+square, and every extra year adds one more.
+
+54
+00:02:49,467 --> 00:02:52,367
+One factor for every year. Year one multiplies by
+
+55
+00:02:52,367 --> 00:02:55,295
+the growth factor, year two multiplies again, year three
+
+56
+00:02:55,295 --> 00:02:57,737
+multiplies again, and so on up to year n.
+
+57
+00:02:57,737 --> 00:03:02,467
+Repeated multiplication by the same number compresses into a
+
+58
+00:03:02,467 --> 00:03:05,459
+power. So the amount after n years is A
+
+59
+00:03:05,459 --> 00:03:08,356
+equals P times one plus R over one hundred,
+
+60
+00:03:08,356 --> 00:03:12,344
+raised to the power n. The exponent n is
+
+61
+00:03:12,344 --> 00:03:16,238
+not a decoration. It is the number of growth periods.
+
+62
+00:03:16,743 --> 00:03:20,283
+Careful: this formula gives the amount. The amount is
+
+63
+00:03:20,283 --> 00:03:23,403
+the principal plus the interest, so it is not
+
+64
+00:03:23,403 --> 00:03:26,892
+the interest itself. The compound interest is the amount
+
+65
+00:03:26,892 --> 00:03:31,343
+minus the principal. So C I equals A minus
+
+66
+00:03:31,343 --> 00:03:33,230
+P, which is P times one plus R over
+
+67
+00:03:33,230 --> 00:03:35,289
+one hundred to the power n, minus P. For
+
+68
+00:03:35,289 --> 00:03:38,963
+one hundred rupees at ten percent for two years,
+
+69
+00:03:38,963 --> 00:03:41,612
+the amount is one hundred and twenty one rupees,
+
+70
+00:03:41,612 --> 00:03:44,674
+and the interest is twenty one rupees.
+
+71
+00:03:45,120 --> 00:03:47,878
+Let us use it with real numbers. Take P
+
+72
+00:03:47,878 --> 00:03:50,691
+equals five thousand rupees, R equals eight percent, and
+
+73
+00:03:50,691 --> 00:03:53,616
+n equals two years. One plus eight over one
+
+74
+00:03:53,616 --> 00:03:55,761
+hundred is one point zero eight, so the amount
+
+75
+00:03:55,761 --> 00:03:58,556
+is five thousand times one point zero eight squared.
+
+76
+00:03:58,556 --> 00:04:01,297
+That is five thousand eight hundred and thirty two
+
+77
+00:04:01,297 --> 00:04:04,980
+rupees. The compound interest is the amount minus the
+
+78
+00:04:04,980 --> 00:04:08,560
+principal. Five thousand eight hundred and thirty two minus
+
+79
+00:04:08,560 --> 00:04:11,310
+five thousand is eight hundred and thirty two rupees.
+
+80
+00:04:11,310 --> 00:04:14,471
+So the compound interest is eight hundred and thirty
+
+81
+00:04:14,471 --> 00:04:18,251
+two rupees, and not five thousand eight hundred and thirty two.
+
+82
+00:04:19,267 --> 00:04:21,476
+Put the two ladders side by side. On the
+
+83
+00:04:21,476 --> 00:04:24,231
+simple interest ladder the principal stays locked at one
+
+84
+00:04:24,231 --> 00:04:26,304
+hundred, so both years add the same ten rupees,
+
+85
+00:04:26,304 --> 00:04:28,745
+and the amount is one hundred and twenty. On
+
+86
+00:04:28,745 --> 00:04:31,711
+the compound ladder the first year makes one hundred
+
+87
+00:04:31,711 --> 00:04:34,227
+and ten, and that becomes the base, so the
+
+88
+00:04:34,227 --> 00:04:37,517
+second year adds eleven rupees, and the amount is
+
+89
+00:04:37,517 --> 00:04:40,367
+one hundred and twenty one. Now look at the
+
+90
+00:04:40,367 --> 00:04:42,607
+first year: both ladders add the same ten rupees,
+
+91
+00:04:42,607 --> 00:04:46,837
+because both started from the original principal. After that,
+
+92
+00:04:46,837 --> 00:04:49,787
+simple interest keeps adding the same block, while compound
+
+93
+00:04:49,787 --> 00:04:53,298
+interest adds a bigger block, because its base grows.
+
+94
+00:04:53,877 --> 00:04:58,557
+Your turn. Four quick checks. A: simple interest on
+
+95
+00:04:58,557 --> 00:05:01,777
+two thousand rupees at five percent for three years.
+
+96
+00:05:01,777 --> 00:05:04,536
+B: compound interest on five thousand rupees at ten
+
+97
+00:05:04,536 --> 00:05:08,347
+percent for two years. C: every year the interest
+
+98
+00:05:08,347 --> 00:05:11,357
+is calculated on five thousand rupees. And next year's
+
+99
+00:05:11,357 --> 00:05:14,957
+interest is calculated on the previous year's amount. D:
+
+100
+00:05:14,957 --> 00:05:19,268
+after the first year, are simple and compound interest different?
+
+101
+00:05:30,523 --> 00:05:34,463
+Let us check the four answers. A: two thousand
+
+102
+00:05:34,463 --> 00:05:37,460
+times three times five, divided by one hundred, is
+
+103
+00:05:37,460 --> 00:05:40,975
+three hundred rupees, so the amount is two thousand
+
+104
+00:05:40,975 --> 00:05:44,909
+three hundred. B: five thousand times one point one
+
+105
+00:05:44,909 --> 00:05:48,443
+squared is six thousand and fifty, so the compound
+
+106
+00:05:48,443 --> 00:05:53,342
+interest is one thousand and fifty. C: interest on
+
+107
+00:05:53,342 --> 00:05:56,412
+five thousand rupees every year is simple interest, and
+
+108
+00:05:56,412 --> 00:05:58,794
+interest on the previous year's amount is compound interest.
+
+109
+00:05:58,794 --> 00:06:03,449
+D: no, after the first period they are the
+
+110
+00:06:03,449 --> 00:06:06,874
+same, because both used the original principal.
+
+111
+00:06:07,463 --> 00:06:10,531
+One last look. Simple interest keeps the original principal
+
+112
+00:06:10,531 --> 00:06:13,443
+as the base, so every year adds the same
+
+113
+00:06:13,443 --> 00:06:17,503
+interest. Compound interest lets each new amount become the
+
+114
+00:06:17,503 --> 00:06:22,883
+next base, so the interest itself grows. We derived
+
+115
+00:06:22,883 --> 00:06:25,339
+it: A one, then A two, then A equals
+
+116
+00:06:25,339 --> 00:06:27,009
+P times one plus R over one hundred, to
+
+117
+00:06:27,009 --> 00:06:29,566
+the power n. And the formula gives the amount,
+
+118
+00:06:29,566 --> 00:06:33,347
+so the compound interest is A minus P. Simple
+
+119
+00:06:33,347 --> 00:06:35,629
+stays on the original base; compound grows on the
+
+120
+00:06:35,629 --> 00:06:38,378
+new base. Thank you for watching, and see you
+
+121
+00:06:38,378 --> 00:06:39,594
+in the next lesson.

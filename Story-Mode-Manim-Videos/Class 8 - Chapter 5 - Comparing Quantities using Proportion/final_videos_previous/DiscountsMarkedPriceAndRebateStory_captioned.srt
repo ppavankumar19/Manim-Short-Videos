@@ -1,0 +1,623 @@
+1
+00:00:00,300 --> 00:00:02,927
+Look at this price tag. The price written on
+
+2
+00:00:02,927 --> 00:00:06,820
+it is one thousand six hundred rupees. But that
+
+3
+00:00:06,820 --> 00:00:09,800
+sticker says six percent off, so the price you
+
+4
+00:00:09,800 --> 00:00:12,451
+pay is not the price on the tag. Three
+
+5
+00:00:12,451 --> 00:00:16,680
+quantities are at work here. The first is the
+
+6
+00:00:16,680 --> 00:00:20,400
+marked price: the price written on the article, also
+
+7
+00:00:20,400 --> 00:00:23,020
+called the list price. The second is the discount:
+
+8
+00:00:23,020 --> 00:00:27,477
+the amount reduced, and the same idea is also
+
+9
+00:00:27,477 --> 00:00:30,920
+called a rebate. The third is the selling price:
+
+10
+00:00:30,920 --> 00:00:33,818
+what is actually paid. One relation ties all three
+
+11
+00:00:33,818 --> 00:00:37,654
+together: marked price minus discount equals selling price. And
+
+12
+00:00:37,654 --> 00:00:40,677
+the tagged price never disappears, because the discount is
+
+13
+00:00:40,677 --> 00:00:44,611
+always calculated from it, and never from the selling price.
+
+14
+00:00:45,167 --> 00:00:46,940
+The price tag has three parts, and each part
+
+15
+00:00:46,940 --> 00:00:49,447
+has a name. The marked price is the price
+
+16
+00:00:49,447 --> 00:00:52,424
+written on the article; it is also called the
+
+17
+00:00:52,424 --> 00:00:54,987
+list price, or the catalogue price. The discount is
+
+18
+00:00:54,987 --> 00:00:57,667
+the amount that is reduced from that price, and
+
+19
+00:00:57,667 --> 00:01:00,787
+the same idea is also called a rebate. The
+
+20
+00:01:00,787 --> 00:01:02,570
+selling price is what is actually paid at the
+
+21
+00:01:02,570 --> 00:01:06,419
+counter. One relation ties the three together: marked price
+
+22
+00:01:06,419 --> 00:01:10,027
+minus discount equals selling price. The tagged price never
+
+23
+00:01:10,027 --> 00:01:13,423
+disappears, because the discount is always calculated from the
+
+24
+00:01:13,423 --> 00:01:16,004
+marked price. So keep the marked price on the
+
+25
+00:01:16,004 --> 00:01:18,458
+board: the discount is only a part of it.
+
+26
+00:01:19,540 --> 00:01:21,431
+A book is marked eighty rupees, and the shop
+
+27
+00:01:21,431 --> 00:01:26,160
+gives fifteen percent off. The marked price is the
+
+28
+00:01:26,160 --> 00:01:29,135
+whole bar: one hundred percent, that is eighty rupees.
+
+29
+00:01:29,135 --> 00:01:32,780
+Step one is to find the discount, which is
+
+30
+00:01:32,780 --> 00:01:34,964
+fifteen percent of the marked price: fifteen over one
+
+31
+00:01:34,964 --> 00:01:38,000
+hundred times eighty is twelve rupees. Step two is
+
+32
+00:01:38,000 --> 00:01:40,419
+the selling price: remove that discount from the marked
+
+33
+00:01:40,419 --> 00:01:42,102
+price, so eighty minus twelve is sixty eight rupees.
+
+34
+00:01:42,102 --> 00:01:45,367
+You can see the fifteen percent block cut away
+
+35
+00:01:45,367 --> 00:01:47,084
+from the bar, and the selling price is what
+
+36
+00:01:47,084 --> 00:01:49,900
+remains. So marked price minus discount equals selling price.
+
+37
+00:01:49,900 --> 00:01:53,173
+And the discount is always calculated on the marked
+
+38
+00:01:53,173 --> 00:01:56,660
+price, never on the selling price, because the marked
+
+39
+00:01:56,660 --> 00:01:58,891
+price is the base for every discount.
+
+40
+00:01:59,533 --> 00:02:02,548
+Now let us find a discount percentage. A bicycle
+
+41
+00:02:02,548 --> 00:02:04,725
+is marked three thousand six hundred rupees, and it
+
+42
+00:02:04,725 --> 00:02:06,868
+is sold for three thousand three hundred and twelve
+
+43
+00:02:06,868 --> 00:02:10,842
+rupees. The difference between the two prices is two
+
+44
+00:02:10,842 --> 00:02:13,493
+hundred and eighty eight rupees, and you can see
+
+45
+00:02:13,493 --> 00:02:15,213
+that gap at the end of the bars. Now
+
+46
+00:02:15,213 --> 00:02:20,043
+the discount percentage: its base is the marked price,
+
+47
+00:02:20,043 --> 00:02:23,733
+never the selling price. The gap is measured against
+
+48
+00:02:23,733 --> 00:02:25,323
+the whole bar, so the percentage is two hundred
+
+49
+00:02:25,323 --> 00:02:28,333
+and eighty eight divided by three thousand six hundred,
+
+50
+00:02:28,333 --> 00:02:31,509
+times one hundred. That is eight percent. Always divide
+
+51
+00:02:31,509 --> 00:02:34,404
+by the marked price, and never by the selling price.
+
+52
+00:02:34,987 --> 00:02:38,707
+Now the other direction: the discount percentage is given,
+
+53
+00:02:38,707 --> 00:02:41,106
+and we must find the selling price. A ceiling
+
+54
+00:02:41,106 --> 00:02:42,789
+fan is marked one thousand six hundred rupees, with
+
+55
+00:02:42,789 --> 00:02:46,485
+six percent off. The discount is six percent of
+
+56
+00:02:46,485 --> 00:02:49,382
+the marked price: six over one hundred times one
+
+57
+00:02:49,382 --> 00:02:51,760
+thousand six hundred is ninety six rupees. The selling
+
+58
+00:02:51,760 --> 00:02:54,611
+price is the marked price minus the discount, so
+
+59
+00:02:54,611 --> 00:02:57,487
+one thousand six hundred minus ninety six is one
+
+60
+00:02:57,487 --> 00:03:01,387
+thousand five hundred and four rupees. Notice that the
+
+61
+00:03:01,387 --> 00:03:04,757
+discount amount is ninety six rupees, while the discount
+
+62
+00:03:04,757 --> 00:03:07,107
+rate is six percent. One is money, the other
+
+63
+00:03:07,107 --> 00:03:10,007
+is a percentage of the marked price, so keep
+
+64
+00:03:10,007 --> 00:03:11,761
+the amount in rupees and the rate in percent,
+
+65
+00:03:11,761 --> 00:03:14,418
+and never mix the two up.
+
+66
+00:03:15,147 --> 00:03:17,130
+There is a shortcut, and it comes from one
+
+67
+00:03:17,130 --> 00:03:20,453
+simple idea. If six percent is taken off the
+
+68
+00:03:20,453 --> 00:03:23,440
+marked price, then ninety four percent is still payable.
+
+69
+00:03:23,440 --> 00:03:29,399
+Route one: find the discount first, ninety six rupees,
+
+70
+00:03:29,399 --> 00:03:33,947
+and subtract it from one thousand six hundred. Route
+
+71
+00:03:33,947 --> 00:03:38,067
+two: find the remaining percent first, ninety four percent,
+
+72
+00:03:38,067 --> 00:03:40,162
+and multiply it by one thousand six hundred. Both
+
+73
+00:03:40,162 --> 00:03:43,254
+routes give one thousand five hundred and four rupees.
+
+74
+00:03:43,254 --> 00:03:45,020
+So the shortcut is: selling price equals one hundred
+
+75
+00:03:45,020 --> 00:03:48,087
+minus d, over one hundred, times the marked price.
+
+76
+00:03:48,087 --> 00:03:50,817
+Use whichever route you like, but check that the
+
+77
+00:03:50,817 --> 00:03:53,407
+two routes agree. Two different routes are a free
+
+78
+00:03:53,407 --> 00:03:54,618
+check on your answer.
+
+79
+00:03:55,127 --> 00:03:57,307
+There are three questions you can be asked, and
+
+80
+00:03:57,307 --> 00:03:59,607
+each one has its own route. If the marked
+
+81
+00:03:59,607 --> 00:04:01,638
+price and the discount percentage are given, find the
+
+82
+00:04:01,638 --> 00:04:04,204
+discount first, and then subtract it from the marked
+
+83
+00:04:04,204 --> 00:04:06,823
+price. If the marked price and the selling price
+
+84
+00:04:06,823 --> 00:04:09,467
+are given, find the discount by subtraction, and then
+
+85
+00:04:09,467 --> 00:04:11,881
+divide that discount by the marked price, times one
+
+86
+00:04:11,881 --> 00:04:14,737
+hundred. If the marked price and the discount amount
+
+87
+00:04:14,737 --> 00:04:16,947
+are given, the selling price is simply marked price
+
+88
+00:04:16,947 --> 00:04:18,904
+minus discount. In every case the first move is
+
+89
+00:04:18,904 --> 00:04:22,027
+the same: find the discount, or find the marked
+
+90
+00:04:22,027 --> 00:04:25,407
+price. And in every case the base for a
+
+91
+00:04:25,407 --> 00:04:27,992
+percentage is the marked price. Read the question twice,
+
+92
+00:04:27,992 --> 00:04:32,938
+and pick the route that fits the quantities you were given.
+
+93
+00:04:33,560 --> 00:04:34,640
+Now the mistakes that cost marks, and the fix
+
+94
+00:04:34,640 --> 00:04:35,537
+for each one. The first mistake is calculating the
+
+95
+00:04:35,537 --> 00:04:37,969
+discount percentage on the selling price instead of the
+
+96
+00:04:37,969 --> 00:04:38,823
+marked price. The second is adding the discount to
+
+97
+00:04:38,823 --> 00:04:39,984
+the marked price, instead of subtracting it. The third
+
+98
+00:04:39,984 --> 00:04:41,072
+is confusing the discount amount, ninety six rupees, with
+
+99
+00:04:41,072 --> 00:04:43,580
+the discount rate, six percent. The fourth is reading
+
+100
+00:04:43,580 --> 00:04:44,715
+fifteen percent off as if you pay fifteen percent,
+
+101
+00:04:44,715 --> 00:04:45,453
+when eighty five percent is still payable. So check
+
+102
+00:04:45,453 --> 00:04:48,337
+three things every time: the base is the marked
+
+103
+00:04:48,337 --> 00:04:49,387
+price, the discount is subtracted, and the rate is
+
+104
+00:04:49,387 --> 00:04:50,590
+a percentage while the amount is in rupees. Fix
+
+105
+00:04:50,590 --> 00:04:53,071
+those four habits, and the marks stop leaking away.
+
+106
+00:04:53,753 --> 00:04:55,973
+Before you write the answer, check that it makes
+
+107
+00:04:55,973 --> 00:04:59,009
+sense. A discount always makes the selling price smaller
+
+108
+00:04:59,009 --> 00:05:01,253
+than the marked price, so the selling price must
+
+109
+00:05:01,253 --> 00:05:02,753
+be less than the marked price. And if d
+
+110
+00:05:02,753 --> 00:05:06,226
+percent is taken off, then one hundred minus d
+
+111
+00:05:06,226 --> 00:05:09,513
+percent is still payable. Here the marked price is
+
+112
+00:05:09,513 --> 00:05:12,793
+one thousand six hundred rupees, and the selling price
+
+113
+00:05:12,793 --> 00:05:14,700
+is one thousand five hundred and four rupees, which
+
+114
+00:05:14,700 --> 00:05:18,157
+is smaller. Six percent off leaves ninety four percent
+
+115
+00:05:18,157 --> 00:05:21,093
+payable, and six plus ninety four is one hundred.
+
+116
+00:05:21,093 --> 00:05:24,786
+So two checks every time: the selling price must
+
+117
+00:05:24,786 --> 00:05:26,463
+be smaller than the marked price, and the two
+
+118
+00:05:26,463 --> 00:05:29,282
+percentages must add up to one hundred. Write those
+
+119
+00:05:29,282 --> 00:05:33,004
+two lines on your rough sheet before you answer.
+
+120
+00:05:33,587 --> 00:05:35,398
+Your turn. Four quick checks. First: a shirt is
+
+121
+00:05:35,398 --> 00:05:38,867
+marked four hundred and fifty rupees with seven percent
+
+122
+00:05:38,867 --> 00:05:41,661
+off. Find the discount, and then the selling price.
+
+123
+00:05:41,661 --> 00:05:44,965
+Second: an article is marked one thousand rupees and
+
+124
+00:05:44,965 --> 00:05:46,861
+sold for nine hundred rupees. Find the discount, and
+
+125
+00:05:46,861 --> 00:05:50,032
+then the discount percentage. Third: a table is marked
+
+126
+00:05:50,032 --> 00:05:53,607
+two hundred and fifty rupees with five percent off.
+
+127
+00:05:53,607 --> 00:05:57,291
+Find the selling price directly, using the percent that
+
+128
+00:05:57,291 --> 00:06:01,287
+remains. And last: check that every selling price you
+
+129
+00:06:01,287 --> 00:06:03,347
+write is smaller than its marked price. Take your
+
+130
+00:06:03,347 --> 00:06:07,218
+time, and pause the video if you need to.
+
+131
+00:06:18,240 --> 00:06:20,910
+Let us check. For the shirt: seven percent of
+
+132
+00:06:20,910 --> 00:06:23,485
+four hundred and fifty is thirty one rupees fifty,
+
+133
+00:06:23,485 --> 00:06:26,340
+so the selling price is four hundred and fifty
+
+134
+00:06:26,340 --> 00:06:29,029
+minus thirty one fifty, which is four hundred and
+
+135
+00:06:29,029 --> 00:06:32,621
+eighteen rupees fifty. For the article: the discount is
+
+136
+00:06:32,621 --> 00:06:34,972
+one thousand minus nine hundred, that is one hundred
+
+137
+00:06:34,972 --> 00:06:38,380
+rupees, and one hundred divided by one thousand, times
+
+138
+00:06:38,380 --> 00:06:41,330
+one hundred, is ten percent. For the table: five
+
+139
+00:06:41,330 --> 00:06:44,620
+percent off leaves ninety five percent, and ninety five
+
+140
+00:06:44,620 --> 00:06:46,564
+over one hundred times two hundred and fifty is
+
+141
+00:06:46,564 --> 00:06:49,195
+two hundred and thirty seven rupees fifty. And in
+
+142
+00:06:49,195 --> 00:06:52,224
+all three the selling price is smaller than the
+
+143
+00:06:52,224 --> 00:06:56,100
+marked price, and the base was the marked price.
+
+144
+00:06:56,100 --> 00:06:57,940
+Check both of those every time, and your answers
+
+145
+00:06:57,940 --> 00:06:58,691
+will be right.
+
+146
+00:06:59,513 --> 00:07:01,473
+The whole chapter in four lines. One: the marked
+
+147
+00:07:01,473 --> 00:07:04,048
+price is the price written on the article, and
+
+148
+00:07:04,048 --> 00:07:07,403
+the discount, or rebate, is calculated from it. Two:
+
+149
+00:07:07,403 --> 00:07:10,763
+the selling price is what is actually paid, and
+
+150
+00:07:10,763 --> 00:07:15,273
+selling price equals marked price minus discount. Three: the
+
+151
+00:07:15,273 --> 00:07:19,800
+discount percentage is the discount divided by the marked
+
+152
+00:07:19,800 --> 00:07:22,537
+price, times one hundred. Four: the price flow is
+
+153
+00:07:22,537 --> 00:07:26,213
+tag, reduce, pay, compare. So keep the marked price
+
+154
+00:07:26,213 --> 00:07:29,653
+visible, subtract the discount, and check the answer against
+
+155
+00:07:29,653 --> 00:07:32,239
+the tag. Thank you for watching, and see you
+
+156
+00:07:32,239 --> 00:07:33,564
+in the next lesson.

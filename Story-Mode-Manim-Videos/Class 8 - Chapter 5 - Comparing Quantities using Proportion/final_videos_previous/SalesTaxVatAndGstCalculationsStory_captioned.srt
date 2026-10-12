@@ -1,0 +1,527 @@
+1
+00:00:00,140 --> 00:00:02,940
+Meet the price tag, then meet the bill. A
+
+2
+00:00:02,940 --> 00:00:04,980
+pair of shoes is marked at four hundred and
+
+3
+00:00:04,980 --> 00:00:08,158
+fifty rupees. At the counter, a sales tax of
+
+4
+00:00:08,158 --> 00:00:12,700
+six percent is added. Three quantities are involved: the
+
+5
+00:00:12,700 --> 00:00:15,400
+base price, the price before any tax; the tax
+
+6
+00:00:15,400 --> 00:00:18,650
+amount, the percentage that is added; and the final
+
+7
+00:00:18,650 --> 00:00:21,062
+bill, the base price plus the tax. So the
+
+8
+00:00:21,062 --> 00:00:22,971
+tag and the bill show two different numbers.
+
+9
+00:00:23,733 --> 00:00:26,649
+A tax is just a percentage increase. The original
+
+10
+00:00:26,649 --> 00:00:29,397
+price is taken as one hundred percent. Adding a
+
+11
+00:00:29,397 --> 00:00:31,493
+tax of r percent gives one hundred plus r
+
+12
+00:00:31,493 --> 00:00:35,093
+percent. With six percent, the total becomes one hundred
+
+13
+00:00:35,093 --> 00:00:38,113
+and six percent. So the final bill is one
+
+14
+00:00:38,113 --> 00:00:40,337
+hundred plus r, divided by one hundred, times the
+
+15
+00:00:40,337 --> 00:00:43,383
+base price. This is exactly the percentage increase we
+
+16
+00:00:43,383 --> 00:00:44,824
+met in the earlier lesson.
+
+17
+00:00:45,447 --> 00:00:47,078
+Now the same shoes, with the numbers filled in.
+
+18
+00:00:47,078 --> 00:00:49,397
+The base price is four hundred and fifty rupees.
+
+19
+00:00:49,397 --> 00:00:51,432
+Sales tax is six percent, so the tax is
+
+20
+00:00:51,432 --> 00:00:54,454
+six over one hundred times four hundred and fifty,
+
+21
+00:00:54,454 --> 00:00:56,932
+which is twenty seven rupees. Add it to the
+
+22
+00:00:56,932 --> 00:01:00,847
+base price: four hundred and fifty plus twenty seven
+
+23
+00:01:00,847 --> 00:01:02,667
+is four hundred and seventy seven rupees. Here is
+
+24
+00:01:02,667 --> 00:01:05,949
+the shortcut: one hundred and six percent of four
+
+25
+00:01:05,949 --> 00:01:08,667
+hundred and fifty. That is one point zero six
+
+26
+00:01:08,667 --> 00:01:11,787
+times four hundred and fifty, which is again four
+
+27
+00:01:11,787 --> 00:01:13,498
+hundred and seventy seven rupees.
+
+28
+00:01:14,213 --> 00:01:16,937
+A tax can also be written on the bill.
+
+29
+00:01:16,937 --> 00:01:20,273
+Here is a medical bill: the amount before value
+
+30
+00:01:20,273 --> 00:01:23,813
+added tax is three hundred and fifty four rupees
+
+31
+00:01:23,813 --> 00:01:25,701
+and forty five paise. The value added tax is
+
+32
+00:01:25,701 --> 00:01:29,533
+five percent, which is seventeen rupees and seventy two
+
+33
+00:01:29,533 --> 00:01:31,353
+paise. The total is three hundred and seventy two
+
+34
+00:01:31,353 --> 00:01:33,905
+rupees and eighteen paise, so the base plus the
+
+35
+00:01:33,905 --> 00:01:37,462
+tax gives the bill. Value added tax works exactly
+
+36
+00:01:37,462 --> 00:01:40,493
+like the sales tax we just used: both are
+
+37
+00:01:40,493 --> 00:01:44,247
+the same percentage idea. And remember, these older rates
+
+38
+00:01:44,247 --> 00:01:47,569
+are textbook and historical examples, not advice about the
+
+39
+00:01:47,569 --> 00:01:49,364
+taxes of today.
+
+40
+00:01:50,080 --> 00:01:52,467
+Goods and services tax uses the same structure. GST
+
+41
+00:01:52,467 --> 00:01:56,183
+is an indirect tax on goods and services, and
+
+42
+00:01:56,183 --> 00:01:58,407
+it is charged on the base price. Take a
+
+43
+00:01:58,407 --> 00:02:01,388
+base price of one thousand rupees, with GST at
+
+44
+00:02:01,388 --> 00:02:05,464
+five percent. Five percent of one thousand is fifty
+
+45
+00:02:05,464 --> 00:02:09,020
+rupees, so the tax amount is fifty rupees. Add
+
+46
+00:02:09,020 --> 00:02:12,680
+it to the base: one thousand plus fifty is
+
+47
+00:02:12,680 --> 00:02:17,280
+one thousand and fifty rupees. The shortcut is unchanged:
+
+48
+00:02:17,280 --> 00:02:19,500
+one hundred and five percent of one thousand is
+
+49
+00:02:19,500 --> 00:02:21,751
+also one thousand and fifty.
+
+50
+00:02:22,400 --> 00:02:25,334
+Now the other direction. A bill of two thousand
+
+51
+00:02:25,334 --> 00:02:28,091
+three hundred and sixty rupees already includes GST at
+
+52
+00:02:28,091 --> 00:02:31,776
+eighteen percent. So this bill is not one hundred
+
+53
+00:02:31,776 --> 00:02:34,440
+percent: it is one hundred and eighteen percent of
+
+54
+00:02:34,440 --> 00:02:38,089
+the base price. To recover the base price we
+
+55
+00:02:38,089 --> 00:02:42,080
+divide: two thousand three hundred and sixty times one
+
+56
+00:02:42,080 --> 00:02:46,240
+hundred, over one hundred and eighteen. That gives a
+
+57
+00:02:46,240 --> 00:02:50,260
+base price of two thousand rupees, and the tax
+
+58
+00:02:50,260 --> 00:02:53,527
+is the rest, three hundred and sixty rupees. Never
+
+59
+00:02:53,527 --> 00:02:56,338
+take eighteen percent of two thousand three hundred and
+
+60
+00:02:56,338 --> 00:02:58,994
+sixty and subtract it: the rate was charged on
+
+61
+00:02:58,994 --> 00:03:00,791
+the base, not on the bill.
+
+62
+00:03:01,473 --> 00:03:04,393
+Here is a worked example from the textbook. The
+
+63
+00:03:04,393 --> 00:03:06,253
+total GST on that purchase is three hundred and
+
+64
+00:03:06,253 --> 00:03:08,911
+sixty rupees. In this worked example the tax is
+
+65
+00:03:08,911 --> 00:03:13,265
+divided into two equal parts. One half is central
+
+66
+00:03:13,265 --> 00:03:16,575
+GST, one hundred and eighty rupees. The other half
+
+67
+00:03:16,575 --> 00:03:19,091
+is state GST, another one hundred and eighty rupees.
+
+68
+00:03:19,091 --> 00:03:22,253
+So one block of three hundred and sixty splits
+
+69
+00:03:22,253 --> 00:03:24,573
+into one hundred and eighty and one hundred and
+
+70
+00:03:24,573 --> 00:03:27,933
+eighty. That equal split belongs to this worked example,
+
+71
+00:03:27,933 --> 00:03:30,104
+not to every bill.
+
+72
+00:03:30,727 --> 00:03:33,781
+Now a two lane decision board. If the base
+
+73
+00:03:33,781 --> 00:03:36,347
+price is given, go forward: find the tax, then
+
+74
+00:03:36,347 --> 00:03:38,627
+add it, or use the bill equals the base
+
+75
+00:03:38,627 --> 00:03:41,827
+times one hundred plus r, over one hundred. If
+
+76
+00:03:41,827 --> 00:03:47,227
+the tax-inclusive bill is given, go backward: recover the
+
+77
+00:03:47,227 --> 00:03:50,167
+base with base equals bill times one hundred, over
+
+78
+00:03:50,167 --> 00:03:52,967
+one hundred plus r. Which lane you use depends
+
+79
+00:03:52,967 --> 00:03:55,713
+only on what you were given. And keep tax
+
+80
+00:03:55,713 --> 00:03:59,191
+separate from discount: a discount is taken away from
+
+81
+00:03:59,191 --> 00:04:02,827
+the price, while a tax is added to the
+
+82
+00:04:02,827 --> 00:04:04,758
+base. Tax adds, discount removes.
+
+83
+00:04:05,440 --> 00:04:08,520
+Here is the classic error. Take a base price
+
+84
+00:04:08,520 --> 00:04:11,600
+of one thousand rupees, with GST at eighteen percent.
+
+85
+00:04:11,600 --> 00:04:15,564
+The tax is eighteen percent of one thousand, which
+
+86
+00:04:15,564 --> 00:04:18,587
+is one hundred and eighty rupees, so the bill
+
+87
+00:04:18,587 --> 00:04:21,318
+is one thousand one hundred and eighty. The mistake
+
+88
+00:04:21,318 --> 00:04:24,226
+is to apply the rate to the bill: eighteen
+
+89
+00:04:24,226 --> 00:04:26,600
+percent of one thousand one hundred and eighty is
+
+90
+00:04:26,600 --> 00:04:29,890
+not the tax for this purchase. The same mistake
+
+91
+00:04:29,890 --> 00:04:32,170
+is to subtract the rate straight off a tax-inclusive
+
+92
+00:04:32,170 --> 00:04:35,400
+bill. The rate is always applied to the base,
+
+93
+00:04:35,400 --> 00:04:38,337
+and a tax-inclusive bill is worked backward with one
+
+94
+00:04:38,337 --> 00:04:40,311
+hundred over one hundred plus r.
+
+95
+00:04:40,967 --> 00:04:44,740
+Your turn. Four quick checks. A: an item costs
+
+96
+00:04:44,740 --> 00:04:46,792
+eight hundred rupees, and the tax is five percent.
+
+97
+00:04:46,792 --> 00:04:49,287
+What is the tax, and what is the bill?
+
+98
+00:04:49,287 --> 00:04:52,567
+B: a bill of one thousand one hundred and
+
+99
+00:04:52,567 --> 00:04:56,027
+eighty rupees includes GST at eighteen percent. What is
+
+100
+00:04:56,027 --> 00:04:58,107
+the base price, and what is the tax? C:
+
+101
+00:04:58,107 --> 00:05:01,774
+a total GST of one hundred and eighty rupees
+
+102
+00:05:01,774 --> 00:05:04,785
+is split equally into central GST and state GST.
+
+103
+00:05:04,785 --> 00:05:07,039
+How much is each part? D: here is the
+
+104
+00:05:07,039 --> 00:05:11,857
+error to spot. Eighteen percent of one thousand rupees
+
+105
+00:05:11,857 --> 00:05:14,747
+is one hundred and eighty rupees, so is eighteen
+
+106
+00:05:14,747 --> 00:05:17,009
+percent of one thousand one hundred and eighty the
+
+107
+00:05:17,009 --> 00:05:19,927
+right tax for the same purchase? Pause the video,
+
+108
+00:05:19,927 --> 00:05:24,278
+work all four out, and then we will check every answer.
+
+109
+00:05:35,367 --> 00:05:38,647
+Let us check every answer. A: five percent of
+
+110
+00:05:38,647 --> 00:05:41,007
+eight hundred is forty rupees, so the tax is
+
+111
+00:05:41,007 --> 00:05:44,047
+forty rupees and the bill is eight hundred and
+
+112
+00:05:44,047 --> 00:05:47,687
+forty rupees. B: the bill is one hundred and
+
+113
+00:05:47,687 --> 00:05:49,799
+eighteen percent, so the base is one thousand one
+
+114
+00:05:49,799 --> 00:05:54,147
+hundred and eighty times one hundred over one hundred
+
+115
+00:05:54,147 --> 00:05:56,437
+and eighteen, which is one thousand rupees, and the
+
+116
+00:05:56,437 --> 00:06:00,567
+tax is one hundred and eighty rupees. C: one
+
+117
+00:06:00,567 --> 00:06:03,311
+hundred and eighty split equally is ninety and ninety,
+
+118
+00:06:03,311 --> 00:06:05,867
+so central GST is ninety rupees and state GST
+
+119
+00:06:05,867 --> 00:06:09,617
+is ninety rupees. D: no. Eighteen percent of one
+
+120
+00:06:09,617 --> 00:06:11,697
+thousand one hundred and eighty is not the tax
+
+121
+00:06:11,697 --> 00:06:13,971
+for this purchase. The rate belongs on the base
+
+122
+00:06:13,971 --> 00:06:15,278
+of one thousand rupees.
+
+123
+00:06:15,773 --> 00:06:18,213
+One last look. Start at one hundred percent, the
+
+124
+00:06:18,213 --> 00:06:21,423
+base price. Add the tax to reach one hundred
+
+125
+00:06:21,423 --> 00:06:24,077
+plus r percent. Work backward with one hundred divided
+
+126
+00:06:24,077 --> 00:06:27,433
+by one hundred plus r when the tax-inclusive total
+
+127
+00:06:27,433 --> 00:06:30,626
+is given. And keep the tax separate from a
+
+128
+00:06:30,626 --> 00:06:33,073
+discount: a tax adds to the base, a discount
+
+129
+00:06:33,073 --> 00:06:36,516
+takes off the price. So start at one hundred
+
+130
+00:06:36,516 --> 00:06:40,270
+percent, add the tax, and work backward with one
+
+131
+00:06:40,270 --> 00:06:43,310
+hundred divided by one hundred plus r. Thank you
+
+132
+00:06:43,310 --> 00:06:45,444
+for watching, and see you in the next lesson.

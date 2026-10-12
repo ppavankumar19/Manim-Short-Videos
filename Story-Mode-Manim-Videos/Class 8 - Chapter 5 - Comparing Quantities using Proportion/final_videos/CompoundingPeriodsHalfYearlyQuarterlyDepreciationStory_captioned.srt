@@ -1,0 +1,519 @@
+1
+00:00:00,280 --> 00:00:05,651
+Compounding half-yearly and quarterly. With population growth and depreciation.
+
+2
+00:00:06,247 --> 00:00:09,676
+One thousand rupees at ten percent per annum. Compounded
+
+3
+00:00:09,676 --> 00:00:12,284
+every year, that money becomes one thousand one hundred
+
+4
+00:00:12,284 --> 00:00:15,009
+rupees after one year. But the same ten percent
+
+5
+00:00:15,009 --> 00:00:18,647
+compounded half-yearly gives one thousand fifty rupees after six
+
+6
+00:00:18,647 --> 00:00:21,747
+months, and one thousand one hundred two rupees and
+
+7
+00:00:21,747 --> 00:00:25,387
+fifty paise after a year. Same money, same rate,
+
+8
+00:00:25,387 --> 00:00:29,538
+more interest. Why does the timing change the answer?
+
+9
+00:00:30,287 --> 00:00:33,392
+First, the conversion period. The conversion period is the
+
+10
+00:00:33,392 --> 00:00:38,267
+time interval after which the interest is added to
+
+11
+00:00:38,267 --> 00:00:40,577
+the principal. If interest is added once a year,
+
+12
+00:00:40,577 --> 00:00:43,287
+the period is one full year: one turn of
+
+13
+00:00:43,287 --> 00:00:47,047
+the clock. If it is added every six months,
+
+14
+00:00:47,047 --> 00:00:50,021
+that same year is cut into two equal periods.
+
+15
+00:00:50,021 --> 00:00:52,408
+And if it is added every three months, the
+
+16
+00:00:52,408 --> 00:00:54,616
+year becomes four quarter periods. So the conversion period
+
+17
+00:00:54,616 --> 00:00:57,447
+fixes two things together, the rate for each period
+
+18
+00:00:57,447 --> 00:00:58,718
+and how many periods there are.
+
+19
+00:00:59,293 --> 00:01:02,929
+Now the half-yearly rule. When the conversion period halves,
+
+20
+00:01:02,929 --> 00:01:04,917
+two things change at the same time. The rate
+
+21
+00:01:04,917 --> 00:01:09,333
+for each period halves as well: R becomes R
+
+22
+00:01:09,333 --> 00:01:14,313
+divided by two. And the number of periods doubles:
+
+23
+00:01:14,313 --> 00:01:17,135
+n becomes two n. So the amount is P
+
+24
+00:01:17,135 --> 00:01:19,767
+times one plus R over two hundred, all raised
+
+25
+00:01:19,767 --> 00:01:24,548
+to two n. Ten percent per annum compounded half-yearly
+
+26
+00:01:24,548 --> 00:01:28,213
+means five percent for each half-year, never ten percent
+
+27
+00:01:28,213 --> 00:01:32,444
+every six months, and never change the exponent alone.
+
+28
+00:01:32,987 --> 00:01:36,187
+Let us work it out. Principal one thousand rupees,
+
+29
+00:01:36,187 --> 00:01:40,667
+rate ten percent per annum, time one year, compounded
+
+30
+00:01:40,667 --> 00:01:44,110
+half-yearly. The rate for each half-year is ten divided
+
+31
+00:01:44,110 --> 00:01:46,967
+by two, that is five percent. And one year
+
+32
+00:01:46,967 --> 00:01:50,206
+holds two half-yearly periods. So the amount is one
+
+33
+00:01:50,206 --> 00:01:52,669
+thousand times one point zero five squared, which is
+
+34
+00:01:52,669 --> 00:01:57,627
+one thousand one hundred two rupees and fifty paise.
+
+35
+00:01:57,627 --> 00:02:00,147
+The compound interest is one thousand one hundred two
+
+36
+00:02:00,147 --> 00:02:02,687
+point five minus one thousand, that is one hundred
+
+37
+00:02:02,687 --> 00:02:04,898
+two rupees and fifty paise.
+
+38
+00:02:05,500 --> 00:02:07,842
+A year has four quarters. So when interest is
+
+39
+00:02:07,842 --> 00:02:11,820
+compounded quarterly, the rate for one period becomes R
+
+40
+00:02:11,820 --> 00:02:16,460
+divided by four, and the number of periods becomes
+
+41
+00:02:16,460 --> 00:02:18,091
+four n. The amount is P times one plus
+
+42
+00:02:18,091 --> 00:02:20,620
+R over four hundred, all raised to four n.
+
+43
+00:02:20,620 --> 00:02:25,400
+This is the same conversion-period rule, extended from two
+
+44
+00:02:25,400 --> 00:02:28,060
+periods to four. The rate and the number of
+
+45
+00:02:28,060 --> 00:02:30,091
+periods always change together.
+
+46
+00:02:30,660 --> 00:02:34,443
+The same structure answers questions about population. A village
+
+47
+00:02:34,443 --> 00:02:37,460
+has six thousand two hundred and fifty people, and
+
+48
+00:02:37,460 --> 00:02:42,320
+the population grows by eight percent every year. After
+
+49
+00:02:42,320 --> 00:02:45,340
+one year the population is six thousand two hundred
+
+50
+00:02:45,340 --> 00:02:47,743
+and fifty times one point zero eight, and that
+
+51
+00:02:47,743 --> 00:02:50,660
+new total becomes the base for the next year.
+
+52
+00:02:50,660 --> 00:02:53,289
+So after two years the population is six thousand
+
+53
+00:02:53,289 --> 00:02:55,714
+two hundred and fifty times one point zero eight
+
+54
+00:02:55,714 --> 00:02:59,360
+squared, which is seven thousand two hundred and ninety.
+
+55
+00:02:59,360 --> 00:03:02,830
+A repeated percentage increase is exactly the same structure
+
+56
+00:03:02,830 --> 00:03:04,171
+as compound interest.
+
+57
+00:03:04,780 --> 00:03:09,804
+Now depreciation, the mirror image. Depreciation is a reduction
+
+58
+00:03:09,804 --> 00:03:11,585
+in the value of an article due to use
+
+59
+00:03:11,585 --> 00:03:14,958
+and age. A quantity that loses R percent in
+
+60
+00:03:14,958 --> 00:03:18,791
+each period keeps one hundred minus R percent. Ten
+
+61
+00:03:18,791 --> 00:03:22,580
+percent off leaves ninety percent, and the next reduction
+
+62
+00:03:22,580 --> 00:03:25,852
+is taken from the new value. So after two
+
+63
+00:03:25,852 --> 00:03:27,986
+periods the value is P times zero point nine
+
+64
+00:03:27,986 --> 00:03:30,925
+squared, and in general V is P times one
+
+65
+00:03:30,925 --> 00:03:33,736
+minus R over one hundred, all raised to n.
+
+66
+00:03:33,736 --> 00:03:36,976
+A ball dropped from twenty five metres loses ten
+
+67
+00:03:36,976 --> 00:03:41,040
+percent of its height at each bounce, so after
+
+68
+00:03:41,040 --> 00:03:43,847
+two bounces it rises to twenty five times zero
+
+69
+00:03:43,847 --> 00:03:47,351
+point nine squared, that is twenty point two five metres.
+
+70
+00:03:47,903 --> 00:03:51,172
+One structure, three uses. Money at compound interest and
+
+71
+00:03:51,172 --> 00:03:53,935
+population growth both use P times one plus r,
+
+72
+00:03:53,935 --> 00:03:57,311
+all raised to n. Depreciation uses P times one
+
+73
+00:03:57,311 --> 00:04:00,743
+minus r, raised to n. A growth multiplier is
+
+74
+00:04:00,743 --> 00:04:04,008
+greater than one, and a depreciation multiplier is less
+
+75
+00:04:04,008 --> 00:04:07,983
+than one. So keep two decisions separate: how often
+
+76
+00:04:07,983 --> 00:04:11,894
+the update happens, and whether the quantity rises or falls.
+
+77
+00:04:12,441 --> 00:04:16,041
+Here is the decision map. Step one: identify the
+
+78
+00:04:16,041 --> 00:04:19,521
+conversion period. Step two: find the rate for one
+
+79
+00:04:19,521 --> 00:04:24,561
+period. Step three: count the number of periods. Step
+
+80
+00:04:24,561 --> 00:04:28,461
+four: choose plus for growth, or minus for decrease.
+
+81
+00:04:28,461 --> 00:04:32,215
+Step five: apply that factor again and again. Period,
+
+82
+00:04:32,215 --> 00:04:36,452
+rate, factor, repeat: that is the whole method.
+
+83
+00:04:37,044 --> 00:04:40,723
+Your turn. Three questions. First: twelve thousand rupees at
+
+84
+00:04:40,723 --> 00:04:42,553
+ten percent per annum for one and a half
+
+85
+00:04:42,553 --> 00:04:46,471
+years, compounded half-yearly. Find the amount. Second: twelve percent
+
+86
+00:04:46,471 --> 00:04:50,564
+per annum for two years, compounded quarterly. What is
+
+87
+00:04:50,564 --> 00:04:53,382
+the rate for each period, and how many periods
+
+88
+00:04:53,382 --> 00:04:57,693
+are there? Third: a television costing twenty one thousand
+
+89
+00:04:57,693 --> 00:05:00,853
+rupees depreciates by five percent in one year. What
+
+90
+00:05:00,853 --> 00:05:04,924
+is it worth now? And a quick check: for
+
+91
+00:05:04,924 --> 00:05:07,806
+eight percent growth, which factor do you use, and
+
+92
+00:05:07,806 --> 00:05:10,395
+for eight percent depreciation, which factor?
+
+93
+00:05:21,787 --> 00:05:23,978
+Let us check. For A, the rate is five
+
+94
+00:05:23,978 --> 00:05:26,229
+percent per half-year and one and a half years
+
+95
+00:05:26,229 --> 00:05:28,807
+is three periods, so the amount is twelve thousand
+
+96
+00:05:28,807 --> 00:05:31,147
+times one point zero five cubed, that is thirteen
+
+97
+00:05:31,147 --> 00:05:35,047
+thousand eight hundred ninety one rupees and fifty paise.
+
+98
+00:05:35,047 --> 00:05:38,382
+For B, twelve divided by four is three percent
+
+99
+00:05:38,382 --> 00:05:41,567
+per quarter, and two years is eight quarters, so
+
+100
+00:05:41,567 --> 00:05:43,607
+the amount is P times one point zero three
+
+101
+00:05:43,607 --> 00:05:47,077
+raised to eight. For C, five percent depreciation leaves
+
+102
+00:05:47,077 --> 00:05:50,232
+ninety five percent, so twenty one thousand times zero
+
+103
+00:05:50,232 --> 00:05:52,581
+point nine five is nineteen thousand nine hundred and
+
+104
+00:05:52,581 --> 00:05:56,254
+fifty rupees. And the quick check: for eight percent
+
+105
+00:05:56,254 --> 00:05:58,377
+growth use one point zero eight, and for eight
+
+106
+00:05:58,377 --> 00:06:01,785
+percent depreciation use zero point nine two, because one
+
+107
+00:06:01,785 --> 00:06:04,478
+minus zero point zero eight is zero point nine two.
+
+108
+00:06:04,947 --> 00:06:06,871
+Let us gather the whole lesson in one place.
+
+109
+00:06:06,871 --> 00:06:10,527
+The conversion period has three cases: annually, the rate
+
+110
+00:06:10,527 --> 00:06:12,877
+is R and there are n periods; half-yearly, the
+
+111
+00:06:12,877 --> 00:06:15,287
+rate is R over two and the periods double
+
+112
+00:06:15,287 --> 00:06:19,967
+to two n; quarterly, the rate is R over
+
+113
+00:06:19,967 --> 00:06:23,447
+four and the periods become four n. Growth uses
+
+114
+00:06:23,447 --> 00:06:25,603
+A equals P times one plus R over one
+
+115
+00:06:25,603 --> 00:06:28,989
+hundred, all raised to n: that is compound interest
+
+116
+00:06:28,989 --> 00:06:33,137
+and population. Depreciation uses V equals P times one
+
+117
+00:06:33,137 --> 00:06:35,903
+minus R over one hundred, all raised to n:
+
+118
+00:06:35,903 --> 00:06:39,107
+the value keeps what is left. And the five
+
+119
+00:06:39,107 --> 00:06:42,887
+steps: identify the conversion period, find the rate for
+
+120
+00:06:42,887 --> 00:06:45,914
+one period, count the number of periods, choose plus
+
+121
+00:06:45,914 --> 00:06:49,427
+for growth or minus for decrease, and apply that
+
+122
+00:06:49,427 --> 00:06:50,818
+factor again and again.
+
+123
+00:06:51,401 --> 00:06:55,581
+One last look. The compounding clock: annually, half-yearly, quarterly,
+
+124
+00:06:55,581 --> 00:06:59,481
+with the rate and the number of periods changing
+
+125
+00:06:59,481 --> 00:07:03,092
+together. Growth uses P times one plus R over
+
+126
+00:07:03,092 --> 00:07:06,681
+one hundred, all raised to n, and depreciation uses
+
+127
+00:07:06,681 --> 00:07:09,239
+P times one minus R over one hundred, raised
+
+128
+00:07:09,239 --> 00:07:14,201
+to n. Keep the two decisions separate: how often,
+
+129
+00:07:14,201 --> 00:07:19,919
+and up or down. Period, rate, factor, repeat. Thank
+
+130
+00:07:19,919 --> 00:07:22,292
+you for watching, and see you in the next lesson.

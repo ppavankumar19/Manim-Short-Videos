@@ -1,0 +1,848 @@
+"""Shared layout kit for the Class 8 / Chapter 5 story-mode videos.
+
+Everything the seven topic scripts have in common lives here so that every
+video obeys the same rules:
+
+  * ONE measured green-board rectangle (BOARD_*) -- every object must sit inside
+    SAFE_*; `audit()` reports anything that does not, and any two texts that
+    collide.  The burned-in subtitles live on the floor strip BELOW the board,
+    so the whole green board is usable.
+  * BIG chalk type: headings 34, body 28-30, labels never below 24.
+  * `Ch5Scene` -- the VoiceoverScene base with the series' background, badges,
+    bookmark-synced `cue()` reveals, the real-SRT export and a still-frame mode
+    (CH5_STILLS=<dir>) that renders every beat WITHOUT audio for fast layout
+    checks.
+"""
+from __future__ import annotations
+
+import os
+import sys
+from contextlib import contextmanager
+from pathlib import Path
+
+import numpy as np
+
+_HERE = Path(__file__).resolve().parent
+_ROOT = next(p for p in _HERE.parents if (p / "speech_service.py").exists())
+for _p in (str(_ROOT), str(_HERE)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
+
+from manim import *  # noqa: E402,F401,F403
+from manim_voiceover import VoiceoverScene  # noqa: E402
+from manim_voiceover.tracker import AUDIO_OFFSET_RESOLUTION  # noqa: E402
+
+# --------------------------------------------------------------- theme -----
+CHALK_WHITE = "#F5F2E9"
+BRAND_WHITE = "#FFFFFF"
+CHALK_YELLOW = "#FFE066"
+CHALK_PINK = "#FF8FA3"
+CHALK_CYAN = "#7FE7DC"
+CHALK_AMBER = "#E8B769"
+CHALK_GREEN = "#9BE38A"
+CHALK_RED = "#FF6B6B"
+CHALK_BLUE = "#8FB8FF"
+CHALK_PURPLE = "#C9A7FF"
+FONT = "Segoe Print"
+PANEL_FILL = "#16202B"
+
+END_HOLD = 2.0
+TRANSITION_HOLD = 0.35
+MIN_RT = 0.12
+
+# Measured from assets/background2.png (green slate only, frame included).
+BOARD_LEFT, BOARD_RIGHT = -4.62, 5.72
+BOARD_TOP, BOARD_BOTTOM = 3.36, -2.81
+# Where content may live (a hair inside the wooden frame).
+SAFE_L, SAFE_R = -4.42, 5.52
+SAFE_T, SAFE_B = 3.16, -2.62
+CX = (SAFE_L + SAFE_R) / 2          # 0.55 -- centre line of the board
+CY = 0.0
+HEAD_Y = 2.62                       # scene heading line (just under the corner badges)
+SUB_Y = 2.04                        # one-line kicker under the heading
+TOP = 1.68                          # content zone, top edge (when a kicker is up)
+TOP_NOSUB = 2.22                    # content zone, top edge (heading only)
+BOT = -2.55                         # content zone, bottom edge
+FULL_W = SAFE_R - SAFE_L            # 9.94
+
+
+# ------------------------------------------------------------- text --------
+TEXT_SCALE = 1.0      # a topic class may set TEXT_SCALE < 1 for medium type
+
+def fit(mob, max_w=None, max_h=None):
+    """Scale `mob` DOWN (never up) so it fits inside max_w x max_h."""
+    k = 1.0
+    if max_w and mob.width > max_w:
+        k = min(k, max_w / mob.width)
+    if max_h and mob.height > max_h:
+        k = min(k, max_h / mob.height)
+    if k < 1.0:
+        mob.scale(k)
+        if k < 0.82 and os.environ.get("CH5_STILLS"):
+            nm = getattr(mob, "text", None) or getattr(mob, "tex_string", None)
+            if nm is None and mob.submobjects:
+                nm = "+".join(str(getattr(m, "text", None) or
+                                  getattr(m, "tex_string", "?"))
+                              for m in mob.submobjects[:3])
+            print(f"[SHRINK {k:.2f}] {nm}", flush=True)
+    return mob
+
+
+def T(s, size=28, color=CHALK_WHITE, bold=True, max_w=None):
+    """Chalk text.  Wider than `max_w` shrinks to fit (never overflows)."""
+    t = Text(s, font=FONT, font_size=size * TEXT_SCALE, color=color,
+             weight="BOLD" if bold else "NORMAL")
+    return fit(t, max_w)
+
+
+def M(tex, size=44, color=CHALK_WHITE, max_w=None):
+    """Chalk maths."""
+    m = MathTex(tex, font_size=size * TEXT_SCALE, color=color)
+    return fit(m, max_w)
+
+
+def lines(strings, size=28, color=CHALK_WHITE, buff=0.16, align=ORIGIN,
+          max_w=None):
+    """Several text lines stacked (centred by default)."""
+    g = VGroup(*[T(s, size, color) for s in strings]).arrange(DOWN, buff=buff)
+    if align is not ORIGIN:
+        g.arrange(DOWN, buff=buff, aligned_edge=align)
+    return fit(g, max_w)
+
+
+def P(mob, x, y):
+    """Pin a mobject's centre to board coordinates."""
+    return mob.move_to(np.array([float(x), float(y), 0.0]))
+
+
+# ------------------------------------------------------------ panels -------
+def panel(w, h, color=CHALK_WHITE, opacity=0.72, radius=0.16, stroke=2.6):
+    return RoundedRectangle(corner_radius=radius, width=w, height=h,
+                            stroke_color=color, stroke_width=stroke,
+                            fill_color=PANEL_FILL, fill_opacity=opacity)
+
+
+def chip(text, color=CHALK_CYAN, size=28, w=None, h=None, pad=0.32):
+    lab = T(text, size, color)
+    if w:
+        fit(lab, w - 0.3)
+    box = panel(w or lab.width + 2 * pad, h or lab.height + 0.34, color,
+                radius=0.14, stroke=2.4)
+    lab.move_to(box.get_center())
+    g = VGroup(box, lab)
+    g.box, g.label = box, lab
+    return g
+
+
+def tcard(head, body, color=CHALK_CYAN, w=3.1, h=None, head_size=30,
+          body_size=26, pad=0.22, gap=0.14, body_color=CHALK_WHITE):
+    """Head over body lines, auto-fitted inside a rounded card."""
+    parts = [T(head, head_size, color)] if head else []
+    parts += [T(s, body_size, body_color) for s in body]
+    content = VGroup(*parts).arrange(DOWN, buff=gap)
+    hh = h if h is not None else content.height + 2 * pad
+    fit(content, w - 2 * pad, hh - 2 * pad)
+    box = panel(w, hh, color)
+    content.move_to(box.get_center())
+    g = VGroup(box, content)
+    g.box, g.content = box, content
+    return g
+
+
+def num_badge(n, color=CHALK_CYAN, r=0.27, size=26):
+    c = Circle(radius=r, stroke_color=color, stroke_width=2.6,
+               fill_color=color, fill_opacity=0.25)
+    t = T(str(n), size, color)
+    t.move_to(c.get_center())
+    return VGroup(c, t)
+
+
+def step_row(tag, left, right=None, color=CHALK_CYAN, w=9.6, h=0.78,
+             size=28, left_color=None, math=False):
+    """One revealed step: a round tag, the work, and (optionally) the result.
+
+    Layout is by fixed columns so tags line up down the board.
+    """
+    box = panel(w, h, color, radius=0.14, stroke=2.4)
+    badge = num_badge(tag, color, r=min(0.27, h / 2 - 0.12), size=size - 2)
+    badge.move_to(box.get_left() + RIGHT * (0.22 + badge.width / 2))
+    mk = M if math else T
+    a = (M(left, size + 6, left_color or color) if math
+         else T(left, size, left_color or color))
+    parts = [a]
+    if right:
+        parts.append(T(right, size, CHALK_WHITE) if not math
+                     else M(right, size + 6, CHALK_WHITE))
+    txt = VGroup(*parts).arrange(RIGHT, buff=0.30)
+    fit(txt, w - badge.width - 0.75, h - 0.18)
+    txt.next_to(badge, RIGHT, buff=0.28)
+    g = VGroup(box, badge, txt)
+    g.box, g.badge, g.txt = box, badge, txt
+    return g
+
+
+def calc_row(tag, name, tex, color=CHALK_CYAN, w=9.6, h=0.95, name_size=26,
+             math_size=40, tex_color=CHALK_WHITE):
+    """A working row: optional tag badge, a short name, then the maths."""
+    box = panel(w, h, color, radius=0.14, stroke=2.4)
+    badge = None
+    if tag:
+        badge = num_badge(tag, color, r=min(0.28, h / 2 - 0.12), size=26)
+        badge.move_to(box.get_left() + RIGHT * (0.24 + badge.width / 2))
+    parts = []
+    if name:
+        parts.append(T(name, name_size, color))
+    parts.append(M(tex, math_size, tex_color))
+    txt = VGroup(*parts).arrange(RIGHT, buff=0.32)
+    used = (badge.width + 0.30 + 0.5) if badge else 0.5
+    fit(txt, w - used - 0.30, h - 0.16)
+    if badge:
+        txt.next_to(badge, RIGHT, buff=0.30)
+        g = VGroup(box, badge, txt)
+    else:
+        txt.move_to(box)
+        g = VGroup(box, txt)
+    g.box, g.txt = box, txt
+    return g
+
+
+def cross_mark(point, size=0.26, color=CHALK_RED, width=6):
+    x, y = float(point[0]), float(point[1])
+    return VGroup(
+        Line([x - size, y - size, 0], [x + size, y + size, 0],
+             stroke_color=color, stroke_width=width),
+        Line([x - size, y + size, 0], [x + size, y - size, 0],
+             stroke_color=color, stroke_width=width))
+
+
+def tick_mark(point, size=0.24, color=CHALK_GREEN, width=6):
+    x, y = float(point[0]), float(point[1])
+    a = [x - 0.9 * size, y + 0.05 * size, 0]
+    b = [x - 0.2 * size, y - 0.75 * size, 0]
+    c = [x + 1.0 * size, y + 0.95 * size, 0]
+    return VGroup(Line(a, b, stroke_color=color, stroke_width=width),
+                  Line(b, c, stroke_color=color, stroke_width=width))
+
+
+# ------------------------------------------------- tight boxes (no dead air) ---
+def _content_of(g):
+    return VGroup(*[m for m in g.submobjects if m is not g.box])
+
+
+def tight_size(g, padx=0.24, pady=0.10, minh=0.52):
+    c = _content_of(g)
+    left_pad = padx + (0.0 if hasattr(g, "badge") else 0.0)
+    return c.width + 2 * padx, max(c.height + 2 * pady, minh)
+
+
+def tidy(*groups, same=False, padx=0.24, pady=0.10, minh=0.52):
+    """Shrink each card / chip / row box to hug what is inside it.
+
+    `same=True` gives the whole stack the widest tight width (rows that carry a
+    number badge stay left-aligned inside it).  Each group keeps its centre."""
+    groups = [g for g in groups if hasattr(g, "box")]
+    if not groups:
+        return
+    sizes = [tight_size(g, padx, pady, minh) for g in groups]
+    wmax = max(w for w, _ in sizes)
+    for g, (w, h) in zip(groups, sizes):
+        W = wmax if same else w
+        old_c = g.get_center()
+        content = _content_of(g)
+        cc = content.get_center()
+        nb = RoundedRectangle(corner_radius=min(0.14, h * 0.4), width=W,
+                              height=h).match_style(g.box)
+        if hasattr(g, "badge"):
+            nb.move_to(np.array([content.get_left()[0] - padx + W / 2,
+                                 cc[1], 0.0]))
+        else:
+            nb.move_to(cc)
+        g.box.become(nb)
+        g._tight = True
+        g.move_to(old_c)
+
+
+def tidy_all(mob, **kw):
+    """Tighten every boxed group found anywhere inside `mob`."""
+    for m in mob.get_family():
+        if hasattr(m, "box") and not getattr(m, "_tight", False):
+            tidy(m, **kw)
+
+
+def hrow(*mobs, y, gap=0.4, cx=CX, max_w=FULL_W):
+    """A row centred on the board with equal air; scaled down if too wide."""
+    row = VGroup(*mobs).arrange(RIGHT, buff=gap)
+    fit(row, max_w)
+    return P(row, cx, y)
+
+
+def vcol(*mobs, x, gap=0.3, cy=CY, max_h=None):
+    col = VGroup(*mobs).arrange(DOWN, buff=gap)
+    fit(col, None, max_h)
+    return P(col, x, cy)
+
+
+# ------------------------------------------------------------- audit -------
+def _texts(mob, out):
+    if isinstance(mob, (Text, MathTex, Tex)):
+        out.append(mob)
+        return
+    for sub in mob.submobjects:
+        _texts(sub, out)
+
+
+def _box(m):
+    return (m.get_left()[0], m.get_right()[0], m.get_bottom()[1],
+            m.get_top()[1])
+
+
+def audit(scene, tag="", verbose=True):
+    """Report text that leaves the safe board area or collides with text."""
+    texts = []
+    shapes = []
+    for m in scene.mobjects:
+        if m in scene.fixtures:
+            continue
+        _texts(m, texts)
+        if not isinstance(m, (Text, MathTex, Tex, ImageMobject)):
+            shapes.append(m)
+    issues = []
+    for t in texts:
+        if t.width < 1e-3:
+            continue
+        l, r, b, tp = _box(t)
+        if l < SAFE_L - 0.02 or r > SAFE_R + 0.02 or b < SAFE_B - 0.02 \
+                or tp > SAFE_T + 0.02:
+            issues.append(f"OUT  {_name(t)!r} [{l:.2f},{r:.2f}]x[{b:.2f},{tp:.2f}]")
+    for m in shapes:
+        if m.width < 1e-3 or m.get_num_points() == 0 and not m.submobjects:
+            continue
+        l, r, b, tp = _box(m)
+        if l < SAFE_L - 0.30 or r > SAFE_R + 0.20 or b < SAFE_B - 0.15 \
+                or tp > SAFE_T + 0.12:
+            if m.width < 12 and m.height < 8:           # ignore full veils
+                issues.append(f"OUT-SHAPE [{l:.2f},{r:.2f}]x[{b:.2f},{tp:.2f}]"
+                              f" {type(m).__name__}")
+    # visible text only (skip fully faded)
+    vis = [t for t in texts if t.width > 1e-3 and
+           (t.get_fill_opacity() > 0.05 or t.get_stroke_opacity() > 0.05)]
+    for i in range(len(vis)):
+        for j in range(i + 1, len(vis)):
+            a, b = vis[i], vis[j]
+            if a.get_z_index() != b.get_z_index():
+                continue
+            al, ar, ab, at = _box(a)
+            bl, br, bb, bt = _box(b)
+            # shrink each box a little: glyph boxes are generous
+            sx, sy = 0.03, 0.04
+            if min(ar, br) - max(al, bl) > sx * 2 and \
+                    min(at, bt) - max(ab, bb) > sy * 2:
+                issues.append(f"OVERLAP {_name(a)!r} x {_name(b)!r}")
+    if getattr(scene, "STRICT_BOXES", False):
+        boxes = []
+        for m in scene.mobjects:
+            if m in scene.fixtures:
+                continue
+            for sub in m.get_family():
+                bx = getattr(sub, "box", None)
+                if bx is not None and bx.width > 0.3:
+                    boxes.append(bx)
+        for bx in boxes:
+            l, r, bt, tp = _box(bx)
+            if l < SAFE_L - 0.02 or r > SAFE_R + 0.02 or bt < SAFE_B - 0.02                     or tp > SAFE_T + 0.02:
+                issues.append(f"BOX-OUT [{l:.2f},{r:.2f}]x[{bt:.2f},{tp:.2f}]")
+        gap = 0.10
+        for i in range(len(boxes)):
+            for j in range(i + 1, len(boxes)):
+                a_, b_ = boxes[i], boxes[j]
+                al, ar, ab, at = _box(a_)
+                bl, br, bb, bt_ = _box(b_)
+                inter = (min(ar, br) - max(al, bl) > -gap and
+                         min(at, bt_) - max(ab, bb) > -gap)
+                inside = (al <= bl and ar >= br and ab <= bb and at >= bt_) or                          (bl <= al and br >= ar and bb <= ab and bt_ >= at)
+                if inter and not inside:
+                    issues.append(f"BOX-GAP ({al:.2f},{ab:.2f},{ar:.2f},{at:.2f})"
+                                  f" vs ({bl:.2f},{bb:.2f},{br:.2f},{bt_:.2f})")
+    if getattr(scene, "AVOID_ART", False):
+        for m in scene.mobjects:
+            if m in scene.fixtures:
+                continue
+            stu, tea, bdg = scene.art_hits(m)
+            if max(stu, tea, bdg) >= 0.006:
+                issues.append(f"ART-OVERLAP stu={stu:.2f} tea={tea:.2f} "
+                              f"bdg={bdg:.2f} {type(m).__name__}")
+    if verbose and issues:
+        print(f"[AUDIT {tag}] " + " | ".join(issues), flush=True)
+    return issues
+
+
+def _name(t):
+    return getattr(t, "text", None) or getattr(t, "tex_string", "?")
+
+
+# --------------------------------------------------------- the scene -------
+class ArtMask:
+    """Where the background PICTURES are (students, teacher, corner badges).
+
+    Built from the real alpha channels of the cut-outs, so text can be tested
+    against what is actually drawn, not against a rough box."""
+    RES = 0.03
+    CLEAR_TEXT = 0.10      # air kept between text and a picture
+    CLEAR_PANEL = 0.14     # ... and between a card / panel and a picture
+    X0, X1, Y0, Y1 = -7.3, 7.3, -4.2, 4.2
+
+    def __init__(self, scene):
+        from PIL import Image
+        res = self.RES
+        self.W = int((self.X1 - self.X0) / res)
+        self.H = int((self.Y1 - self.Y0) / res)
+        self.stu = np.zeros((self.H, self.W), bool)
+        self.tea = np.zeros((self.H, self.W), bool)
+        self.bdg = np.zeros((self.H, self.W), bool)
+        assets = _ROOT / "Story-Mode-Manim-Videos" / "assets"
+        for grid, img, name in ((self.stu, scene.student, "student.png"),
+                                (self.tea, scene.teacher, "teacher.png")):
+            left, right = img.get_left()[0], img.get_right()[0]
+            top, bot = img.get_top()[1], img.get_bottom()[1]
+            a = Image.open(assets / name).convert("RGBA").split()[3]
+            tw = max(1, int(round((right - left) / res)))
+            th = max(1, int(round((top - bot) / res)))
+            arr = np.array(a.resize((tw, th), Image.BOX)) > 70
+            self._paste(grid, arr, left, top)
+        for b in (scene.badge, scene.badge_l):
+            self._rect(self.bdg, b.get_left()[0] - 0.06, b.get_right()[0] + 0.06,
+                       b.get_bottom()[1] - 0.06, b.get_top()[1] + 0.06)
+
+    def _ix(self, x, y):
+        return (int(round((x - self.X0) / self.RES)),
+                int(round((self.Y1 - y) / self.RES)))
+
+    def _paste(self, grid, arr, left, top):
+        c0, r0 = self._ix(left, top)
+        h, w = arr.shape
+        rr0, cc0 = max(r0, 0), max(c0, 0)
+        rr1, cc1 = min(r0 + h, self.H), min(c0 + w, self.W)
+        if rr1 > rr0 and cc1 > cc0:
+            grid[rr0:rr1, cc0:cc1] |= arr[rr0 - r0:rr1 - r0, cc0 - c0:cc1 - c0]
+
+    def _rect(self, grid, l, r, b, t):
+        c0, r0 = self._ix(l, t)
+        c1, r1 = self._ix(r, b)
+        grid[max(r0, 0):min(r1, self.H), max(c0, 0):min(c1, self.W)] = True
+
+    def frac(self, grid, l, r, b, t):
+        c0, r0 = self._ix(l, t)
+        c1, r1 = self._ix(r, b)
+        sub = grid[max(r0, 0):max(min(r1, self.H), 0),
+                   max(c0, 0):max(min(c1, self.W), 0)]
+        return float(sub.mean()) if sub.size else 0.0
+
+    def hit_parts(self, mob):
+        """(student, teacher, badge) overlap of everything drawn in `mob`:
+        every text (box shrunk 8%) and every card / panel (box shrunk 3%)."""
+        out = [0.0, 0.0, 0.0]
+        boxes = []
+        texts = []
+        _texts(mob, texts)
+        for t in texts:
+            if t.width < 1e-3:
+                continue
+            l, r, b, tp = _box(t)
+            mg = self.CLEAR_TEXT
+            boxes.append((l - mg, r + mg, b - mg, tp + mg))
+
+        def panels(m):
+            if isinstance(m, (Text, MathTex, Tex)):
+                return
+            if isinstance(m, (RoundedRectangle, Rectangle)) and                     m.width > 0.45 and m.height > 0.30:
+                l, r, b, tp = _box(m)
+                mg = self.CLEAR_PANEL
+                boxes.append((l - mg, r + mg, b - mg, tp + mg))
+            for sub in m.submobjects:
+                panels(sub)
+        panels(mob)
+        for (l, r, b, tp) in boxes:
+            area = max(r - l, 0.0) * max(tp - b, 0.0)
+            for i, g in enumerate((self.stu, self.tea, self.bdg)):
+                # masked AREA in board units^2 (a thin hand still counts)
+                out[i] = max(out[i], self.frac(g, l, r, b, tp) * area)
+        return out
+
+
+class _FakeTracker:
+    data = {"word_boundaries": []}
+    start_t = 0.0
+    end_t = 0.0
+
+    def time_until_bookmark(self, mark):
+        return 0.0
+
+    def get_remaining_duration(self):
+        return 0.0
+
+
+class Ch5Scene(VoiceoverScene):
+    """Base scene.  A topic subclass sets NARRATION and the beat list."""
+    NARRATION: dict = {}
+    BEATS: tuple = ()
+    STILLS = os.environ.get("CH5_STILLS", "")
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self._srt_entries: list[tuple[float, float, str]] = []
+        self._beat_key = ""
+        self._snap_n = 0
+        self.fixtures: list = []
+        self.issues: list[str] = []
+        self._sync_log: list = []
+
+    # -- backdrop ----------------------------------------------------------
+    def add_background(self) -> None:
+        assets = _ROOT / "Story-Mode-Manim-Videos" / "assets"
+        bg = ImageMobject(str(assets / "background2.png"))
+        bg.stretch_to_fit_width(config.frame_width)
+        bg.stretch_to_fit_height(config.frame_height)
+        bg.set_z_index(-10)
+
+        student = ImageMobject(str(assets / "student.png"))
+        student.set_z_index(-5)
+        student.height = 3.3
+        student.move_to(np.array([
+            -config.frame_width / 2 + student.width / 2 - 0.15,
+            -config.frame_height / 2 + student.height / 2 - 0.1, 0]))
+
+        teacher = ImageMobject(str(assets / "teacher.png"))
+        teacher.set_z_index(-5)
+        teacher.height = 3.3
+        teacher.move_to(np.array([
+            config.frame_width / 2 - teacher.width / 2 + 0.45,
+            -config.frame_height / 2 + teacher.height / 2 - 0.1, 0]))
+
+        self.bg, self.student, self.teacher = bg, student, teacher
+        self.badge = self._corner_badge("Mathematics", corner="right",
+                                        y=BOARD_TOP - 0.16, font_size=12,
+                                        scale=16 / 12)
+        self.badge_l = self._corner_badge("dhimantAI", corner="left",
+                                          y=BOARD_TOP - 0.16, font_size=12,
+                                          scale=16 / 12,
+                                          text_color=BRAND_WHITE)
+        self.fixtures = [bg, student, teacher, self.badge, self.badge_l]
+        self.add(*self.fixtures)
+
+    def _corner_badge(self, text, *, corner, y=None, font_size=13,
+                      scale=1.0, text_color=CHALK_WHITE):
+        label = Text(text, font=FONT, font_size=font_size, color=text_color,
+                     weight="BOLD")
+        frame = RoundedRectangle(
+            corner_radius=0.04, width=label.width + 0.24,
+            height=label.height + 0.16, stroke_color=CHALK_AMBER,
+            stroke_width=1.5, fill_color="#2A1D10", fill_opacity=0.45)
+        label.move_to(frame.get_center())
+        badge = VGroup(frame, label)
+        badge.scale(scale)
+        yy = BOARD_TOP - 0.32 if y is None else y
+        if corner == "left":
+            badge.move_to(np.array([BOARD_LEFT + 0.55, yy, 0]))
+            badge.shift(RIGHT * (BOARD_LEFT + 0.08 - badge.get_left()[0]))
+        else:
+            badge.move_to(np.array([BOARD_RIGHT - 0.6, yy, 0]))
+            badge.shift(RIGHT * (BOARD_RIGHT - 0.013 - badge.get_right()[0]))
+        badge.shift(UP * ((BOARD_TOP - 0.08) - badge.get_top()[1]))
+        return badge
+
+    def reset_board(self) -> None:
+        self.clear()
+        self.add(*self.fixtures)
+
+    # -- narration plumbing --------------------------------------------------
+    @property
+    def still(self) -> bool:
+        return bool(self.STILLS)
+
+    @contextmanager
+    def narrate(self, key, reset=True):
+        """One narrated beat: bookmark tracker + real-SRT capture."""
+        self._beat_key = key
+        if self.still:
+            if reset:
+                self.reset_board()
+            self._snap_n = 0
+            yield _FakeTracker()
+            self.snap("end")
+            return
+        with self.voiceover(text=self.NARRATION[key]) as tracker:
+            if reset:
+                self.reset_board()
+            yield tracker
+            self._capture_srt(tracker)
+        self.wait(TRANSITION_HOLD)
+
+    def _left(self, tr, mark):
+        return max(float(tr.time_until_bookmark(mark)), 0.0)
+
+    def hold(self, tr, mark):
+        """Wait (silently) until the narration reaches `mark`."""
+        if self.still:
+            return
+        d = self._left(tr, mark)
+        if d > 0.03:
+            self.wait(d)
+
+    def sound(self, name, gain=-14):
+        if not self.still:
+            self.add_sound(self.sfx[name], gain=gain)
+
+    GAINS = {"pop": -13, "click": -15, "ding": -13, "success": -11,
+             "whoosh": -14}
+
+    TEXT_SCALE = 1.0           # <1: medium-size type for the whole video
+    TIGHT_BOXES = False        # True: every box hugs its text
+    STRICT_BOXES = False       # True: audit boxes for the board edge and gaps
+    AVOID_ART = False          # set True on a topic class to keep text clear
+                               # of the teacher, the students and the badges
+
+    def _art(self):
+        if getattr(self, "_mask", None) is None:
+            self._mask = ArtMask(self)
+        return self._mask
+
+    def art_hits(self, mob):
+        return self._art().hit_parts(mob)
+
+    def _tight(self, it):
+        if not self.TIGHT_BOXES:
+            return
+        if isinstance(it, Animation):
+            for attr in ("mobject", "target_mobject"):
+                m = getattr(it, attr, None)
+                if isinstance(m, Mobject):
+                    self._tight(m)
+            return
+        if isinstance(it, Mobject) and not hasattr(it, "build"):
+            tidy_all(it)
+
+    def _avoid(self, it):
+        """Shrink `it` (a Mobject, or what an Animation acts on) about the
+        corner farthest from the picture it touches, until it is clear."""
+        if not self.AVOID_ART:
+            return
+        if isinstance(it, Animation):
+            for attr in ("mobject", "target_mobject"):
+                m = getattr(it, attr, None)
+                if isinstance(m, Mobject):
+                    self._avoid(m)
+            return
+        if not isinstance(it, Mobject) or hasattr(it, "build"):
+            return
+        k_total = 1.0
+        for _ in range(16):
+            stu, tea, bdg = self.art_hits(it)
+            if max(stu, tea, bdg) < 0.006:
+                break
+            if k_total < 0.58:
+                print(f"[ART-STILL-HIT] beat {self._beat_key}: "
+                      f"stu={stu:.2f} tea={tea:.2f} bdg={bdg:.2f}", flush=True)
+                break
+            l, r = it.get_left()[0], it.get_right()[0]
+            b, t = it.get_bottom()[1], it.get_top()[1]
+            if bdg >= 0.006 and bdg >= max(stu, tea):
+                anchor = np.array([(l + r) / 2, b, 0.0])
+            else:
+                ax = r if stu >= tea else l           # keep the far side
+                anchor = np.array([ax, t, 0.0])       # and the top edge
+            it.scale(0.95, about_point=anchor)
+            k_total *= 0.95
+        if k_total < 1.0 and self.still:
+            print(f"[ART-SHRINK {k_total:.2f}] beat {self._beat_key}", flush=True)
+
+    def go(self, *anims, rt=0.5):
+        """Play animations (instant in still mode)."""
+        self.play(*anims, run_time=0.02 if self.still else rt)
+
+    def show(self, *mobs, rt=0.45, shift=UP * 0.06, scale=None):
+        """Bring mobjects in at once (no waiting for narration)."""
+        anims = []
+        for m in mobs:
+            self._tight(m)
+            self._avoid(m)
+            if scale is not None:
+                anims.append(FadeIn(m, scale=scale))
+            else:
+                anims.append(FadeIn(m, shift=shift))
+        self.go(*anims, rt=rt)
+
+    def cue(self, tr, mark, *items, sfx="click", rt=0.5, shift=UP * 0.06,
+            scale=None, snap=None):
+        """Wait for `mark`, then reveal `items` (Mobjects fade in, Animations
+        play as given), with a sound effect.  This is the sync rule of the
+        series: a thing appears when the voice finishes describing it."""
+        if not self.still:
+            _t0 = float(self.renderer.time)
+            _due = _t0 + float(tr.time_until_bookmark(mark))
+        self.hold(tr, mark)
+        if not self.still:
+            self._sync_log.append((self._beat_key, mark, _due,
+                                   float(self.renderer.time)))
+        anims = []
+        for it in items:
+            self._tight(it)
+            self._avoid(it)
+            if isinstance(it, Animation) or hasattr(it, "build"):
+                anims.append(it)
+            elif scale is not None:
+                anims.append(FadeIn(it, scale=scale))
+            else:
+                anims.append(FadeIn(it, shift=shift))
+        if anims:
+            self.go(*anims, rt=rt)
+        if sfx:
+            self.sound(sfx, self.GAINS.get(sfx, -14))
+        if self.still:
+            self.issues += audit(self, f"{self._beat_key}/{mark}")
+            if snap:
+                self.snap(snap)
+
+    def finish(self, tr, mob=None):
+        """Consume the tail of the narration window."""
+        if self.still:
+            return
+        left = max(float(tr.get_remaining_duration()), 0.0)
+        if left > 0.05:
+            self.wait(left)
+
+    # -- still-frame mode ----------------------------------------------------
+    def snap(self, tag):
+        if not self.still:
+            return
+        from PIL import Image
+        out = Path(self.STILLS)
+        out.mkdir(parents=True, exist_ok=True)
+        self._snap_n += 1
+        self.renderer.update_frame(self)
+        frame = self.renderer.camera.pixel_array
+        Image.fromarray(frame).convert("RGB").save(
+            out / f"{self._order:02d}_{self._beat_key}_{self._snap_n}_{tag}.png")
+        self.issues += audit(self, f"{self._beat_key}/{tag}")
+
+    _order = 0
+
+    # -- scene furniture -----------------------------------------------------
+    def heading(self, title, sub=None, color=CHALK_AMBER, size=36):
+        h = T(title, size, color, max_w=9.3)
+        P(h, CX, HEAD_Y)
+        grp = VGroup(h)
+        if sub:
+            s = T(sub, 28, CHALK_WHITE, max_w=9.4)
+            P(s, CX, SUB_Y)
+            grp.add(s)
+        self._avoid(grp)
+        self.go(FadeIn(grp, shift=UP * 0.08), rt=0.5)
+        return grp
+
+    def think_clock(self):
+        from story_common import play_challenge_countdown
+        if self.still:
+            return
+        play_challenge_countdown(self, seconds=10, sfx=self.sfx,
+                                 position=np.array([CX, CY, 0.0]))
+
+    # -- real SRT export -----------------------------------------------------
+    def _capture_srt(self, tracker, words_per_line: int = 9) -> None:
+        wbs = [wb for wb in tracker.data.get("word_boundaries", [])
+               if wb.get("text", "").strip()]
+        if not wbs:
+            return
+        starts = [tracker.start_t + wb["audio_offset"] / AUDIO_OFFSET_RESOLUTION
+                  for wb in wbs]
+        chunks = []
+        for i in range(0, len(wbs), words_per_line):
+            chunk = wbs[i:i + words_per_line]
+            end = starts[i + words_per_line] if i + words_per_line < len(starts) \
+                else tracker.end_t
+            chunks.append([starts[i], end, list(chunk)])
+        if len(chunks) > 1 and len(chunks[-1][2]) <= 2:
+            tail = chunks.pop()
+            chunks[-1][1] = tail[1]
+            chunks[-1][2].extend(tail[2])
+        for start, end, chunk in chunks:
+            self._srt_entries.append(
+                (start, end, " ".join(wb["text"] for wb in chunk)))
+
+    def _write_real_srt(self) -> None:
+        mod_file = Path(sys.modules[self.__class__.__module__].__file__)
+        out_dir = mod_file.parent / "media" / "videos" / mod_file.stem
+
+        def fmt(t: float) -> str:
+            total_ms = int(round(max(t, 0.0) * 1000))
+            h, rem = divmod(total_ms, 3_600_000)
+            m, rem = divmod(rem, 60_000)
+            s, ms = divmod(rem, 1000)
+            return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
+
+        rows = []
+        for idx, (start, end, text) in enumerate(self._srt_entries, 1):
+            rows += [str(idx), f"{fmt(start)} --> {fmt(max(end, start + 0.3))}",
+                     text, ""]
+        body = "\n".join(rows)
+        ext = chr(92) * 2 + "?" + chr(92)       # the extended-length prefix
+
+        def put(path: Path) -> None:
+            # topic folders are deep: fall back to the extended-length form
+            for cand in (path, Path(ext + str(path))):
+                try:
+                    cand.parent.mkdir(parents=True, exist_ok=True)
+                    cand.write_text(body, encoding="utf-8")
+                    return
+                except OSError:
+                    continue
+            print(f"[warn] could not write {path}")
+
+        name = self.__class__.__name__
+        # visual-vs-voice timing of every reveal (lag > 0 = shown late)
+        log = ["beat,mark,bookmark_s,shown_s,lag_s"]
+        for beat, mk, due, shown in self._sync_log:
+            log.append(f"{beat},{mk},{due:.2f},{shown:.2f},{shown - due:.2f}")
+        try:
+            for cand in (out_dir / f"{name}.sync.csv",):
+                cand.parent.mkdir(parents=True, exist_ok=True)
+                cand.write_text("\n".join(log), encoding="utf-8")
+        except OSError:
+            pass
+        late = [(b, m, sh - du) for b, m, du, sh in self._sync_log
+                if sh - du > 0.35]
+        print(f"[SYNC] {len(self._sync_log)} cues, {len(late)} later than "
+              f"0.35 s: {late[:12]}", flush=True)
+        put(out_dir / f"{name}.real.srt")
+        put(out_dir / "real.srt")
+        try:
+            movie_dir = Path(self.renderer.file_writer.movie_file_path).parent
+            put(movie_dir / "real.srt")
+            put(movie_dir / f"{name}.real.srt")
+            (movie_dir / f"{name}.sync.csv").write_text(
+                "\n".join(log), encoding="utf-8")
+            print(f"[real SRT written] {movie_dir / (name + '.real.srt')}")
+        except Exception as exc:
+            print("[warn] movie-dir srt:", exc)
+
+    # -- construct -----------------------------------------------------------
+    def construct(self):
+        globals()["TEXT_SCALE"] = self.TEXT_SCALE
+        if not self.still:
+            from sound_effects import load_all as load_sfx
+            from speech_service import get_speech_service
+            from synced_voice import install_synced_voiceover
+            self.sfx = load_sfx()
+            self.set_speech_service(get_speech_service(),
+                                    create_subcaption=False)
+            install_synced_voiceover(self)
+        self.add_background()
+        only = os.environ.get("CH5_ONLY", "")
+        for n, name in enumerate(self.BEATS):
+            if only and name not in only.split(","):
+                continue
+            self._order = n
+            getattr(self, f"beat_{name}")()
+        if not self.still:
+            self._write_real_srt()
+        else:
+            print("[STILLS DONE] issues:", len(self.issues), flush=True)

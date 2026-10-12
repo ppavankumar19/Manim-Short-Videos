@@ -1,0 +1,403 @@
+1
+00:00:00,140 --> 00:00:02,840
+Suppose two school groups are selling tickets for the
+
+2
+00:00:02,840 --> 00:00:05,900
+annual function. Group A sold 225 tickets out of
+
+3
+00:00:05,900 --> 00:00:09,280
+300. Group B sold 200 tickets out of 250.
+
+4
+00:00:09,280 --> 00:00:14,306
+The two totals are different, so the numbers 225
+
+5
+00:00:14,306 --> 00:00:19,200
+and 200 cannot be compared directly. Who actually did
+
+6
+00:00:19,200 --> 00:00:23,678
+better? A percentage puts different totals onto one common
+
+7
+00:00:23,678 --> 00:00:26,691
+scale, and that scale is always out of one hundred.
+
+8
+00:00:27,333 --> 00:00:29,593
+Now let us convert both groups to one common
+
+9
+00:00:29,593 --> 00:00:32,396
+scale. Both 225 out of 300 and 200 out
+
+10
+00:00:32,396 --> 00:00:36,473
+of 250 can be written as fractions. 225 out
+
+11
+00:00:36,473 --> 00:00:40,593
+of 300 is 3 over 4, which is 75
+
+12
+00:00:40,593 --> 00:00:43,885
+out of 100, so that is 75 percent. 200
+
+13
+00:00:43,885 --> 00:00:47,213
+out of 250 is 4 over 5, which is
+
+14
+00:00:47,213 --> 00:00:49,927
+80 out of 100, so that is 80 percent.
+
+15
+00:00:49,927 --> 00:00:53,151
+So group B is closer to the target. The
+
+16
+00:00:53,151 --> 00:00:58,353
+rule is: percentage equals part divided by whole, multiplied
+
+17
+00:00:58,353 --> 00:01:01,707
+by one hundred. And always name the whole, because
+
+18
+00:01:01,707 --> 00:01:05,004
+the percentage is measured from that reference.
+
+19
+00:01:05,627 --> 00:01:08,581
+Now think about a change. Suppose a value grows
+
+20
+00:01:08,581 --> 00:01:11,994
+by 35 percent. Start with the original value drawn
+
+21
+00:01:11,994 --> 00:01:15,892
+as a full bar of one hundred percent. A
+
+22
+00:01:15,892 --> 00:01:19,532
+35 percent increase attaches one more block to that
+
+23
+00:01:19,532 --> 00:01:23,278
+bar. The original hundred percent and the new thirty
+
+24
+00:01:23,278 --> 00:01:26,638
+five percent together make one hundred and thirty five
+
+25
+00:01:26,638 --> 00:01:28,578
+percent. So a 35 percent increase means the new
+
+26
+00:01:28,578 --> 00:01:31,847
+value is 135 percent of the original. The increase
+
+27
+00:01:31,847 --> 00:01:35,618
+is always measured from the original, never from the new value.
+
+28
+00:01:36,227 --> 00:01:40,279
+Let us apply that to money. Last month the
+
+29
+00:01:40,279 --> 00:01:45,467
+sales were Rs 98,700. This month they are up
+
+30
+00:01:45,467 --> 00:01:50,907
+by 35 percent. First find the increase: 35 over
+
+31
+00:01:50,907 --> 00:01:57,547
+100 times 98,700 is Rs 34,545. Then add it
+
+32
+00:01:57,547 --> 00:02:02,435
+to the original: 98,700 plus 34,545 gives Rs 1,33,245.
+
+33
+00:02:02,435 --> 00:02:08,907
+Here is the shortcut: 135 percent of 98,700 is
+
+34
+00:02:08,907 --> 00:02:13,292
+the same Rs 1,33,245, because the new value is
+
+35
+00:02:13,292 --> 00:02:16,138
+135 percent of the old one.
+
+36
+00:02:16,780 --> 00:02:19,549
+Now the other direction. A price tag shows Rs
+
+37
+00:02:19,549 --> 00:02:22,111
+550, and the shop offers 10 percent off. Ten
+
+38
+00:02:22,111 --> 00:02:25,660
+percent of 550 is Rs 55. Take it away:
+
+39
+00:02:25,660 --> 00:02:29,291
+550 minus 55 is Rs 495, and that is
+
+40
+00:02:29,291 --> 00:02:32,940
+what you pay. Now compare the two changes on
+
+41
+00:02:32,940 --> 00:02:36,640
+one panel. An increase of p percent gives 100
+
+42
+00:02:36,640 --> 00:02:40,400
+percent plus p percent. A decrease of p percent
+
+43
+00:02:40,400 --> 00:02:43,968
+gives 100 percent minus p percent, so 10 percent
+
+44
+00:02:43,968 --> 00:02:45,471
+off leaves 90 percent.
+
+45
+00:02:46,153 --> 00:02:50,153
+Here is the mental toolkit. Ten percent is one
+
+46
+00:02:50,153 --> 00:02:53,117
+tenth, so move the decimal point one place. Five
+
+47
+00:02:53,117 --> 00:02:57,248
+percent is half of ten percent. Fifteen percent is
+
+48
+00:02:57,248 --> 00:03:00,593
+ten percent plus five percent, and twenty percent is
+
+49
+00:03:00,593 --> 00:03:03,780
+simply two tens. A common mistake is to say
+
+50
+00:03:03,780 --> 00:03:08,216
+that five percent is half of twenty percent; the
+
+51
+00:03:08,216 --> 00:03:10,593
+cross shows that this is wrong. Now use 480:
+
+52
+00:03:10,593 --> 00:03:14,033
+ten percent is 48, five percent is 24, so
+
+53
+00:03:14,033 --> 00:03:18,644
+fifteen percent is 72. Build hard percentages out of ten percent.
+
+54
+00:03:19,140 --> 00:03:21,615
+Now use that on a bill. The bill is
+
+55
+00:03:21,615 --> 00:03:26,200
+Rs 477.80, which is awkward, so round it to
+
+56
+00:03:26,200 --> 00:03:29,504
+Rs 480. Ten percent of 480 is 48. Five
+
+57
+00:03:29,504 --> 00:03:34,668
+percent is half of that, so 24, and fifteen
+
+58
+00:03:34,668 --> 00:03:37,255
+percent is 48 plus 24, that is 72. Subtract
+
+59
+00:03:37,255 --> 00:03:40,773
+that from the rounded bill: 480 minus 72 is
+
+60
+00:03:40,773 --> 00:03:43,563
+408. So you pay about Rs 410, and the
+
+61
+00:03:43,563 --> 00:03:49,451
+approximation sign stays on the board, because this is an estimate.
+
+62
+00:03:50,060 --> 00:03:53,293
+Let us put the two lanes side by side.
+
+63
+00:03:53,293 --> 00:03:57,580
+The exact lane works with the real bill: fifteen
+
+64
+00:03:57,580 --> 00:04:00,200
+percent of 477.80 is Rs 71.67, and 477.80 minus
+
+65
+00:04:00,200 --> 00:04:04,409
+71.67 is 406.13. The mental lane rounded the bill
+
+66
+00:04:04,409 --> 00:04:09,020
+to 480 and used 72, which gave about 408,
+
+67
+00:04:09,020 --> 00:04:11,660
+or about 410. The two answers are close, so
+
+68
+00:04:11,660 --> 00:04:17,580
+the estimate is sensible. Remember: an estimate is a
+
+69
+00:04:17,580 --> 00:04:23,640
+reasonableness check, not exact arithmetic. The exact lane is
+
+70
+00:04:23,640 --> 00:04:27,211
+only there to show that the quick answer is believable.
+
+71
+00:04:27,827 --> 00:04:30,437
+So here is the decision map. To convert, divide
+
+72
+00:04:30,437 --> 00:04:33,291
+the part by the whole and multiply by one
+
+73
+00:04:33,291 --> 00:04:36,467
+hundred. To handle an increase, add the percentage to
+
+74
+00:04:36,467 --> 00:04:39,327
+one hundred. To handle a decrease, subtract it from
+
+75
+00:04:39,327 --> 00:04:43,697
+one hundred. To estimate, round the number first, and
+
+76
+00:04:43,697 --> 00:04:47,467
+then build the percentage from ten percent. Four moves:
+
+77
+00:04:47,467 --> 00:04:50,458
+convert, change, estimate, and check.
+
+78
+00:04:50,960 --> 00:04:55,360
+Your turn. Four quick checks. A: convert 18 out
+
+79
+00:04:55,360 --> 00:04:59,460
+of 24 into a percentage. B: find the price
+
+80
+00:04:59,460 --> 00:05:03,340
+of an item marked Rs 800 with 10 percent
+
+81
+00:05:03,340 --> 00:05:06,995
+off. C: estimate 20 percent of Rs 357.30 by
+
+82
+00:05:06,995 --> 00:05:11,800
+first rounding it to 360. D: increase Rs 900
+
+83
+00:05:11,800 --> 00:05:15,280
+by 35 percent. Now pause the video, work all
+
+84
+00:05:15,280 --> 00:05:20,171
+four out on paper, and then we will check every answer.
+
+85
+00:05:31,167 --> 00:05:34,793
+Let us check every answer. A: 18 out of
+
+86
+00:05:34,793 --> 00:05:39,040
+24 is three quarters, so it is 75 percent.
+
+87
+00:05:39,040 --> 00:05:41,893
+B: ten percent of 800 is 80, so 800
+
+88
+00:05:41,893 --> 00:05:45,837
+minus 80 is Rs 720. C: twenty percent of
+
+89
+00:05:45,837 --> 00:05:48,580
+360 is two tens of 36, which is 36
+
+90
+00:05:48,580 --> 00:05:52,827
+plus 36, so it is about Rs 72. D:
+
+91
+00:05:52,827 --> 00:05:56,967
+135 percent of 900 is Rs 1,215, because 900
+
+92
+00:05:56,967 --> 00:06:02,061
+plus 315 gives 1,215. Every answer used the whole
+
+93
+00:06:02,061 --> 00:06:03,018
+as its base.
+
+94
+00:06:03,707 --> 00:06:06,967
+Let us put it together. One: compare, because a
+
+95
+00:06:06,967 --> 00:06:10,467
+percentage is always out of one hundred. Two: change,
+
+96
+00:06:10,467 --> 00:06:12,967
+where an increase adds to one hundred percent and
+
+97
+00:06:12,967 --> 00:06:17,367
+a decrease subtracts from it. Three: estimate, by rounding
+
+98
+00:06:17,367 --> 00:06:20,327
+first and then building the percentage from ten percent.
+
+99
+00:06:20,327 --> 00:06:24,496
+Four: check, because an estimate is a reasonableness check
+
+100
+00:06:24,496 --> 00:06:30,547
+and not exact arithmetic. Compare, change, estimate, check. Thank
+
+101
+00:06:30,547 --> 00:06:32,898
+you for watching, and see you in the next lesson.
