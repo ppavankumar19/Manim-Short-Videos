@@ -1,0 +1,311 @@
+1
+00:00:00,152 --> 00:00:03,112
+Here is a question for a language model. What
+
+2
+00:00:03,112 --> 00:00:06,092
+is the capital of India? You type it, you
+
+3
+00:00:06,092 --> 00:00:08,922
+send it, and an answer comes back. It looks
+
+4
+00:00:08,922 --> 00:00:11,611
+as though the model is reading your words directly.
+
+5
+00:00:11,724 --> 00:00:14,664
+It is not. Before the model sees anything at
+
+6
+00:00:14,664 --> 00:00:17,664
+all, that sentence is taken apart and turned into
+
+7
+00:00:17,664 --> 00:00:21,974
+something else entirely. Watch what the model actually receives.
+
+8
+00:00:21,974 --> 00:00:23,411
+A list of integers.
+
+9
+00:00:23,772 --> 00:00:26,442
+One number for every piece of the text. No
+
+10
+00:00:26,442 --> 00:00:32,412
+letters, no words, no punctuation, just positions in a
+
+11
+00:00:32,412 --> 00:00:34,371
+table.
+
+12
+00:00:35,375 --> 00:00:38,495
+So how does text become numbers? That is what
+
+13
+00:00:38,495 --> 00:00:39,898
+this episode is about.
+
+14
+00:00:40,825 --> 00:00:44,225
+Start from the simplest idea. A tokenizer needs a
+
+15
+00:00:44,225 --> 00:00:48,203
+dictionary. On the left, readable text. On the right,
+
+16
+00:00:48,203 --> 00:00:51,245
+a list of integers. The dictionary is the bridge
+
+17
+00:00:51,245 --> 00:00:52,558
+between the two worlds.
+
+18
+00:00:52,759 --> 00:00:57,168
+Take a short greeting: Hello, with an exclamation mark.
+
+19
+00:00:57,168 --> 00:00:59,809
+The tokenizer does not keep it whole. It cuts
+
+20
+00:00:59,809 --> 00:01:03,299
+it into two pieces. Hello, and the exclamation mark
+
+21
+00:01:03,299 --> 00:01:06,544
+on its own. Each piece is called a token.
+
+22
+00:01:06,699 --> 00:01:09,732
+Every token then looks itself up in the dictionary.
+
+23
+00:01:09,732 --> 00:01:13,119
+Hello is entry forty two. The exclamation mark is
+
+24
+00:01:13,119 --> 00:01:16,139
+entry ninety one. Those two integers are what the
+
+25
+00:01:16,139 --> 00:01:19,719
+model receives. I invented these particular numbers to keep
+
+26
+00:01:19,719 --> 00:01:22,719
+the picture clean, but the mechanism is exactly what
+
+27
+00:01:22,719 --> 00:01:24,504
+every real tokenizer does.
+
+28
+00:01:25,157 --> 00:01:28,868
+For a long time, the dictionary held whole words.
+
+29
+00:01:28,868 --> 00:01:31,217
+Every word the system knew got its own drawer
+
+30
+00:01:31,217 --> 00:01:37,388
+in the cabinet. Play. Player. Playing. Played. Four drawers,
+
+31
+00:01:37,388 --> 00:01:38,671
+four entries, for one idea.
+
+32
+00:01:38,838 --> 00:01:41,888
+That works beautifully until somebody uses a word that
+
+33
+00:01:41,888 --> 00:01:45,368
+was never in the training data. Playfulness. There is
+
+34
+00:01:45,368 --> 00:01:48,678
+no drawer for it. The searchlight sweeps the cabinet
+
+35
+00:01:48,678 --> 00:01:51,961
+and finds nothing. So the word is thrown away,
+
+36
+00:01:51,961 --> 00:01:55,778
+and replaced by a single marker: unknown token. The
+
+37
+00:01:55,778 --> 00:01:58,828
+word is gone. The model cannot tell you what
+
+38
+00:01:58,828 --> 00:01:59,638
+it was.
+
+39
+00:02:00,466 --> 00:02:02,996
+The book makes exactly this point with a different
+
+40
+00:02:02,996 --> 00:02:09,806
+family: apology, apologize, apologetic, apologist. Four whole words, all
+
+41
+00:02:09,806 --> 00:02:12,916
+built on one stem, and the vocabulary pays for
+
+42
+00:02:12,916 --> 00:02:15,596
+every one of them separately. That is a lot
+
+43
+00:02:15,596 --> 00:02:18,004
+of storage for very little difference.
+
+44
+00:02:18,092 --> 00:02:20,542
+But look closely at those drawers, and a pattern
+
+45
+00:02:20,542 --> 00:02:25,732
+appears. The same letters keep coming back. Play. Play.
+
+46
+00:02:25,732 --> 00:02:29,692
+Play. If those letters could be shared, one entry
+
+47
+00:02:29,692 --> 00:02:30,531
+would do the work of many.
+
+48
+00:02:31,139 --> 00:02:35,461
+So here is one escape route. Forget words entirely.
+
+49
+00:02:35,461 --> 00:02:39,259
+Treat every single character as a token. Playful shatters
+
+50
+00:02:39,259 --> 00:02:43,709
+into seven separate pieces. P. L. A. Y. F.
+
+51
+00:02:43,709 --> 00:02:44,631
+U. L.
+
+52
+00:02:44,852 --> 00:02:48,672
+Now nothing is ever unknown again, because every word
+
+53
+00:02:48,672 --> 00:02:51,652
+in every language is built from characters the system
+
+54
+00:02:51,652 --> 00:02:55,092
+already has. But look at the price. The word
+
+55
+00:02:55,092 --> 00:02:58,122
+play, which used to be one token, is now
+
+56
+00:02:58,122 --> 00:02:58,931
+four.
+
+57
+00:02:59,099 --> 00:03:02,056
+And that price is paid in the model's context.
+
+58
+00:03:02,056 --> 00:03:05,299
+Subword tokens average about three characters each, so a
+
+59
+00:03:05,299 --> 00:03:08,219
+context of one thousand and twenty four tokens holds
+
+60
+00:03:08,219 --> 00:03:11,151
+roughly three times as much text as characters would.
+
+61
+00:03:11,398 --> 00:03:14,748
+Character tokenization is not wrong. It is a different
+
+62
+00:03:14,748 --> 00:03:18,588
+trade: complete coverage, bought with much longer sequences for
+
+63
+00:03:18,588 --> 00:03:19,984
+the model to work through.
+
+64
+00:03:20,519 --> 00:03:23,399
+So the machine takes the middle path. Keep whole
+
+65
+00:03:23,399 --> 00:03:25,929
+words when they are common. Break the rare ones
+
+66
+00:03:25,929 --> 00:03:31,009
+into reusable pieces. Play, player, playing. All three share
+
+67
+00:03:31,009 --> 00:03:32,178
+the same opening.
+
+68
+00:03:32,404 --> 00:03:36,781
+That shared opening collapses into a single block: play.
+
+69
+00:03:36,781 --> 00:03:40,454
+Now the endings can be stored separately. Er. And
+
+70
+00:03:40,454 --> 00:03:44,218
+ing. Three words, built from three pieces.
+
+71
+00:03:44,853 --> 00:03:48,696
+And a word the vocabulary has never seen? Playful.
+
+72
+00:03:48,696 --> 00:03:51,223
+It needs no new entry at all. Play is
+
+73
+00:03:51,223 --> 00:03:54,553
+already there. Ful is already there. The word is
+
+74
+00:03:54,553 --> 00:03:55,731
+simply assembled.
+
+75
+00:03:55,970 --> 00:03:59,390
+That is what the book calls subword tokenization. It
+
+76
+00:03:59,390 --> 00:04:03,800
+is why the pieces for apology, apologize, apologetic and
+
+77
+00:04:03,800 --> 00:04:07,710
+apologist can be shared, instead of stored whole. Whole
+
+78
+00:04:07,710 --> 00:04:10,551
+words when useful. Smaller pieces when needed.

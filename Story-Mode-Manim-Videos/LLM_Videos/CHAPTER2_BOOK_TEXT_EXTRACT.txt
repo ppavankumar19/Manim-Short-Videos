@@ -1,0 +1,1790 @@
+There is much more to the Transformer architecture than what we explored thus
+far. In Chapters 2 and 3, we will go through the many reasons why Transformer
+models work so well, including multi-head attention, positional embeddings, and
+layer normalization.
+
+Representation Models: Encoder-Only Models
+The original Transformer model is an encoder-decoder architecture that serves trans‐
+lation tasks well but cannot easily be used for other tasks, like text classification.
+In 2018, a new architecture called Bidirectional Encoder Representations from Trans‐
+formers (BERT) was introduced that could be leveraged for a wide variety of tasks
+and would serve as the foundation of Language AI for years to come.6 BERT is
+an encoder-only architecture that focuses on representing language, as illustrated
+in Figure 1-21. This means that it only uses the encoder and removes the decoder
+entirely.
+
+
+
+
+Figure 1-21. The architecture of a BERT base model with 12 encoders.
+
+These encoder blocks are the same as we saw before: self-attention followed by
+feedforward neural networks. The input contains an additional token, the [CLS] or
+classification token, which is used as the representation for the entire input. Often,
+we use this [CLS] token as the input embedding for fine-tuning the model on specific
+tasks, like classification.
+
+
+6 Jacob Devlin et al. “BERT: Pre-training of deep bidirectional transformers for language understanding.” arXiv
+     preprint arXiv:1810.04805 (2018).
+
+
+18     |   Chapter 1: An Introduction to Large Language Models
+Training these encoder stacks can be a difficult task that BERT approaches by adopt‐
+ing a technique called masked language modeling (see Chapters 2 and 11). As shown
+in Figure 1-22, this method masks a part of the input for the model to predict. This
+prediction task is difficult but allows BERT to create more accurate (intermediate)
+representations of the input.
+
+
+
+
+Figure 1-22. Train a BERT model by using masked language modeling.
+
+This architecture and training procedure makes BERT and related architectures
+incredible at representing contextual language. BERT-like models are commonly used
+for transfer learning, which involves first pretraining it for language modeling and
+then fine-tuning it for a specific task. For instance, by training BERT on the entirety
+of Wikipedia, it learns to understand the semantic and contextual nature of text.
+Then, as shown in Figure 1-23, we can use that pretrained model to fine-tune it for a
+specific task, like text classification.
+
+
+
+
+Figure 1-23. After pretraining BERT on masked language model, we fine-tune it for
+specific tasks.
+
+A huge benefit of pretrained models is that most of the training is already done for
+us. Fine-tuning on specific tasks is generally less compute-intensive and requires less
+data. Moreover, BERT-like models generate embeddings at almost every step in their
+
+
+                                                         A Recent History of Language AI   |   19
+architecture. This also makes BERT models feature extraction machines without the
+need to fine-tune them on a specific task.
+Encoder-only models, like BERT, will be used in many parts of the book. For years,
+they have been and are still used for common tasks, including classification tasks (see
+Chapter 4), clustering tasks (see Chapter 5), and semantic search (see Chapter 8).
+Throughout the book, we will refer to encoder-only models as representation models
+to differentiate them from decoder-only, which we refer to as generative models.
+Note that the main distinction does not lie between the underlying architecture and
+the way these models work. Representation models mainly focus on representing
+language, for instance, by creating embeddings, and typically do not generate text. In
+contrast, generative models focus primarily on generating text and typically are not
+trained to generate embeddings.
+The distinction between representation and generative models and components will
+also be shown in most images. Representation models are teal with a small vector
+icon (to indicate its focus on vectors and embeddings) whilst generative models are
+pink with a small chat icon (to indicate its generative capabilities).
+
+Generative Models: Decoder-Only Models
+Similar to the encoder-only architecture of BERT, a decoder-only architecture was
+proposed in 2018 to target generative tasks.7 This architecture was called a Generative
+Pre-trained Transformer (GPT) for its generative capabilities (it’s now known as
+GPT-1 to distinguish it from later versions). As shown in Figure 1-24, it stacks
+decoder blocks similar to the encoder-stacked architecture of BERT.
+GPT-1 was trained on a corpus of 7,000 books and Common Crawl, a large dataset of
+web pages. The resulting model consisted of 117 million parameters. Each parameter
+is a numerical value that represents the model’s understanding of language.
+If everything remains the same, we expect more parameters to greatly influence the
+capabilities and performance of language models. Keeping this in mind, we saw larger
+and larger models being released at a steady pace. As illustrated in Figure 1-25, GPT-2
+had 1.5 billion parameters8 and GPT-3 used 175 billion parameters9 quickly followed.
+
+
+
+
+7 Alec Radford et al. “Improving language understanding by generative pre-training”, (2018).
+8 Alec Radford et al. “Language models are unsupervised multitask learners.” OpenAI Blog 1.8 (2019): 9.
+9 Tom Brown et al. “Language models are few-shot learners.” Advances in Neural Information Processing Systems
+     33 (2020): 1877–1901.
+
+
+20     |   Chapter 1: An Introduction to Large Language Models
+Figure 1-24. The architecture of a GPT-1. It uses a decoder-only architecture and
+removes the encoder-attention block.
+
+
+
+
+Figure 1-25. GPT models quickly grew in size with each iteration.
+
+
+
+
+                                                           A Recent History of Language AI   |   21
+These generative decoder-only models, especially the “larger” models, are commonly
+referred to as large language models (LLMs). As we will discuss later in this chapter,
+the term LLM is not only reserved for generative models (decoder-only) but also
+representation models (encoder-only).
+Generative LLMs, as sequence-to-sequence machines, take in some text and attempt
+to autocomplete it. Although a handy feature, their true power shone from being
+trained as a chatbot. Instead of completing a text, what if they could be trained to
+answer questions? By fine-tuning these models, we can create instruct or chat models
+that can follow directions.
+As illustrated in Figure 1-26, the resulting model could take in a user query (prompt)
+and output a response that would most likely follow that prompt. As such, you will
+often hear that generative models are completion models.
+
+
+
+
+Figure 1-26. Generative LLMs take in some input and try to complete it. With instruct
+models, this is more than just autocomplete and attempts to answer the question.
+
+A vital part of these completion models is something called the context length or
+context window. The context length represents the maximum number of tokens the
+model can process, as shown in Figure 1-27. A large context window allows entire
+documents to be passed to the LLM. Note that due to the autoregressive nature of
+these models, the current context length will increase as new tokens are generated.
+
+
+
+
+22   |   Chapter 1: An Introduction to Large Language Models
+Figure 1-27. The context length is the maximum context an LLM can handle.
+
+The Year of Generative AI
+LLMs had a tremendous impact on the field and led some to call 2023 The Year of
+Generative AI with the release, adoption, and media coverage of ChatGPT (GPT-3.5).
+When we refer to ChatGPT, we are actually talking about the product and not the
+underlying model. When it was first released, it was powered by the GPT-3.5 LLM
+and has since then grown to include several more performant variants, such as
+GPT-4.10
+GPT-3.5 was not the only model that made its impact in the Year of Generative AI.
+As illustrated in Figure 1-28, both open source and proprietary LLMs have made
+their way to the people at an incredible pace. These open source base models are
+often referred to as foundation models and can be fine-tuned for specific tasks, like
+following instructions.
+
+
+
+
+10 OpenAI, “Gpt-4 technical report.” arXiv preprint arXiv:2303.08774 (2023).
+
+
+
+                                                                          A Recent History of Language AI   |   23
+Figure 1-28. A comprehensive view into the Year of Generative AI. Note that many
+models are still missing from this overview!
+
+Apart from the widely popular Transformer architecture, new promising architec‐
+tures have emerged such as Mamba11,12 and RWKV.13 These novel architectures
+attempt to reach Transformer-level performance with additional advantages, like
+larger context windows or faster inference.
+These developments exemplify the evolution of the field and showcase 2023 as a truly
+hectic year for AI. It took all we had to just keep up with the many developments,
+both within and outside of Language AI.
+As such, this book explores more than just the latest LLMs. We will explore how
+other models, such as embedding models, encoder-only models, and even bag-of-
+words can be used to empower LLMs.
+
+
+
+
+11 Albert Gu and Tri Dao. “Mamba: Linear-time sequence modeling with selective state spaces.” arXiv preprint
+     arXiv:2312.00752 (2023).
+12 See “A Visual Guide to Mamba and State Space Models” for an illustrated and visual guide to Mamba as an
+     alternative to the Transformer architecture.
+13 Bo Peng et al. “RWKV: Reinventing RNNs for the transformer era.” arXiv preprint arXiv:2305.13048 (2023).
+
+
+
+24     |   Chapter 1: An Introduction to Large Language Models
+The Moving Definition of a “Large Language Model”
+In our travels through the recent history of Language AI, we observed that primarily
+generative decoder-only (Transformer) models are commonly referred to as large
+language models. Especially if they are considered to be “large.” In practice, this seems
+like a rather constrained description!
+What if we create a model with the same capabilities as GPT-3 but 10 times smaller?
+Would such a model fall outside the “large” language model categorization?
+Similarly, what if we released a model as big as GPT-4 that can perform accurate
+text classification but does not have any generative capabilities? Would it still qualify
+as a large “language model” if its primary function is not language generation, even
+though it still represents text?
+The problem with these kinds of definitions is that we exclude capable models. What
+name we give one model or the other does not change how it behaves.
+Since the definition of the term “large language model” tends to evolve with the
+release of new models, we want to be explicit in what it means for this book. “Large”
+is arbitrary and what might be considered a large model today could be small tomor‐
+row. There are currently many names for the same thing and to us, “large language
+models” are also models that do not generate text and can be run on consumer
+hardware.
+As such, aside from covering generative models, this book will also cover models with
+fewer than 1 billion parameters that do not generate text. We will explore how other
+models, such as embedding models, representation models, and even bag-of-words
+can be used to empower LLMs.
+
+The Training Paradigm of Large Language Models
+Traditional machine learning generally involves training a model for a specific task,
+like classification. As shown in Figure 1-29, we consider this to be a one-step process.
+
+
+
+
+Figure 1-29. Traditional machine learning involves a single step: training a model for a
+specific target task, like classification or regression.
+
+
+
+
+                                              The Training Paradigm of Large Language Models   |   25
+Creating LLMs, in contrast, typically consists of at least two steps:
+Language modeling
+   The first step, called pretraining, takes the majority of computation and training
+   time. An LLM is trained on a vast corpus of internet text allowing the model
+   to learn grammar, context, and language patterns. This broad training phase is
+   not yet directed toward specific tasks or applications beyond predicting the next
+   word. The resulting model is often referred to as a foundation model or base
+   model. These models generally do not follow instructions.
+Fine-tuning
+    The second step, fine-tuning or sometimes post-training, involves using the previ‐
+    ously trained model and further training it on a narrower task. This allows the
+    LLM to adapt to specific tasks or to exhibit desired behavior. For example, we
+    could fine-tune a base model to perform well on a classification task or to follow
+    instructions. It saves massive amounts of resources because the pretraining phase
+    is quite costly and generally requires data and computing resources that are
+    out of the reach of most people and organizations. For instance, Llama 2 has
+    been trained on a dataset containing 2 trillion tokens.14 Imagine the compute
+    necessary to create that model! In Chapter 12, we will go over several methods
+    for fine-tuning foundation models on your dataset.
+Any model that goes through the first step, pretraining, we consider a pretrained
+model, which also includes fine-tuned models. This two-step approach of training is
+visualized in Figure 1-30.
+
+
+
+
+Figure 1-30. Compared to traditional machine learning, LLM training takes a multistep
+approach.
+
+Additional fine-tuning steps can be added to further align the model with the user’s
+preferences, as we will explore in Chapter 12.
+
+
+
+
+14 Hugo Touvron et al. “Llama 2: Open foundation and fine-tuned chat models.” arXiv preprint arXiv:2307.09288
+     (2023).
+
+
+26     |   Chapter 1: An Introduction to Large Language Models
+Large Language Model Applications: What Makes Them
+So Useful?
+The nature of LLMs makes them suitable for a wide range of tasks. With text genera‐
+tion and prompting, it almost seems as if your imagination is the limit. To illustrate,
+let’s explore some common tasks and techniques:
+Detecting whether a review left by a customer is positive or negative
+    This is (supervised) classification and can be handled with both encoder- and
+    decoder-only models either with pretrained models (see Chapter 4) or by fine-
+    tuning models (see Chapter 11).
+Developing a system for finding common topics in ticket issues
+   This is (unsupervised) classification for which we have no predefined labels.
+   We can leverage encoder-only models to perform the classification itself and
+   decoder-only models for labeling the topics (see Chapter 5).
+Building a system for retrieval and inspection of relevant documents
+    A major component of language model systems is their ability to add external
+    resources of information. Using semantic search, we can build systems that allow
+    us to easily access and find information for an LLM to use (see Chapter 8).
+    Improve your system by creating or fine-tuning a custom embedding model (see
+    Chapter 12).
+Constructing an LLM chatbot that can leverage external resources, such as tools and
+documents
+    This is a combination of techniques that demonstrates how the true power of
+    LLMs can be found through additional components. Methods such as prompt
+    engineering (see Chapter 6), retrieval-augmented generation (see Chapter 8), and
+    fine-tuning an LLM (see Chapter 12) are all pieces of the LLM puzzle.
+Constructing an LLM capable of writing recipes based on a picture showing the products
+in your fridge
+     This is a multimodal task where the LLM takes in an image and reasons about
+     what it sees (see Chapter 9). LLMs are being adapted to other modalities, such as
+     Vision, which opens a wide variety of interesting use cases.
+LLM applications are incredibly satisfying to create since they are partially bounded
+by the things you can imagine. As these models grow more accurate, using them in
+practice for creative use cases such as role-playing and writing children’s books simply
+becomes more and more fun.
+
+
+
+
+                                 Large Language Model Applications: What Makes Them So Useful?   |   27
+Responsible LLM Development and Usage
+The impact of LLMs has been and likely continues to be significant due to their wide‐
+spread adoption. As we explore the incredible capabilities of LLMs it is important to
+keep their societal and ethical implications in mind. Several key points to consider:
+Bias and fairness
+    LLMs are trained on large amounts of data that might contain biases. LLMs
+    might learn from these biases, start to reproduce them, and potentially amplify
+    them. Since the data on which LLMs are trained are seldom shared, it remains
+    unclear what potential biases they might contain unless you try them out.
+Transparency and accountability
+    Due to LLMs’ incredible capabilities, it is not always clear when you are talking
+    with a human or an LLM. As such, the usage of LLMs when interacting with
+    humans can have unintended consequences when there is no human in the
+    loop. For instance, LLM-based applications used in the medical field might be
+    regulated as medical devices since they could affect a patient’s well-being.
+Generating harmful content
+   An LLM does not necessarily generate ground-truth content and might confi‐
+   dently output incorrect text. Moreover, they can be used to generate fake news,
+   articles, and other misleading sources of information.
+Intellectual property
+     Is the output of an LLM your intellectual property or that of the LLM’s creator?
+     When the output is similar to a phrase in the training data, does the intellectual
+     property belong to the author of that phrase? Without access to the training data
+     it remains unclear when copyrighted material is being used by the LLM.
+Regulation
+    Due to the enormous impact of LLMs, governments are starting to regulate
+    commercial applications. An example is the European AI Act, which regulates
+    the development and deployment of foundation models including LLMs.
+As you develop and use LLMs, we want to stress the importance of ethical considera‐
+tions and urge you to learn more about the safe and responsible use of LLMs and AI
+systems in general.
+
+Limited Resources Are All You Need
+The compute resources that we have referenced several times thus far generally relate
+to the GPU(s) you have available on your system. A powerful GPU (graphics card)
+will make both training and using LLMs much more efficient and faster.
+
+
+
+28   | Chapter 1: An Introduction to Large Language Models
+In choosing a GPU, an important component is the amount of VRAM (video
+random-access memory) you have available. This refers to the amount of memory
+you have available on your GPU. In practice, the more VRAM you have the better.
+The reason for this is that some models simply cannot be used at all if you do not
+have sufficient VRAM.
+Because training and fine-tuning LLMs can be an expensive process, GPU-wise, those
+without a powerful GPU have often been referred to as the GPU-poor. This illustrates
+the battle for computing resources to train these huge models. To create the Llama 2
+family of models, for example, Meta used A100-80 GB GPUs. Assuming renting such
+a GPU would cost $1.50/hr, the total costs of creating these models would exceed
+$5,000,000!15
+Unfortunately, there is no single rule to determine exactly how much VRAM you
+need for a specific model. It depends on the model’s architecture and size, compres‐
+sion technique, context size, backend for running the model, etc.
+This book is for the GPU-poor! We will use models that users can run without the
+most expensive GPU(s) available or a big budget. To do so, we will make all the code
+available in Google Colab instances. At the time of writing, a free instance of Google
+Colab will net you a T4 GPU with 16 GB VRAM, which is the minimum amount of
+VRAM that we suggest.
+
+Interfacing with Large Language Models
+Interfacing with LLMs is a vital component of not only using them but also develop‐
+ing an understanding of their inner workings. Due to the many developments in
+the field, there has been an abundance of techniques, methods, and packages for
+communicating with LLMs. Throughout the book, we intend to explore the most
+common techniques for doing so, including using both proprietary (closed source)
+and publicly available open models.
+
+Proprietary, Private Models
+Closed source LLMs are models that do not have their weights and architecture
+shared with the public. They are developed by specific organizations with their
+underlying code being kept secret. Examples of such models include OpenAI’s GPT-4
+and Anthropic’s Claude. These proprietary models are generally backed by significant
+commercial support and have been developed and integrated within their services.
+
+
+
+
+15 The models were trained for 3,311,616 GPU hours, which refers to the amount of time it takes to train a
+   model on a GPU, multiplied by the number of GPUs available.
+
+
+                                                                  Interfacing with Large Language Models     |   29
+You can access these models through an interface that communicates with the LLM,
+called an API (application programming interface), as illustrated in Figure 1-31. For
+instance, to use ChatGPT in Python you can use OpenAI’s package to interface with
+the service without directly accessing it.
+
+
+
+
+Figure 1-31. Closed source LLMs are accessed by an interface (API). As a result, details
+of the LLM itself, including its code and architecture are not shared with the user.
+
+A huge benefit of proprietary models is that the user does not need to have a strong
+GPU to use the LLM. The provider takes care of hosting and running the model and
+generally has more computing available. There is no expertise necessary concerning
+hosting and using the model, which lowers the barrier to entry significantly. More‐
+over, these models tend to be more performant than their open source counterparts
+due to the significant investment from these organizations.
+A downside to this is that it can be a costly service. The provider manages the risk
+and costs of hosting the LLM, which often translates to a paid service. Moreover,
+since there is no direct access to the model, there is no method to fine-tune it
+yourself. Lastly, your data is shared with the provider, which is not desirable in many
+common use cases, such as sharing patient data.
+
+Open Models
+Open LLMs are models that share their weights and architecture with the public to
+use. They are still developed by specific organizations but often share their code for
+creating or running the model locally—with varying levels of licensing that may or
+may not allow commercial usage of the model. Cohere’s Command R, the Mistral
+models, Microsoft’s Phi, and Meta’s Llama models are all examples of open models.
+
+                     There are ongoing discussions as to what truly represents an open
+                     source model. For instance, some publicly shared models have a
+                     permissive commercial license, which means that the model cannot
+                     be used for commercial purposes. For many, this is not the true
+                     definition of open source, which states that using these models
+                     should not have any restrictions. Similarly, the data on which a
+                     model is trained as well as its source code are seldom shared.
+
+
+
+
+30   |   Chapter 1: An Introduction to Large Language Models
+You can download these models and use them on your device as long as you have a
+powerful GPU that can handle these kinds of models, as shown in Figure 1-32.
+
+
+
+
+Figure 1-32. Open source LLMs are directly by the user. As a result, details of the LLM
+itself including its code and architecture are shared with the user.
+
+A major advantage of these local models is that you, the user, have complete control
+over the model. You can use the model without depending on the API connection,
+fine-tune it, and run sensitive data through it. You are not dependent on any service
+and have complete transparency of the processes that lead to the output of the model.
+This benefit is enhanced by the large communities that enable these processes, such
+as Hugging Face, demonstrating the possibilities of collaborative efforts.
+A downside is that you need powerful hardware to run these models and even more
+when training or fine-tuning them. Moreover, it requires specific knowledge to set up
+and use these models (which we will cover throughout this book).
+We generally prefer using open source models wherever we can. The freedom this
+gives to play around with options, explore the inner workings, and use the model
+locally arguably provides more benefits than using proprietary LLMs.
+
+Open Source Frameworks
+Compared to closed source LLMs, open source LLMs require you to use certain pack‐
+ages to run them. In 2023, many different packages and frameworks were released
+that, each in their own way, interact with and make use of LLMs. Wading through
+hundreds upon hundreds of potentially worthwhile frameworks is not the most
+enjoyable experience.
+As a result, you might even miss your favorite framework in this book!
+Instead of attempting to cover every LLM framework in existence (there are too
+many, and they continue to grow in number), we aim to provide you with a solid
+foundation for leveraging LLMs. The idea is that after reading this book, you can
+easily pick up most other frameworks as they all work in a very similar manner.
+The intuition that we attempt to realize is an important component of this. If you
+have an intuitive understanding of not only LLMs but also using them in practice
+with common frameworks, branching out to others should be a straightforward task.
+
+
+                                                     Interfacing with Large Language Models   |   31
+More specifically, we focus on backend packages. These are packages without a
+GUI (graphical user interface) that are created for efficiently loading and running
+any LLM on your device, such as llama.cpp, LangChain, and the core of many
+frameworks, Hugging Face Transformers.
+
+                       We will mostly cover frameworks for interacting with large lan‐
+                       guage models through code. Although it helps you learn the
+                       fundamentals of these frameworks, sometimes you just want a
+                       ChatGPT-like interface with a local LLM. Fortunately, there are
+                       many incredible frameworks that allow for this. A few examples
+                       include text-generation-webui, KoboldCpp, and LM Studio.
+
+
+Generating Your First Text
+An important component of using language models is selecting them. The main
+source for finding and downloading LLMs is the Hugging Face Hub. Hugging Face
+is the organization behind the well-known Transformers package, which for years
+has driven the development of language models in general. As the name implies, the
+package was built on top of the transformers framework that we discussed in “A
+Recent History of Language AI” on page 5.
+At the time of writing, you will find more than 800,000 models on Hugging Face’s
+platform for many different purposes, from LLMs and computer vision models to
+models that work with audio and tabular data. Here, you can find almost any open
+source LLM.
+Although we will explore all kinds of models throughout this book, let’s start our first
+lines of code with a generative model. The main generative model we use throughout
+the book is Phi-3-mini, which is a relatively small (3.8 billion parameters) but quite
+performant model.16 Due to its small size, the model can be run on devices with less
+than 8 GB of VRAM. If you perform quantization, a type of compression that we will
+further discuss in Chapters 7 and 12, you can use even less than 6 GB of VRAM.
+Moreover, the model is licensed under the MIT license, which allows the model to be
+used for commercial purposes without constraints!
+Keep in mind that new and improved LLMs are frequently released. To ensure this
+book remains current, most examples are designed to work with any LLM. We’ll also
+highlight different models in the repository associated with this book for you to try
+out.
+Let’s get started! When you use an LLM, two models are loaded:
+
+
+16 Marah Abdin et al. “Phi-3 technical report: A highly capable language model locally on your phone.” arXiv
+     preprint arXiv:2404.14219 (2024).
+
+
+32     |   Chapter 1: An Introduction to Large Language Models
+  • The generative model itself
+  • Its underlying tokenizer
+
+The tokenizer is in charge of splitting the input text into tokens before feeding it to
+the generative model. You can find the tokenizer and model on the Hugging Face site
+and only need the corresponding IDs to be passed. In this case, we use “microsoft/
+Phi-3-mini-4k-instruct” as the main path to the model.
+We can use transformers to load both the tokenizer and model. Note that we assume
+you have an NVIDIA GPU (device_map="cuda") but you can choose a different
+device instead. If you do not have access to a GPU you can use the free Google Colab
+notebooks we made available in the repository of this book:
+    from transformers import AutoModelForCausalLM, AutoTokenizer
+
+    # Load model and tokenizer
+    model = AutoModelForCausalLM.from_pretrained(
+        "microsoft/Phi-3-mini-4k-instruct",
+        device_map="cuda",
+        torch_dtype="auto",
+        trust_remote_code=True,
+    )
+    tokenizer = AutoTokenizer.from_pretrained("microsoft/Phi-3-mini-4k-instruct")
+Running the code will start downloading the model and depending on your internet
+connection can take a couple of minutes.
+Although we now have enough to start generating text, there is a nice trick in trans‐
+formers that simplifies the process, namely transformers.pipeline. It encapsulates
+the model, tokenizer, and text generation process into a single function:
+    from transformers import pipeline
+
+    # Create a pipeline
+    generator = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        return_full_text=False,
+        max_new_tokens=500,
+        do_sample=False
+    )
+The following parameters are worth mentioning:
+return_full_text
+    By setting this to False, the prompt will not be returned but merely the output of
+    the model.
+
+
+
+                                                             Generating Your First Text   |   33
+max_new_tokens
+     The maximum number of tokens the model will generate. By setting a limit, we
+     prevent long and unwieldy output as some models might continue generating
+     output until they reach their context window.
+do_sample
+     Whether the model uses a sampling strategy to choose the next token. By setting
+     this to False, the model will always select the next most probable token. In
+     Chapter 6, we explore several sampling parameters that invoke some creativity in
+     the model’s output.
+To generate our first text, let’s instruct the model to tell a joke about chickens. To do
+so, we format the prompt in a list of dictionaries where each dictionary relates to an
+entity in the conversation. Our role is that of “user” and we use the “content” key to
+define our prompt:
+     # The prompt (user input / query)
+     messages = [
+         {"role": "user", "content": "Create a funny joke about chickens."}
+     ]
+
+     # Generate output
+     output = generator(messages)
+     print(output[0]["generated_text"])
+
+     Why don't chickens like to go to the gym? Because they can't crack the egg-
+     sistence of it!
+
+And that is it! The first text generated in this book was a decent joke about chickens.
+
+Summary
+In this first chapter of the book, we delved into the revolutionary impact LLMs have
+had on the Language AI field. It has significantly changed our approach to tasks such
+as translation, classification, summarization, and more. Through a recent history of
+Language AI, we explored the fundamentals of several types of LLMs, from a simple
+bag-of-words representation to more complex representations using neural networks.
+
+
+
+
+34   |   Chapter 1: An Introduction to Large Language Models
+We discussed the attention mechanism as a step toward encoding context within
+models, a vital component of what makes LLMs so capable. We touched on two
+main categories of models that use this incredible mechanism: representation models
+(encoder-only) like BERT and generative models (decoder-only) like the GPT family
+of models. Both categories are considered large language models throughout this
+book.
+Overall, the chapter provided an overview of the landscape of Language AI, including
+its applications, societal and ethical implications, and the resources needed to run
+such models. We ended by generating our first text using Phi-3, a model that will be
+used throughout the book.
+In the next two chapters, you will learn about some underlying processes. We start by
+exploring tokenization and embeddings in Chapter 2, two often underestimated but
+vital components of the Language AI field. What follows in Chapter 3 is an in-depth
+look into language models where you will discover the precise methods used for
+generating text.
+
+
+
+
+                                                                       Summary   |   35
+                                                                         CHAPTER 2
+                                      Tokens and Embeddings
+
+
+
+
+Tokens and embeddings are two of the central concepts of using large language
+models (LLMs). As we’ve seen in the first chapter, they’re not only important to
+understanding the history of Language AI, but we cannot have a clear sense of how
+LLMs work, how they’re built, and where they will go in the future without a good
+sense of tokens and embeddings, as we can see in Figure 2-1.
+
+
+
+
+Figure 2-1. Language models deal with text in small chunks called tokens. For the lan‐
+guage model to compute language, it needs to turn tokens into numeric representations
+called embeddings.
+
+In this chapter, we look more closely at what tokens are and the tokenization meth‐
+ods used to power LLMs. We will then dive into the famous word2vec embedding
+method that preceded modern-day LLMs and see how it’s extending the concept
+of token embeddings to build commercial recommendation systems that power a
+lot of the apps you use. Finally, we go from token embeddings into sentence or
+
+
+                                                                                         37
+text embeddings, where a whole sentence or document can have one vector that
+represents it—enabling applications like semantic search and topic modeling that we
+see in Part II of this book.
+
+LLM Tokenization
+The way the majority of people interact with language models, at the time of this
+writing, is through a web playground that presents a chat interface between the user
+and a language model. You may notice that a model does not produce its output
+response all at once; it actually generates one token at a time.
+But tokens aren’t only the output of a model, they’re also the way in which the model
+sees its inputs. A text prompt sent to the model is first broken down into tokens, as
+we’ll now see.
+
+How Tokenizers Prepare the Inputs to the Language Model
+Viewed from the outside, generative LLMs take an input prompt and generate a
+response, as we can see in Figure 2-2.
+
+
+
+
+Figure 2-2. High-level view of a language model and its input prompt.
+
+Before the prompt is presented to the language model, however, it first has to go
+through a tokenizer that breaks it into pieces. You can find an example showing the
+tokenizer of GPT-4 on the OpenAI Platform. If we feed it the input text, it shows the
+output in Figure 2-3, where each token is shown in a different color.
+
+
+
+
+38   |   Chapter 2: Tokens and Embeddings
+Figure 2-3. A tokenizer breaks down text into words or parts of words before the model
+processes the text. It does so according to a specific method and training procedure (from
+https://oreil.ly/ovUWO).
+
+Let’s look at a code example and interact with these tokens ourselves. Here we’ll be
+downloading an LLM and seeing how to tokenize the input before generating text
+with the LLM.
+
+Downloading and Running an LLM
+Let’s start by loading our model and its tokenizer as we’ve done in Chapter 1:
+    from transformers import AutoModelForCausalLM, AutoTokenizer
+
+    # Load model and tokenizer
+    model = AutoModelForCausalLM.from_pretrained(
+        "microsoft/Phi-3-mini-4k-instruct",
+        device_map="cuda",
+        torch_dtype="auto",
+        trust_remote_code=True,
+    )
+    tokenizer = AutoTokenizer.from_pretrained("microsoft/Phi-3-mini-4k-instruct")
+
+
+
+
+                                                                      LLM Tokenization   |   39
+We can then proceed to the actual generation. We first declare our prompt, then
+tokenize it, then pass those tokens to the model, which generates its output. In this
+case, we’re asking the model to only generate 20 new tokens:
+     prompt = "Write an email apologizing to Sarah for the tragic gardening mishap.
+     Explain how it happened.<|assistant|>"
+
+     # Tokenize the input prompt
+     input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to("cuda")
+
+     # Generate the text
+     generation_output = model.generate(
+       input_ids=input_ids,
+       max_new_tokens=20
+     )
+
+     # Print the output
+     print(tokenizer.decode(generation_output[0]))
+Output:
+
+     <s> Write an email apologizing to Sarah for the tragic gardening mishap.
+     Explain how it happened.<|assistant|> Subject: My Sincere Apologies for the
+     Gardening Mishap
+     Dear
+
+The text in bold is the 20 tokens generated by the model.
+Looking at the code, we can see that the model does not in fact receive the text
+prompt. Instead, the tokenizers processed the input prompt, and returned the infor‐
+mation the model needed in the variable input_ids, which the model used as its
+input.
+Let’s print input_ids to see what it holds inside:
+
+     tensor([[ 1, 14350, 385, 4876, 27746, 5281, 304, 19235, 363, 278, 25305, 293,
+     16423, 292, 286, 728, 481, 29889, 12027, 7420, 920, 372, 9559, 29889, 32001]],
+     device='cuda:0')
+
+This reveals the inputs that LLMs respond to, a series of integers as shown in
+Figure 2-4. Each one is the unique ID for a specific token (character, word, or part of
+a word). These IDs reference a table inside the tokenizer containing all the tokens it
+knows.
+
+
+
+
+40   |   Chapter 2: Tokens and Embeddings
+Figure 2-4. A tokenizer processes the input prompt and prepares the actual input into
+the language model: a list of token IDs. The specific token IDs in the figure are just
+demonstrative.
+
+If we want to inspect those IDs, we can use the tokenizer’s decode method to translate
+the IDs back into text that we can read:
+    for id in input_ids[0]:
+       print(tokenizer.decode(id))
+This prints (each token is on a separate line):
+
+    <s>
+
+    Write
+
+    an
+
+    email
+
+    apolog
+
+    izing
+
+    to
+
+    Sarah
+
+    for
+
+    the
+
+    trag
+
+    ic
+
+    garden
+
+    ing
+
+    m
+    ish
+
+
+                                                                      LLM Tokenization   |   41
+       ap
+
+       .
+
+       Exp
+
+       lain
+
+       how
+
+       it
+
+       happened
+       .
+
+       <|assistant|>
+
+This is how the tokenizer broke down our input prompt. Notice the following:
+
+     • The first token is ID 1 (<s>), a special token indicating the beginning of the text.
+     • Some tokens are complete words (e.g., Write, an, email).
+     • Some tokens are parts of words (e.g., apolog, izing, trag, ic).
+     • Punctuation characters are their own token.
+
+Notice how the space character does not have its own token. Instead, partial tokens
+(like “izing” and “ic”) have a special hidden character at their beginning that indicates
+that they’re connected with the token that precedes them in the text. Tokens without
+that special character are assumed to have a space before them.
+On the output side, we can also inspect the tokens generated by the model by printing
+the generation_output variable. This shows the input tokens as well as the output
+tokens (we’ll highlight the new tokens in bold):
+
+       tensor([[ 1, 14350, 385, 4876, 27746, 5281, 304, 19235, 363, 278,
+
+       25305, 293, 16423, 292, 286, 728, 481, 29889, 12027, 7420,
+
+       920, 372, 9559, 29889, 32001, 3323, 622, 29901, 1619, 317,
+
+       3742, 406, 6225, 11763, 363, 278, 19906, 292, 341, 728,
+
+       481, 13, 13, 29928, 799]], device='cuda:0')
+
+This shows us the model generated the token 3323, 'Sub', followed by token 622,
+'ject'. Together they formed the word 'Subject'. They were then followed by
+token 29901, which is the colon ':'...and so on. Just like on the input side, we need
+the tokenizer on the output side to translate the token ID into the actual text. We do
+that using the tokenizer’s decode method. We can pass it an individual token ID or a
+list of them:
+
+
+42    |     Chapter 2: Tokens and Embeddings
+    print(tokenizer.decode(3323))
+    print(tokenizer.decode(622))
+    print(tokenizer.decode([3323, 622]))
+    print(tokenizer.decode(29901))
+This outputs:
+
+    Sub
+
+    ject
+
+    Subject
+    :
+
+
+How Does the Tokenizer Break Down Text?
+There are three major factors that dictate how a tokenizer breaks down an input
+prompt.
+First, at model design time, the creator of the model chooses a tokenization method.
+Popular methods include byte pair encoding (BPE) (widely used by GPT models) and
+WordPiece (used by BERT). These methods are similar in that they aim to optimize
+an efficient set of tokens to represent a text dataset, but they arrive at it in different
+ways.
+Second, after choosing the method, we need to make a number of tokenizer design
+choices like vocabulary size and what special tokens to use. More on this in “Compar‐
+ing Trained LLM Tokenizers” on page 46.
+Third, the tokenizer needs to be trained on a specific dataset to establish the best
+vocabulary it can use to represent that dataset. Even if we set the same methods
+and parameters, a tokenizer trained on an English text dataset will be different from
+another trained on a code dataset or a multilingual text dataset.
+In addition to being used to process the input text into a language model, tokenizers
+are used on the output of the language model to turn the resulting token ID into the
+output word or token associated with it, as Figure 2-5 shows.
+
+
+
+
+                                                                      LLM Tokenization   |   43
+Figure 2-5. Tokenizers are also used to process the output of the model by converting the
+output token ID into the word or token associated with that ID.
+
+Word Versus Subword Versus Character Versus Byte Tokens
+The tokenization scheme we just discussed is called subword tokenization. It’s the
+most commonly used tokenization scheme but not the only one. The four notable
+ways to tokenize are shown in Figure 2-6. Let’s go over them:
+Word tokens
+   This approach was common with earlier methods like word2vec but is being
+   used less and less in NLP. Its usefulness, however, led it to be used outside of NLP
+   for use cases such as recommendation systems, as we’ll see later in the chapter.
+     One challenge with word tokenization is that the tokenizer may be unable to
+     deal with new words that enter the dataset after the tokenizer was trained. This
+     also results in a vocabulary that has a lot of tokens with minimal differences
+     between them (e.g., apology, apologize, apologetic, apologist). This latter chal‐
+     lenge is resolved by subword tokenization as it has a token for apolog, and then
+     suffix tokens (e.g., -y, -ize, -etic, -ist) that are common with many other tokens,
+     resulting in a more expressive vocabulary.
+Subword tokens
+   This method contains full and partial words. In addition to the vocabulary
+   expressivity mentioned earlier, another benefit of the approach is its ability to
+   represent new words by breaking down the new token into smaller characters,
+   which tend to be a part of the vocabulary.
+
+
+
+44   |   Chapter 2: Tokens and Embeddings
+    Figure 2-6. There are multiple methods of tokenization that break down the text to
+    different sizes of components (words, subwords, characters, and bytes).
+
+Character tokens
+   This is another method that can deal successfully with new words because it
+   has the raw letters to fall back on. While that makes the representation easier
+   to tokenize, it makes the modeling more difficult. Where a model with subword
+   tokenization can represent “play” as one token, a model using character-level
+   tokens needs to model the information to spell out “p-l-a-y” in addition to
+   modeling the rest of the sequence.
+    Subword tokens present an advantage over character tokens in the ability to fit
+    more text within the limited context length of a Transformer model. So with a
+    model with a context length of 1,024, you may be able to fit about three times
+    as much text using subword tokenization than using character tokens (subword
+    tokens often average three characters per token).
+Byte tokens
+    One additional tokenization method breaks down tokens into the individual
+    bytes that are used to represent unicode characters. Papers like “CANINE: Pre-
+    training an efficient tokenization-free encoder for language representation” out‐
+    line methods like this, which are also called “tokenization-free encoding.” Other
+    works like “ByT5: Towards a token-free future with pre-trained byte-to-byte
+
+
+                                                                    LLM Tokenization   |   45
+       models” show that this can be a competitive method, especially in multilingual
+       scenarios.
+One distinction to highlight here: some subword tokenizers also include bytes as
+tokens in their vocabulary as the final building block to fall back to when they
+encounter characters they can’t otherwise represent. The GPT-2 and RoBERTa token‐
+izers do this, for example. This doesn’t make them tokenization-free byte-level token‐
+izers, because they don’t use these bytes to represent everything, only a subset, as we’ll
+see in the next section.
+If you want to go deeper into tokenizers, they are discussed in more detail in Design‐
+ing Large Language Model Applications.
+
+Comparing Trained LLM Tokenizers
+We’ve pointed out earlier three major factors that dictate the tokens that appear
+within a tokenizer: the tokenization method, the parameters and special tokens we
+use to initialize the tokenizer, and the dataset the tokenizer is trained on. Let’s
+compare and contrast a number of actual, trained tokenizers to see how these choices
+change their behavior. This comparison will show us that newer tokenizers have
+changed their behavior to improve model performance, and we’ll also see how spe‐
+cialized models (like code generation models, for example) often need specialized
+tokenizers.
+We’ll use a number of tokenizers to encode the following text:
+       text = """
+
+       English and CAPITALIZATION
+
+       🎵鸟
+       show_tokens False None elif == >= else: two tabs:" " Three tabs: "    "
+
+       12.0*50=600
+
+       """
+This will allow us to see how each tokenizer deals with a number of different kinds of
+tokens:
+
+     • Capitalization.
+     • Languages other than English.
+     • Emojis.
+     • Programming code with keywords and whitespaces often used for indentation
+       (in languages like Python for example).
+
+
+
+
+46    |   Chapter 2: Tokens and Embeddings
+  • Numbers and digits.
+  • Special tokens. These are unique tokens that have a role other than representing
+    text. They include tokens that indicate the beginning of the text, or the end of the
+    text (which is the way the model signals to the system that it has completed this
+    generation), or other functions as we’ll see.
+
+Let’s go from older to newer tokenizers to see how they tokenize this text and what
+that might say about the language model. We’ll tokenize the text, and then print each
+token with a color background color using this function:
+    colors_list = [
+        '102;194;165', '252;141;98', '141;160;203',
+        '231;138;195', '166;216;84', '255;217;47'
+    ]
+
+    def show_tokens(sentence, tokenizer_name):
+        tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
+        token_ids = tokenizer(sentence).input_ids
+        for idx, t in enumerate(token_ids):
+            print(
+                f'\x1b[0;30;48;2;{colors_list[idx % len(colors_list)]}m' +
+                tokenizer.decode(t) +
+                '\x1b[0m',
+                end=' '
+            )
+
+BERT base model (uncased) (2018)
+Link to the model on the HuggingFace model hub
+Tokenization method: WordPiece, introduced in “Japanese and Korean voice search”:
+Vocabulary size: 30,522
+Special tokens:
+unk_token [UNK]
+    An unknown token that the tokenizer has no specific encoding for.
+sep_token [SEP]
+    A separator that enables certain tasks that require giving the model two texts (in
+    these cases, the model is called a cross-encoder). One example is reranking, as
+    we’ll see in Chapter 8.
+pad_token [PAD]
+    A padding token used to pad unused positions in the model’s input (as the model
+    expects a certain length of input, its context-size).
+
+
+
+
+                                                                    LLM Tokenization   |   47
+cls_token [CLS]
+       A special classification token for classification tasks, as we’ll see in Chapter 4.
+mask_token [MASK]
+       A masking token used to hide tokens during the training process.
+Tokenized text:
+[CLS] english and capital ##ization [UNK] [UNK] show _ token ##s false none
+eli ##f = = > = else : two tab ##s : " " three tab ##s : " " 12 . 0 * 50 = 600 [SEP]
+BERT was released in two major flavors: cased (where the capitalization is kept) and
+uncased (where all capital letters are first turned into small cap letters). With the
+uncased (and more popular) version of the BERT tokenizer, we notice the following:
+
+     • The newline breaks are gone, which makes the model blind to information
+       encoded in newlines (e.g., a chat log when each turn is in a new line).
+     • All the text is in lowercase.
+     • The word “capitalization” is encoded as two subtokens: capital ##ization. The
+       ## characters are used to indicate this token is a partial token connected to the
+       token that precedes it. This is also a method to indicate where the spaces are, as it
+       is assumed tokens without ## in front have a space before them.
+     • The emoji and Chinese characters are gone and replaced with the [UNK] special
+       token indicating an “unknown token.”
+
+BERT base model (cased) (2018)
+Link to the model on the HuggingFace model hub
+Tokenization method: WordPiece
+Vocabulary size: 28,996
+Special tokens: Same as the uncased version
+Tokenized text:
+[CLS] English and CA ##PI ##TA ##L ##I ##Z ##AT ##ION [UNK] [UNK] show _ token
+##s F ##als ##e None el ##if = = > = else : two ta ##bs : " " Three ta ##bs : " "
+12 . 0 * 50 = 600 [SEP]
+The cased version of the BERT tokenizer differs mainly in including uppercase
+tokens.
+
+     • Notice how “CAPITALIZATION” is now represented as eight tokens: CA ##PI
+       ##TA ##L ##I ##Z ##AT ##ION.
+
+
+
+48    | Chapter 2: Tokens and Embeddings
+  • Both BERT tokenizers wrap the input within a starting [CLS] token and a closing
+    [SEP] token. [CLS] and [SEP] are utility tokens used to wrap the input text
+    and they serve their own purposes. [CLS] stands for classification as it’s a token
+    used at times for sentence classification. [SEP] stands for separator, as it’s used to
+    separate sentences in some applications that require passing two sentences to a
+    model (For example, in Chapter 8, we will use a [SEP] token to separate the text
+    of the query and a candidate result.)
+
+GPT-2 (2019)
+Link to the model on the HuggingFace model hub
+Tokenization method: Byte pair encoding (BPE), introduced in “Neural machine
+translation of rare words with subword units”.
+Vocabulary size: 50,257
+Special tokens: <|endoftext|>
+English and CAP ITAL IZ ATION
+������
+show _ t ok ens False None el if == >= else : two tabs :" " Three tabs : " "
+12 . 0 * 50 = 600
+With the GPT-2 tokenizer, we notice the following:
+
+  • The newline breaks are represented in the tokenizer.
+  • Capitalization is preserved, and the word “CAPITALIZATION” is represented in
+    four tokens.
+  • The 🎵鸟 characters are now represented by multiple tokens each. While we see
+    these tokens printed as the � character, they actually stand for different tokens.
+    For example, the 🎵 emoji is broken down into the tokens with token IDs 8582,
+    236, and 113. The tokenizer is successful in reconstructing the original character
+    from these tokens. We can see that by printing tokenizer.decode([8582, 236,
+    113]), which prints out 🎵.
+  • The two tabs are represented as two tokens (token number 197 in that vocabu‐
+    lary) and the four spaces are represented as three tokens (number 220) with the
+    final space being a part of the token for the closing quote character.
+  • The two tabs are represented as two tokens (token number 197 in that vocabu‐
+    lary) and the four spaces are represented as three tokens (number 220) with the
+    final space being a part of the token for the closing quote character.
+
+
+
+
+                                                                      LLM Tokenization   |   49
+                     What is the significance of whitespace characters? These are
+                     important for models to understand or generate code. A model
+                     that uses a single token to represent four consecutive whitespace
+                     characters is more tuned to a Python code dataset. While a model
+                     can live with representing it as four different tokens, it does make
+                     the modeling more difficult as the model needs to keep track of
+                     the indentation level, which often leads to worse performance. This
+                     is an example of where tokenization choices can help the model
+                     improve on a certain task.
+
+Flan-T5 (2022)
+Tokenization method: Flan-T5 uses a tokenizer implementation called SentencePiece,
+introduced in “SentencePiece: A simple and language independent subword tokenizer
+and detokenizer for neural text processing”, which supports BPE and the unigram
+language model (described in “Subword regularization: Improving neural network
+translation models with multiple subword candidates”).
+Vocabulary size: 32,100
+Special tokens:
+
+     • unk_token <unk>
+     • pad_token <pad>
+
+Tokenized text:
+English and CA PI TAL IZ ATION <unk> <unk> show _ to ken s Fal s e None e l if = = >
+= else : two tab s : " " Three tab s : " " 12. 0 * 50 = 600 </s>
+The Flan-T5 family of models use                the SentencePiece method. We notice the
+following:
+
+     • No newline or whitespace tokens; this would make it challenging for the model
+       to work with code.
+     • The emoji and Chinese characters are both replaced by the <unk> token, making
+       the model completely blind to them.
+
+GPT-4 (2023)
+Tokenization method: BPE
+Vocabulary size: A little over 100,000
+Special tokens:
+
+
+
+
+50    |   Chapter 2: Tokens and Embeddings
+  • <|endoftext|>
+  • Fill in the middle tokens. These three tokens enable the LLM to generate a
+    completion given not only the text before it but also considering the text after
+    it. This method is explained in more detail in the paper “Efficient training of
+    language models to fill in the middle”; its exact details are beyond the scope of
+    this book. These special tokens are:
+    — <|fim_prefix|>
+    — <|fim_middle|>
+    — <|fim_suffix|>
+
+Tokenized text:
+English and CAPITAL IZATION
+������
+show _tokens False None elif == >= else : two tabs :" " Three tabs : "          "
+12 . 0 * 50 = 600
+The GPT-4 tokenizer behaves similarly to its ancestor, the GPT-2 tokenizer. Some
+differences are:
+
+  • The GPT-4 tokenizer represents the four spaces as a single token. In fact, it has a
+    specific token for every sequence of whitespaces up to a list of 83 whitespaces.
+  • The Python keyword elif has its own token in GPT-4. Both this and the previ‐
+    ous point stem from the model’s focus on code in addition to natural language.
+  • The GPT-4 tokenizer uses fewer tokens to represent most words. Examples here
+    include “CAPITALIZATION” (two tokens versus four) and “tokens” (one token
+    versus three).
+  • Refer back to what we said about the GPT-2 tokenizer with regards to the Ł
+    tokens.
+
+StarCoder2 (2024)
+StarCoder2 is a 15-billion parameter model focused on generating code described in
+the paper “StarCoder 2 and the stack v2: The next generation”, which continues the
+work from the original StarCoder described in “StarCoder: May the source be with
+you!”.
+Tokenization method: Byte pair encoding (BPE)
+Vocabulary size: 49,152
+Example special tokens:
+
+                                                                   LLM Tokenization   |   51
+     • <|endoftext|>
+     • Fill in the middle tokens:
+          — <fim_prefix>
+          — <fim_middle>
+          — <fim_suffix>
+          — <fim_pad>
+     • When representing code, managing the context is important. One file might
+       make a function call to a function that is defined in a different file. So the model
+       needs some way of being able to identify code that is in different files in the same
+       code repository, while making a distinction between code in different repos.
+       That’s why StarCoder2 uses special tokens for the name of the repository and the
+       filename:
+          — <filename>
+          — <reponame>
+          — <gh_stars>
+
+Tokenized text:
+English and CAPITAL IZATION
+�����
+show _ tokens False None elif == >= else : two tabs :" " Three tabs : "           "
+12.0*50=600
+This is an encoder that focuses on code generation:
+
+     • Similar to GPT-4, it encodes the list of whitespaces as a single token.
+     • A major difference here to everything we’ve seen so far is that each digit is
+       assigned its own token (so 600 becomes 6 0 0). The hypothesis here is that this
+       would lead to better representation of numbers and mathematics. In GPT-2, for
+       example, the number 870 is represented as a single token. But 871 is represented
+       as two tokens (8 and 71). You can intuitively see how that might be confusing to
+       the model and how it represents numbers.
+
+Galactica
+The Galactica model described in “Galactica: A large language model for science” is
+focused on scientific knowledge and is trained on many scientific papers, reference
+materials, and knowledge bases. It pays extra attention to tokenization that makes it
+more sensitive to the nuances of the dataset it’s representing. For example, it includes
+
+
+52    |    Chapter 2: Tokens and Embeddings
+special tokens for citations, reasoning, mathematics, amino acid sequences, and DNA
+sequences.
+Tokenization method: Byte pair encoding (BPE)
+Vocabulary size: 50,000
+Special tokens:
+
+  • <s>
+  • <pad>
+  • </s>
+  • <unk>
+  • References: Citations are wrapped within the two special tokens:
+    — [START_REF]
+    — [END_REF]
+    — One example of usage from the paper is: Recurrent neural net
+      works, long short-term memory [START_REF]Long Short-Term Memory,
+      Hochreiter[END_REF]
+  • Step-by-step reasoning:
+    — <work> is an interesting token that the model uses for chain-of-thought rea‐
+      soning.
+
+Tokenized text:
+English and CAP ITAL IZATION
+�������
+show _ tokens False None elif == > = else : two t abs : " " Three t abs : "              "
+12.0*50=600
+The Galactica tokenizer behaves similar to StarCoder2 in that it has code in mind. It
+also encodes whitespaces in the same way: assigning a single token to sequences of
+whitespace of different lengths. It differs in that it also does that for tabs, though. So
+from all the tokenizers we’ve seen so far, it’s the only one that assigns a single token to
+the string made up of two tabs ('\t\t').
+
+Phi-3 (and Llama 2)
+The Phi-3 model we look at in this book reuses the tokenizer of Llama 2 yet adds a
+number of special tokens.
+
+
+
+                                                                      LLM Tokenization       |   53
+Tokenization method: Byte pair encoding (BPE)
+Vocabulary size: 32,000
+Special tokens:
+
+     • <|endoftext|>
+     • Chat tokens: As chat LLMs rose to popularity in 2023, the conversational nature
+       of LLMs started to be a leading use case. Tokenizers have been adapted to this
+       direction by the addition of tokens that indicate the turns in a conversation and
+       the roles of each speaker. These special tokens include:
+          — <|user|>
+          — <|assistant|>
+          — <|system|>
+
+We can now recap our tour by looking at all these examples side by side:
+
+BERT base         [CLS] english and capital ##ization [UNK] [UNK] show _ token ##s false none eli
+model             ##f = = > = else : two tab ##s : " " three tab ##s : " " 12 . 0 * 50 = 600 [SEP]
+(uncased)
+
+BERT base         [CLS] English and CA ##PI ##TA ##L ##I ##Z ##AT ##ION [UNK] [UNK] show _ token
+model (cased)     ##s F ##als ##e None el ##if = = > = else : two ta ##bs : " " Three ta ##bs : " " 12 .
+                  0 * 50 = 600 [SEP]
+
+GPT-2             English and CAP ITAL IZ ATION
+                  ������
+                  show _ t ok ens False None el if == >= else : two tabs :" " Three tabs : " "
+                  12 . 0 * 50 = 600
+
+FLAN-T5           English and CA PI TAL IZ ATION <unk> <unk> show _ to ken s Fal s e None e l if = = >
+                  = else : two tab s : " " Three tab s : " " 12. 0 * 50 = 600 </s>
+
+GPT-4             English and CAPITAL IZATION
+                  ������
+                  show _tokens False None elif == >= else : two tabs :" " Three tabs : "         "
+                  12 . 0 * 50 = 600
+
+StarCoder         English and CAPITAL IZATION
+                  �����
+                  show _ tokens False None elif == >= else : two tabs :" " Three tabs : "        "
+                  12.0*50=600
+
+
+
+
+54    |    Chapter 2: Tokens and Embeddings
+Galactica     English and CAP ITAL IZATION
+              �������
+              show _ tokens False None elif == > = else : two t abs : " " Three t abs : " "
+              12.0*50=600
+
+Phi-3 and     <s>
+Llama 2       English and C AP IT AL IZ ATION
+              �������
+              show _ to kens False None elif == >= else : two tabs :" " Three tabs : "    "
+              12.0*50=600
+
+
+
+Tokenizer Properties
+The preceding guided tour of trained tokenizers showed a number of ways in which
+actual tokenizers differ from each other. But what determines their tokenization
+behavior? There are three major groups of design choices that determine how the
+tokenizer will break down text: the tokenization method, the initialization parame‐
+ters, and the domain of the data the tokenizer targets.
+
+Tokenization methods
+As we’ve seen, there are a number of tokenization methods with byte pair encoding
+(BPE) being the more popular one. Each of these methods outlines an algorithm for
+how to choose an appropriate set of tokens to represent a dataset. You can find a great
+overview of all these methods on the Hugging Face page that summarizes tokenizers.
+
+Tokenizer parameters
+After choosing a tokenization method, an LLM designer needs to make some deci‐
+sions about the parameters of the tokenizer. These include:
+Vocabulary size
+    How many tokens to keep in the tokenizer’s vocabulary? (30K and 50K are often
+    used as vocabulary size values, but more and more we’re seeing larger sizes like
+    100K.)
+Special tokens
+    What special tokens do we want the model to keep track of? We can add as many
+    of these as we want, especially if we want to build an LLM for special use cases.
+    Common choices include:
+        • Beginning of text token (e.g., <s>)
+        • End of text token
+        • Padding token
+
+
+
+                                                                            LLM Tokenization   |   55
+         • Unknown token
+         • CLS token
+         • Masking token
+     Aside from these, the LLM designer can add tokens that help better model the
+     domain of the problem they’re trying to focus on, as we’ve seen with Galactica’s
+     <work> and [START_REF] tokens.
+Capitalization
+   In languages such as English, how do we want to deal with capitalization?
+   Should we convert everything to lowercase? (Name capitalization often carries
+   useful information, but do we want to waste token vocabulary space on all-caps
+   versions of words?)
+
+The domain of the data
+Even if we select the same method and parameters, tokenizer behavior will be differ‐
+ent based on the dataset it was trained on (before we even start model training). The
+tokenization methods mentioned previously work by optimizing the vocabulary to
+represent a specific dataset. From our guided tour we’ve seen how that has an impact
+on datasets like code and multilingual text.
+For code, for example, we’ve seen that a text-focused tokenizer may tokenize the
+indentation spaces like this (we’ll highlight some tokens in color):
+def add_numbers(a, b):
+...."""Add the two numbers `a` and `b`."""
+....return a + b
+This may be suboptimal for a code-focused model. Code-focused models are often
+improved by making different tokenization choices:
+def add_numbers(a, b):
+...."""Add the two numbers `a` and `b`."""
+....return a + b
+These tokenization choices make the model’s job easier and thus its performance has
+a higher probability of improving.
+You can find a more detailed tutorial on training tokenizers in the Tokenizers section
+of the Hugging Face course and in Natural Language Processing with Transformers,
+Revised Edition.
+
+
+
+
+56   |   Chapter 2: Tokens and Embeddings
+Token Embeddings
+Now that we understand tokenization, we have solved one part of the problem of
+representing language to a language model. In this sense, language is a sequence of
+tokens. And if we train a good-enough model on a large-enough set of tokens, it
+starts to capture the complex patterns that appear in its training dataset:
+
+  • If the training data contains a lot of English text, that pattern reveals itself as a
+    model capable of representing and generating the English language.
+  • If the training data contains factual information (Wikipedia, for example), the
+    model would have the ability to generate some factual information (see the
+    following note).
+
+The next piece of the puzzle is finding the best numerical representation for these
+tokens that the model can use to calculate and properly model the patterns in the
+text. These patterns reveal themselves to us as a model’s coherence in a specific
+language, or capability to code, or any of the growing list of capabilities we expect
+from language models.
+As we’ve seen in Chapter 1, that is what embeddings are. They are the numeric
+representation space utilized to capture the meanings and patterns in language.
+
+                Oops: Achieving a good threshold of language coherence and
+                better-than-average factual generation, however, starts to present a
+                new problem. Some users start to trust the model’s fact generation
+                ability (e.g., at the beginning of 2023 some language models were
+                being dubbed “Google killers”). It didn’t take long for advanced
+                users to recognize that generation models alone aren’t reliable
+                search engines. This led to the rise of retrieval-augmented genera‐
+                tion (RAG), which combines search and LLMs. We cover RAG in
+                more detail in Chapter 8.
+
+
+A Language Model Holds Embeddings for the Vocabulary of Its
+Tokenizer
+After a tokenizer is initialized and trained, it is then used in the training process of its
+associated language model. This is why a pretrained language model is linked with its
+tokenizer and can’t use a different tokenizer without training.
+The language model holds an embedding vector for each token in the tokenizer’s
+vocabulary, as we can see in Figure 2-7. When we download a pretrained language
+model, a portion of the model is this embeddings matrix holding all of these vectors.
+
+
+
+
+                                                                       Token Embeddings   |   57
+Before the beginning of the training process, these vectors are randomly initialized
+like the rest of the model’s weights, but the training process assigns them the values
+that enable the useful behavior they’re trained to perform.
+
+
+
+
+Figure 2-7. A language model holds an embedding vector associated with each token in
+its tokenizer.
+
+Creating Contextualized Word Embeddings with Language Models
+Now that we’ve covered token embeddings as the input to a language model, let’s
+look at how language models can create better token embeddings. This is one of
+the primary ways to use language models for text representation. This empowers
+applications like named-entity recognition or extractive text summarization (which
+summarizes a long text by highlighting the most important parts of it, instead of
+generating new text as a summary).
+Instead of representing each token or word with a static vector, language models
+create contextualized word embeddings (shown in Figure 2-8) that represent a word
+with a different token based on its context. These vectors can then be used by other
+systems for a variety of tasks. In addition to the text applications we mentioned in
+the previous paragraph, these contextualized vectors, for example, are what powers
+AI image generation systems like DALL·E, Midjourney, and Stable Diffusion, for
+example.
+
+
+
+
+58   |   Chapter 2: Tokens and Embeddings
+Figure 2-8. Language models produce contextualized token embeddings that improve on
+raw, static token embeddings.
+
+Let’s look at how we can generate contextualized word embeddings; the majority of
+this code should be familiar to you by now:
+   from transformers import AutoModel, AutoTokenizer
+
+   # Load a tokenizer
+   tokenizer = AutoTokenizer.from_pretrained("microsoft/deberta-base")
+
+   # Load a language model
+   model = AutoModel.from_pretrained("microsoft/deberta-v3-xsmall")
+
+   # Tokenize the sentence
+   tokens = tokenizer('Hello world', return_tensors='pt')
+
+   # Process the tokens
+   output = model(**tokens)[0]
+The model we’re using here is called DeBERTa v3, which at the time of writing is one
+of the best-performing language models for token embeddings while being small and
+highly efficient. It is described in the paper “DeBERTaV3: Improving DeBERTa using
+ELECTRA-style pre-training gradient-disentangled embedding sharing”.
+
+
+
+
+                                                                Token Embeddings   |   59
+This code downloads a pretrained tokenizer and model, then uses them to process
+the string “Hello world”. The output of the model is then saved in the output variable.
+Let’s inspect that variable by first printing its dimensions (we expect it to be a
+multidimensional array):
+     output.shape
+This prints out:
+
+     torch.Size([1, 4, 384])
+
+Skipping the first dimension, we can read this as four tokens, each one embedded in
+a vector of 384 values. The first dimension is the batch dimension used in cases (like
+training) when we want to send multiple input sentences to the model at the same
+time (they’re processed at the same time, which speeds up the process).
+But what are these four vectors? Did the tokenizer break the two words into four
+tokens, or is something else happening here? We can use what we’ve learned about
+tokenizers to inspect them:
+     for token in tokens['input_ids'][0]:
+         print(tokenizer.decode(token))
+This prints out:
+
+     [CLS]
+     Hello
+     world
+     [SEP]
+
+This particular tokenizer and model operate by adding the [CLS] and [SEP] tokens to
+the beginning and end of a string.
+Our language model has now processed the text input. The result of its output is the
+following:
+
+     tensor([[
+     [-3.3060, -0.0507, -0.1098, ..., -0.1704, -0.1618, 0.6932],
+     [ 0.8918, 0.0740, -0.1583, ..., 0.1869, 1.4760, 0.0751],
+     [ 0.0871, 0.6364, -0.3050, ..., 0.4729, -0.1829, 1.0157],
+     [-3.1624, -0.1436, -0.0941, ..., -0.0290, -0.1265, 0.7954]
+     ]], grad_fn=<NativeLayerNormBackward0>)
+
+This is the raw output of a language model. The applications of large language models
+build on top of outputs like this.
+We recap the input tokenization and resulting outputs of a language model in Fig‐
+ure 2-9. Technically, the switch from token IDs into raw embeddings is the first step
+that occurs inside a language model.
+
+
+
+
+60   |   Chapter 2: Tokens and Embeddings
+Figure 2-9. A language model operates on raw, static embeddings as its input and
+produces contextual text embeddings.
+
+A visual like this is essential for the next chapter when we start to look at how
+Transformer-based LLMs work.
+
+Text Embeddings (for Sentences and Whole Documents)
+While token embeddings are key to how LLMs operate, a number of LLM applica‐
+tions require operating on entire sentences, paragraphs, or even text documents. This
+has led to special language models that produce text embeddings—a single vector that
+represents a piece of text longer than just one token.
+We can think of text embedding models as taking a piece of text and ultimately
+producing a single vector that represents that text and captures its meaning in some
+useful form. Figure 2-10 shows that process.
+
+
+
+
+                                        Text Embeddings (for Sentences and Whole Documents)   |   61
+Figure 2-10. In step 1, we use the embedding model to extract the features and convert
+the input text to embeddings.
+
+There are multiple ways of producing a text embedding vector. One of the most
+common ways is to average the values of all the token embeddings produced by the
+model. Yet high-quality text embedding models tend to be trained specifically for text
+embedding tasks.
+We can produce text embeddings with sentence-transformers, a popular package
+for leveraging pretrained embedding models.1 The package, like transformers in the
+previous chapter, can be used to load publicly available models. To illustrate creating
+embeddings, we use the all-mpnet-base-v2 model. Note that in Chapter 4, we will
+further explore how you can choose an embedding model for your task.
+       from sentence_transformers import SentenceTransformer
+
+       # Load model
+       model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
+
+       # Convert text to text embeddings
+       vector = model.encode("Best movie ever!")
+The number of values, or the dimensions, of the embedding vector depends on the
+underlying embedding model. Let’s explore that for our model:
+       vector.shape
+
+       (768,)
+
+
+
+
+1 Nils Reimers and Iryna Gurevych. “Sentence-BERT: Sentence embeddings using Siamese BERT-networks.”
+     arXiv preprint arXiv:1908.10084 (2019).
+
+
+62     |   Chapter 2: Tokens and Embeddings
+This sentence is now encoded in this one vector with a dimension of 768 numerical
+values. In Part II of this book, once we start looking at applications, we’ll start to
+see the immense usefulness of these text embeddings vectors in powering everything
+from categorization to semantic search to RAG.
+
+Word Embeddings Beyond LLMs
+Embeddings are useful even outside of text and language generation. Embeddings,
+or assigning meaningful vector representations to objects, turns out to be useful in
+many domains, including recommender engines and robotics. In this section, we’ll
+look at how to use pretrained word2vec embeddings and touch on how the method
+creates word embeddings. Seeing how word2vec is trained will prime you to learn
+about contrastive training in Chapter 10. Then in the following section, we’ll see how
+those embeddings can be used for recommendation systems.
+
+Using pretrained Word Embeddings
+Let’s look at how we can download pretrained word embeddings (like word2vec or
+GloVe) using the Gensim library:
+    import gensim.downloader as api
+
+    # Download embeddings (66MB, glove, trained on wikipedia, vector size: 50)
+    # Other options include "word2vec-google-news-300"
+    # More options at https://github.com/RaRe-Technologies/gensim-data
+    model = api.load("glove-wiki-gigaword-50")
+Here, we’ve downloaded the embeddings of a large number of words trained on
+Wikipedia. We can then explore the embedding space by seeing the nearest neighbors
+of a specific word, “king” for example:
+    model.most_similar([model['king']], topn=11)
+This outputs:
+
+    [('king', 1.0000001192092896),
+    ('prince', 0.8236179351806641),
+    ('queen', 0.7839043140411377),
+    ('ii', 0.7746230363845825),
+    ('emperor', 0.7736247777938843),
+    ('son', 0.766719400882721),
+    ('uncle', 0.7627150416374207),
+    ('kingdom', 0.7542161345481873),
+    ('throne', 0.7539914846420288),
+    ('brother', 0.7492411136627197),
+    ('ruler', 0.7434253692626953)]
+
+
+
+
+                                                         Word Embeddings Beyond LLMs   |   63
+The Word2vec Algorithm and Contrastive Training
+The word2vec algorithm described in the paper “Efficient estimation of word repre‐
+sentations in vector space” is described in detail in The Illustrated Word2vec. The
+central ideas are condensed here as we build on them when discussing one method
+for creating embeddings for recommendation engines in the following section.
+Just like LLMs, word2vec is trained on examples generated from text. Let’s say, for
+example, we have the text “Thou shalt not make a machine in the likeness of a human
+mind” from the Dune novels by Frank Herbert. The algorithm uses a sliding window
+to generate training examples. We can, for example, have a window size two, meaning
+that we consider two neighbors on each side of a central word.
+The embeddings are generated from a classification task. This task is used to train
+a neural network to predict if words commonly appear in the same context or not
+(context here means in many sentences in the training dataset we’re modeling). We
+can think of this as a neural network that takes two words and outputs 1 if they tend
+to appear in the same context, and 0 if they do not.
+In the first position for the sliding window, we can generate four training examples,
+as we can see in Figure 2-11.
+
+
+
+
+Figure 2-11. A sliding window is used to generate training examples for the word2vec
+algorithm to later predict if two words are neighbors or not.
+
+In each of the produced training examples, the word in the center is used as one
+input, and each of its neighbors is a distinct second input in each training example.
+We expect the final trained model to be able to classify this neighbor relationship
+and output 1 if the two input words it receives are indeed neighbors. These training
+examples are visualized in Figure 2-12.
+
+
+
+
+64   | Chapter 2: Tokens and Embeddings
+Figure 2-12. Each generated training example shows a pair of neighboring words.
+
+If, however, we have a dataset of only a target value of 1, then a model can cheat
+and ace it by outputting 1 all the time. To get around this, we need to enrich our
+training dataset with examples of words that are not typically neighbors. These are
+called negative examples and are shown in Figure 2-13.
+
+
+
+
+Figure 2-13. We need to present our models with negative examples: words that are not
+usually neighbors. A better model is able to better distinguish between the positive and
+negative examples.
+
+It turns out that we don’t have to be too scientific in how we choose the negative
+examples. A lot of useful models result from the simple ability to detect positive
+examples from randomly generated examples (inspired by an important idea called
+noise-contrastive estimation and described in “Noise-contrastive estimation: A new
+estimation principle for unnormalized statistical models”). So in this case, we get
+random words and add them to the dataset and indicate that they are not neighbors
+(and thus the model should output 0 when it sees them).
+With this, we’ve seen two of the main concepts of word2vec (Figure 2-14): skip-gram,
+the method of selecting neighboring words, and negative sampling, adding negative
+examples by random sampling from the dataset.
+
+
+
+
+                                                           Word Embeddings Beyond LLMs   |   65
+Figure 2-14. Skip-gram and negative sampling are two of the main ideas behind the
+word2vec algorithm and are useful in many other problems that can be formulated as
+token sequence problems.
+
+We can generate millions and even billions of training examples like this from
+running text. Before proceeding to train a neural network on this dataset, we need
+to make a couple of tokenization decisions, which, just like we’ve seen with LLM
+tokenizers, include how to deal with capitalization and punctuation and how many
+tokens we want in our vocabulary.
+We then create an embedding vector for each token, and randomly initialize them, as
+can be seen in Figure 2-15. In practice, this is a matrix of dimensions vocab_size x
+embedding_dimensions.
+
+
+
+
+Figure 2-15. A vocabulary of words and their starting, random, uninitialized embedding
+vectors.
+
+A model is then trained on each example to take in two embedding vectors and
+predict if they’re related or not. We can see what this looks like in Figure 2-16.
+
+
+
+
+66   |   Chapter 2: Tokens and Embeddings
+Figure 2-16. A neural network is trained to predict if two words are neighbors. It updates
+the embeddings in the training process to produce the final, trained embeddings.
+
+Based on whether its prediction was correct or not, the typical machine learning
+training step updates the embeddings so that the next time the model is presented
+with those two vectors, it has a better chance of being more correct. And by the
+end of the training process, we have better embeddings for all the tokens in our
+vocabulary.
+This idea of a model that takes two vectors and predicts if they have a certain relation
+is one of the most powerful ideas in machine learning, and time after time has proven
+to work very well with language models. This is why we’re dedicating Chapter 10 to
+this concept and how it optimizes language models for specific tasks (like sentence
+embeddings and retrieval).
+The same idea is also central to bridging modalities like text and images, which is key
+to AI image generation models, as we’ll see in Chapter 9 on multimodal models. In
+that formulation, a model is presented with an image and a caption, and it should
+predict whether that caption describes the image or not.
+
+Embeddings for Recommendation Systems
+As we’ve mentioned, the concept of embeddings is useful in so many other domains.
+In industry, it’s widely used for recommendation systems, for example.
+
+Recommending Songs by Embeddings
+In this section we’ll use the word2vec algorithm to embed songs using human-made
+music playlists. Imagine if we treated each song as we would a word or token, and
+we treated each playlist like a sentence. These embeddings can then be used to
+recommend similar songs that often appear together in playlists.
+The dataset we’ll use was collected by Shuo Chen from Cornell University. It contains
+playlists from hundreds of radio stations around the US. Figure 2-17 demonstrates
+this dataset.
+
+
+
+
+                                                   Embeddings for Recommendation Systems   |   67
+Figure 2-17. For song embeddings that capture song similarity we’ll use a dataset made
+up of a collection of playlists, each containing a list of songs.
+
+Let’s demonstrate the end product before we look at how it’s built. So let’s give it a few
+songs and see what it recommends in response.
+Let’s start by giving it Michael Jackson’s “Billie Jean,” the song with ID 3822:
+     # We will define and explore this function in detail below
+     print_recommendations(3822)
+
+
+
+         id       Title                            artist
+         4181     Kiss                             Prince & The Revolution
+         12749    Wanna Be Startin’ Somethin’      Michael Jackson
+         1506     The Way You Make Me Feel         Michael Jackson
+         3396     Holiday                          Madonna
+         500      Don’t Stop ‘Til You Get Enough   Michael Jackson
+
+
+
+That looks reasonable. Madonna, Prince, and other Michael Jackson songs are the
+nearest neighbors.
+Let’s step away from pop and into rap, and see the neighbors of 2Pac’s “California
+Love”:
+     print_recommendations(842)
+
+
+
+         id      Title                                                   artist
+         413     If I Ruled the World (Imagine That) (w\/ Lauryn Hill)   Nas
+         196     I’ll Be Missing You                                     Puff Daddy & The Family
+         330     Hate It or Love It (w\/ 50 Cent)                        The Game
+         211     Hypnotize                                               The Notorious B.I.G.
+         5788    Drop It Like It’s Hot (w\/ Pharrell)                    Snoop Dogg
+
+
+
+
+68   |    Chapter 2: Tokens and Embeddings
+

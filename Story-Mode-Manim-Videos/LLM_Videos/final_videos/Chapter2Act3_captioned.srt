@@ -1,0 +1,315 @@
+1
+00:00:00,146 --> 00:00:03,126
+Time for the experiment. The book takes one single
+
+2
+00:00:03,126 --> 00:00:05,946
+string and runs it through one trained tokenizer after
+
+3
+00:00:05,946 --> 00:00:09,126
+another, so the only thing changing is the tokenizer
+
+4
+00:00:09,126 --> 00:00:09,811
+itself.
+
+5
+00:00:10,393 --> 00:00:13,343
+Here are four of them. BERT uncased, which uses
+
+6
+00:00:13,343 --> 00:00:19,083
+WordPiece. GPT-2, which uses byte pair encoding. FLAN-T5, which
+
+7
+00:00:19,083 --> 00:00:23,923
+uses SentencePiece. And GPT-4, also byte pair encoding, with
+
+8
+00:00:23,923 --> 00:00:25,331
+a much larger vocabulary.
+
+9
+00:00:26,825 --> 00:00:30,305
+Notice the distinction. WordPiece and byte pair encoding are
+
+10
+00:00:30,305 --> 00:00:34,115
+algorithms. SentencePiece is a framework that can implement more
+
+11
+00:00:34,115 --> 00:00:37,655
+than one of them. And FLAN-T5 and GPT-4 are
+
+12
+00:00:37,655 --> 00:00:40,945
+models that own a particular trained tokenizer. Keep those
+
+13
+00:00:40,945 --> 00:00:43,611
+separate, and the rest of this comparison makes sense.
+
+14
+00:00:43,859 --> 00:00:47,229
+The book compares eight trained tokenizers in total. We
+
+15
+00:00:47,229 --> 00:00:49,639
+are showing four, because four is enough to see
+
+16
+00:00:49,639 --> 00:00:52,651
+the disagreements. And they do disagree.
+
+17
+00:00:53,365 --> 00:00:56,880
+Look at one word from the test string: capitalization,
+
+18
+00:00:56,880 --> 00:00:58,424
+written in capitals.
+
+19
+00:00:58,639 --> 00:01:02,969
+BERT uncased lowercases its input first. So the capitals
+
+20
+00:01:02,969 --> 00:01:06,129
+are gone before anything else happens. It then splits
+
+21
+00:01:06,129 --> 00:01:10,678
+the word into capital, and hash-hash ization. Two pieces.
+
+22
+00:01:10,678 --> 00:01:14,239
+Those double hashes mark a continuation: this token is
+
+23
+00:01:14,239 --> 00:01:15,851
+joined to the one before it.
+
+24
+00:01:16,054 --> 00:01:19,134
+But BERT also ships in a cased version, and
+
+25
+00:01:19,134 --> 00:01:22,698
+it does not lowercase. The very same word becomes
+
+26
+00:01:22,698 --> 00:01:26,812
+eight pieces. Eight. That is four times the cost,
+
+27
+00:01:26,812 --> 00:01:27,964
+for one word.
+
+28
+00:01:28,591 --> 00:01:33,891
+GPT-2 keeps the capitals and uses four pieces. FLAN-T5
+
+29
+00:01:33,891 --> 00:01:40,711
+uses five. GPT-4 uses two: CAPITAL, and IZATION. Same
+
+30
+00:01:40,711 --> 00:01:44,004
+input, same word, four different answers.
+
+31
+00:01:44,307 --> 00:01:46,517
+And there is a cost that never shows up
+
+32
+00:01:46,517 --> 00:01:49,787
+in a token count. BERT uncased throws the newline
+
+33
+00:01:49,787 --> 00:01:52,767
+characters away completely. Which means a chat log, where
+
+34
+00:01:52,767 --> 00:01:55,337
+every turn starts on a new line, loses that
+
+35
+00:01:55,337 --> 00:01:57,571
+structure before the model ever sees it.
+
+36
+00:01:58,327 --> 00:02:00,417
+Now the part of the test string that breaks
+
+37
+00:02:00,417 --> 00:02:04,287
+the older tokenizers. A musical note, and the Chinese
+
+38
+00:02:04,287 --> 00:02:05,718
+character for bird.
+
+39
+00:02:05,837 --> 00:02:10,067
+BERT replaces both with unknown. FLAN-T5 does the same
+
+40
+00:02:10,067 --> 00:02:12,857
+thing, using its own marker. And here is why
+
+41
+00:02:12,857 --> 00:02:16,616
+that matters: the marker records that something was there.
+
+42
+00:02:16,616 --> 00:02:19,437
+It does not record what. Look the marker up,
+
+43
+00:02:19,437 --> 00:02:21,351
+and the character is simply gone.
+
+44
+00:02:21,473 --> 00:02:24,213
+GPT-2 takes a different route. It falls back to
+
+45
+00:02:24,213 --> 00:02:27,293
+the raw bytes that make up the character. The
+
+46
+00:02:27,293 --> 00:02:31,153
+musical note is three bytes, and they become three
+
+47
+00:02:31,153 --> 00:02:34,273
+tokens. Printed on their own they look like replacement
+
+48
+00:02:34,273 --> 00:02:35,763
+characters, because a single byte is not a readable
+
+49
+00:02:35,763 --> 00:02:36,584
+character.
+
+50
+00:02:36,864 --> 00:02:42,774
+Their identifiers are 8582, 236 and 113. Decode them
+
+51
+00:02:42,774 --> 00:02:45,564
+together, as a group, and the note comes back
+
+52
+00:02:45,564 --> 00:02:49,014
+intact. The book prints no identifiers for the Chinese
+
+53
+00:02:49,014 --> 00:02:51,058
+character, so neither do we.
+
+54
+00:02:51,248 --> 00:02:54,608
+That is the trade. Byte fallback keeps coverage, so
+
+55
+00:02:54,608 --> 00:02:57,908
+nothing is ever simply lost. But a single character
+
+56
+00:02:57,908 --> 00:03:00,558
+can cost several tokens, and every one of them
+
+57
+00:03:00,558 --> 00:03:02,564
+takes a position in the context.
+
+58
+00:03:03,268 --> 00:03:07,590
+One more kind of input decides the outcome: whitespace.
+
+59
+00:03:07,590 --> 00:03:10,668
+Here is the book's own code example. Those dots
+
+60
+00:03:10,668 --> 00:03:14,152
+mark four spaces of indentation. They are not code
+
+61
+00:03:14,152 --> 00:03:16,524
+— they are showing you what is invisible.
+
+62
+00:03:16,634 --> 00:03:20,094
+Send those four spaces through a character-level tokenizer and
+
+63
+00:03:20,094 --> 00:03:23,034
+you get four separate tokens. The model then has
+
+64
+00:03:23,034 --> 00:03:25,274
+to work out that they belong together, and how
+
+65
+00:03:25,274 --> 00:03:26,951
+deep the indentation is.
+
+66
+00:03:27,120 --> 00:03:30,720
+GPT-4 does something better here. It holds a single
+
+67
+00:03:30,720 --> 00:03:34,150
+token for four consecutive spaces. In fact it has
+
+68
+00:03:34,150 --> 00:03:37,030
+a dedicated token for every run of whitespace up
+
+69
+00:03:37,030 --> 00:03:40,410
+to eighty three. And the Python keyword elif gets
+
+70
+00:03:40,410 --> 00:03:41,704
+a token of its own.
+
+71
+00:03:41,858 --> 00:03:45,988
+StarCoder2 is a code specialist, and pushes further. It
+
+72
+00:03:45,988 --> 00:03:49,058
+gives every digit its own token, so six hundred
+
+73
+00:03:49,058 --> 00:03:53,718
+becomes three tokens: six, zero, zero. The reasoning is
+
+74
+00:03:53,718 --> 00:03:56,788
+that numbers and mathematics are represented more clearly that
+
+75
+00:03:56,788 --> 00:03:57,231
+way.
+
+76
+00:03:57,451 --> 00:04:01,371
+One caution. This is not parsing. A tokenizer that
+
+77
+00:04:01,371 --> 00:04:05,261
+handles indentation and keywords well makes the model's job
+
+78
+00:04:05,261 --> 00:04:07,921
+easier. It does not make the code it generates
+
+79
+00:04:07,921 --> 00:04:08,771
+correct.

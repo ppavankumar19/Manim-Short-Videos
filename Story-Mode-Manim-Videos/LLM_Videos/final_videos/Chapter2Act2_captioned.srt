@@ -1,0 +1,187 @@
+1
+00:00:00,295 --> 00:00:05,035
+Three decisions shape every tokenizer. First, the method: the
+
+2
+00:00:05,035 --> 00:00:08,755
+algorithm that learns where to cut. Byte pair encoding
+
+3
+00:00:08,755 --> 00:00:12,685
+for the GPT family. WordPiece for BERT. They aim
+
+4
+00:00:12,685 --> 00:00:14,835
+at the same goal and reach it in different
+
+5
+00:00:14,835 --> 00:00:15,571
+ways.
+
+6
+00:00:17,127 --> 00:00:20,107
+Second, the parameters, and the most visible one is
+
+7
+00:00:20,107 --> 00:00:23,197
+vocabulary size. These are the real numbers from the
+
+8
+00:00:23,197 --> 00:00:27,187
+book. BERT uncased holds thirty thousand five hundred and
+
+9
+00:00:27,187 --> 00:00:31,657
+twenty two entries. GPT-2 holds fifty thousand two hundred
+
+10
+00:00:31,657 --> 00:00:35,327
+and fifty seven. GPT-4 holds a little over one
+
+11
+00:00:35,327 --> 00:00:36,438
+hundred thousand.
+
+12
+00:00:36,710 --> 00:00:40,000
+Third, the data the tokenizer is trained on. Same
+
+13
+00:00:40,000 --> 00:00:43,160
+method, same size, but trained on code instead of
+
+14
+00:00:43,160 --> 00:00:46,160
+prose, and you get a different vocabulary. So a
+
+15
+00:00:46,160 --> 00:00:48,560
+method name alone can never tell you how a
+
+16
+00:00:48,560 --> 00:00:49,884
+word will be split.
+
+17
+00:00:49,982 --> 00:00:55,842
+Every tokenizer also reserves special tokens. Unknown, padding, beginning
+
+18
+00:00:55,842 --> 00:00:59,912
+and end of text, separator, mask. These are not
+
+19
+00:00:59,912 --> 00:01:02,678
+words. They are instructions to the model.
+
+20
+00:01:03,281 --> 00:01:06,061
+Now the real thing. The book runs this next
+
+21
+00:01:06,061 --> 00:01:09,601
+example on the Phi-3 tokenizer, which reuses the Llama
+
+22
+00:01:09,601 --> 00:01:12,861
+2 vocabulary and adds chat tokens. Here is our
+
+23
+00:01:12,861 --> 00:01:14,578
+word: apologizing.
+
+24
+00:01:14,841 --> 00:01:17,601
+The tokenizer does not keep it whole, and it
+
+25
+00:01:17,601 --> 00:01:20,391
+does not fall back to letters. It returns two
+
+26
+00:01:20,391 --> 00:01:24,901
+pieces: apolog, and izing. Neither piece is a word
+
+27
+00:01:24,901 --> 00:01:25,978
+on its own.
+
+28
+00:01:26,721 --> 00:01:29,731
+Each piece is an entry in the vocabulary, and
+
+29
+00:01:29,731 --> 00:01:33,491
+each entry has an integer. Apolog is twenty seven
+
+30
+00:01:33,491 --> 00:01:37,171
+thousand seven hundred and forty six. Izing is five
+
+31
+00:01:37,171 --> 00:01:40,031
+thousand two hundred and eighty one. Those are the
+
+32
+00:01:40,031 --> 00:01:41,838
+numbers the model receives.
+
+33
+00:01:42,594 --> 00:01:45,004
+And there is a detail you cannot see in
+
+34
+00:01:45,004 --> 00:01:48,814
+ordinary text. Izing carries a hidden character at its
+
+35
+00:01:48,814 --> 00:01:52,528
+start, meaning: I am joined to what came before.
+
+36
+00:01:52,528 --> 00:01:54,894
+A token without that marker is read as starting
+
+37
+00:01:54,894 --> 00:01:58,390
+a new word. Whitespace is part of the encoding,
+
+38
+00:01:58,390 --> 00:01:59,904
+not part of the string.
+
+39
+00:02:00,628 --> 00:02:04,498
+The same machinery runs in reverse. The model's output
+
+40
+00:02:04,498 --> 00:02:07,531
+is not text either. It is more integers.
+
+41
+00:02:07,751 --> 00:02:11,341
+Three thousand three hundred and twenty three. Six hundred
+
+42
+00:02:11,341 --> 00:02:13,903
+and twenty two. Look them up and you get
+
+43
+00:02:13,903 --> 00:02:18,431
+Sub, and ject. Decoded together, they read Subject.
+
+44
+00:02:18,660 --> 00:02:21,290
+So the tokenizer stands on both sides of the
+
+45
+00:02:21,290 --> 00:02:25,090
+model. Text to IDs on the way in. IDs
+
+46
+00:02:25,090 --> 00:02:27,690
+back to text on the way out. That is
+
+47
+00:02:27,690 --> 00:02:30,971
+why the same component appears twice in the pipeline.
