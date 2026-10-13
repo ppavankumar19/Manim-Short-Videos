@@ -543,7 +543,7 @@ class BioScene(VoiceoverScene):
                 -config.frame_height / 2 + teacher.height / 2 - 0.1, 0]))
 
         self.bg, self.student, self.teacher = bg, student, teacher
-        self.badge = self._corner_badge("Mathematics", corner="right",
+        self.badge = self._corner_badge(self.BADGE_TEXT, corner="right",
                                         y=BOARD_TOP - 0.16, font_size=12,
                                         scale=16 / 12)
         self.badge_l = self._corner_badge("dhimantAI", corner="left",
@@ -625,6 +625,7 @@ class BioScene(VoiceoverScene):
     TEXT_SCALE = 1.0           # <1: medium-size type for the whole video
     TIGHT_BOXES = False        # True: every box hugs its text
     STRICT_BOXES = False       # True: audit boxes for the board edge and gaps
+    BADGE_TEXT = "Mathematics"  # the right-hand corner badge (subject)
     CLOCK_AT = None            # (x, y): small un-dimmed THINK clock there
     AVOID_ART = False          # set True on a topic class to keep text clear
                                # of the teacher, the students and the badges
