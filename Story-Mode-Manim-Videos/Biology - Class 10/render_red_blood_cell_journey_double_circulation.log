@@ -1,0 +1,1790 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 red_blood_cell_journey_double_circulation.py RedBloodCellJourneyDoubleCirculationStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 17:54:53] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/21 [00:00<?, ?it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  19%|#9        | 4/21 [00:00<00:00, 32.50it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  38%|###8      | 8/21 [00:00<00:00, 36.21it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  57%|#####7    | 12/21 [00:00<00:00, 36.24it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  76%|#######6  | 16/21 [00:00<00:00, 35.34it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  95%|#########5| 20/21 [00:00<00:00, 35.47it/s]                                                                                             [10/12/26 17:55:04] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1583504468_2110527880_551                         
+                             99622.mp4'                                        
+[10/12/26 17:55:05] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2136454882_423                         
+                             4641422.mp4'                                      
+Animation 2: FadeIn(Line), etc.:   0%|          | 0/21 [00:00<?, ?it/s]Animation 2: FadeIn(Line), etc.:  14%|#4        | 3/21 [00:00<00:00, 28.53it/s]Animation 2: FadeIn(Line), etc.:  29%|##8       | 6/21 [00:00<00:00, 24.53it/s]Animation 2: FadeIn(Line), etc.:  43%|####2     | 9/21 [00:00<00:00, 25.49it/s]Animation 2: FadeIn(Line), etc.:  57%|#####7    | 12/21 [00:00<00:00, 25.09it/s]Animation 2: FadeIn(Line), etc.:  71%|#######1  | 15/21 [00:00<00:00, 23.72it/s]Animation 2: FadeIn(Line), etc.:  86%|########5 | 18/21 [00:00<00:00, 25.17it/s]Animation 2: FadeIn(Line), etc.: 100%|##########| 21/21 [00:00<00:00, 26.37it/s]                                                                                [10/12/26 17:55:07] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_109431952_7887                         
+                             61748.mp4'                                        
+[10/12/26 17:55:09] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4164416925_131                         
+                             8758247.mp4'                                      
+[10/12/26 17:55:10] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_115                         
+                             8049358.mp4'                                      
+Animation 5: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 5: FadeIn(VGroup of 1 submobjects):  40%|####      | 6/15 [00:00<00:00, 52.26it/s]Animation 5: FadeIn(VGroup of 1 submobjects):  80%|########  | 12/15 [00:00<00:00, 50.95it/s]                                                                                             [10/12/26 17:55:17] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2292913742_551                         
+                             99622.mp4'                                        
+[10/12/26 17:55:21] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_810840529_3138                         
+                             853943.mp4'                                       
+Animation 7: FadeIn(RoundedRectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 7: FadeIn(RoundedRectangle), etc.:   7%|6         | 1/15 [00:00<00:02,  5.60it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  13%|#3        | 2/15 [00:00<00:02,  5.41it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  20%|##        | 3/15 [00:00<00:02,  4.85it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  27%|##6       | 4/15 [00:00<00:02,  5.16it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  33%|###3      | 5/15 [00:00<00:01,  5.41it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  40%|####      | 6/15 [00:01<00:01,  4.99it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  47%|####6     | 7/15 [00:01<00:01,  4.87it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  53%|#####3    | 8/15 [00:01<00:01,  4.99it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  60%|######    | 9/15 [00:01<00:01,  4.96it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  67%|######6   | 10/15 [00:01<00:00,  5.02it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  73%|#######3  | 11/15 [00:02<00:00,  5.13it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  80%|########  | 12/15 [00:02<00:00,  5.27it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  87%|########6 | 13/15 [00:02<00:00,  5.22it/s]Animation 7: FadeIn(RoundedRectangle), etc.:  93%|#########3| 14/15 [00:02<00:00,  5.01it/s]Animation 7: FadeIn(RoundedRectangle), etc.: 100%|##########| 15/15 [00:02<00:00,  5.15it/s]                                                                                            [10/12/26 17:55:25] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1652683121_262                         
+                             3058071.mp4'                                      
+[10/12/26 17:55:27] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1910721441_119                         
+                             4487963.mp4'                                      
+Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:   7%|6         | 1/15 [00:00<00:03,  4.23it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  13%|#3        | 2/15 [00:00<00:02,  4.78it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  20%|##        | 3/15 [00:00<00:02,  4.74it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  27%|##6       | 4/15 [00:00<00:02,  4.73it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  33%|###3      | 5/15 [00:01<00:01,  5.05it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  40%|####      | 6/15 [00:01<00:01,  4.64it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  47%|####6     | 7/15 [00:01<00:01,  4.48it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  53%|#####3    | 8/15 [00:01<00:01,  4.49it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  60%|######    | 9/15 [00:01<00:01,  4.56it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  67%|######6   | 10/15 [00:02<00:01,  4.69it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  73%|#######3  | 11/15 [00:02<00:00,  4.91it/s]Animation 9: _MethodAnimation(VGroup of 34 submobjects), etc.:  93%|#########3| 14/15 [00:02<00:00,  8.38it/s]                                                                                                              [10/12/26 17:55:31] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3803604521_106                         
+                             4907402.mp4'                                      
+[10/12/26 17:55:32] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1105192451_153                         
+                             5180422.mp4'                                      
+Animation 11: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 11: FadeIn(VGroup of 2 submobjects), etc.:  47%|####6     | 7/15 [00:00<00:00, 62.55it/s]Animation 11: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 42.49it/s]                                                                                                    [10/12/26 17:55:33] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4250116781_299                         
+                             9434165.mp4'                                      
+[10/12/26 17:55:34] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_970516269_3248                         
+                             349237.mp4'                                       
+[10/12/26 17:55:35] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_230                         
+                             8056671.mp4'                                      
+Animation 14: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:55:39] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2675893921_551                         
+                             99622.mp4'                                        
+[10/12/26 17:55:43] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1926260283_297                         
+                             1509247.mp4'                                      
+Animation 16: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 16: FadeIn(VGroup of 5 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 114.14it/s]                                                                                                     [10/12/26 17:55:44] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2964797898_289                         
+                             1647254.mp4'                                      
+                    INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2708596822_206                         
+                             153229.mp4'                                       
+Animation 18: MoveAlongPath(VGroup of 5 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 18: MoveAlongPath(VGroup of 5 submobjects): 100%|##########| 15/15 [00:00<00:00, 136.94it/s]                                                                                                      [10/12/26 17:55:45] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3556282491_412                         
+                             1870032.mp4'                                      
+[10/12/26 17:55:46] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_840473734_3604                         
+                             937302.mp4'                                       
+Animation 20: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 20: FadeIn(VGroup of 3 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 101.93it/s]                                                                                                     [10/12/26 17:55:47] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1432043082_826                         
+                             555164.mp4'                                       
+[10/12/26 17:55:48] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1993441464_302                         
+                             9038709.mp4'                                      
+Animation 22: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 22: FadeIn(VGroup of 3 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 76.80it/s]                                                                                                                       INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3048767446_310                         
+                             1643172.mp4'                                      
+[10/12/26 17:55:49] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4156280887_181                         
+                             1955899.mp4'                                      
+Animation 24: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 24: FadeIn(VGroup of 3 submobjects), etc.:  27%|##6       | 4/15 [00:00<00:00, 37.30it/s]Animation 24: FadeIn(VGroup of 3 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 41.57it/s]Animation 24: FadeIn(VGroup of 3 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 39.78it/s]                                                                                                    [10/12/26 17:55:50] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_649289021_2285                         
+                             552580.mp4'                                       
+[10/12/26 17:55:51] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4228465289_300                         
+                             8596030.mp4'                                      
+Animation 26: Indicate(VGroup of 5 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 26: Indicate(VGroup of 5 submobjects):  27%|##6       | 4/15 [00:00<00:00, 35.99it/s]Animation 26: Indicate(VGroup of 5 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 54.92it/s]                                                                                                [10/12/26 17:55:52] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2281463687_399                         
+                             6307754.mp4'                                      
+[10/12/26 17:55:53] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_449553362_3142                         
+                             06561.mp4'                                        
+[10/12/26 17:55:54] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_367                         
+                             456437.mp4'                                       
+Animation 29: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 29: FadeIn(VGroup of 1 submobjects):  47%|####6     | 7/15 [00:00<00:00, 67.22it/s]                                                                                             [10/12/26 17:55:58] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1765210792_551                         
+                             99622.mp4'                                        
+[10/12/26 17:56:01] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_658202293_3384                         
+                             925657.mp4'                                       
+Animation 31: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 31: FadeIn(VGroup of 5 submobjects), etc.:  47%|####6     | 7/15 [00:00<00:00, 61.30it/s]Animation 31: FadeIn(VGroup of 5 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 58.66it/s]                                                                                                    [10/12/26 17:56:02] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1181608529_258                         
+                             3002845.mp4'                                      
+[10/12/26 17:56:03] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1648778346_800                         
+                             830859.mp4'                                       
+Animation 33: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/39 [00:00<?, ?it/s]Animation 33: FadeIn(VGroup of 3 submobjects), etc.:  15%|#5        | 6/39 [00:00<00:00, 57.65it/s]Animation 33: FadeIn(VGroup of 3 submobjects), etc.:  36%|###5      | 14/39 [00:00<00:00, 69.08it/s]Animation 33: FadeIn(VGroup of 3 submobjects), etc.:  56%|#####6    | 22/39 [00:00<00:00, 70.10it/s]Animation 33: FadeIn(VGroup of 3 submobjects), etc.:  77%|#######6  | 30/39 [00:00<00:00, 73.71it/s]Animation 33: FadeIn(VGroup of 3 submobjects), etc.:  97%|#########7| 38/39 [00:00<00:00, 70.44it/s]                                                                                                    [10/12/26 17:56:05] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3900745325_186                         
+                             4630577.mp4'                                      
+[10/12/26 17:56:06] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1602126319_330                         
+                             1105246.mp4'                                      
+Animation 35: Transform(VGroup of 4 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 35: Transform(VGroup of 4 submobjects), etc.:  61%|######1   | 11/18 [00:00<00:00, 104.37it/s]                                                                                                                            INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3087433972_340                         
+                             0306017.mp4'                                      
+Animation 36: _MethodAnimation(VGroup of 5 submobjects):   0%|          | 0/8 [00:00<?, ?it/s]Animation 36: _MethodAnimation(VGroup of 5 submobjects):  75%|#######5  | 6/8 [00:00<00:00, 56.90it/s]                                                                                                      [10/12/26 17:56:07] INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_18025750_23032                         
+                             11911.mp4'                                        
+Animation 37: _MethodAnimation(VGroup of 5 submobjects):   0%|          | 0/8 [00:00<?, ?it/s]Animation 37: _MethodAnimation(VGroup of 5 submobjects):  62%|######2   | 5/8 [00:00<00:00, 44.42it/s]                                                                                                      [10/12/26 17:56:08] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2851713449_230                         
+                             3211911.mp4'                                      
+[10/12/26 17:56:09] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3265248963_312                         
+                             3675143.mp4'                                      
+Animation 39: Create(Circle):   0%|          | 0/15 [00:00<?, ?it/s]                                                                    [10/12/26 17:56:10] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_460451998_2235                         
+                             781095.mp4'                                       
+[10/12/26 17:56:11] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3189840779_205                         
+                             578318.mp4'                                       
+Animation 41: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 41: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 139.61it/s]                                                                                               [10/12/26 17:56:12] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_135459885_2993                         
+                             343320.mp4'                                       
+[10/12/26 17:56:13] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2189028308_179                         
+                             3773890.mp4'                                      
+                    INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_748                         
+                             523354.mp4'                                       
+Animation 44: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:56:17] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3014531188_551                         
+                             99622.mp4'                                        
+[10/12/26 17:56:21] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2810964583_559                         
+                             788496.mp4'                                       
+Animation 46: MoveAlongPath(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 46: MoveAlongPath(VGroup of 5 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 81.20it/s]                                                                                                          [10/12/26 17:56:22] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2030750673_320                         
+                             3850099.mp4'                                      
+[10/12/26 17:56:23] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3489825057_160                         
+                             4133957.mp4'                                      
+Animation 48: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 48: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 116.46it/s]                                                                                                                   INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2527743868_312                         
+                             5694012.mp4'                                      
+Animation 49: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:56:24] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4256001874_347                         
+                             6703596.mp4'                                      
+[10/12/26 17:56:25] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3446724494_355                         
+                             8818684.mp4'                                      
+Animation 51: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 51: FadeOut(VGroup of 2 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 76.04it/s]                                                                                                    [10/12/26 17:56:26] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3404969831_387                         
+                             5566280.mp4'                                      
+[10/12/26 17:56:27] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1491265560_138                         
+                             7244332.mp4'                                      
+Animation 53: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 53: FadeOut(VGroup of 2 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 39.63it/s]Animation 53: FadeOut(VGroup of 2 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 46.28it/s]                                                                                                     [10/12/26 17:56:29] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4234205092_304                         
+                             2738391.mp4'                                      
+[10/12/26 17:56:30] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4127249424_378                         
+                             6857364.mp4'                                      
+                    INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_101                         
+                             7591088.mp4'                                      
+Animation 56: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:56:33] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3327987480_551                         
+                             99622.mp4'                                        
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+                    WARNING  Unsupported element type:       svg_mobject.py:489
+                             <class                                            
+                             'svgelements.svgelements.Text'>                   
+[10/12/26 17:56:36] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4216378520_282                         
+                             5934507.mp4'                                      
+Animation 58: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 58: FadeIn(VGroup of 3 submobjects), etc.:  20%|##        | 3/15 [00:00<00:00, 23.58it/s]Animation 58: FadeIn(VGroup of 3 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 26.70it/s]Animation 58: FadeIn(VGroup of 3 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 29.76it/s]Animation 58: FadeIn(VGroup of 3 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 29.18it/s]                                                                                                    [10/12/26 17:56:37] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_215584900_2974                         
+                             651326.mp4'                                       
+[10/12/26 17:56:38] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1475994243_361                         
+                             5777672.mp4'                                      
+Animation 60: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1907027483_296                         
+                             6925005.mp4'                                      
+[10/12/26 17:56:39] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4091681096_659                         
+                             284251.mp4'                                       
+Animation 62: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 108.57it/s]                                                                                               [10/12/26 17:56:40] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2350456461_667                         
+                             872305.mp4'                                       
+[10/12/26 17:56:41] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3752821408_110                         
+                             5739959.mp4'                                      
+Animation 64: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 64: FadeIn(VGroup of 3 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 44.20it/s]Animation 64: FadeIn(VGroup of 3 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 58.42it/s]                                                                                                    [10/12/26 17:56:42] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_111511178_1832                         
+                             111036.mp4'                                       
+Animation 65: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 65: ReplacementTransform(VGroup of 5 submobjects), etc.:  25%|##5       | 6/24 [00:00<00:00, 57.37it/s]Animation 65: ReplacementTransform(VGroup of 5 submobjects), etc.:  54%|#####4    | 13/24 [00:00<00:00, 61.98it/s]Animation 65: ReplacementTransform(VGroup of 5 submobjects), etc.:  83%|########3 | 20/24 [00:00<00:00, 65.35it/s]                                                                                                                  [10/12/26 17:56:43] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1614770331_134                         
+                             6353174.mp4'                                      
+Animation 66: MoveAlongPath(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 66: MoveAlongPath(VGroup of 5 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 57.99it/s]Animation 66: MoveAlongPath(VGroup of 5 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 56.58it/s]                                                                                                           [10/12/26 17:56:44] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_341117098_3756                         
+                             152418.mp4'                                       
+[10/12/26 17:56:45] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1255234423_846                         
+                             553959.mp4'                                       
+Animation 68: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 68: FadeIn(VGroup of 2 submobjects):  80%|########  | 12/15 [00:00<00:00, 115.55it/s]                                                                                               [10/12/26 17:56:46] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2699680455_174                         
+                             5786927.mp4'                                      
+[10/12/26 17:56:48] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_190834251_2016                         
+                             319969.mp4'                                       
+[10/12/26 17:56:49] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_412                         
+                             4866357.mp4'                                      
+Animation 71: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:56:52] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3019510171_551                         
+                             99622.mp4'                                        
+[10/12/26 17:56:55] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_153887841_2133                         
+                             432395.mp4'                                       
+Animation 73: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 73: FadeIn(VGroup of 5 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 54.53it/s]Animation 73: FadeIn(VGroup of 5 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 50.47it/s]                                                                                                    [10/12/26 17:56:56] INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1916263179_230                         
+                             7175354.mp4'                                      
+[10/12/26 17:56:57] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2605295539_418                         
+                             2048478.mp4'                                      
+Animation 75: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 75: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 136.22it/s]                                                                                                     [10/12/26 17:56:58] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2396950956_807                         
+                             496822.mp4'                                       
+[10/12/26 17:56:59] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3014518949_160                         
+                             5497315.mp4'                                      
+Animation 77: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 77: FadeIn(VGroup of 3 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 50.30it/s]Animation 77: FadeIn(VGroup of 3 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 50.72it/s]                                                                                                    [10/12/26 17:57:00] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1651723283_174                         
+                             423235.mp4'                                       
+[10/12/26 17:57:01] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_673831930_1586                         
+                             779722.mp4'                                       
+Animation 79: Transform(VGroup of 4 submobjects), etc.:   0%|          | 0/39 [00:00<?, ?it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:   5%|5         | 2/39 [00:00<00:02, 15.40it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  10%|#         | 4/39 [00:00<00:02, 14.95it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  15%|#5        | 6/39 [00:00<00:01, 16.63it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  26%|##5       | 10/39 [00:00<00:01, 22.98it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  38%|###8      | 15/39 [00:00<00:00, 30.28it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  51%|#####1    | 20/39 [00:00<00:00, 34.69it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  64%|######4   | 25/39 [00:00<00:00, 38.44it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  77%|#######6  | 30/39 [00:00<00:00, 40.14it/s]Animation 79: Transform(VGroup of 4 submobjects), etc.:  90%|########9 | 35/39 [00:01<00:00, 39.75it/s]                                                                                                       [10/12/26 17:57:03] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_385709562_4047                         
+                             424820.mp4'                                       
+[10/12/26 17:57:04] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4149554412_286                         
+                             5555642.mp4'                                      
+[10/12/26 17:57:05] INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_386                         
+                             2370018.mp4'                                      
+Animation 82: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:57:08] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_400336579_5519                         
+                             9622.mp4'                                         
+[10/12/26 17:57:11] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2994352414_507                         
+                             85658.mp4'                                        
+Animation 84: MoveAlongPath(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                  [10/12/26 17:57:12] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3747619119_404                         
+                             4391634.mp4'                                      
+[10/12/26 17:57:13] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3016661396_112                         
+                             7443759.mp4'                                      
+Animation 86: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 86: FadeIn(VGroup of 5 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 111.29it/s]                                                                                                     [10/12/26 17:57:14] INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2591860055_393                         
+                             3002289.mp4'                                      
+[10/12/26 17:57:15] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_803701615_2634                         
+                             071431.mp4'                                       
+Animation 88: FadeOut(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 88: FadeOut(VGroup of 5 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 51.88it/s]Animation 88: FadeOut(VGroup of 5 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 54.81it/s]                                                                                                     [10/12/26 17:57:16] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3229135111_130                         
+                             7355529.mp4'                                      
+[10/12/26 17:57:18] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3223236023_113                         
+                             1184757.mp4'                                      
+                    INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_145                         
+                             1681771.mp4'                                      
+Animation 91: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 17:57:21] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_433607629_5519                         
+                             9622.mp4'                                         
+[10/12/26 17:57:23] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2056312983_119                         
+                             3768637.mp4'                                      
+Animation 93: FadeIn(VGroup of 14 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 93: FadeIn(VGroup of 14 submobjects), etc.:  20%|##        | 3/15 [00:00<00:00, 29.65it/s]Animation 93: FadeIn(VGroup of 14 submobjects), etc.:  47%|####6     | 7/15 [00:00<00:00, 30.00it/s]Animation 93: FadeIn(VGroup of 14 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 37.65it/s]                                                                                                     [10/12/26 17:57:24] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3023397643_286                         
+                             1975818.mp4'                                      
+Animation 94: MoveAlongPath(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 94: MoveAlongPath(VGroup of 5 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 47.74it/s]Animation 94: MoveAlongPath(VGroup of 5 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 54.32it/s]                                                                                                           [10/12/26 17:57:25] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3744950537_154                         
+                             8456483.mp4'                                      
+Animation 95: _MethodAnimation(VGroup of 3 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 95: _MethodAnimation(VGroup of 3 submobjects), etc.:  75%|#######5  | 18/24 [00:00<00:00, 172.77it/s]                                                                                                               [10/12/26 17:57:26] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_123972990_4520                         
+                             43643.mp4'                                        
+                    INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4231950276_376                         
+                             4312634.mp4'                                      
+Animation 97: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 97: ReplacementTransform(VGroup of 5 submobjects), etc.:  33%|###3      | 8/24 [00:00<00:00, 69.95it/s]Animation 97: ReplacementTransform(VGroup of 5 submobjects), etc.:  71%|#######   | 17/24 [00:00<00:00, 80.82it/s]                                                                                                                  [10/12/26 17:57:27] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2406977346_338                         
+                             8586111.mp4'                                      
+[10/12/26 17:57:28] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3135823053_131                         
+                             1118493.mp4'                                      
+Animation 99: MoveAlongPath(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 99: MoveAlongPath(VGroup of 5 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 89.54it/s]                                                                                                          [10/12/26 17:57:29] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_757131624_3964                         
+                             874913.mp4'                                       
+[10/12/26 17:57:30] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2515809351_921                         
+                             798365.mp4'                                       
+Animation 101: FadeIn(VGroup of 7 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 101: FadeIn(VGroup of 7 submobjects):  93%|#########3| 14/15 [00:00<00:00, 134.06it/s]                                                                                                [10/12/26 17:57:31] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1925679968_369                         
+                             410281.mp4'                                       
+                    INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2442122159_173                         
+                             7981127.mp4'                                      
+Animation 103: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 103: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 138.68it/s]                                                                                                [10/12/26 17:57:32] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_910566495_2771                         
+                             944617.mp4'                                       
+[10/12/26 17:57:33] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_345171421_2232                         
+                             005513.mp4'                                       
+                    INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_149                         
+                             0487168.mp4'                                      
+Animation 106: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:57:36] INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_34650218_55199                         
+                             622.mp4'                                          
+[10/12/26 17:57:39] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3027917580_140                         
+                             4548876.mp4'                                      
+Animation 108: Create(VMobject), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 108: Create(VMobject), etc.:  33%|###3      | 15/45 [00:00<00:00, 143.30it/s]Animation 108: Create(VMobject), etc.:  67%|######6   | 30/45 [00:00<00:00, 143.30it/s]Animation 108: Create(VMobject), etc.: 100%|##########| 45/45 [00:00<00:00, 123.68it/s]                                                                                       [10/12/26 17:57:40] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2061231904_357                         
+                             9192501.mp4'                                      
+[10/12/26 17:57:41] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3167028628_427                         
+                             8812191.mp4'                                      
+Animation 110: Create(VMobject), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 110: Create(VMobject), etc.:  29%|##8       | 13/45 [00:00<00:00, 124.87it/s]Animation 110: Create(VMobject), etc.:  58%|#####7    | 26/45 [00:00<00:00, 116.62it/s]Animation 110: Create(VMobject), etc.:  84%|########4 | 38/45 [00:00<00:00, 107.69it/s]                                                                                       [10/12/26 17:57:43] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4115955738_838                         
+                             297010.mp4'                                       
+[10/12/26 17:57:44] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1887254977_313                         
+                             2579960.mp4'                                      
+Animation 112: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                [10/12/26 17:57:45] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1842741145_379                         
+                             61898.mp4'                                        
+[10/12/26 17:57:46] INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1263662048_274                         
+                             479709.mp4'                                       
+Animation 114: _MethodAnimation(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 114: _MethodAnimation(VGroup of 2 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 98.37it/s]                                                                                                               [10/12/26 17:57:47] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_801947037_4643                         
+                             15049.mp4'                                        
+[10/12/26 17:57:48] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4270887922_196                         
+                             6457743.mp4'                                      
+Animation 116: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 116: _MethodAnimation(VGroup of 2 submobjects):  80%|########  | 12/15 [00:00<00:00, 112.82it/s]                                                                                                          [10/12/26 17:57:49] INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3002245748_295                         
+                             5351852.mp4'                                      
+[10/12/26 17:57:51] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1560292949_289                         
+                             5377121.mp4'                                      
+[10/12/26 17:57:52] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_821                         
+                             94581.mp4'                                        
+Animation 119: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 119: FadeIn(VGroup of 2 submobjects):  60%|######    | 9/15 [00:00<00:00, 84.23it/s]                                                                                              [10/12/26 17:57:55] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3369438732_551                         
+                             99622.mp4'                                        
+[10/12/26 17:57:58] INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1053677852_405                         
+                             6651165.mp4'                                      
+Animation 121: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 121: FadeIn(VGroup of 4 submobjects):  60%|######    | 9/15 [00:00<00:00, 85.22it/s]                                                                                                                  INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1040526017_214                         
+                             0409900.mp4'                                      
+[10/12/26 17:57:59] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_811753272_2530                         
+                             437024.mp4'                                       
+Animation 123: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:00] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1141861083_207                         
+                             5550416.mp4'                                      
+                    INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_934570657_4062                         
+                             522986.mp4'                                       
+Animation 125: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 125: FadeIn(VGroup of 4 submobjects): 100%|##########| 15/15 [00:00<00:00, 142.98it/s]                                                                                                [10/12/26 17:58:01] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1669553672_334                         
+                             5603028.mp4'                                      
+[10/12/26 17:58:02] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3395383883_364                         
+                             9678987.mp4'                                      
+Animation 127: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 127: FadeIn(VGroup of 4 submobjects):  67%|######6   | 10/15 [00:00<00:00, 89.33it/s]                                                                                               [10/12/26 17:58:03] INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1287072036_369                         
+                             0554598.mp4'                                      
+[10/12/26 17:58:04] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2410306346_342                         
+                             3863078.mp4'                                      
+Animation 129: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:05] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2344378496_223                         
+                             8460290.mp4'                                      
+[10/12/26 17:58:06] INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1466430298_798                         
+                             531357.mp4'                                       
+[10/12/26 17:58:07] INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_248                         
+                             818057.mp4'                                       
+Animation 132: FadeIn(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:08] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3432707645_364                         
+                             3627496.mp4'                                      
+Animation 133: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                            INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1250265111_329                         
+                             8771416.mp4'                                      
+Animation 134: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:09] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1594909910_329                         
+                             8771416.mp4'                                      
+Animation 135: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:10] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_594411779_3298                         
+                             771416.mp4'                                       
+Animation 136: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:11] INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_578272590_3298                         
+                             771416.mp4'                                       
+Animation 137: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:12] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4067203075_329                         
+                             8771416.mp4'                                      
+Animation 138: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3226551970_329                         
+                             8771416.mp4'                                      
+Animation 139: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:13] INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4244929959_329                         
+                             8771416.mp4'                                      
+Animation 140: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:14] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1317775929_329                         
+                             8771416.mp4'                                      
+Animation 141: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:15] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4271462366_329                         
+                             8771416.mp4'                                      
+Animation 142: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:16] INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_992396226_3298                         
+                             771416.mp4'                                       
+Animation 143: FadeOut(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                       [10/12/26 17:58:17] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3216624186_204                         
+                             0372035.mp4'                                      
+[10/12/26 17:58:21] INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3538772423_160                         
+                             7064604.mp4'                                      
+Animation 145: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 145: ReplacementTransform(Text('?')):  33%|###3      | 5/15 [00:00<00:00, 49.84it/s]Animation 145: ReplacementTransform(Text('?')):  73%|#######3  | 11/15 [00:00<00:00, 51.69it/s]                                                                                               [10/12/26 17:58:22] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3608065999_394                         
+                             7973700.mp4'                                      
+[10/12/26 17:58:23] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1730535716_793                         
+                             953410.mp4'                                       
+Animation 147: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 147: ReplacementTransform(Text('?')):  40%|####      | 6/15 [00:00<00:00, 44.92it/s]Animation 147: ReplacementTransform(Text('?')):  73%|#######3  | 11/15 [00:00<00:00, 38.56it/s]                                                                                               [10/12/26 17:58:24] INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2370862805_428                         
+                             1798947.mp4'                                      
+[10/12/26 17:58:26] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3190812019_258                         
+                             7235773.mp4'                                      
+Animation 149: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 149: ReplacementTransform(Text('?')):  67%|######6   | 10/15 [00:00<00:00, 90.33it/s]                                                                                               [10/12/26 17:58:27] INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3978181718_405                         
+                             2335441.mp4'                                      
+[10/12/26 17:58:28] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3312777595_136                         
+                             1614382.mp4'                                      
+Animation 151: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:29] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2985138830_275                         
+                             0020074.mp4'                                      
+[10/12/26 17:58:30] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1101270659_186                         
+                             6608362.mp4'                                      
+Animation 153: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:31] INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2977184704_411                         
+                             74352.mp4'                                        
+[10/12/26 17:58:33] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1498023638_291                         
+                             0099610.mp4'                                      
+[10/12/26 17:58:34] INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_234                         
+                             3555830.mp4'                                      
+Animation 156: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:37] INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3837577112_551                         
+                             99622.mp4'                                        
+[10/12/26 17:58:39] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1795396735_412                         
+                             5426322.mp4'                                      
+Animation 158: FadeIn(VGroup of 7 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 158: FadeIn(VGroup of 7 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 72.68it/s]                                                                                                                  INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3259844562_284                         
+                             090346.mp4'                                       
+[10/12/26 17:58:40] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3045026007_223                         
+                             6361380.mp4'                                      
+Animation 160: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 160: FadeIn(VGroup of 3 submobjects), etc.:  27%|##6       | 4/15 [00:00<00:00, 39.70it/s]Animation 160: FadeIn(VGroup of 3 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 71.60it/s]                                                                                                     [10/12/26 17:58:41] INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_4164429153_110                         
+                             9958340.mp4'                                      
+[10/12/26 17:58:42] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_832542722_2071                         
+                             024132.mp4'                                       
+Animation 162: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 162: FadeIn(VGroup of 3 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 116.71it/s]                                                                                                                          INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_163564878_3334                         
+                             798795.mp4'                                       
+[10/12/26 17:58:43] INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3617907829_412                         
+                             5668180.mp4'                                      
+Animation 164: Indicate(VGroup of 5 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 164: Indicate(VGroup of 5 submobjects): 100%|##########| 15/15 [00:00<00:00, 145.42it/s]                                                                                                  [10/12/26 17:58:44] INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_972237936_1498                         
+                             098353.mp4'                                       
+[10/12/26 17:58:45] INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_33510385_28162                         
+                             55687.mp4'                                        
+Animation 166: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 17:58:46] INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_2627533390_877                         
+                             477165.mp4'                                       
+[10/12/26 17:58:47] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1781882397_344                         
+                             09890.mp4'                                        
+Animation 168: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 168: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 98.93it/s]                                                                                               [10/12/26 17:58:48] INFO     Animation 168 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1766608630_179                         
+                             0394122.mp4'                                      
+[10/12/26 17:58:49] INFO     Animation 169 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_753476760_2200                         
+                             765068.mp4'                                       
+Animation 170: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 170: FadeOut(VGroup of 1 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:00, 30.43it/s]Animation 170: FadeOut(VGroup of 1 submobjects), etc.:  44%|####4     | 8/18 [00:00<00:00, 28.37it/s]Animation 170: FadeOut(VGroup of 1 submobjects), etc.:  61%|######1   | 11/18 [00:00<00:00, 27.90it/s]Animation 170: FadeOut(VGroup of 1 submobjects), etc.:  78%|#######7  | 14/18 [00:00<00:00, 27.00it/s]Animation 170: FadeOut(VGroup of 1 submobjects), etc.:  94%|#########4| 17/18 [00:00<00:00, 27.32it/s]                                                                                                      [10/12/26 17:58:51] INFO     Animation 170 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_258723768_1027                         
+                             913360.mp4'                                       
+Animation 171: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              [10/12/26 17:58:52] INFO     Animation 171 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_520956258_5519                         
+                             9622.mp4'                                         
+Animation 172: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 172 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_1687180544_952                         
+                             980734.mp4'                                       
+[10/12/26 17:58:53] INFO     Animation 173 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_173330480_6395                         
+                             70344.mp4'                                        
+                    INFO     Animation 174 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_3197081273_166                         
+                             2709682.mp4'                                      
+[10/12/26 17:58:54] INFO     Animation 175 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\red_blood_c                         
+                             ell_journey_double_circul                         
+                             ation\360p30\partial_movi                         
+                             e_files\RedBloodCellJourn                         
+                             eyDoubleCirculationStory\                         
+                             1490007039_499328632_3032                         
+                             131726.mp4'                                       
+[SYNC] 62 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\red_blood_cell_journey_double_circulation\360p30\RedBloodCellJourneyDoubleCirculationStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 17:59:18] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+[10/12/26 17:59:19] INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\red_blood_                          
+                             cell_journey_double_circ                          
+                             ulation\360p30\RedBloodC                          
+                             ellJourneyDoubleCirculat                          
+                             ionStory.mp4'                                     
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 177                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             RedBloodCellJourneyDoubleCirculationS             
+                             tory                                              
+                             Played 176 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Red-Blood-Cell-Double-Circulation\media\videos\red_blood_cell_journey_double_circulation\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Red-Blood-Cell-Double-Circulation\media\videos\red_blood_cell_journey_double_circulation\360p30\RedBloodCellJourneyDoubleCirculationStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Red-Blood-Cell-Double-Circulation\media\videos\red_blood_cell_journey_double_circulation\360p30\RedBloodCellJourneyDoubleCirculationStory.real.srt
+
+=== RedBloodCellJourneyDoubleCirculationStory.mp4
+    640x360 @ 30/1  frames=9045
+    video  301.500s (start +0.000)   audio  299.221s (start +0.000)   silent tail +2.279s  [ok]
+    captions: 85  first 0.26s  last 299.20s  (video 301.50s)
+    speech blocks: 105  speech time 236.1s (78.9% of audio)
+    caption time 281.1s   caption-inside-speech 83.8%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Red-Blood-Cell-Double-Circulation\red_blood_cell_journey_double_circulation.py red_blood_cell_journey_double_circulation NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Red-Blood-Cell-Double-Circulation\media\videos\red_blood_cell_journey_double_circulation\360p30\RedBloodCellJourneyDoubleCirculationStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 17:59:24] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== red_blood_cell_journey_double_circulation :: RedBloodCellJourneyDoubleCirculationStory.real.srt
+    narration words 728   srt words 728
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i RedBloodCellJourneyDoubleCirculationStory.mp4 -vf subtitles=RedBloodCellJourneyDoubleCirculationStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=4,MarginL=10,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy RedBloodCellJourneyDoubleCirculationStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'RedBloodCellJourneyDoubleCirculationStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:05:01.50, start: 0.000000, bitrate: 289 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 163 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 121 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 00000195a58ab5c0] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 00000195a58ab5c0] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 00000195a58ab5c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 00000195a58ab5c0] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 00000195a5d804c0] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 00000195a5d804c0] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 00000195a5d804c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 00000195a5d804c0] Using font provider directwrite (with GDI)
+[libx264 @ 00000195a5fde200] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 00000195a5fde200] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 00000195a5fde200] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'RedBloodCellJourneyDoubleCirculationStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 121 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 00000195a5d804c0] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  240 fps=0.0 q=24.0 size=     256KiB time=00:00:07.93 bitrate= 264.4kbits/s speed=15.6x elapsed=0:00:00.50    frame=  638 fps=620 q=24.0 size=     512KiB time=00:00:21.20 bitrate= 197.9kbits/s speed=20.6x elapsed=0:00:01.02    frame= 1000 fps=648 q=24.0 size=    1024KiB time=00:00:33.26 bitrate= 252.2kbits/s speed=21.6x elapsed=0:00:01.54    frame= 1403 fps=681 q=24.0 size=    1536KiB time=00:00:46.70 bitrate= 269.4kbits/s speed=22.7x elapsed=0:00:02.06    frame= 1789 fps=694 q=24.0 size=    2048KiB time=00:00:59.56 bitrate= 281.7kbits/s speed=23.1x elapsed=0:00:02.57    frame= 2225 fps=719 q=24.0 size=    2560KiB time=00:01:14.10 bitrate= 283.0kbits/s speed=23.9x elapsed=0:00:03.09    frame= 2603 fps=723 q=24.0 size=    3072KiB time=00:01:26.70 bitrate= 290.3kbits/s speed=24.1x elapsed=0:00:03.59    frame= 2981 fps=723 q=24.0 size=    3328KiB time=00:01:39.30 bitrate= 274.6kbits/s speed=24.1x elapsed=0:00:04.12    frame= 3375 fps=728 q=24.0 size=    3840KiB time=00:01:52.43 bitrate= 279.8kbits/s speed=24.3x elapsed=0:00:04.63    frame= 3807 fps=738 q=24.0 size=    4352KiB time=00:02:06.83 bitrate= 281.1kbits/s speed=24.6x elapsed=0:00:05.15    frame= 4278 fps=754 q=24.0 size=    4864KiB time=00:02:22.53 bitrate= 279.6kbits/s speed=25.1x elapsed=0:00:05.67    frame= 4679 fps=756 q=24.0 size=    5376KiB time=00:02:35.90 bitrate= 282.5kbits/s speed=25.2x elapsed=0:00:06.18    frame= 5035 fps=752 q=24.0 size=    5888KiB time=00:02:47.76 bitrate= 287.5kbits/s speed=  25x elapsed=0:00:06.69    frame= 5429 fps=753 q=24.0 size=    6144KiB time=00:03:00.90 bitrate= 278.2kbits/s speed=25.1x elapsed=0:00:07.21    frame= 5755 fps=745 q=24.0 size=    6656KiB time=00:03:11.76 bitrate= 284.3kbits/s speed=24.8x elapsed=0:00:07.72    frame= 6236 fps=756 q=24.0 size=    7168KiB time=00:03:27.80 bitrate= 282.6kbits/s speed=25.2x elapsed=0:00:08.24    frame= 6595 fps=752 q=24.0 size=    7680KiB time=00:03:39.76 bitrate= 286.3kbits/s speed=25.1x elapsed=0:00:08.76    frame= 6940 fps=748 q=24.0 size=    7936KiB time=00:03:51.26 bitrate= 281.1kbits/s speed=24.9x elapsed=0:00:09.27    frame= 7395 fps=755 q=24.0 size=    8448KiB time=00:04:06.43 bitrate= 280.8kbits/s speed=25.2x elapsed=0:00:09.79    frame= 7796 fps=757 q=24.0 size=    8704KiB time=00:04:19.80 bitrate= 274.5kbits/s speed=25.2x elapsed=0:00:10.30    frame= 8210 fps=759 q=24.0 size=    9216KiB time=00:04:33.60 bitrate= 275.9kbits/s speed=25.3x elapsed=0:00:10.81    frame= 8567 fps=755 q=24.0 size=    9472KiB time=00:04:45.50 bitrate= 271.8kbits/s speed=25.2x elapsed=0:00:11.33    frame= 8936 fps=754 q=24.0 size=    9984KiB time=00:04:57.80 bitrate= 274.6kbits/s speed=25.1x elapsed=0:00:11.85    [out#0/mp4 @ 00000195a5ff0ac0] video:5807KiB audio:4447KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.145215%
+frame= 9045 fps=755 q=-1.0 Lsize=   10577KiB time=00:04:59.22 bitrate= 289.6kbits/s speed=  25x elapsed=0:00:11.97    
+[libx264 @ 00000195a5fde200] frame I:37    Avg QP:11.61  size: 44598
+[libx264 @ 00000195a5fde200] frame P:2526  Avg QP:14.59  size:  1585
+[libx264 @ 00000195a5fde200] frame B:6482  Avg QP:24.26  size:    45
+[libx264 @ 00000195a5fde200] consecutive B-frames:  3.0%  3.1%  3.4% 90.4%
+[libx264 @ 00000195a5fde200] mb I  I16..4: 13.8% 37.0% 49.3%
+[libx264 @ 00000195a5fde200] mb P  I16..4:  0.6%  1.2%  0.6%  P16..4:  7.7%  1.0%  1.2%  0.0%  0.0%    skip:87.6%
+[libx264 @ 00000195a5fde200] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.8%  0.1%  0.0%  direct: 0.3%  skip:98.7%  L0:38.3% L1:59.1% BI: 2.5%
+[libx264 @ 00000195a5fde200] 8x8 transform intra:44.3% inter:54.2%
+[libx264 @ 00000195a5fde200] coded y,uvDC,uvAC intra: 73.6% 70.0% 36.6% inter: 1.3% 2.0% 0.7%
+[libx264 @ 00000195a5fde200] i16 v,h,dc,p:  8% 67%  5% 20%
+[libx264 @ 00000195a5fde200] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 26% 22%  4%  5%  4%  7%  4%  9%
+[libx264 @ 00000195a5fde200] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 41% 11%  4%  4%  3%  5%  3%  5%
+[libx264 @ 00000195a5fde200] i8c dc,h,v,p: 33% 50% 15%  3%
+[libx264 @ 00000195a5fde200] Weighted P-Frames: Y:0.1% UV:0.0%
+[libx264 @ 00000195a5fde200] ref P L0: 89.6% 10.4%
+[libx264 @ 00000195a5fde200] ref B L0: 87.5% 12.5%
+[libx264 @ 00000195a5fde200] ref B L1: 89.1% 10.9%
+[libx264 @ 00000195a5fde200] kb/s:157.77
+<<< [burn] exit 0
+finals <- RedBloodCellJourneyDoubleCirculationStory_captioned.mp4 + RedBloodCellJourneyDoubleCirculationStory_captioned.srt
+
+RESULT Red-Blood-Cell-Double-Circulation: verify_sync=0 verify_captions=0 captioned=RedBloodCellJourneyDoubleCirculationStory_captioned.mp4

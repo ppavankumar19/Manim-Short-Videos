@@ -1,0 +1,1491 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 photosynthesis_inputs_outputs_visual_flow.py PhotosynthesisInputsOutputsVisualFlowStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 12:35:05] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(Text('Photosynthesis')):   0%|          | 0/21 [00:00<?, ?it/s]Animation 0: FadeIn(Text('Photosynthesis')): 100%|##########| 21/21 [00:00<00:00, 209.37it/s]                                                                                             [10/12/26 12:35:09] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1583504468_915998233_304                         
+                             0361846.mp4'                                      
+[10/12/26 12:35:10] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2385839534_15                         
+                             60897102.mp4'                                     
+Animation 2: FadeIn(Line), etc.:   0%|          | 0/21 [00:00<?, ?it/s]Animation 2: FadeIn(Line), etc.:  71%|#######1  | 15/21 [00:00<00:00, 144.75it/s]                                                                                 [10/12/26 12:35:11] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_4041288488_12                         
+                             73425446.mp4'                                     
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_319278073_114                         
+                             4048934.mp4'                                      
+[10/12/26 12:35:12] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3197081273_23                         
+                             70152632.mp4'                                     
+Animation 5: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 5: FadeIn(VGroup of 1 submobjects):  80%|########  | 12/15 [00:00<00:00, 110.01it/s]                                                                                              [10/12/26 12:35:14] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3703622285_30                         
+                             40361846.mp4'                                     
+[10/12/26 12:35:17] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_615494218_307                         
+                             1133033.mp4'                                      
+Animation 7: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 7: FadeIn(VGroup of 3 submobjects):  40%|####      | 6/15 [00:00<00:00, 56.90it/s]Animation 7: FadeIn(VGroup of 3 submobjects):  80%|########  | 12/15 [00:00<00:00, 53.20it/s]                                                                                             [10/12/26 12:35:18] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2277250037_41                         
+                             09081997.mp4'                                     
+[10/12/26 12:35:19] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3836267178_25                         
+                             98519301.mp4'                                     
+Animation 9: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 9: FadeIn(VGroup of 3 submobjects), etc.:  20%|##        | 3/15 [00:00<00:00, 20.16it/s]Animation 9: FadeIn(VGroup of 3 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 20.25it/s]Animation 9: FadeIn(VGroup of 3 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 19.75it/s]Animation 9: FadeIn(VGroup of 3 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 20.99it/s]Animation 9: FadeIn(VGroup of 3 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 20.62it/s]                                                                                                   [10/12/26 12:35:20] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1631327361_37                         
+                             84482378.mp4'                                     
+[10/12/26 12:35:21] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1483452086_21                         
+                             33876178.mp4'                                     
+Animation 11: FadeOut(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 11: FadeOut(VGroup of 5 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 125.77it/s]                                                                                                      [10/12/26 12:35:22] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1851669919_42                         
+                             91349960.mp4'                                     
+[10/12/26 12:35:23] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3565573196_18                         
+                             33626274.mp4'                                     
+Animation 13: FadeIn(Text('WHERE DOES THE FOOD COME FROM?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 13: FadeIn(Text('WHERE DOES THE FOOD COME FROM?')):  80%|########  | 12/15 [00:00<00:00, 116.56it/s]                                                                                                              [10/12/26 12:35:24] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_533622173_742                         
+                             300377.mp4'                                       
+Animation 14: FadeIn(Text('THE LEAF CAN HELP MAKE IT.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 14: FadeIn(Text('THE LEAF CAN HELP MAKE IT.')): 100%|##########| 15/15 [00:00<00:00, 135.01it/s]                                                                                                                              INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_22668087_1628                         
+                             433205.mp4'                                       
+[10/12/26 12:35:25] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_4278742435_65                         
+                             0316622.mp4'                                      
+[10/12/26 12:35:26] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3197081273_14                         
+                             17894624.mp4'                                     
+Animation 17: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 12:35:28] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1676512610_30                         
+                             40361846.mp4'                                     
+[10/12/26 12:35:29] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_841462251_150                         
+                             6428978.mp4'                                      
+Animation 19: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 19: FadeIn(VGroup of 3 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 75.97it/s]                                                                                                   [10/12/26 12:35:30] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_822818852_311                         
+                             5720066.mp4'                                      
+                    INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1261647703_28                         
+                             38444009.mp4'                                     
+Animation 21: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 21: FadeIn(VGroup of 3 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 44.90it/s]Animation 21: FadeIn(VGroup of 3 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 55.98it/s]                                                                                                    [10/12/26 12:35:31] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2315086927_16                         
+                             70911922.mp4'                                     
+[10/12/26 12:35:32] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1412290106_42                         
+                             04994572.mp4'                                     
+Animation 23: FadeIn(VGroup of 17 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 23: FadeIn(VGroup of 17 submobjects), etc.:  47%|####6     | 7/15 [00:00<00:00, 68.90it/s]Animation 23: FadeIn(VGroup of 17 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 71.32it/s]                                                                                                     [10/12/26 12:35:33] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_314536014_312                         
+                             980208.mp4'                                       
+[10/12/26 12:35:34] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3541641276_42                         
+                             03581004.mp4'                                     
+Animation 25: FadeIn(VGroup of 6 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 25: FadeIn(VGroup of 6 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 75.52it/s]                                                                                                   [10/12/26 12:35:35] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_731275553_289                         
+                             2380240.mp4'                                      
+[10/12/26 12:35:36] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2550631158_39                         
+                             04867546.mp4'                                     
+Animation 27: Indicate(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 27: Indicate(VGroup of 2 submobjects), etc.:  20%|##        | 3/15 [00:00<00:00, 19.67it/s]Animation 27: Indicate(VGroup of 2 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 19.49it/s]Animation 27: Indicate(VGroup of 2 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 20.05it/s]Animation 27: Indicate(VGroup of 2 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 21.96it/s]Animation 27: Indicate(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 20.30it/s]                                                                                                      [10/12/26 12:35:37] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2692033599_11                         
+                             2960688.mp4'                                      
+[10/12/26 12:35:39] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1121787776_27                         
+                             10500472.mp4'                                     
+[10/12/26 12:35:40] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3197081273_32                         
+                             30274652.mp4'                                     
+Animation 30: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 12:35:43] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1360676397_30                         
+                             40361846.mp4'                                     
+[10/12/26 12:35:44] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3937238879_17                         
+                             60416699.mp4'                                     
+Animation 32: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 32: FadeIn(VGroup of 2 submobjects):  40%|####      | 6/15 [00:00<00:00, 49.09it/s]Animation 32: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 45.15it/s]                                                                                              [10/12/26 12:35:45] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1911920113_37                         
+                             37226479.mp4'                                     
+[10/12/26 12:35:46] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3112395821_12                         
+                             00613024.mp4'                                     
+Animation 34: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 34: FadeIn(VGroup of 2 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 53.32it/s]Animation 34: FadeIn(VGroup of 2 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 59.53it/s]                                                                                                                        INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3852084970_36                         
+                             32548327.mp4'                                     
+[10/12/26 12:35:48] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1688720532_17                         
+                             45114679.mp4'                                     
+Animation 36: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 36: FadeIn(VGroup of 2 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 44.47it/s]Animation 36: FadeIn(VGroup of 2 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 49.28it/s]                                                                                                    [10/12/26 12:35:49] INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3228907418_24                         
+                             40344208.mp4'                                     
+[10/12/26 12:35:50] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2511273662_22                         
+                             41079701.mp4'                                     
+Animation 38: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                         [10/12/26 12:35:51] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_230863517_178                         
+                             9119054.mp4'                                      
+[10/12/26 12:35:52] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1112639409_36                         
+                             30557567.mp4'                                     
+Animation 40: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 40: FadeIn(VGroup of 2 submobjects):  67%|######6   | 10/15 [00:00<00:00, 96.80it/s]                                                                                              [10/12/26 12:35:53] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1013158219_28                         
+                             40248497.mp4'                                     
+[10/12/26 12:35:55] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3410889871_30                         
+                             24939911.mp4'                                     
+                    INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3197081273_38                         
+                             5590302.mp4'                                      
+Animation 43: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 12:35:58] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_290855239_304                         
+                             0361846.mp4'                                      
+[10/12/26 12:35:59] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1754631382_32                         
+                             41388842.mp4'                                     
+Animation 45: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 45: FadeIn(VGroup of 3 submobjects):  87%|########6 | 13/15 [00:00<00:00, 129.64it/s]                                                                                               [10/12/26 12:36:00] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2276785779_35                         
+                             79982575.mp4'                                     
+                    INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_985710071_973                         
+                             895684.mp4'                                       
+Animation 47: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 47: FadeIn(Arrow), etc.:   7%|6         | 1/15 [00:00<00:01,  9.84it/s]Animation 47: FadeIn(Arrow), etc.:  20%|##        | 3/15 [00:00<00:01,  9.92it/s]Animation 47: FadeIn(Arrow), etc.:  27%|##6       | 4/15 [00:00<00:01,  9.57it/s]Animation 47: FadeIn(Arrow), etc.:  40%|####      | 6/15 [00:00<00:00,  9.88it/s]Animation 47: FadeIn(Arrow), etc.:  47%|####6     | 7/15 [00:00<00:00,  9.75it/s]Animation 47: FadeIn(Arrow), etc.:  60%|######    | 9/15 [00:00<00:00, 10.09it/s]Animation 47: FadeIn(Arrow), etc.:  73%|#######3  | 11/15 [00:01<00:00, 10.63it/s]Animation 47: FadeIn(Arrow), etc.:  87%|########6 | 13/15 [00:01<00:00, 10.72it/s]Animation 47: FadeIn(Arrow), etc.: 100%|##########| 15/15 [00:01<00:00, 10.58it/s]                                                                                  [10/12/26 12:36:03] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3219890592_42                         
+                             65328409.mp4'                                     
+                    INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2368320783_23                         
+                             57576353.mp4'                                     
+Animation 49: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 49: FadeIn(Arrow), etc.:  20%|##        | 3/15 [00:00<00:00, 28.17it/s]Animation 49: FadeIn(Arrow), etc.:  53%|#####3    | 8/15 [00:00<00:00, 39.71it/s]Animation 49: FadeIn(Arrow), etc.:  87%|########6 | 13/15 [00:00<00:00, 38.65it/s]                                                                                  [10/12/26 12:36:04] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_520156878_154                         
+                             9080031.mp4'                                      
+[10/12/26 12:36:05] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_318352116_134                         
+                             7961913.mp4'                                      
+Animation 51: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 51: FadeIn(VGroup of 2 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 148.41it/s]                                                                                                     [10/12/26 12:36:06] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_156655358_404                         
+                             8494292.mp4'                                      
+[10/12/26 12:36:07] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3337001256_13                         
+                             92662125.mp4'                                     
+Animation 53: Indicate(RoundedRectangle):   0%|          | 0/15 [00:00<?, ?it/s]Animation 53: Indicate(RoundedRectangle):  33%|###3      | 5/15 [00:00<00:00, 38.17it/s]Animation 53: Indicate(RoundedRectangle):  60%|######    | 9/15 [00:00<00:00, 37.03it/s]Animation 53: Indicate(RoundedRectangle):  93%|#########3| 14/15 [00:00<00:00, 40.43it/s]                                                                                         [10/12/26 12:36:08] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3260531365_26                         
+                             85120772.mp4'                                     
+[10/12/26 12:36:09] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_687495666_341                         
+                             8069533.mp4'                                      
+                    INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3197081273_25                         
+                             21525675.mp4'                                     
+Animation 56: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 56: FadeIn(VGroup of 1 submobjects): 100%|##########| 15/15 [00:00<00:00, 137.82it/s]                                                                                               [10/12/26 12:36:12] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_666221803_304                         
+                             0361846.mp4'                                      
+[10/12/26 12:36:13] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3120774729_15                         
+                             66392079.mp4'                                     
+Animation 58: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 58: FadeIn(VGroup of 3 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 113.41it/s]                                                                                                     [10/12/26 12:36:14] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2885573881_75                         
+                             2434434.mp4'                                      
+                    INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2311029958_61                         
+                             8145254.mp4'                                      
+Animation 60: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1045448540_10                         
+                             73178409.mp4'                                     
+[10/12/26 12:36:15] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_70892862_2021                         
+                             306776.mp4'                                       
+Animation 62: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1462373190_28                         
+                             58712976.mp4'                                     
+[10/12/26 12:36:16] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2877417185_93                         
+                             2737690.mp4'                                      
+Animation 64: FadeIn(Ellipse), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 64: FadeIn(Ellipse), etc.:  87%|########6 | 13/15 [00:00<00:00, 127.63it/s]                                                                                                         INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_31899336_3590                         
+                             28388.mp4'                                        
+[10/12/26 12:36:17] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2218917234_20                         
+                             06732944.mp4'                                     
+Animation 66: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                         [10/12/26 12:36:18] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_617464320_344                         
+                             3934059.mp4'                                      
+[10/12/26 12:36:19] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3028433382_23                         
+                             84372005.mp4'                                     
+Animation 68: FadeIn(Text('Light energy is stored as chemical energy in food.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 68: FadeIn(Text('Light energy is stored as chemical energy in food.')):  60%|######    | 9/15 [00:00<00:00, 87.61it/s]                                                                                                                                                    INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3534426644_25                         
+                             75378097.mp4'                                     
+[10/12/26 12:36:21] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1785714879_19                         
+                             65923644.mp4'                                     
+[10/12/26 12:36:22] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3197081273_42                         
+                             39621039.mp4'                                     
+Animation 71: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 12:36:24] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_93757072_3040                         
+                             361846.mp4'                                       
+[10/12/26 12:36:25] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_853966682_255                         
+                             9818660.mp4'                                      
+Animation 73: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3068662565_10                         
+                             35536688.mp4'                                     
+[10/12/26 12:36:26] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_203416126_242                         
+                             8444627.mp4'                                      
+Animation 75: _MethodAnimation(VGroup of 3 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]Animation 75: _MethodAnimation(VGroup of 3 submobjects):  59%|#####9    | 16/27 [00:00<00:00, 159.08it/s]                                                                                                         [10/12/26 12:36:27] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_432484344_136                         
+                             5152037.mp4'                                      
+                    INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2323140943_58                         
+                             6897856.mp4'                                      
+Animation 77: _MethodAnimation(VGroup of 3 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                                   INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1332038389_30                         
+                             9100289.mp4'                                      
+[10/12/26 12:36:28] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_46460545_3169                         
+                             658035.mp4'                                       
+Animation 79: _MethodAnimation(VGroup of 3 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 79: _MethodAnimation(VGroup of 3 submobjects), etc.:  26%|##5       | 7/27 [00:00<00:00, 59.15it/s]Animation 79: _MethodAnimation(VGroup of 3 submobjects), etc.:  48%|####8     | 13/27 [00:00<00:00, 51.13it/s]Animation 79: _MethodAnimation(VGroup of 3 submobjects), etc.:  78%|#######7  | 21/27 [00:00<00:00, 61.85it/s]                                                                                                              [10/12/26 12:36:29] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3337519691_17                         
+                             08770767.mp4'                                     
+                    INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3681585156_36                         
+                             45901097.mp4'                                     
+[10/12/26 12:36:30] INFO     Animation 81 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1818197978_2441903                     
+                             028)                                              
+Animation 81: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                          [10/12/26 12:36:31] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2392034075_35                         
+                             07364707.mp4'                                     
+                    INFO     Animation 83 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3060393380_2736146                     
+                             969)                                              
+Animation 83: FadeIn(Text('The purpose is food. Oxygen is released along the way.')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                           [10/12/26 12:36:33] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1427340191_40                         
+                             99110495.mp4'                                     
+                    INFO     Animation 85 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_1479975                     
+                             87)                                               
+[10/12/26 12:36:36] INFO     Animation 86 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1403194052_3040361                     
+                             846)                                              
+Animation 86: FadeIn(VGroup of 1 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                    [10/12/26 12:36:37] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_257399227_213                         
+                             1793960.mp4'                                      
+                    INFO     Animation 88 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1125271874_7116976                     
+                             1)                                                
+Animation 88: FadeIn(VGroup of 9 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                    [10/12/26 12:36:38] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3901113485_61                         
+                             2906420.mp4'                                      
+                    INFO     Animation 90 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4096644598_2144520                     
+                             326)                                              
+Animation 90: Indicate(VGroup of 9 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      [10/12/26 12:36:39] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1827635947_36                         
+                             88125831.mp4'                                     
+                    INFO     Animation 92 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3442019001_3007763                     
+                             408)                                              
+Animation 92: ReplacementTransform(VGroup of 9 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                  [10/12/26 12:36:40] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2155180620_29                         
+                             92952485.mp4'                                     
+                    INFO     Animation 94 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1465561440_1791148                     
+                             300)                                              
+Animation 94: ReplacementTransform(VGroup of 9 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                  [10/12/26 12:36:41] INFO     Animation 95 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_861825112_41080699                     
+                             03)                                               
+Animation 95: FadeIn(Brace), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                        [10/12/26 12:36:42] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3118444535_16                         
+                             67637010.mp4'                                     
+                    INFO     Animation 97 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_290356038_16197041                     
+                             73)                                               
+Animation 97: Create(SurroundingRectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                       [10/12/26 12:36:43] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2418219859_29                         
+                             84854706.mp4'                                     
+                    INFO     Animation 99 : Using cached   cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_248483609_19834420                     
+                             74)                                               
+Animation 99: FadeIn(VGroup of 2 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                    [10/12/26 12:36:44] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3580247144_35                         
+                             80303314.mp4'                                     
+[10/12/26 12:36:45] INFO     Animation 101 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3473156                     
+                             573)                                              
+[10/12/26 12:36:46] INFO     Animation 102 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2364007635_3040361                     
+                             846)                                              
+Animation 102: FadeIn(VGroup of 1 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                     [10/12/26 12:36:47] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2808342767_28                         
+                             00029625.mp4'                                     
+                    INFO     Animation 104 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1185773728_3703972                     
+                             397)                                              
+Animation 104: FadeIn(VGroup of 19 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:36:48] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_375754920_557                         
+                             468906.mp4'                                       
+                    INFO     Animation 106 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2228117642_3521058                     
+                             14)                                               
+Animation 106: FadeIn(Arrow), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                         [10/12/26 12:36:49] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1147433105_47                         
+                             0274991.mp4'                                      
+                    INFO     Animation 108 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4100137711_5658591                     
+                             25)                                               
+Animation 108: FadeIn(Arrow), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                             INFO     Animation 109 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3087416086_3098789                     
+                             291)                                              
+Animation 109: FadeIn(Arrow), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                         [10/12/26 12:36:50] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_514923550_679                         
+                             947527.mp4'                                       
+                    INFO     Animation 111 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3960936_481709571)                     
+Animation 111: FadeIn(Text('can be used to form')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                         [10/12/26 12:36:51] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2846316882_39                         
+                             5422571.mp4'                                      
+                    INFO     Animation 113 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3331529348_2539948                     
+                             163)                                              
+Animation 113: FadeIn(Text('Photosynthesis provides the starting food material.')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                         [10/12/26 12:36:52] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2166839647_83                         
+                             3178462.mp4'                                      
+                    INFO     Animation 115 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3313645                     
+                             266)                                              
+[10/12/26 12:36:55] INFO     Animation 116 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_308198482_30403618                     
+                             46)                                               
+Animation 116: FadeIn(VGroup of 2 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                     [10/12/26 12:36:56] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1464390742_17                         
+                             51974202.mp4'                                     
+                    INFO     Animation 118 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_289206039_30760871                     
+                             2)                                                
+Animation 118: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                               INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3908955775_33                         
+                             06460907.mp4'                                     
+[10/12/26 12:36:57] INFO     Animation 120 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2219488559_3351311                     
+                             314)                                              
+Animation 120: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                               INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2620375229_11                         
+                             37886017.mp4'                                     
+                    INFO     Animation 122 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2962682371_1612363                     
+                             460)                                              
+Animation 122: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                           [10/12/26 12:36:58] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2256283246_20                         
+                             51305981.mp4'                                     
+                    INFO     Animation 124 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1288622783_3106334                     
+                             38)                                               
+Animation 124: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                           [10/12/26 12:36:59] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3554647004_42                         
+                             3692357.mp4'                                      
+                    INFO     Animation 126 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1089403028_5696567                     
+                             49)                                               
+Animation 126: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                               INFO     Animation 127 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4217641769_1997943                     
+                             482)                                              
+Animation 127: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                           [10/12/26 12:37:02] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2471958809_18                         
+                             94230982.mp4'                                     
+                    INFO     Animation 129 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_5410417                     
+                             53)                                               
+[10/12/26 12:37:03] INFO     Animation 130 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3886701318_1199131                     
+                             292)                                              
+Animation 130: FadeIn(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                             [10/12/26 12:37:04] INFO     Animation 131 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_900376641_37729260                     
+                             52)                                               
+Animation 131: ReplacementTransform(Text('10s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                           INFO     Animation 132 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1291494693_3772926                     
+                             052)                                              
+Animation 132: ReplacementTransform(Text('9s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      [10/12/26 12:37:05] INFO     Animation 133 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1778214446_3772926                     
+                             052)                                              
+Animation 133: ReplacementTransform(Text('8s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                          INFO     Animation 134 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4294498726_3772926                     
+                             052)                                              
+Animation 134: ReplacementTransform(Text('7s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      [10/12/26 12:37:06] INFO     Animation 135 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_354535490_37729260                     
+                             52)                                               
+Animation 135: ReplacementTransform(Text('6s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                          INFO     Animation 136 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2675960599_3772926                     
+                             052)                                              
+Animation 136: ReplacementTransform(Text('5s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      [10/12/26 12:37:07] INFO     Animation 137 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1233433216_3772926                     
+                             052)                                              
+Animation 137: ReplacementTransform(Text('4s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                          INFO     Animation 138 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2877805945_3772926                     
+                             052)                                              
+Animation 138: ReplacementTransform(Text('3s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      [10/12/26 12:37:08] INFO     Animation 139 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_907601918_37729260                     
+                             52)                                               
+Animation 139: ReplacementTransform(Text('2s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                          INFO     Animation 140 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1390479260_3772926                     
+                             052)                                              
+Animation 140: ReplacementTransform(Text('1s')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      [10/12/26 12:37:09] INFO     Animation 141 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1043310549_3262671                     
+                             900)                                              
+Animation 141: FadeOut(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                              [10/12/26 12:37:11] INFO     Animation 142 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_536846733_81390559                     
+                             9)                                                
+[10/12/26 12:37:12] INFO     Animation 143 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2894587683_2926579                     
+                             756)                                              
+Animation 143: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_109182284_119                         
+                             1230222.mp4'                                      
+[10/12/26 12:37:13] INFO     Animation 145 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3271444069_1992109                     
+                             067)                                              
+Animation 145: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2542282495_40                         
+                             69117656.mp4'                                     
+                    INFO     Animation 147 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3456410182_3912903                     
+                             486)                                              
+Animation 147: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:37:14] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3124630806_40                         
+                             84671334.mp4'                                     
+                    INFO     Animation 149 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3164687608_8093431                     
+                             49)                                               
+Animation 149: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:37:15] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3946537989_17                         
+                             61096585.mp4'                                     
+                    INFO     Animation 151 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1343151707_1525766                     
+                             940)                                              
+Animation 151: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:37:16] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3868802267_24                         
+                             57147500.mp4'                                     
+                    INFO     Animation 153 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3181550915_1877851                     
+                             556)                                              
+Animation 153: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:37:17] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3808232752_41                         
+                             90751450.mp4'                                     
+[10/12/26 12:37:18] INFO     Animation 155 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3480165                     
+                             345)                                              
+[10/12/26 12:37:20] INFO     Animation 156 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2837238482_3040361                     
+                             846)                                              
+Animation 156: FadeIn(VGroup of 1 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                     [10/12/26 12:37:21] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2037960478_28                         
+                             30745567.mp4'                                     
+                    INFO     Animation 158 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_727386205_36256270                     
+                             82)                                               
+Animation 158: FadeIn(Arrow), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                         [10/12/26 12:37:22] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3408686346_28                         
+                             84796425.mp4'                                     
+                    INFO     Animation 160 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1926476706_3159975                     
+                             42)                                               
+Animation 160: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                               INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_4028503039_13                         
+                             77920742.mp4'                                     
+                    INFO     Animation 162 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2719493158_2513117                     
+                             577)                                              
+Animation 162: FadeIn(VGroup of 17 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:37:23] INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3861331762_23                         
+                             86852397.mp4'                                     
+                    INFO     Animation 164 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_4107268201_3337555                     
+                             383)                                              
+Animation 164: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                           [10/12/26 12:37:24] INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_299658655_330                         
+                             4644630.mp4'                                      
+                    INFO     Animation 166 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2210505301_1923257                     
+                             976)                                              
+Animation 166: FadeIn(Text('PHOTOSYNTHESIS')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                    [10/12/26 12:37:25] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1485024428_19                         
+                             52225555.mp4'                                     
+                    INFO     Animation 168 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_157573405_38014850                     
+                             85)                                               
+Animation 168: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                           [10/12/26 12:37:26] INFO     Animation 169 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3855353907_17                         
+                             6341400.mp4'                                      
+                    INFO     Animation 170 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1487961740_9947250                     
+                             19)                                               
+Animation 170: FadeIn(MathTex('6\\,\\mathrm{CO_2}+12\\,\\mathrm{H_2O}\\xrightarrow[\\text{Chlorophyll}]{\\text{Light}}\\mathrm{C_6H_{12}O_6}+6\\,\\mathrm{H_2O}+6\\,\\mathrm{O_2}')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                                                                                                                                 [10/12/26 12:37:27] INFO     Animation 171 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_1774682812_15                         
+                             72676599.mp4'                                     
+[10/12/26 12:37:28] INFO     Animation 172 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1761634091_4015537                     
+                             884)                                              
+Animation 172: ReplacementTransform(VGroup of 2 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                   [10/12/26 12:37:29] INFO     Animation 173 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_2524559938_13                         
+                             85956228.mp4'                                     
+                    INFO     Animation 174 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1545421271_6476587                     
+                             42)                                               
+Animation 174: FadeOut(VGroup of 4 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                            [10/12/26 12:37:30] INFO     Animation 175 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3071582464_3040361                     
+                             846)                                              
+Animation 175: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                             [10/12/26 12:37:31] INFO     Animation 176 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_3830397247_22                         
+                             45165482.mp4'                                     
+                    INFO     Animation 177 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_2305928982_3614711                     
+                             875)                                              
+Animation 177: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                       INFO     Animation 178 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\photosynthe                         
+                             sis_inputs_outputs_visual                         
+                             _flow\360p30\partial_movi                         
+                             e_files\PhotosynthesisInp                         
+                             utsOutputsVisualFlowStory                         
+                             \1490007039_343448916_114                         
+                             9978646.mp4'                                      
+                    INFO     Animation 179 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_3402561                     
+                             786)                                              
+[10/12/26 12:37:32] INFO     Animation 180 : Using cached  cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_499328632_12410359                     
+                             2)                                                
+[SYNC] 67 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\photosynthesis_inputs_outputs_visual_flow\360p30\PhotosynthesisInputsOutputsVisualFlowStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 12:37:46] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+[10/12/26 12:37:47] INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\photosynth                          
+                             esis_inputs_outputs_visu                          
+                             al_flow\360p30\Photosynt                          
+                             hesisInputsOutputsVisual                          
+                             FlowStory.mp4'                                    
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 120                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             PhotosynthesisInputsOutputsVisualFlow             
+                             Story                                             
+                             Played 181 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Photosynthesis-Inputs-Outputs-Visual-Flow\media\videos\photosynthesis_inputs_outputs_visual_flow\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Photosynthesis-Inputs-Outputs-Visual-Flow\media\videos\photosynthesis_inputs_outputs_visual_flow\360p30\PhotosynthesisInputsOutputsVisualFlowStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Photosynthesis-Inputs-Outputs-Visual-Flow\media\videos\photosynthesis_inputs_outputs_visual_flow\360p30\PhotosynthesisInputsOutputsVisualFlowStory.real.srt
+
+=== PhotosynthesisInputsOutputsVisualFlowStory.mp4
+    640x360 @ 30/1  frames=9777
+    video  325.899s (start +0.000)   audio  323.712s (start +0.000)   silent tail +2.187s  [ok]
+    captions: 85  first 0.40s  last 323.67s  (video 325.90s)
+    speech blocks: 121  speech time 252.7s (78.1% of audio)
+    caption time 305.8s   caption-inside-speech 82.4%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Photosynthesis-Inputs-Outputs-Visual-Flow\photosynthesis_inputs_outputs_visual_flow.py photosynthesis_inputs_outputs_visual_flow NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Biology - Class 10\Photosynthesis-Inputs-Outputs-Visual-Flow\media\videos\photosynthesis_inputs_outputs_visual_flow\360p30\PhotosynthesisInputsOutputsVisualFlowStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 12:37:51] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== photosynthesis_inputs_outputs_visual_flow :: PhotosynthesisInputsOutputsVisualFlowStory.real.srt
+    narration words 741   srt words 741
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i PhotosynthesisInputsOutputsVisualFlowStory.mp4 -vf subtitles=PhotosynthesisInputsOutputsVisualFlowStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=10,MarginL=43,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy PhotosynthesisInputsOutputsVisualFlowStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'PhotosynthesisInputsOutputsVisualFlowStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:05:25.90, start: 0.000000, bitrate: 337 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 211 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001c8e4b72c80] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001c8e4b72c80] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001c8e4b72c80] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001c8e4b72c80] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000001c8e7301bc0] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001c8e7301bc0] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001c8e7301bc0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001c8e7301bc0] Using font provider directwrite (with GDI)
+[libx264 @ 000001c8e513e000] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 000001c8e513e000] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 000001c8e513e000] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'PhotosynthesisInputsOutputsVisualFlowStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001c8e7301bc0] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  299 fps=0.0 q=24.0 size=     256KiB time=00:00:09.90 bitrate= 211.9kbits/s speed=  19x elapsed=0:00:00.52    frame=  749 fps=719 q=24.0 size=     768KiB time=00:00:24.90 bitrate= 252.7kbits/s speed=23.9x elapsed=0:00:01.04    frame= 1189 fps=760 q=24.0 size=    1536KiB time=00:00:39.56 bitrate= 318.0kbits/s speed=25.3x elapsed=0:00:01.56    frame= 1631 fps=785 q=24.0 size=    2048KiB time=00:00:54.30 bitrate= 309.0kbits/s speed=26.1x elapsed=0:00:02.07    frame= 2152 fps=829 q=24.0 size=    2816KiB time=00:01:11.66 bitrate= 321.9kbits/s speed=27.6x elapsed=0:00:02.59    frame= 2600 fps=837 q=24.0 size=    3328KiB time=00:01:26.60 bitrate= 314.8kbits/s speed=27.9x elapsed=0:00:03.10    frame= 2973 fps=819 q=24.0 size=    3840KiB time=00:01:39.03 bitrate= 317.6kbits/s speed=27.3x elapsed=0:00:03.63    frame= 3330 fps=805 q=24.0 size=    4352KiB time=00:01:50.93 bitrate= 321.4kbits/s speed=26.8x elapsed=0:00:04.13    frame= 3750 fps=806 q=24.0 size=    4864KiB time=00:02:04.93 bitrate= 318.9kbits/s speed=26.8x elapsed=0:00:04.65    frame= 4182 fps=809 q=24.0 size=    5376KiB time=00:02:19.33 bitrate= 316.1kbits/s speed=  27x elapsed=0:00:05.16    frame= 4582 fps=806 q=24.0 size=    5888KiB time=00:02:32.66 bitrate= 315.9kbits/s speed=26.9x elapsed=0:00:05.68    frame= 5005 fps=807 q=24.0 size=    6400KiB time=00:02:46.76 bitrate= 314.4kbits/s speed=26.9x elapsed=0:00:06.19    frame= 5425 fps=807 q=24.0 size=    6912KiB time=00:03:00.76 bitrate= 313.2kbits/s speed=26.9x elapsed=0:00:06.72    frame= 5866 fps=810 q=24.0 size=    7424KiB time=00:03:15.46 bitrate= 311.1kbits/s speed=  27x elapsed=0:00:07.24    frame= 6295 fps=813 q=24.0 size=    7936KiB time=00:03:29.76 bitrate= 309.9kbits/s speed=27.1x elapsed=0:00:07.74    frame= 6679 fps=807 q=24.0 size=    8448KiB time=00:03:42.56 bitrate= 310.9kbits/s speed=26.9x elapsed=0:00:08.27    frame= 7066 fps=805 q=24.0 size=    8960KiB time=00:03:55.46 bitrate= 311.7kbits/s speed=26.8x elapsed=0:00:08.78    frame= 7421 fps=798 q=24.0 size=    9472KiB time=00:04:07.30 bitrate= 313.8kbits/s speed=26.6x elapsed=0:00:09.29    frame= 7831 fps=798 q=24.0 size=    9984KiB time=00:04:20.96 bitrate= 313.4kbits/s speed=26.6x elapsed=0:00:09.81    frame= 8187 fps=793 q=24.0 size=   10240KiB time=00:04:32.83 bitrate= 307.5kbits/s speed=26.4x elapsed=0:00:10.32    frame= 8567 fps=790 q=24.0 size=   11008KiB time=00:04:45.50 bitrate= 315.9kbits/s speed=26.3x elapsed=0:00:10.84    frame= 8822 fps=777 q=24.0 size=   11264KiB time=00:04:54.00 bitrate= 313.9kbits/s speed=25.9x elapsed=0:00:11.35    frame= 9201 fps=774 q=24.0 size=   11776KiB time=00:05:06.63 bitrate= 314.6kbits/s speed=25.8x elapsed=0:00:11.88    frame= 9593 fps=774 q=24.0 size=   12288KiB time=00:05:19.70 bitrate= 314.9kbits/s speed=25.8x elapsed=0:00:12.39    [out#0/mp4 @ 000001c8e4b71080] video:7911KiB audio:4834KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.741505%
+frame= 9777 fps=771 q=-1.0 Lsize=   13094KiB time=00:05:23.71 bitrate= 331.4kbits/s speed=25.5x elapsed=0:00:12.67    
+[libx264 @ 000001c8e513e000] frame I:40    Avg QP:12.47  size: 60789
+[libx264 @ 000001c8e513e000] frame P:2617  Avg QP:15.03  size:  2054
+[libx264 @ 000001c8e513e000] frame B:7120  Avg QP:18.85  size:    41
+[libx264 @ 000001c8e513e000] consecutive B-frames:  1.8%  2.2%  3.1% 92.8%
+[libx264 @ 000001c8e513e000] mb I  I16..4: 11.9% 32.2% 55.9%
+[libx264 @ 000001c8e513e000] mb P  I16..4:  0.5%  0.8%  0.4%  P16..4:  8.7%  0.9%  1.1%  0.0%  0.0%    skip:87.7%
+[libx264 @ 000001c8e513e000] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.6%  0.1%  0.0%  direct: 0.2%  skip:99.1%  L0:41.7% L1:52.2% BI: 6.1%
+[libx264 @ 000001c8e513e000] 8x8 transform intra:40.0% inter:49.9%
+[libx264 @ 000001c8e513e000] coded y,uvDC,uvAC intra: 77.9% 70.9% 44.5% inter: 1.5% 2.1% 0.9%
+[libx264 @ 000001c8e513e000] i16 v,h,dc,p: 11% 59% 12% 18%
+[libx264 @ 000001c8e513e000] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 22% 29%  5%  7%  4%  6%  4%  9%
+[libx264 @ 000001c8e513e000] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 33% 14%  4%  5%  4%  6%  4%  6%
+[libx264 @ 000001c8e513e000] i8c dc,h,v,p: 32% 46% 18%  3%
+[libx264 @ 000001c8e513e000] Weighted P-Frames: Y:0.5% UV:0.4%
+[libx264 @ 000001c8e513e000] ref P L0: 89.5% 10.5%
+[libx264 @ 000001c8e513e000] ref B L0: 91.1%  8.9%
+[libx264 @ 000001c8e513e000] ref B L1: 93.5%  6.5%
+[libx264 @ 000001c8e513e000] kb/s:198.85
+<<< [burn] exit 0
+finals <- PhotosynthesisInputsOutputsVisualFlowStory_captioned.mp4 + PhotosynthesisInputsOutputsVisualFlowStory_captioned.srt
+
+RESULT Photosynthesis-Inputs-Outputs-Visual-Flow: verify_sync=0 verify_captions=0 captioned=PhotosynthesisInputsOutputsVisualFlowStory_captioned.mp4
