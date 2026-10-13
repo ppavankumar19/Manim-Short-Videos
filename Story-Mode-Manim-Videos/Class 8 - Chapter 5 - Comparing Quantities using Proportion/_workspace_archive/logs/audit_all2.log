@@ -1,0 +1,10 @@
+== Discounts-Marked-Price-and-Rebate
+== Percentage-Increases-Decreases-and-Estimation
+AUDIT s5/end] BOX-GAP (-1.57,-1.72,2.67,-0.58) vs (-2.97,-2.48,4.07,-1.72)
+== Profit-Loss-Overhead-Expenses-and-Transactions
+AUDIT s2/end] BOX-OUT [1.26,4.84]x[-2.71,-1.53]
+== Sales-Tax-VAT-and-GST-Calculations
+== Simple-vs-Compound-Interest
+AUDIT s7/end] BOX-GAP (-2.88,-1.68,3.98,-0.92) vs (1.78,-2.61,4.52,-1.55)
+== Compound-Ratio-and-Business-Profit-Sharing
+ALLDONE

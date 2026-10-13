@@ -1,0 +1,1683 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 discounts_marked_price_and_rebate.py DiscountsMarkedPriceAndRebateStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:14:45] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+[10/12/26 11:14:46] INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 132.70it/s]                                                                                              [10/12/26 11:14:49] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1583504468_1148                         
+                             612400_3040361846.mp4'                            
+[10/12/26 11:14:50] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1122                         
+                             217167_515450283.mp4'                             
+Animation 2: FadeIn(VGroup of 7 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:14:51] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2160                         
+                             97463_3866408185.mp4'                             
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1873                         
+                             516914_2898151339.mp4'                            
+Animation 4: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1964                         
+                             62775_4271513964.mp4'                             
+[10/12/26 11:14:52] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2639                         
+                             059381_1732222326.mp4'                            
+Animation 6: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:14:53] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2914                         
+                             120845_4038843092.mp4'                            
+[10/12/26 11:14:54] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3878                         
+                             01418_1191248771.mp4'                             
+Animation 8: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3378                         
+                             753843_2434331967.mp4'                            
+[10/12/26 11:14:55] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2152                         
+                             858469_3539400113.mp4'                            
+Animation 10: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4673                         
+                             33802_3665664979.mp4'                             
+[10/12/26 11:14:56] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4030                         
+                             969979_4274985617.mp4'                            
+Animation 12: FadeIn(MathTex('\\text{MP}-\\text{Discount}=\\text{SP}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                   INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1001                         
+                             490787_3820883047.mp4'                            
+[10/12/26 11:14:57] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3928                         
+                             507070_1110442273.mp4'                            
+Animation 14: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:14:58] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1292                         
+                             384520_3257478074.mp4'                            
+                    INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3501                         
+                             84139_281788828.mp4'                              
+[10/12/26 11:14:59] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_4158409758.mp4'                            
+Animation 17: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 138.50it/s]                                                                                               [10/12/26 11:15:01] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2468                         
+                             341523_3040361846.mp4'                            
+[10/12/26 11:15:02] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1255                         
+                             432935_1498069360.mp4'                            
+Animation 19: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:03] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2329                         
+                             987481_4159444274.mp4'                            
+[10/12/26 11:15:04] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_8277                         
+                             7172_1436493856.mp4'                              
+Animation 21: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3545                         
+                             040104_2066177972.mp4'                            
+[10/12/26 11:15:05] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1127                         
+                             779850_987449824.mp4'                             
+Animation 23: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 23: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 125.05it/s]                                                                                                                   INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2717                         
+                             868314_1182742708.mp4'                            
+[10/12/26 11:15:06] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4150                         
+                             558897_3296552099.mp4'                            
+Animation 25: FadeIn(MathTex('\\text{MP}-\\text{Discount}=\\text{SP}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                   INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1333                         
+                             782167_1387979968.mp4'                            
+[10/12/26 11:15:07] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4114                         
+                             15482_2053632023.mp4'                             
+Animation 27: Indicate(RoundedRectangle):   0%|          | 0/15 [00:00<?, ?it/s]Animation 27: Indicate(RoundedRectangle):  47%|####6     | 7/15 [00:00<00:00, 63.41it/s]Animation 27: Indicate(RoundedRectangle):  93%|#########3| 14/15 [00:00<00:00, 61.46it/s]                                                                                         [10/12/26 11:15:08] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3286                         
+                             074804_3639532047.mp4'                            
+[10/12/26 11:15:09] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1827                         
+                             2935_2899176725.mp4'                              
+Animation 29: FadeIn(Text('The discount is always taken on the MP.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                 INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4273                         
+                             8180_210072342.mp4'                               
+[10/12/26 11:15:10] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1686                         
+                             391045_4264191151.mp4'                            
+                    INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_4152867989.mp4'                            
+Animation 32: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:12] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2555                         
+                             232397_3040361846.mp4'                            
+[10/12/26 11:15:13] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1402                         
+                             162621_2864948640.mp4'                            
+Animation 34: FadeIn(VGroup of 8 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1285                         
+                             305299_180674098.mp4'                             
+[10/12/26 11:15:14] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2433                         
+                             262544_1153747997.mp4'                            
+Animation 36: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1133                         
+                             023791_3611421970.mp4'                            
+[10/12/26 11:15:15] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_8140                         
+                             72691_2207447355.mp4'                             
+Animation 38: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_8690                         
+                             69108_980917096.mp4'                              
+[10/12/26 11:15:16] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1693                         
+                             339626_1751594074.mp4'                            
+Animation 40: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3824                         
+                             377821_2509893757.mp4'                            
+[10/12/26 11:15:17] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2254                         
+                             521612_1330740318.mp4'                            
+Animation 42: _MethodAnimation(VGroup of 2 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 42: _MethodAnimation(VGroup of 2 submobjects), etc.:  62%|######2   | 15/24 [00:00<00:00, 140.82it/s]                                                                                                                                   INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1414                         
+                             477485_2170979629.mp4'                            
+[10/12/26 11:15:18] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_7633                         
+                             98566_2616422732.mp4'                             
+Animation 44: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4068                         
+                             750186_2428998619.mp4'                            
+[10/12/26 11:15:19] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4224                         
+                             412066_790980918.mp4'                             
+Animation 46: FadeIn(Text('Discount is on the MP, never on the SP.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                 INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2026                         
+                             561935_3563407322.mp4'                            
+[10/12/26 11:15:20] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3238                         
+                             830598_3603323303.mp4'                            
+[10/12/26 11:15:21] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_1438403893.mp4'                            
+Animation 49: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 49: FadeIn(VGroup of 1 submobjects): 100%|##########| 15/15 [00:00<00:00, 142.32it/s]                                                                                               [10/12/26 11:15:23] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2923                         
+                             610405_3040361846.mp4'                            
+[10/12/26 11:15:24] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3699                         
+                             441580_2646128461.mp4'                            
+Animation 51: FadeIn(VGroup of 7 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 51: FadeIn(VGroup of 7 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 114.83it/s]                                                                                                     [10/12/26 11:15:25] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3115                         
+                             96690_2877535531.mp4'                             
+                    INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4198                         
+                             541149_3973329148.mp4'                            
+Animation 53: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:15:26] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4134                         
+                             832891_271995371.mp4'                             
+                    INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1081                         
+                             925054_3751412630.mp4'                            
+Animation 55: FadeIn(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                             [10/12/26 11:15:27] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1278                         
+                             015163_2378915528.mp4'                            
+[10/12/26 11:15:28] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3196                         
+                             740634_227131218.mp4'                             
+Animation 57: TransformFromCopy(Rectangle), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 57: TransformFromCopy(Rectangle), etc.:  92%|#########1| 22/24 [00:00<00:00, 217.10it/s]                                                                                                                      INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1006                         
+                             350502_4016934037.mp4'                            
+[10/12/26 11:15:29] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2465                         
+                             123319_1938215177.mp4'                            
+Animation 59: FadeOut(Text('DISCOUNT = 3600 - 3312 = Rs 288')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 59: FadeOut(Text('DISCOUNT = 3600 - 3312 = Rs 288')), etc.:  93%|#########3| 14/15 [00:00<00:00, 132.72it/s]                                                                                                                      [10/12/26 11:15:30] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2405                         
+                             831416_1146203428.mp4'                            
+                    INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1480                         
+                             825142_2912396986.mp4'                            
+Animation 61: FadeIn(Text('Always divide by the MARKED price.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                            INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3706                         
+                             968222_1941353732.mp4'                            
+[10/12/26 11:15:31] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3112                         
+                             915764_3533759817.mp4'                            
+                    INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_2524954350.mp4'                            
+Animation 64: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:33] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3297                         
+                             140636_3040361846.mp4'                            
+[10/12/26 11:15:34] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1851                         
+                             919488_1304670638.mp4'                            
+Animation 66: FadeIn(VGroup of 7 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 66: FadeIn(VGroup of 7 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 95.41it/s]                                                                                                    [10/12/26 11:15:35] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3675                         
+                             16013_9199510.mp4'                                
+[10/12/26 11:15:36] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3008                         
+                             746174_3509862727.mp4'                            
+Animation 68: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3600                         
+                             040593_2154406830.mp4'                            
+[10/12/26 11:15:37] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1339                         
+                             318982_2429519757.mp4'                            
+Animation 70: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2139                         
+                             292518_27930192.mp4'                              
+[10/12/26 11:15:38] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_8568                         
+                             23044_4093751928.mp4'                             
+Animation 72: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3855                         
+                             303813_3839721143.mp4'                            
+[10/12/26 11:15:39] INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3730                         
+                             835643_145612494.mp4'                             
+Animation 74: FadeIn(Text('Keep Rs and % apart: never mix them up.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                 INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4294                         
+                             012993_128123877.mp4'                             
+[10/12/26 11:15:40] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1402                         
+                             212910_1234437963.mp4'                            
+                    INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_3798433857.mp4'                            
+Animation 77: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:42] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1031                         
+                             305814_3040361846.mp4'                            
+[10/12/26 11:15:43] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2161                         
+                             052391_2428257874.mp4'                            
+Animation 79: FadeIn(VGroup of 100 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 79: FadeIn(VGroup of 100 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 96.76it/s]                                                                                                                          INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_9946                         
+                             12597_860371473.mp4'                              
+[10/12/26 11:15:44] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3932                         
+                             579567_3145389459.mp4'                            
+Animation 81: _MethodAnimation(Square), etc.:   0%|          | 0/21 [00:00<?, ?it/s]Animation 81: _MethodAnimation(Square), etc.:  76%|#######6  | 16/21 [00:00<00:00, 151.91it/s]                                                                                                                  INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4252                         
+                             280606_3881074593.mp4'                            
+[10/12/26 11:15:45] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1468                         
+                             036339_2494119525.mp4'                            
+Animation 83: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:46] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3638                         
+                             980047_3232479390.mp4'                            
+                    INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3230                         
+                             646401_1336501821.mp4'                            
+Animation 85: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:47] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1908                         
+                             308665_331867304.mp4'                             
+                    INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2353                         
+                             105217_455110449.mp4'                             
+Animation 87: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:15:48] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1909                         
+                             533674_2827563434.mp4'                            
+                    INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1454                         
+                             177023_1452681984.mp4'                            
+Animation 89: FadeIn(MathTex('\\text{SP}=\\frac{100-d}{100}\\times\\text{MP}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                       [10/12/26 11:15:49] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2607                         
+                             220657_1712249977.mp4'                            
+                    INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2156                         
+                             100632_1430404779.mp4'                            
+Animation 91: FadeIn(Text('Two routes are a free check.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                  [10/12/26 11:15:50] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_7880                         
+                             808_2477703686.mp4'                               
+                    INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3155                         
+                             931050_2587577851.mp4'                            
+[10/12/26 11:15:51] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_4219794344.mp4'                            
+Animation 94: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:15:53] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4117                         
+                             124924_3040361846.mp4'                            
+[10/12/26 11:15:54] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3107                         
+                             395737_103362321.mp4'                             
+Animation 96: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2840                         
+                             375183_2240549302.mp4'                            
+[10/12/26 11:15:55] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3820                         
+                             77694_1608744395.mp4'                             
+Animation 98: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4569                         
+                             84971_144553721.mp4'                              
+[10/12/26 11:15:56] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2127                         
+                             07548_2720572114.mp4'                             
+Animation 100: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3064                         
+                             700129_2354514128.mp4'                            
+[10/12/26 11:15:57] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3246                         
+                             165852_730621221.mp4'                             
+Animation 102: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_6850                         
+                             85336_1040149659.mp4'                             
+[10/12/26 11:15:58] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3555                         
+                             697272_1609104265.mp4'                            
+Animation 104: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2166                         
+                             469014_3423179419.mp4'                            
+[10/12/26 11:15:59] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1694                         
+                             626492_369240143.mp4'                             
+Animation 106: FadeIn(Text('Read twice, then pick the route.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                           INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1449                         
+                             166936_2574502506.mp4'                            
+[10/12/26 11:16:00] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2818                         
+                             336485_1431294226.mp4'                            
+[10/12/26 11:16:01] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_2293648471.mp4'                            
+Animation 109: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 109: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 149.63it/s]                                                                                                [10/12/26 11:16:02] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3333                         
+                             990885_3040361846.mp4'                            
+[10/12/26 11:16:03] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_9539                         
+                             43660_3495784445.mp4'                             
+Animation 111: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:04] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_7466                         
+                             21255_2335793103.mp4'                             
+                    INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1149                         
+                             378087_1350238173.mp4'                            
+Animation 113: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4101                         
+                             820570_1091163515.mp4'                            
+[10/12/26 11:16:05] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_6084                         
+                             52171_719705429.mp4'                              
+Animation 115: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3958                         
+                             443077_3512606920.mp4'                            
+[10/12/26 11:16:06] INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1423                         
+                             073396_2745936209.mp4'                            
+Animation 117: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:07] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2027                         
+                             046973_829388047.mp4'                             
+                    INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2653                         
+                             580426_2588035349.mp4'                            
+Animation 119: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:08] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4126                         
+                             968338_2857190457.mp4'                            
+[10/12/26 11:16:09] INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1136                         
+                             977898_3284455897.mp4'                            
+Animation 121: FadeIn(Text('Fix these four habits, keep the marks.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                             [10/12/26 11:16:10] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1570                         
+                             758782_2969288090.mp4'                            
+                    INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2632                         
+                             746331_3331325370.mp4'                            
+[10/12/26 11:16:11] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_3772150402.mp4'                            
+Animation 124: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 124: FadeIn(VGroup of 2 submobjects):  67%|######6   | 10/15 [00:00<00:00, 92.89it/s]                                                                                               [10/12/26 11:16:13] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1344                         
+                             305462_3040361846.mp4'                            
+[10/12/26 11:16:15] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1905                         
+                             194910_3463790619.mp4'                            
+Animation 126: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2877                         
+                             749884_684948205.mp4'                             
+[10/12/26 11:16:16] INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1774                         
+                             629177_2988768902.mp4'                            
+Animation 128: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4905                         
+                             69683_2792787834.mp4'                             
+[10/12/26 11:16:17] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3136                         
+                             19440_240876469.mp4'                              
+Animation 130: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_5461                         
+                             52369_1489447505.mp4'                             
+[10/12/26 11:16:18] INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2967                         
+                             305422_392865631.mp4'                             
+Animation 132: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                            [10/12/26 11:16:19] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3400                         
+                             760758_265610924.mp4'                             
+                    INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4213                         
+                             465388_1756528576.mp4'                            
+Animation 134: FadeIn(Text('Check SP < MP, and d + (100 - d) = 100.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                              [10/12/26 11:16:20] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2302                         
+                             644661_969179446.mp4'                             
+[10/12/26 11:16:21] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3321                         
+                             332976_4293272011.mp4'                            
+                    INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_2952548911.mp4'                            
+Animation 137: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:23] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2853                         
+                             638574_3040361846.mp4'                            
+[10/12/26 11:16:24] INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2474                         
+                             512461_540413941.mp4'                             
+Animation 139: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:25] INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3480                         
+                             99868_2901884595.mp4'                             
+                    INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3437                         
+                             842542_1936273383.mp4'                            
+Animation 141: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:26] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1550                         
+                             961599_1317352448.mp4'                            
+                    INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3945                         
+                             661242_3799496425.mp4'                            
+Animation 143: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:27] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3841                         
+                             370321_977964238.mp4'                             
+                    INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2763                         
+                             321831_2246271835.mp4'                            
+Animation 145: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 145: FadeIn(VGroup of 3 submobjects):  60%|######    | 9/15 [00:00<00:00, 84.15it/s]                                                                                              [10/12/26 11:16:28] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3728                         
+                             358387_3988319107.mp4'                            
+[10/12/26 11:16:29] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3708                         
+                             371364_1625647285.mp4'                            
+                    INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_1900973217.mp4'                            
+Animation 148: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                              [10/12/26 11:16:30] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3886                         
+                             701318_3929089783.mp4'                            
+Animation 149: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                            INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_9003                         
+                             76641_2904614590.mp4'                             
+Animation 150: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:16:31] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1291                         
+                             494693_2904614590.mp4'                            
+Animation 151: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1778                         
+                             214446_2904614590.mp4'                            
+Animation 152: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:16:32] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4294                         
+                             498726_2904614590.mp4'                            
+Animation 153: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3545                         
+                             35490_2904614590.mp4'                             
+Animation 154: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:16:33] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2675                         
+                             960599_2904614590.mp4'                            
+Animation 155: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1233                         
+                             433216_2904614590.mp4'                            
+Animation 156: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:16:34] INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2877                         
+                             805945_2904614590.mp4'                            
+Animation 157: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_9076                         
+                             01918_2904614590.mp4'                             
+Animation 158: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:16:35] INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1390                         
+                             479260_2904614590.mp4'                            
+Animation 159: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                   INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1043                         
+                             310549_2266850903.mp4'                            
+[10/12/26 11:16:38] INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2123                         
+                             389037_3952040218.mp4'                            
+Animation 161: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 161: FadeOut(VGroup of 3 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:00, 36.16it/s]Animation 161: FadeOut(VGroup of 3 submobjects), etc.:  50%|#####     | 9/18 [00:00<00:00, 38.15it/s]Animation 161: FadeOut(VGroup of 3 submobjects), etc.:  72%|#######2  | 13/18 [00:00<00:00, 38.38it/s]Animation 161: FadeOut(VGroup of 3 submobjects), etc.:  94%|#########4| 17/18 [00:00<00:00, 38.67it/s]                                                                                                      [10/12/26 11:16:39] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2019                         
+                             83271_4193668934.mp4'                             
+[10/12/26 11:16:40] INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3187                         
+                             465224_3243049386.mp4'                            
+Animation 163: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2551                         
+                             848132_1022143765.mp4'                            
+[10/12/26 11:16:41] INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4208                         
+                             379877_808132706.mp4'                             
+Animation 165: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2408                         
+                             845013_3235218185.mp4'                            
+[10/12/26 11:16:42] INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3256                         
+                             720471_3302512324.mp4'                            
+Animation 167: FadeIn(Text('SP is smaller than MP, and the base was the MP.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                      [10/12/26 11:16:43] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3063                         
+                             117978_510724063.mp4'                             
+                    INFO     Animation 168 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2941                         
+                             72773_206791215.mp4'                              
+[10/12/26 11:16:44] INFO     Animation 169 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_3236782759.mp4'                            
+Animation 170: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:45] INFO     Animation 170 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2593                         
+                             304162_3040361846.mp4'                            
+[10/12/26 11:16:47] INFO     Animation 171 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_5846                         
+                             9153_3800113042.mp4'                              
+Animation 172: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 172 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2013                         
+                             401208_1171023445.mp4'                            
+[10/12/26 11:16:48] INFO     Animation 173 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1715                         
+                             140756_1820030531.mp4'                            
+Animation 174: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 174 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_1286                         
+                             128236_572853738.mp4'                             
+                    INFO     Animation 175 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2374                         
+                             401047_388751122.mp4'                             
+Animation 176: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:16:49] INFO     Animation 176 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_9720                         
+                             3259_497744292.mp4'                               
+[10/12/26 11:16:50] INFO     Animation 177 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_9309                         
+                             04664_3369994586.mp4'                             
+Animation 178: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 178 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3998                         
+                             801334_3335380587.mp4'                            
+[10/12/26 11:16:51] INFO     Animation 179 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4797                         
+                             59411_3221022428.mp4'                             
+Animation 180: FadeIn(Text('Keep MP visible, subtract D, check the answer.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                         INFO     Animation 180 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3036                         
+                             081284_3615443504.mp4'                            
+[10/12/26 11:16:52] INFO     Animation 181 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4044                         
+                             432130_3843227046.mp4'                            
+Animation 182: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/17 [00:00<?, ?it/s]Animation 182: FadeOut(VGroup of 1 submobjects), etc.:  35%|###5      | 6/17 [00:00<00:00, 49.22it/s]Animation 182: FadeOut(VGroup of 1 submobjects), etc.:  65%|######4   | 11/17 [00:00<00:00, 49.22it/s]Animation 182: FadeOut(VGroup of 1 submobjects), etc.:  94%|#########4| 16/17 [00:00<00:00, 49.20it/s]                                                                                                      [10/12/26 11:16:53] INFO     Animation 182 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2391                         
+                             512230_2156096426.mp4'                            
+Animation 183: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 183 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3929                         
+                             565830_1482164634.mp4'                            
+[10/12/26 11:16:54] INFO     Animation 184 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_2822                         
+                             964003_4195029737.mp4'                            
+Animation 185: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 185 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3565                         
+                             173296_1091156259.mp4'                            
+                    INFO     Animation 186 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4015                         
+                             433314_1893385987.mp4'                            
+                    INFO     Animation 187 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_3197                         
+                             081273_2991749695.mp4'                            
+[10/12/26 11:16:55] INFO     Animation 188 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\discounts_m                         
+                             arked_price_and_rebate\36                         
+                             0p30\partial_movie_files\                         
+                             DiscountsMarkedPriceAndRe                         
+                             bateStory\1490007039_4993                         
+                             28632_1082944778.mp4'                             
+[SYNC] 70 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\discounts_marked_price_and_rebate\360p30\DiscountsMarkedPriceAndRebateStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 11:17:15] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\discounts_                          
+                             marked_price_and_rebate\                          
+                             360p30\DiscountsMarkedPr                          
+                             iceAndRebateStory.mp4'                            
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 190                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             DiscountsMarkedPriceAndRebateStory                
+                             Played 189 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Discounts-Marked-Price-and-Rebate\media\videos\discounts_marked_price_and_rebate\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Discounts-Marked-Price-and-Rebate\media\videos\discounts_marked_price_and_rebate\360p30\DiscountsMarkedPriceAndRebateStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Discounts-Marked-Price-and-Rebate\media\videos\discounts_marked_price_and_rebate\360p30\DiscountsMarkedPriceAndRebateStory.real.srt
+
+=== DiscountsMarkedPriceAndRebateStory.mp4
+    640x360 @ 30/1  frames=13676
+    video  455.866s (start +0.000)   audio  453.589s (start +0.000)   silent tail +2.277s  [ok]
+    captions: 156  first 0.30s  last 453.56s  (video 455.87s)
+    speech blocks: 134  speech time 375.5s (82.8% of audio)
+    caption time 435.4s   caption-inside-speech 86.1%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Discounts-Marked-Price-and-Rebate\discounts_marked_price_and_rebate.py discounts_marked_price_and_rebate NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Discounts-Marked-Price-and-Rebate\media\videos\discounts_marked_price_and_rebate\360p30\DiscountsMarkedPriceAndRebateStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:17:19] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== discounts_marked_price_and_rebate :: DiscountsMarkedPriceAndRebateStory.real.srt
+    narration words 1387   srt words 1387
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i DiscountsMarkedPriceAndRebateStory.mp4 -vf subtitles=DiscountsMarkedPriceAndRebateStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=10,MarginL=43,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy DiscountsMarkedPriceAndRebateStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'DiscountsMarkedPriceAndRebateStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:07:35.87, start: 0.000000, bitrate: 296 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 168 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001af164d2c80] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001af164d2c80] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001af164d2c80] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001af164d2c80] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000001af16937d40] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001af16937d40] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001af16937d40] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001af16937d40] Using font provider directwrite (with GDI)
+[libx264 @ 000001af164d1a80] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 000001af164d1a80] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 000001af164d1a80] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'DiscountsMarkedPriceAndRebateStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001af16937d40] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  469 fps=0.0 q=24.0 size=     512KiB time=00:00:15.56 bitrate= 269.5kbits/s speed=29.9x elapsed=0:00:00.52    frame= 1000 fps=966 q=24.0 size=    1024KiB time=00:00:33.26 bitrate= 252.2kbits/s speed=32.1x elapsed=0:00:01.03    frame= 1469 fps=952 q=24.0 size=    1792KiB time=00:00:48.90 bitrate= 300.2kbits/s speed=31.7x elapsed=0:00:01.54    frame= 2000 fps=968 q=24.0 size=    2304KiB time=00:01:06.60 bitrate= 283.4kbits/s speed=32.2x elapsed=0:00:02.06    frame= 2509 fps=971 q=24.0 size=    3072KiB time=00:01:23.56 bitrate= 301.2kbits/s speed=32.4x elapsed=0:00:02.58    frame= 3057 fps=989 q=24.0 size=    3584KiB time=00:01:41.83 bitrate= 288.3kbits/s speed=  33x elapsed=0:00:03.08    frame= 3577 fps=990 q=24.0 size=    4352KiB time=00:01:59.16 bitrate= 299.2kbits/s speed=  33x elapsed=0:00:03.61    frame= 4102 fps=993 q=24.0 size=    4864KiB time=00:02:16.66 bitrate= 291.6kbits/s speed=33.1x elapsed=0:00:04.12    frame= 4638 fps=1000 q=24.0 size=    5376KiB time=00:02:34.53 bitrate= 285.0kbits/s speed=33.3x elapsed=0:00:04.63    frame= 5190 fps=1006 q=24.0 size=    6144KiB time=00:02:52.93 bitrate= 291.0kbits/s speed=33.5x elapsed=0:00:05.15    frame= 5671 fps=999 q=24.0 size=    6656KiB time=00:03:08.96 bitrate= 288.6kbits/s speed=33.3x elapsed=0:00:05.67    frame= 6160 fps=995 q=24.0 size=    7424KiB time=00:03:25.26 bitrate= 296.3kbits/s speed=33.2x elapsed=0:00:06.19    frame= 6706 fps=1001 q=24.0 size=    7936KiB time=00:03:43.46 bitrate= 290.9kbits/s speed=33.4x elapsed=0:00:06.69    frame= 7229 fps=1001 q=24.0 size=    8704KiB time=00:04:00.86 bitrate= 296.0kbits/s speed=33.3x elapsed=0:00:07.22    frame= 7761 fps=1004 q=24.0 size=    9216KiB time=00:04:18.63 bitrate= 291.9kbits/s speed=33.5x elapsed=0:00:07.72    frame= 8301 fps=1007 q=24.0 size=    9984KiB time=00:04:36.63 bitrate= 295.7kbits/s speed=33.5x elapsed=0:00:08.24    frame= 8764 fps=1000 q=24.0 size=   10752KiB time=00:04:52.06 bitrate= 301.6kbits/s speed=33.3x elapsed=0:00:08.76    frame= 9273 fps=998 q=24.0 size=   11264KiB time=00:05:09.03 bitrate= 298.6kbits/s speed=33.3x elapsed=0:00:09.28    frame= 9869 fps=1007 q=24.0 size=   12032KiB time=00:05:28.90 bitrate= 299.7kbits/s speed=33.6x elapsed=0:00:09.80    frame=10313 fps=999 q=24.0 size=   12544KiB time=00:05:43.70 bitrate= 299.0kbits/s speed=33.3x elapsed=0:00:10.32    frame=10900 fps=1006 q=24.0 size=   13056KiB time=00:06:03.26 bitrate= 294.4kbits/s speed=33.5x elapsed=0:00:10.83    frame=11361 fps=1002 q=24.0 size=   13568KiB time=00:06:18.63 bitrate= 293.6kbits/s speed=33.4x elapsed=0:00:11.34    frame=11961 fps=1009 q=24.0 size=   14080KiB time=00:06:38.63 bitrate= 289.3kbits/s speed=33.6x elapsed=0:00:11.85    frame=12523 fps=1012 q=24.0 size=   14848KiB time=00:06:57.36 bitrate= 291.4kbits/s speed=33.7x elapsed=0:00:12.37    frame=13042 fps=1011 q=24.0 size=   15616KiB time=00:07:14.66 bitrate= 294.3kbits/s speed=33.7x elapsed=0:00:12.89    frame=13564 fps=1012 q=24.0 size=   16128KiB time=00:07:32.03 bitrate= 292.3kbits/s speed=33.7x elapsed=0:00:13.40    [out#0/mp4 @ 000001af164cad40] video:9582KiB audio:6852KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.974661%
+frame=13676 fps=1013 q=-1.0 Lsize=   16923KiB time=00:07:33.58 bitrate= 305.6kbits/s speed=33.6x elapsed=0:00:13.50    
+[libx264 @ 000001af164d1a80] frame I:55    Avg QP:12.78  size: 60495
+[libx264 @ 000001af164d1a80] frame P:3658  Avg QP:14.86  size:  1681
+[libx264 @ 000001af164d1a80] frame B:9963  Avg QP:18.72  size:    34
+[libx264 @ 000001af164d1a80] consecutive B-frames:  1.8%  2.3%  2.8% 93.1%
+[libx264 @ 000001af164d1a80] mb I  I16..4: 13.3% 28.9% 57.8%
+[libx264 @ 000001af164d1a80] mb P  I16..4:  0.5%  0.6%  0.3%  P16..4:  7.1%  0.7%  0.8%  0.0%  0.0%    skip:89.9%
+[libx264 @ 000001af164d1a80] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.4%  0.0%  0.0%  direct: 0.2%  skip:99.3%  L0:39.9% L1:53.5% BI: 6.7%
+[libx264 @ 000001af164d1a80] 8x8 transform intra:35.1% inter:49.5%
+[libx264 @ 000001af164d1a80] coded y,uvDC,uvAC intra: 75.8% 70.1% 43.8% inter: 1.2% 1.7% 0.7%
+[libx264 @ 000001af164d1a80] i16 v,h,dc,p:  9% 69%  9% 13%
+[libx264 @ 000001af164d1a80] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 23% 28%  5%  6%  4%  6%  3%  9%
+[libx264 @ 000001af164d1a80] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 34% 13%  4%  5%  4%  5%  4%  5%
+[libx264 @ 000001af164d1a80] i8c dc,h,v,p: 29% 50% 18%  3%
+[libx264 @ 000001af164d1a80] Weighted P-Frames: Y:0.3% UV:0.3%
+[libx264 @ 000001af164d1a80] ref P L0: 89.8% 10.2%
+[libx264 @ 000001af164d1a80] ref B L0: 92.0%  8.0%
+[libx264 @ 000001af164d1a80] ref B L1: 95.3%  4.7%
+[libx264 @ 000001af164d1a80] kb/s:172.18
+<<< [burn] exit 0
+finals <- DiscountsMarkedPriceAndRebateStory_captioned.mp4 + DiscountsMarkedPriceAndRebateStory_captioned.srt
+
+RESULT Discounts-Marked-Price-and-Rebate: verify_sync=0 verify_captions=0 captioned=DiscountsMarkedPriceAndRebateStory_captioned.mp4

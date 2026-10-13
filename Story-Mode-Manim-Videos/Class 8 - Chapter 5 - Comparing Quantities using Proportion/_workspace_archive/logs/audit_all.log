@@ -1,0 +1,17 @@
+== Discounts-Marked-Price-and-Rebate
+== Percentage-Increases-Decreases-and-Estimation
+AUDIT s3/end] BOX-GAP (1.08,0.76,5.12,2.14) vs (-3.45,-0.26,4.55,0.66)
+AUDIT s5/end] BOX-OUT [-2.97,4.07]x[-2.66,-1.90]
+AUDIT s9a/end] BOX-GAP (-2.31,-0.26,3.41,0.50) vs (-2.31,-1.10,3.41,-0.34) | BOX-GAP (-2.31,-1.10,3.41,-0.34) vs (-2.31,-1.94,3.41,-1.18)
+== Profit-Loss-Overhead-Expenses-and-Transactions
+AUDIT s2/end] OUT  'dividebytheCP' [1.85,4.25]x[-2.66,-2.34] | BOX-OUT [1.26,4.84]x[-2.76,-1.58]
+AUDIT s7/end] BOX-GAP (-2.44,0.47,3.54,1.17) vs (-2.44,-0.33,3.54,0.37)
+== Sales-Tax-VAT-and-GST-Calculations
+AUDIT s9a/end] BOX-GAP (-2.18,-0.38,3.28,0.48) vs (-2.18,-1.23,3.28,-0.47) | BOX-GAP (-2.18,-1.23,3.28,-0.47) vs (-2.18,-2.08,3.28,-1.32)
+== Simple-vs-Compound-Interest
+AUDIT s1/end] BOX-OUT [-3.29,0.29]x[-2.66,-1.84]
+AUDIT s2/end] BOX-OUT [1.95,5.55]x[0.96,1.74] | BOX-OUT [1.95,5.55]x[-0.19,0.59] | BOX-OUT [1.95,5.55]x[-1.34,-0.56]
+AUDIT s7/end] BOX-OUT [1.75,4.55]x[-2.74,-1.66] | BOX-GAP (-2.88,-1.73,3.98,-0.97) vs (1.75,-2.74,4.55,-1.66)
+== Compound-Ratio-and-Business-Profit-Sharing
+AUDIT title/end] BOX-GAP (-4.20,-0.26,0.20,2.06) vs (-2.50,-1.34,3.60,-0.36) | BOX-GAP (0.90,-0.27,5.30,2.07) vs (-2.50,-1.34,3.60,-0.36)
+ALLDONE

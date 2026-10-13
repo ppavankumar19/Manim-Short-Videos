@@ -1,0 +1,1685 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 percentage_applications_and_estimation.py PercentageApplicationsAndEstimationStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:17:34] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 0: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 145.33it/s]                                                                                              [10/12/26 11:17:38] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1583                         
+                             504468_820144892_30403618                         
+                             46.mp4'                                           
+[10/12/26 11:17:39] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1400064176_3442233                         
+                             674.mp4'                                          
+Animation 2: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2924461071_5081104                         
+                             05.mp4'                                           
+[10/12/26 11:17:40] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3665487757_2024323                         
+                             788.mp4'                                          
+Animation 4: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4281070612_6939938                         
+                             16.mp4'                                           
+[10/12/26 11:17:41] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3539560370_4630911                         
+                             82.mp4'                                           
+Animation 6: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_571940645_18438886                         
+                             46.mp4'                                           
+[10/12/26 11:17:42] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_452324095_37416621                         
+                             0.mp4'                                            
+Animation 8: FadeIn(Text('WHO DID BETTER?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1021297453_3434124                         
+                             629.mp4'                                          
+[10/12/26 11:17:43] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3101821856_8547905                         
+                             00.mp4'                                           
+Animation 10: FadeIn(Text('A percentage is a scale out of 100.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         [10/12/26 11:17:44] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3903494346_2903235                         
+                             028.mp4'                                          
+                    INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3333969215_3746537                         
+                             786.mp4'                                          
+[10/12/26 11:17:45] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_3532944                         
+                             688.mp4'                                          
+Animation 13: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:17:46] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1444469600_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:17:47] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2732149604_3629651                         
+                             196.mp4'                                          
+Animation 15: FadeIn(VGroup of 100 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 15: FadeIn(VGroup of 100 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 88.67it/s]                                                                                                      [10/12/26 11:17:48] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3822486646_1249308                         
+                             551.mp4'                                          
+[10/12/26 11:17:49] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2144104182_3107012                         
+                             087.mp4'                                          
+Animation 17: FadeIn(VGroup of 100 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 17: FadeIn(VGroup of 100 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 84.64it/s]                                                                                                                         INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2055651101_2465334                         
+                             343.mp4'                                          
+[10/12/26 11:17:50] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_316296630_21537595                         
+                             45.mp4'                                           
+Animation 19: FadeOut(Text('GROUP B: 80 of 100')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                   INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3178284791_7192483                         
+                             16.mp4'                                           
+[10/12/26 11:17:51] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3368067379_4089182                         
+                             143.mp4'                                          
+Animation 21: FadeIn(MathTex('\\%=\\frac{\\text{part}}{\\text{whole}}\\times 100')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                               INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_700124697_38251115                         
+                             52.mp4'                                           
+[10/12/26 11:17:52] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_601933997_55290850                         
+                             2.mp4'                                            
+Animation 23: FadeIn(Text('name the WHOLE')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                              INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2215990340_2046269                         
+                             150.mp4'                                          
+[10/12/26 11:17:53] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3106800004_2515698                         
+                             438.mp4'                                          
+                    INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_3708790                         
+                             115.mp4'                                          
+Animation 26: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:17:55] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2506341983_3040361                         
+                             846.mp4'                                          
+                    INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1074120267_2098722                         
+                             4.mp4'                                            
+Animation 28: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:17:56] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1058030540_3498802                         
+                             399.mp4'                                          
+                    INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_545429183_16783767                         
+                             54.mp4'                                           
+Animation 30: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]                                                                                           [10/12/26 11:17:57] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3962213950_1487339                         
+                             493.mp4'                                          
+                    INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2894302379_4115438                         
+                             854.mp4'                                          
+Animation 32: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_454820416_17512742                         
+                             09.mp4'                                           
+[10/12/26 11:17:58] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3994876869_1926694                         
+                             797.mp4'                                          
+Animation 34: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1437883897_4794087                         
+                             57.mp4'                                           
+[10/12/26 11:17:59] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_598649116_51107735                         
+                             7.mp4'                                            
+Animation 36: FadeIn(Text('Measured from the original, never the new value.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                          INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2776594960_3467205                         
+                             863.mp4'                                          
+[10/12/26 11:18:00] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1976501032_6427487                         
+                             .mp4'                                             
+                    INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_1034210                         
+                             958.mp4'                                          
+Animation 39: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:02] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3444220367_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:18:03] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1670203699_7875349                         
+                             97.mp4'                                           
+Animation 41: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 41: FadeIn(VGroup of 3 submobjects):  93%|#########3| 14/15 [00:00<00:00, 139.43it/s]                                                                                                                   INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3703742726_2555738                         
+                             647.mp4'                                          
+[10/12/26 11:18:04] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_465732085_31742898                         
+                             92.mp4'                                           
+Animation 43: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_233192935_26808863                         
+                             41.mp4'                                           
+[10/12/26 11:18:05] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1887248944_8742917                         
+                             43.mp4'                                           
+Animation 45: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4041233046_2726478                         
+                             817.mp4'                                          
+[10/12/26 11:18:06] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3561865186_1318213                         
+                             791.mp4'                                          
+Animation 47: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_186389467_21704141                         
+                             38.mp4'                                           
+[10/12/26 11:18:07] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4034808078_4286022                         
+                             827.mp4'                                          
+Animation 49: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:18:08] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1733092866_3134234                         
+                             27.mp4'                                           
+[10/12/26 11:18:09] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2130159712_1207583                         
+                             259.mp4'                                          
+                    INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_1202929                         
+                             734.mp4'                                          
+Animation 52: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:11] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1019053792_3040361                         
+                             846.mp4'                                          
+                    INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1767314649_1344491                         
+                             47.mp4'                                           
+Animation 54: FadeIn(VGroup of 7 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 54: FadeIn(VGroup of 7 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 149.27it/s]                                                                                                     [10/12/26 11:18:12] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3499409723_2063756                         
+                             138.mp4'                                          
+                    INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2542454807_6834205                         
+                             33.mp4'                                           
+Animation 56: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4275501323_2349653                         
+                             533.mp4'                                          
+[10/12/26 11:18:13] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1069885067_4125918                         
+                             363.mp4'                                          
+Animation 58: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3227092836_1871993                         
+                             169.mp4'                                          
+[10/12/26 11:18:14] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_406483279_47139656                         
+                             9.mp4'                                            
+Animation 60: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3141429209_4229082                         
+                             238.mp4'                                          
+[10/12/26 11:18:15] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2296079945_1638553                         
+                             637.mp4'                                          
+Animation 62: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 62: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 125.05it/s]                                                                                               [10/12/26 11:18:16] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2133764684_3123128                         
+                             977.mp4'                                          
+[10/12/26 11:18:17] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2878499846_1835335                         
+                             552.mp4'                                          
+                    INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_1393526                         
+                             539.mp4'                                          
+Animation 65: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:19] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2020181543_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:18:21] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1758402199_2662387                         
+                             116.mp4'                                          
+Animation 67: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1749417152_2927131                         
+                             659.mp4'                                          
+[10/12/26 11:18:22] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3554009102_4532631                         
+                             2.mp4'                                            
+Animation 69: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 69: FadeIn(VGroup of 2 submobjects):  80%|########  | 12/15 [00:00<00:00, 112.76it/s]                                                                                               [10/12/26 11:18:23] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_662028603_28400841                         
+                             21.mp4'                                           
+                    INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3933517513_3585141                         
+                             968.mp4'                                          
+Animation 71: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 71: FadeIn(VGroup of 2 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 84.63it/s]                                                                                                   [10/12/26 11:18:24] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_125053269_11415264                         
+                             53.mp4'                                           
+[10/12/26 11:18:25] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2238225507_2035923                         
+                             224.mp4'                                          
+Animation 73: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 73: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 141.98it/s]                                                                                                                   INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1438668959_1280072                         
+                             936.mp4'                                          
+[10/12/26 11:18:27] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1678859379_4169953                         
+                             621.mp4'                                          
+Animation 75: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_450181755_39223667                         
+                             77.mp4'                                           
+[10/12/26 11:18:28] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3306259608_4167819                         
+                             404.mp4'                                          
+[10/12/26 11:18:29] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_9245621                         
+                             62.mp4'                                           
+Animation 78: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:31] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_552144986_30403618                         
+                             46.mp4'                                           
+[10/12/26 11:18:32] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3283549867_2315188                         
+                             984.mp4'                                          
+Animation 80: FadeIn(VGroup of 7 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 80: FadeIn(VGroup of 7 submobjects), etc.:  40%|####      | 6/15 [00:00<00:00, 53.56it/s]Animation 80: FadeIn(VGroup of 7 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 65.49it/s]                                                                                                    [10/12/26 11:18:33] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_894506322_33213297                         
+                             37.mp4'                                           
+[10/12/26 11:18:34] INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2010716898_3258710                         
+                             705.mp4'                                          
+Animation 82: Transform(Dot), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 82: Transform(Dot), etc.:  41%|####      | 11/27 [00:00<00:00, 96.75it/s]Animation 82: Transform(Dot), etc.:  78%|#######7  | 21/27 [00:00<00:00, 96.90it/s]                                                                                   [10/12/26 11:18:35] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_701149718_22638974                         
+                             61.mp4'                                           
+                    INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_121141977_12226836                         
+                             86.mp4'                                           
+Animation 84: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:36] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3247616663_3817020                         
+                             60.mp4'                                           
+[10/12/26 11:18:37] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4292664975_1337555                         
+                             159.mp4'                                          
+Animation 86: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1767058493_2993286                         
+                             52.mp4'                                           
+[10/12/26 11:18:38] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_663022493_15259343                         
+                             71.mp4'                                           
+Animation 88: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:39] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2015599178_2925785                         
+                             402.mp4'                                          
+[10/12/26 11:18:40] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1615668275_2111011                         
+                             687.mp4'                                          
+                    INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_1261846                         
+                             177.mp4'                                          
+Animation 91: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:18:42] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3420132195_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:18:44] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1355401341_3061635                         
+                             177.mp4'                                          
+Animation 93: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 93: FadeIn(VGroup of 2 submobjects):  47%|####6     | 7/15 [00:00<00:00, 67.77it/s]                                                                                             [10/12/26 11:18:45] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2817950585_2146064                         
+                             015.mp4'                                          
+[10/12/26 11:18:46] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2096395816_9173223                         
+                             39.mp4'                                           
+Animation 95: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 95: FadeIn(VGroup of 2 submobjects):  47%|####6     | 7/15 [00:00<00:00, 59.91it/s]Animation 95: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 54.00it/s]                                                                                              [10/12/26 11:18:47] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3896982624_2089299                         
+                             635.mp4'                                          
+[10/12/26 11:18:48] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_946204884_37646330                         
+                             08.mp4'                                           
+Animation 97: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2540793157_2754807                         
+                             767.mp4'                                          
+[10/12/26 11:18:49] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_336617376_17716570                         
+                             92.mp4'                                           
+Animation 99: FadeIn(Text('An estimate is a check, not exact arithmetic.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 99: FadeIn(Text('An estimate is a check, not exact arithmetic.')):  73%|#######3  | 11/15 [00:00<00:00, 95.56it/s]                                                                                                                            [10/12/26 11:18:50] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1136248055_1317955                         
+                             554.mp4'                                          
+[10/12/26 11:18:51] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3960355258_3794557                         
+                             987.mp4'                                          
+Animation 101: Indicate(RoundedRectangle):   0%|          | 0/15 [00:00<?, ?it/s]Animation 101: Indicate(RoundedRectangle):  27%|##6       | 4/15 [00:00<00:00, 35.61it/s]Animation 101: Indicate(RoundedRectangle):  53%|#####3    | 8/15 [00:00<00:00, 28.06it/s]Animation 101: Indicate(RoundedRectangle):  73%|#######3  | 11/15 [00:00<00:00, 26.98it/s]                                                                                          [10/12/26 11:18:52] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_356943095_65416625                         
+                             6.mp4'                                            
+[10/12/26 11:18:53] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_306156271_41482546                         
+                             92.mp4'                                           
+[10/12/26 11:18:54] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_6843441                         
+                             84.mp4'                                           
+Animation 104: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:18:56] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2818132547_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:18:57] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2085389157_2963831                         
+                             354.mp4'                                          
+Animation 106: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3325750289_1947975                         
+                             43.mp4'                                           
+[10/12/26 11:18:58] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1875331845_6818678                         
+                             59.mp4'                                           
+Animation 108: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_244530209_23692676                         
+                             30.mp4'                                           
+[10/12/26 11:18:59] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_731047240_39791479                         
+                             02.mp4'                                           
+Animation 110: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:19:00] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_124485249_26326296                         
+                             3.mp4'                                            
+                    INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4277644882_1270253                         
+                             952.mp4'                                          
+Animation 112: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 112: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 135.26it/s]                                                                                                [10/12/26 11:19:01] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1642467081_3739825                         
+                             943.mp4'                                          
+[10/12/26 11:19:02] INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1372886046_3239168                         
+                             645.mp4'                                          
+Animation 114: FadeIn(Text('Convert, change, estimate, check.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 114: FadeIn(Text('Convert, change, estimate, check.')): 100%|##########| 15/15 [00:00<00:00, 149.48it/s]                                                                                                                  [10/12/26 11:19:03] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2211708611_4995541                         
+                             76.mp4'                                           
+[10/12/26 11:19:04] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1196835179_2055182                         
+                             056.mp4'                                          
+                    INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_6569505                         
+                             95.mp4'                                           
+Animation 117: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:19:06] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2853638574_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:19:08] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_505920899_54041394                         
+                             1.mp4'                                            
+Animation 119: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 119: FadeIn(VGroup of 3 submobjects):  60%|######    | 9/15 [00:00<00:00, 89.29it/s]                                                                                                                  INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_643321266_29018845                         
+                             95.mp4'                                           
+[10/12/26 11:19:09] INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_945139970_33660164                         
+                             77.mp4'                                           
+Animation 121: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 121: FadeIn(VGroup of 3 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 65.00it/s]Animation 121: FadeIn(VGroup of 3 submobjects): 100%|##########| 15/15 [00:00<00:00, 66.26it/s]                                                                                               [10/12/26 11:19:10] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2971508732_2301728                         
+                             777.mp4'                                          
+[10/12/26 11:19:11] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2621435250_4477988                         
+                             24.mp4'                                           
+Animation 123: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 123: FadeIn(VGroup of 3 submobjects):  40%|####      | 6/15 [00:00<00:00, 55.80it/s]Animation 123: FadeIn(VGroup of 3 submobjects):  80%|########  | 12/15 [00:00<00:00, 46.48it/s]                                                                                               [10/12/26 11:19:12] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4090828984_3114666                         
+                             636.mp4'                                          
+                    INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3946456433_3852249                         
+                             601.mp4'                                          
+Animation 125: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 125: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 99.02it/s]                                                                                               [10/12/26 11:19:13] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2442750449_3328731                         
+                             835.mp4'                                          
+[10/12/26 11:19:15] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_778939025_25999744                         
+                             93.mp4'                                           
+                    INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_2037742                         
+                             381.mp4'                                          
+Animation 128: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                              [10/12/26 11:19:16] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3886701318_7374485                         
+                             30.mp4'                                           
+Animation 129: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                        [10/12/26 11:19:17] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_900376641_14794855                         
+                             42.mp4'                                           
+Animation 130: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:18] INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1291494693_1479485                         
+                             542.mp4'                                          
+Animation 131: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1778214446_1479485                         
+                             542.mp4'                                          
+Animation 132: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:19] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_4294498726_1479485                         
+                             542.mp4'                                          
+Animation 133: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:20] INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_354535490_14794855                         
+                             42.mp4'                                           
+Animation 134: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:21] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2675960599_1479485                         
+                             542.mp4'                                          
+Animation 135: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1233433216_1479485                         
+                             542.mp4'                                          
+Animation 136: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:22] INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2877805945_1479485                         
+                             542.mp4'                                          
+Animation 137: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:23] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_907601918_14794855                         
+                             42.mp4'                                           
+Animation 138: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:19:24] INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1390479260_1479485                         
+                             542.mp4'                                          
+Animation 139: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                               [10/12/26 11:19:25] INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1043310549_2140602                         
+                             365.mp4'                                          
+[10/12/26 11:19:27] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_745698478_38917089                         
+                             40.mp4'                                           
+Animation 141: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  11%|#1        | 2/18 [00:00<00:01, 13.32it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:00, 15.35it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:00, 13.30it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  44%|####4     | 8/18 [00:00<00:00, 13.66it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  56%|#####5    | 10/18 [00:00<00:00, 14.92it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  67%|######6   | 12/18 [00:00<00:00, 14.81it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  83%|########3 | 15/18 [00:00<00:00, 16.24it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  94%|#########4| 17/18 [00:01<00:00, 16.81it/s]                                                                                                      [10/12/26 11:19:30] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_806672541_41936689                         
+                             34.mp4'                                           
+                    INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3733082215_3148321                         
+                             090.mp4'                                          
+Animation 143: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:19:31] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2602052766_3882619                         
+                             08.mp4'                                           
+                    INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3305389181_1493345                         
+                             86.mp4'                                           
+Animation 145: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 145: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 101.45it/s]                                                                                                [10/12/26 11:19:32] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_897462244_40672666                         
+                             5.mp4'                                            
+[10/12/26 11:19:33] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2287294428_2504447                         
+                             50.mp4'                                           
+Animation 147: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 147: FadeIn(VGroup of 3 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 117.55it/s]                                                                                                      [10/12/26 11:19:34] INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2856484455_2709563                         
+                             431.mp4'                                          
+[10/12/26 11:19:35] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1206162183_2404674                         
+                             761.mp4'                                          
+                    INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_4157119                         
+                             927.mp4'                                          
+Animation 150: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 150: FadeIn(VGroup of 1 submobjects):  93%|#########3| 14/15 [00:00<00:00, 134.40it/s]                                                                                                [10/12/26 11:19:38] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1387415896_3040361                         
+                             846.mp4'                                          
+[10/12/26 11:19:39] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_832744485_16395649                         
+                             60.mp4'                                           
+Animation 152: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:19:40] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3740136117_3433500                         
+                             61.mp4'                                           
+                    INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_478797764_27873352                         
+                             87.mp4'                                           
+Animation 154: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 154: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 99.27it/s]                                                                                               [10/12/26 11:19:41] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3707858523_3507716                         
+                             244.mp4'                                          
+[10/12/26 11:19:42] INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_181483614_47764924                         
+                             0.mp4'                                            
+Animation 156: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 156: FadeIn(VGroup of 3 submobjects): 100%|##########| 15/15 [00:00<00:00, 141.71it/s]                                                                                                                    INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_2674747004_2420965                         
+                             757.mp4'                                          
+[10/12/26 11:19:43] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_1287313760_4055391                         
+                             799.mp4'                                          
+Animation 158: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:19:44] INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3589946183_3475440                         
+                             252.mp4'                                          
+[10/12/26 11:19:45] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3087255248_3137137                         
+                             425.mp4'                                          
+Animation 160: FadeIn(Text('Compare, change, estimate, check.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 160: FadeIn(Text('Compare, change, estimate, check.')):  67%|######6   | 10/15 [00:00<00:00, 97.47it/s]                                                                                                                 [10/12/26 11:19:46] INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_478192026_18583565                         
+                             11.mp4'                                           
+[10/12/26 11:19:47] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_286569331_17235773                         
+                             07.mp4'                                           
+Animation 162: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/17 [00:00<?, ?it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  18%|#7        | 3/17 [00:00<00:00, 27.24it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  35%|###5      | 6/17 [00:00<00:00, 24.24it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  59%|#####8    | 10/17 [00:00<00:00, 25.75it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  76%|#######6  | 13/17 [00:00<00:00, 23.13it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  94%|#########4| 16/17 [00:00<00:00, 24.35it/s]                                                                                                      [10/12/26 11:19:49] INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3188729159_3682554                         
+                             154.mp4'                                          
+Animation 163: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3929565830_1482164                         
+                             634.mp4'                                          
+Animation 164: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3565173296_1150066                         
+                             863.mp4'                                          
+[10/12/26 11:19:50] INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_699318521_52814745                         
+                             7.mp4'                                            
+                    INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_3197081273_9940811                         
+                             89.mp4'                                           
+[10/12/26 11:19:51] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\percentage_                         
+                             applications_and_estimati                         
+                             on\360p30\partial_movie_f                         
+                             iles\PercentageApplicatio                         
+                             nsAndEstimationStory\1490                         
+                             007039_499328632_86189384                         
+                             7.mp4'                                            
+[SYNC] 60 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\percentage_applications_and_estimation\360p30\PercentageApplicationsAndEstimationStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 11:20:17] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\percentage                          
+                             _applications_and_estima                          
+                             tion\360p30\PercentageAp                          
+                             plicationsAndEstimationS                          
+                             tory.mp4'                                         
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 169                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             PercentageApplicationsAndEstimationSt             
+                             ory                                               
+                             Played 168 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Percentage-Increases-Decreases-and-Estimation\media\videos\percentage_applications_and_estimation\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Percentage-Increases-Decreases-and-Estimation\media\videos\percentage_applications_and_estimation\360p30\PercentageApplicationsAndEstimationStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Percentage-Increases-Decreases-and-Estimation\media\videos\percentage_applications_and_estimation\360p30\PercentageApplicationsAndEstimationStory.real.srt
+
+=== PercentageApplicationsAndEstimationStory.mp4
+    640x360 @ 30/1  frames=11856
+    video  395.199s (start +0.000)   audio  392.939s (start +0.000)   silent tail +2.260s  [ok]
+    captions: 101  first 0.14s  last 392.90s  (video 395.20s)
+    speech blocks: 128  speech time 322.2s (82.0% of audio)
+    caption time 375.7s   caption-inside-speech 85.7%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Percentage-Increases-Decreases-and-Estimation\percentage_applications_and_estimation.py percentage_applications_and_estimation NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Percentage-Increases-Decreases-and-Estimation\media\videos\percentage_applications_and_estimation\360p30\PercentageApplicationsAndEstimationStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:20:21] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== percentage_applications_and_estimation :: PercentageApplicationsAndEstimationStory.real.srt
+    narration words 900   srt words 900
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i PercentageApplicationsAndEstimationStory.mp4 -vf subtitles=PercentageApplicationsAndEstimationStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=10,MarginL=43,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy PercentageApplicationsAndEstimationStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'PercentageApplicationsAndEstimationStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:06:35.20, start: 0.000000, bitrate: 295 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 168 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001cc82a9dd40] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001cc82a9dd40] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001cc82a9dd40] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001cc82a9dd40] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000001cc825b8440] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001cc825b8440] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001cc825b8440] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001cc825b8440] Using font provider directwrite (with GDI)
+[libx264 @ 000001cc82a9d680] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 000001cc82a9d680] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 000001cc82a9d680] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'PercentageApplicationsAndEstimationStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001cc825b8440] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  428 fps=0.0 q=24.0 size=     512KiB time=00:00:14.20 bitrate= 295.4kbits/s speed=27.9x elapsed=0:00:00.50    frame=  907 fps=888 q=24.0 size=    1024KiB time=00:00:30.16 bitrate= 278.1kbits/s speed=29.5x elapsed=0:00:01.02    frame= 1496 fps=974 q=24.0 size=    1792KiB time=00:00:49.80 bitrate= 294.8kbits/s speed=32.4x elapsed=0:00:01.53    frame= 2000 fps=973 q=24.0 size=    2304KiB time=00:01:06.60 bitrate= 283.4kbits/s speed=32.4x elapsed=0:00:02.05    frame= 2547 fps=991 q=24.0 size=    3072KiB time=00:01:24.83 bitrate= 296.7kbits/s speed=  33x elapsed=0:00:02.57    frame= 2999 fps=972 q=24.0 size=    3584KiB time=00:01:39.90 bitrate= 293.9kbits/s speed=32.4x elapsed=0:00:03.08    frame= 3457 fps=961 q=24.0 size=    4096KiB time=00:01:55.16 bitrate= 291.4kbits/s speed=  32x elapsed=0:00:03.59    frame= 3935 fps=955 q=24.0 size=    4608KiB time=00:02:11.10 bitrate= 287.9kbits/s speed=31.8x elapsed=0:00:04.11    frame= 4316 fps=932 q=24.0 size=    5120KiB time=00:02:23.80 bitrate= 291.7kbits/s speed=  31x elapsed=0:00:04.63    frame= 4794 fps=931 q=24.0 size=    5632KiB time=00:02:39.73 bitrate= 288.8kbits/s speed=  31x elapsed=0:00:05.14    frame= 5237 fps=925 q=24.0 size=    6144KiB time=00:02:54.50 bitrate= 288.4kbits/s speed=30.8x elapsed=0:00:05.66    frame= 5698 fps=922 q=24.0 size=    6656KiB time=00:03:09.86 bitrate= 287.2kbits/s speed=30.7x elapsed=0:00:06.18    frame= 6074 fps=907 q=24.0 size=    7168KiB time=00:03:22.40 bitrate= 290.1kbits/s speed=30.2x elapsed=0:00:06.69    frame= 6516 fps=904 q=24.0 size=    7680KiB time=00:03:37.13 bitrate= 289.8kbits/s speed=30.1x elapsed=0:00:07.20    frame= 6926 fps=897 q=24.0 size=    8192KiB time=00:03:50.80 bitrate= 290.8kbits/s speed=29.9x elapsed=0:00:07.72    frame= 7393 fps=897 q=24.0 size=    8704KiB time=00:04:06.36 bitrate= 289.4kbits/s speed=29.9x elapsed=0:00:08.24    frame= 7840 fps=895 q=24.0 size=    9216KiB time=00:04:21.26 bitrate= 289.0kbits/s speed=29.8x elapsed=0:00:08.75    frame= 8230 fps=888 q=24.0 size=    9728KiB time=00:04:34.26 bitrate= 290.6kbits/s speed=29.6x elapsed=0:00:09.27    frame= 8662 fps=885 q=24.0 size=   10240KiB time=00:04:48.66 bitrate= 290.6kbits/s speed=29.5x elapsed=0:00:09.78    frame= 9046 fps=878 q=24.0 size=   10752KiB time=00:05:01.46 bitrate= 292.2kbits/s speed=29.3x elapsed=0:00:10.30    frame= 9521 fps=879 q=24.0 size=   11264KiB time=00:05:17.30 bitrate= 290.8kbits/s speed=29.3x elapsed=0:00:10.82    frame= 9923 fps=876 q=24.0 size=   11520KiB time=00:05:30.70 bitrate= 285.4kbits/s speed=29.2x elapsed=0:00:11.33    frame=10312 fps=870 q=24.0 size=   12288KiB time=00:05:43.66 bitrate= 292.9kbits/s speed=  29x elapsed=0:00:11.85    frame=10753 fps=869 q=24.0 size=   12544KiB time=00:05:58.36 bitrate= 286.7kbits/s speed=  29x elapsed=0:00:12.37    frame=11135 fps=864 q=24.0 size=   13056KiB time=00:06:11.10 bitrate= 288.2kbits/s speed=28.8x elapsed=0:00:12.88    frame=11617 fps=867 q=24.0 size=   13568KiB time=00:06:27.16 bitrate= 287.1kbits/s speed=28.9x elapsed=0:00:13.39    [out#0/mp4 @ 000001cc827ae9c0] video:8252KiB audio:5905KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.994865%
+frame=11856 fps=863 q=-1.0 Lsize=   14581KiB time=00:06:32.93 bitrate= 304.0kbits/s speed=28.6x elapsed=0:00:13.73    
+[libx264 @ 000001cc82a9d680] frame I:48    Avg QP:12.75  size: 60009
+[libx264 @ 000001cc82a9d680] frame P:3174  Avg QP:14.93  size:  1661
+[libx264 @ 000001cc82a9d680] frame B:8634  Avg QP:18.74  size:    34
+[libx264 @ 000001cc82a9d680] consecutive B-frames:  1.8%  2.6%  2.5% 93.2%
+[libx264 @ 000001cc82a9d680] mb I  I16..4: 14.3% 29.7% 56.0%
+[libx264 @ 000001cc82a9d680] mb P  I16..4:  0.6%  0.6%  0.3%  P16..4:  7.1%  0.7%  0.8%  0.0%  0.0%    skip:89.9%
+[libx264 @ 000001cc82a9d680] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.4%  0.0%  0.0%  direct: 0.2%  skip:99.3%  L0:36.2% L1:56.4% BI: 7.3%
+[libx264 @ 000001cc82a9d680] 8x8 transform intra:35.8% inter:50.9%
+[libx264 @ 000001cc82a9d680] coded y,uvDC,uvAC intra: 75.5% 68.5% 41.8% inter: 1.2% 1.7% 0.7%
+[libx264 @ 000001cc82a9d680] i16 v,h,dc,p:  8% 67% 10% 14%
+[libx264 @ 000001cc82a9d680] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 22% 29%  5%  7%  4%  6%  4%  9%
+[libx264 @ 000001cc82a9d680] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 34% 14%  4%  5%  4%  5%  4%  5%
+[libx264 @ 000001cc82a9d680] i8c dc,h,v,p: 31% 49% 18%  3%
+[libx264 @ 000001cc82a9d680] Weighted P-Frames: Y:0.4% UV:0.3%
+[libx264 @ 000001cc82a9d680] ref P L0: 90.1%  9.9%
+[libx264 @ 000001cc82a9d680] ref B L0: 91.6%  8.4%
+[libx264 @ 000001cc82a9d680] ref B L1: 93.3%  6.7%
+[libx264 @ 000001cc82a9d680] kb/s:171.04
+<<< [burn] exit 0
+finals <- PercentageApplicationsAndEstimationStory_captioned.mp4 + PercentageApplicationsAndEstimationStory_captioned.srt
+
+RESULT Percentage-Increases-Decreases-and-Estimation: verify_sync=0 verify_captions=0 captioned=PercentageApplicationsAndEstimationStory_captioned.mp4

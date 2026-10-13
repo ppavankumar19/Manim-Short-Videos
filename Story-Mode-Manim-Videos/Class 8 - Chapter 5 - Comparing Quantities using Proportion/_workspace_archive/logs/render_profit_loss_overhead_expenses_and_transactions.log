@@ -1,0 +1,1739 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 profit_loss_overhead_expenses_and_transactions.py ProfitLossOverheadExpensesAndTransactionsStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:20:36] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+[10/12/26 11:20:37] INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 102.08it/s]                                                                                              [10/12/26 11:20:41] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1583504468_3809                         
+                             683773_3040361846.mp4'                            
+[10/12/26 11:20:42] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_8833                         
+                             28002_2457984521.mp4'                             
+Animation 2: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:20:43] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1557                         
+                             804640_870063747.mp4'                             
+[10/12/26 11:20:44] INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4099                         
+                             791447_2159236233.mp4'                            
+Animation 4: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 4: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 144.98it/s]                                                                                                                  INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1344                         
+                             282470_2636480730.mp4'                            
+[10/12/26 11:20:45] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1776                         
+                             924036_2789942343.mp4'                            
+Animation 6: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_9511                         
+                             04232_2431557314.mp4'                             
+[10/12/26 11:20:46] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3708                         
+                             985618_2334934591.mp4'                            
+Animation 8: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  60%|######    | 9/15 [00:00<00:00, 86.40it/s]                                                                                            [10/12/26 11:20:47] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1372                         
+                             008804_712653.mp4'                                
+[10/12/26 11:20:48] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3899                         
+                             17303_1001373457.mp4'                             
+Animation 10: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:20:49] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1890                         
+                             847567_1071067974.mp4'                            
+[10/12/26 11:20:50] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3492                         
+                             750248_1501116225.mp4'                            
+Animation 12: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1753                         
+                             849794_2668150646.mp4'                            
+[10/12/26 11:20:51] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3520                         
+                             619243_317237783.mp4'                             
+                    INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_3149303346.mp4'                            
+Animation 15: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 15: FadeIn(VGroup of 1 submobjects): 100%|##########| 15/15 [00:00<00:00, 138.72it/s]                                                                                               [10/12/26 11:20:53] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3556                         
+                             562626_3040361846.mp4'                            
+[10/12/26 11:20:55] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2823                         
+                             164227_2450403324.mp4'                            
+Animation 17: FadeIn(VGroup of 13 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 17: FadeIn(VGroup of 13 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 110.31it/s]                                                                                                                          INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2604                         
+                             239942_2116587120.mp4'                            
+[10/12/26 11:20:56] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1327                         
+                             663706_2636675352.mp4'                            
+Animation 19: Transform(VGroup of 13 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 19: Transform(VGroup of 13 submobjects), etc.:  37%|###7      | 10/27 [00:00<00:00, 96.28it/s]Animation 19: Transform(VGroup of 13 submobjects), etc.:  78%|#######7  | 21/27 [00:00<00:00, 98.49it/s]                                                                                                        [10/12/26 11:20:57] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1944                         
+                             357198_2794940243.mp4'                            
+[10/12/26 11:20:58] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4268                         
+                             942149_2610648479.mp4'                            
+Animation 21: Transform(VGroup of 13 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 21: Transform(VGroup of 13 submobjects), etc.:  26%|##5       | 7/27 [00:00<00:00, 64.50it/s]Animation 21: Transform(VGroup of 13 submobjects), etc.:  56%|#####5    | 15/27 [00:00<00:00, 65.69it/s]Animation 21: Transform(VGroup of 13 submobjects), etc.:  93%|#########2| 25/27 [00:00<00:00, 73.18it/s]                                                                                                        [10/12/26 11:20:59] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3656                         
+                             839724_562876788.mp4'                             
+[10/12/26 11:21:00] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3325                         
+                             822761_3011822483.mp4'                            
+Animation 23: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:21:01] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6957                         
+                             2394_3126205598.mp4'                              
+                    INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1086                         
+                             682868_1179272941.mp4'                            
+Animation 25: FadeIn(Text('Ask which is bigger before you subtract.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 25: FadeIn(Text('Ask which is bigger before you subtract.')):  93%|#########3| 14/15 [00:00<00:00, 138.29it/s]                                                                                                                        [10/12/26 11:21:02] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3033                         
+                             72686_479294416.mp4'                              
+[10/12/26 11:21:03] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2449                         
+                             338286_1007414376.mp4'                            
+                    INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_2577388891.mp4'                            
+Animation 28: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:05] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3916                         
+                             308940_3040361846.mp4'                            
+[10/12/26 11:21:06] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1032                         
+                             480973_44421556.mp4'                              
+Animation 30: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 30: FadeIn(VGroup of 1 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 73.27it/s]                                                                                                   [10/12/26 11:21:07] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1118                         
+                             684490_3150553291.mp4'                            
+[10/12/26 11:21:08] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1019                         
+                             427099_64942058.mp4'                              
+Animation 32: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_7497                         
+                             94899_996509078.mp4'                              
+[10/12/26 11:21:09] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3278                         
+                             348197_2594066293.mp4'                            
+Animation 34: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:10] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1968                         
+                             074682_3799490183.mp4'                            
+[10/12/26 11:21:11] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2647                         
+                             876278_3707012608.mp4'                            
+Animation 36: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2539                         
+                             987440_4101353409.mp4'                            
+[10/12/26 11:21:12] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1563                         
+                             604172_3161689770.mp4'                            
+Animation 38: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 38: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 131.69it/s]                                                                                                                   INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_8693                         
+                             28165_3634294500.mp4'                             
+[10/12/26 11:21:13] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1451                         
+                             71506_484335406.mp4'                              
+[10/12/26 11:21:14] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_2034502434.mp4'                            
+Animation 41: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:15] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3089                         
+                             515568_3040361846.mp4'                            
+[10/12/26 11:21:17] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2100                         
+                             898222_4219942977.mp4'                            
+Animation 43: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 43: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 128.31it/s]                                                                                                                         INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1337                         
+                             643127_3386203774.mp4'                            
+[10/12/26 11:21:18] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3703                         
+                             810957_2630610346.mp4'                            
+Animation 45: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3581                         
+                             287383_1797932094.mp4'                            
+[10/12/26 11:21:19] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4255                         
+                             447425_1053423470.mp4'                            
+Animation 47: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1748                         
+                             964932_3342740320.mp4'                            
+[10/12/26 11:21:20] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3265                         
+                             375670_1807897753.mp4'                            
+Animation 49: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:21] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3436                         
+                             455127_1591342651.mp4'                            
+                    INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_9948                         
+                             08899_2582908775.mp4'                             
+Animation 51: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 51: FadeIn(VGroup of 2 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 118.73it/s]                                                                                                     [10/12/26 11:21:22] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1136                         
+                             689610_3663260868.mp4'                            
+[10/12/26 11:21:23] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1674                         
+                             819768_3578224221.mp4'                            
+Animation 53: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3917                         
+                             313615_699588398.mp4'                             
+[10/12/26 11:21:24] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3503                         
+                             040944_2428482989.mp4'                            
+[10/12/26 11:21:25] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_4095530172.mp4'                            
+Animation 56: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:27] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1291                         
+                             374696_3040361846.mp4'                            
+[10/12/26 11:21:28] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6461                         
+                             38266_3570284291.mp4'                             
+Animation 58: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 58: FadeIn(VGroup of 2 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 105.45it/s]                                                                                                                         INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_9737                         
+                             06516_3342742354.mp4'                             
+[10/12/26 11:21:29] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4078                         
+                             802907_3130855929.mp4'                            
+Animation 60: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1792                         
+                             975347_1624746174.mp4'                            
+[10/12/26 11:21:30] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6218                         
+                             69831_992827755.mp4'                              
+Animation 62: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:31] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1270                         
+                             21464_4236703047.mp4'                             
+                    INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4248                         
+                             714807_361641030.mp4'                             
+Animation 64: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 64: FadeIn(VGroup of 2 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 107.42it/s]                                                                                                     [10/12/26 11:21:32] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1133                         
+                             923103_1151416065.mp4'                            
+[10/12/26 11:21:33] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1455                         
+                             835839_200171427.mp4'                             
+Animation 66: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2335                         
+                             48358_3509536734.mp4'                             
+[10/12/26 11:21:34] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3587                         
+                             554918_2520516997.mp4'                            
+Animation 68: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:35] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3720                         
+                             293718_4101220252.mp4'                            
+[10/12/26 11:21:36] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2662                         
+                             954243_1680431727.mp4'                            
+[10/12/26 11:21:37] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_1681795300.mp4'                            
+Animation 71: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:39] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3615                         
+                             876612_3040361846.mp4'                            
+[10/12/26 11:21:40] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1709                         
+                             440967_4009036962.mp4'                            
+Animation 73: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 73: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 133.81it/s]                                                                                                                         INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4201                         
+                             376277_3653279278.mp4'                            
+[10/12/26 11:21:41] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1447                         
+                             559247_1847615416.mp4'                            
+Animation 75: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2517                         
+                             257261_1311673982.mp4'                            
+[10/12/26 11:21:42] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1634                         
+                             974080_1845040784.mp4'                            
+Animation 77: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1017                         
+                             500460_743773328.mp4'                             
+[10/12/26 11:21:43] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1948                         
+                             090864_3687173756.mp4'                            
+Animation 79: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 79: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 137.35it/s]                                                                                                                         INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3224                         
+                             059408_3699743674.mp4'                            
+[10/12/26 11:21:44] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3573                         
+                             91160_2848435954.mp4'                             
+Animation 81: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1452                         
+                             335491_3080683822.mp4'                            
+[10/12/26 11:21:45] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_8847                         
+                             04481_3787145830.mp4'                             
+Animation 83: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 83: FadeIn(VGroup of 2 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 144.48it/s]                                                                                                     [10/12/26 11:21:46] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6150                         
+                             22410_2503723677.mp4'                             
+[10/12/26 11:21:47] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3413                         
+                             981587_53502545.mp4'                              
+[10/12/26 11:21:48] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_1798915384.mp4'                            
+Animation 86: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 86: FadeIn(VGroup of 1 submobjects): 100%|##########| 15/15 [00:00<00:00, 144.82it/s]                                                                                               [10/12/26 11:21:50] INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3871                         
+                             535625_3040361846.mp4'                            
+[10/12/26 11:21:51] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4268                         
+                             107752_1501505769.mp4'                            
+Animation 88: FadeIn(VGroup of 13 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 88: FadeIn(VGroup of 13 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 79.74it/s]                                                                                                                        INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2565                         
+                             637570_1193710178.mp4'                            
+[10/12/26 11:21:53] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1964                         
+                             457288_1853988879.mp4'                            
+Animation 90: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3769                         
+                             112783_1574885548.mp4'                            
+                    INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_9692                         
+                             40333_13771439.mp4'                               
+Animation 92: Transform(VGroup of 13 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 92: Transform(VGroup of 13 submobjects), etc.:  26%|##5       | 7/27 [00:00<00:00, 64.55it/s]Animation 92: Transform(VGroup of 13 submobjects), etc.:  52%|#####1    | 14/27 [00:00<00:00, 64.89it/s]Animation 92: Transform(VGroup of 13 submobjects), etc.:  78%|#######7  | 21/27 [00:00<00:00, 56.33it/s]                                                                                                        [10/12/26 11:21:55] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1107                         
+                             947731_343328785.mp4'                             
+                    INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1350                         
+                             014771_2557692970.mp4'                            
+Animation 94: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:21:56] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2372                         
+                             856791_4241476512.mp4'                            
+[10/12/26 11:21:57] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3193                         
+                             827907_2989849131.mp4'                            
+Animation 96: FadeIn(Text('+20% and -20% did not give 0%.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 96: FadeIn(Text('+20% and -20% did not give 0%.')):  73%|#######3  | 11/15 [00:00<00:00, 105.10it/s]                                                                                                                                  INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4250                         
+                             563892_823258801.mp4'                             
+[10/12/26 11:21:58] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6518                         
+                             74782_2080528523.mp4'                             
+[10/12/26 11:21:59] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_2515709888.mp4'                            
+Animation 99: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:22:00] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3431                         
+                             525843_3040361846.mp4'                            
+[10/12/26 11:22:02] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1248                         
+                             351075_242620468.mp4'                             
+Animation 101: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6908                         
+                             455_1268089424.mp4'                               
+                    INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1884                         
+                             684551_1869901522.mp4'                            
+Animation 103: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:22:03] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1102                         
+                             148682_3211537489.mp4'                            
+[10/12/26 11:22:04] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2753                         
+                             248868_444278018.mp4'                             
+Animation 105: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1355                         
+                             653787_2913385229.mp4'                            
+[10/12/26 11:22:05] INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3336                         
+                             864658_888112758.mp4'                             
+Animation 107: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3743                         
+                             494865_3405387492.mp4'                            
+[10/12/26 11:22:06] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4838                         
+                             55827_2988324462.mp4'                             
+Animation 109: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1988                         
+                             734704_3916353635.mp4'                            
+[10/12/26 11:22:07] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2313                         
+                             510862_1281739721.mp4'                            
+Animation 111: FadeIn(Text('Several items: total CP against total SP.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                [10/12/26 11:22:08] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1929                         
+                             11884_3593123985.mp4'                             
+[10/12/26 11:22:09] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1004                         
+                             936629_34644282.mp4'                              
+                    INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_4039997798.mp4'                            
+Animation 114: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:22:11] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3929                         
+                             949765_3040361846.mp4'                            
+[10/12/26 11:22:12] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3723                         
+                             909897_4252108425.mp4'                            
+Animation 116: FadeIn(VGroup of 6 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3832                         
+                             302003_2160609335.mp4'                            
+                    INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1569                         
+                             060536_42234969.mp4'                              
+Animation 118: FadeIn(VGroup of 6 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                            [10/12/26 11:22:13] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_5847                         
+                             98250_3682890450.mp4'                             
+[10/12/26 11:22:14] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2932                         
+                             174507_1135150275.mp4'                            
+Animation 120: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4471                         
+                             56852_3304930363.mp4'                             
+[10/12/26 11:22:15] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4091                         
+                             771656_1343953558.mp4'                            
+Animation 122: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2494                         
+                             996206_2267868750.mp4'                            
+[10/12/26 11:22:16] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3228                         
+                             111218_1846509501.mp4'                            
+Animation 124: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 124: FadeIn(VGroup of 3 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 125.55it/s]                                                                                                      [10/12/26 11:22:17] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2385                         
+                             441122_2312691984.mp4'                            
+[10/12/26 11:22:18] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1200                         
+                             065679_3313637815.mp4'                            
+                    INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_2631376727.mp4'                            
+Animation 127: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:22:20] INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1431                         
+                             414890_3040361846.mp4'                            
+[10/12/26 11:22:21] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3092                         
+                             453471_1009202642.mp4'                            
+Animation 129: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 129: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 105.33it/s]                                                                                                [10/12/26 11:22:22] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1270                         
+                             594382_3410048436.mp4'                            
+[10/12/26 11:22:23] INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3104                         
+                             597483_4153149370.mp4'                            
+Animation 131: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 131: FadeIn(VGroup of 3 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 78.66it/s]                                                                                              [10/12/26 11:22:24] INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2847                         
+                             265964_1900703741.mp4'                            
+[10/12/26 11:22:25] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6826                         
+                             18807_3395376957.mp4'                             
+                    INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_1204456506.mp4'                            
+Animation 134: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                              [10/12/26 11:22:26] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3886                         
+                             701318_878482948.mp4'                             
+Animation 135: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                            INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_9003                         
+                             76641_3430304990.mp4'                             
+Animation 136: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:22:27] INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1291                         
+                             494693_3430304990.mp4'                            
+Animation 137: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1778                         
+                             214446_3430304990.mp4'                            
+Animation 138: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:22:28] INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4294                         
+                             498726_3430304990.mp4'                            
+Animation 139: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:22:29] INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3545                         
+                             35490_3430304990.mp4'                             
+Animation 140: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2675                         
+                             960599_3430304990.mp4'                            
+Animation 141: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:22:30] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1233                         
+                             433216_3430304990.mp4'                            
+Animation 142: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2877                         
+                             805945_3430304990.mp4'                            
+Animation 143: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:22:31] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_9076                         
+                             01918_3430304990.mp4'                             
+Animation 144: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1390                         
+                             479260_3430304990.mp4'                            
+Animation 145: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                               [10/12/26 11:22:32] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1043                         
+                             310549_2920437141.mp4'                            
+[10/12/26 11:22:35] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2015                         
+                             201518_110706040.mp4'                             
+Animation 147: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 147: FadeOut(VGroup of 3 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:00, 30.54it/s]Animation 147: FadeOut(VGroup of 3 submobjects), etc.:  44%|####4     | 8/18 [00:00<00:00, 22.76it/s]Animation 147: FadeOut(VGroup of 3 submobjects), etc.:  61%|######1   | 11/18 [00:00<00:00, 23.09it/s]Animation 147: FadeOut(VGroup of 3 submobjects), etc.:  78%|#######7  | 14/18 [00:00<00:00, 24.65it/s]                                                                                                      [10/12/26 11:22:36] INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_8044                         
+                             39559_2725454944.mp4'                             
+[10/12/26 11:22:37] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2804                         
+                             693864_228699487.mp4'                             
+Animation 149: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 149: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 106.27it/s]                                                                                                [10/12/26 11:22:38] INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2023                         
+                             176902_3859581902.mp4'                            
+[10/12/26 11:22:39] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2873                         
+                             325464_1509560878.mp4'                            
+Animation 151: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 151: FadeIn(VGroup of 3 submobjects):  87%|########6 | 13/15 [00:00<00:00, 125.77it/s]                                                                                                [10/12/26 11:22:40] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2282                         
+                             442025_4034872173.mp4'                            
+[10/12/26 11:22:41] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2147                         
+                             372141_90091688.mp4'                              
+Animation 153: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3249                         
+                             210322_2696285560.mp4'                            
+[10/12/26 11:22:43] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2353                         
+                             309134_2905089573.mp4'                            
+                    INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_3261591158.mp4'                            
+Animation 156: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:22:45] INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1809                         
+                             720270_3040361846.mp4'                            
+[10/12/26 11:22:47] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1809                         
+                             030313_173994594.mp4'                             
+Animation 158: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 158: FadeIn(VGroup of 3 submobjects):  93%|#########3| 14/15 [00:00<00:00, 134.85it/s]                                                                                                                    INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2250                         
+                             800698_2918063834.mp4'                            
+[10/12/26 11:22:48] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3173                         
+                             878545_2710962973.mp4'                            
+Animation 160: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1484                         
+                             199360_3056279665.mp4'                            
+[10/12/26 11:22:49] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_6784                         
+                             50293_1425018202.mp4'                             
+Animation 162: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 162: FadeIn(VGroup of 3 submobjects):  87%|########6 | 13/15 [00:00<00:00, 125.06it/s]                                                                                                [10/12/26 11:22:50] INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_5201                         
+                             3047_1810539867.mp4'                              
+                    INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_1760                         
+                             940689_726517289.mp4'                             
+Animation 164: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 164: FadeIn(VGroup of 3 submobjects):  60%|######    | 9/15 [00:00<00:00, 89.64it/s]                                                                                              [10/12/26 11:22:51] INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3357                         
+                             612486_2054695858.mp4'                            
+[10/12/26 11:22:52] INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2832                         
+                             814520_2204944033.mp4'                            
+Animation 166: FadeIn(Text('The purchase price alone is never the real cost.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 166: FadeIn(Text('The purchase price alone is never the real cost.')):  73%|#######3  | 11/15 [00:00<00:00, 108.77it/s]                                                                                                                                 [10/12/26 11:22:53] INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2248                         
+                             610546_3116774666.mp4'                            
+[10/12/26 11:22:54] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4235                         
+                             386643_2690962879.mp4'                            
+Animation 168: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/17 [00:00<?, ?it/s]Animation 168: FadeOut(VGroup of 1 submobjects), etc.:  29%|##9       | 5/17 [00:00<00:00, 47.35it/s]Animation 168: FadeOut(VGroup of 1 submobjects), etc.:  59%|#####8    | 10/17 [00:00<00:00, 39.49it/s]Animation 168: FadeOut(VGroup of 1 submobjects), etc.:  88%|########8 | 15/17 [00:00<00:00, 41.23it/s]                                                                                                      [10/12/26 11:22:56] INFO     Animation 168 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3504                         
+                             198098_2932157387.mp4'                            
+Animation 169: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 169 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3929                         
+                             565830_1482164634.mp4'                            
+Animation 170: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 170 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3565                         
+                             173296_1150066863.mp4'                            
+[10/12/26 11:22:57] INFO     Animation 171 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_2904                         
+                             760743_528147457.mp4'                             
+                    INFO     Animation 172 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_3197                         
+                             081273_994081189.mp4'                             
+                    INFO     Animation 173 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\profit_loss                         
+                             _overhead_expenses_and_tr                         
+                             ansactions\360p30\partial                         
+                             _movie_files\ProfitLossOv                         
+                             erheadExpensesAndTransact                         
+                             ionsStory\1490007039_4993                         
+                             28632_861893847.mp4'                              
+[SYNC] 63 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\profit_loss_overhead_expenses_and_transactions\360p30\ProfitLossOverheadExpensesAndTransactionsStory.real.srt
+[10/12/26 11:22:58] INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 11:23:15] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\profit_los                          
+                             s_overhead_expenses_and_                          
+                             transactions\360p30\Prof                          
+                             itLossOverheadExpensesAn                          
+                             dTransactionsStory.mp4'                           
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 175                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             ProfitLossOverheadExpensesAndTransact             
+                             ionsStory                                         
+                             Played 174 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Profit-Loss-Overhead-Expenses-and-Transactions\media\videos\profit_loss_overhead_expenses_and_transactions\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Profit-Loss-Overhead-Expenses-and-Transactions\media\videos\profit_loss_overhead_expenses_and_transactions\360p30\ProfitLossOverheadExpensesAndTransactionsStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Profit-Loss-Overhead-Expenses-and-Transactions\media\videos\profit_loss_overhead_expenses_and_transactions\360p30\ProfitLossOverheadExpensesAndTransactionsStory.real.srt
+
+=== ProfitLossOverheadExpensesAndTransactionsStory.mp4
+    640x360 @ 30/1  frames=12143
+    video  404.766s (start +0.000)   audio  402.475s (start +0.000)   silent tail +2.291s  [ok]
+    captions: 132  first 0.30s  last 402.44s  (video 404.77s)
+    speech blocks: 122  speech time 332.0s (82.5% of audio)
+    caption time 384.4s   caption-inside-speech 86.2%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Profit-Loss-Overhead-Expenses-and-Transactions\profit_loss_overhead_expenses_and_transactions.py profit_loss_overhead_expenses_and_transactions NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Profit-Loss-Overhead-Expenses-and-Transactions\media\videos\profit_loss_overhead_expenses_and_transactions\360p30\ProfitLossOverheadExpensesAndTransactionsStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:23:19] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== profit_loss_overhead_expenses_and_transactions :: ProfitLossOverheadExpensesAndTransactionsStory.real.srt
+    narration words 1186   srt words 1186
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i ProfitLossOverheadExpensesAndTransactionsStory.mp4 -vf subtitles=ProfitLossOverheadExpensesAndTransactionsStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=10,MarginL=43,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy ProfitLossOverheadExpensesAndTransactionsStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'ProfitLossOverheadExpensesAndTransactionsStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:06:44.77, start: 0.000000, bitrate: 299 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 172 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 00000196be39d040] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 00000196be39d040] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 00000196be39d040] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 00000196be39d040] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 00000196be399f80] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 00000196be399f80] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 00000196be399f80] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 00000196be399f80] Using font provider directwrite (with GDI)
+[libx264 @ 00000196be39bec0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 00000196be39bec0] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 00000196be39bec0] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'ProfitLossOverheadExpensesAndTransactionsStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 00000196be399f80] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  415 fps=0.0 q=24.0 size=     512KiB time=00:00:13.76 bitrate= 304.7kbits/s speed=27.3x elapsed=0:00:00.50    frame=  976 fps=960 q=24.0 size=    1024KiB time=00:00:32.46 bitrate= 258.4kbits/s speed=31.9x elapsed=0:00:01.01    frame= 1489 fps=971 q=24.0 size=    1792KiB time=00:00:49.56 bitrate= 296.2kbits/s speed=32.3x elapsed=0:00:01.53    frame= 2064 fps=1003 q=24.0 size=    2304KiB time=00:01:08.73 bitrate= 274.6kbits/s speed=33.4x elapsed=0:00:02.05    frame= 2582 fps=1003 q=24.0 size=    3072KiB time=00:01:26.00 bitrate= 292.6kbits/s speed=33.4x elapsed=0:00:02.57    frame= 3067 fps=994 q=24.0 size=    3584KiB time=00:01:42.16 bitrate= 287.4kbits/s speed=33.1x elapsed=0:00:03.08    frame= 3481 fps=965 q=24.0 size=    4096KiB time=00:01:55.96 bitrate= 289.3kbits/s speed=32.2x elapsed=0:00:03.60    frame= 3936 fps=955 q=24.0 size=    4864KiB time=00:02:11.13 bitrate= 303.9kbits/s speed=31.8x elapsed=0:00:04.12    frame= 4393 fps=950 q=24.0 size=    5376KiB time=00:02:26.36 bitrate= 300.9kbits/s speed=31.6x elapsed=0:00:04.62    frame= 4813 fps=934 q=24.0 size=    5888KiB time=00:02:40.36 bitrate= 300.8kbits/s speed=31.1x elapsed=0:00:05.15    frame= 5127 fps=907 q=24.0 size=    6400KiB time=00:02:50.83 bitrate= 306.9kbits/s speed=30.2x elapsed=0:00:05.65    frame= 5617 fps=910 q=24.0 size=    6912KiB time=00:03:07.16 bitrate= 302.5kbits/s speed=30.3x elapsed=0:00:06.17    frame= 6106 fps=911 q=24.0 size=    7424KiB time=00:03:23.46 bitrate= 298.9kbits/s speed=30.4x elapsed=0:00:06.70    frame= 6578 fps=911 q=24.0 size=    7936KiB time=00:03:39.20 bitrate= 296.6kbits/s speed=30.4x elapsed=0:00:07.21    frame= 7043 fps=910 q=24.0 size=    8704KiB time=00:03:54.70 bitrate= 303.8kbits/s speed=30.3x elapsed=0:00:07.74    frame= 7531 fps=912 q=24.0 size=    9216KiB time=00:04:10.96 bitrate= 300.8kbits/s speed=30.4x elapsed=0:00:08.26    frame= 7933 fps=904 q=24.0 size=    9728KiB time=00:04:24.36 bitrate= 301.4kbits/s speed=30.1x elapsed=0:00:08.77    frame= 8438 fps=909 q=24.0 size=   10240KiB time=00:04:41.20 bitrate= 298.3kbits/s speed=30.3x elapsed=0:00:09.28    frame= 8878 fps=906 q=24.0 size=   10752KiB time=00:04:55.86 bitrate= 297.7kbits/s speed=30.2x elapsed=0:00:09.80    frame= 9250 fps=896 q=24.0 size=   11264KiB time=00:05:08.26 bitrate= 299.3kbits/s speed=29.9x elapsed=0:00:10.32    frame= 9712 fps=897 q=24.0 size=   11776KiB time=00:05:23.66 bitrate= 298.1kbits/s speed=29.9x elapsed=0:00:10.83    frame=10105 fps=891 q=24.0 size=   12032KiB time=00:05:36.76 bitrate= 292.7kbits/s speed=29.7x elapsed=0:00:11.34    frame=10576 fps=891 q=24.0 size=   12544KiB time=00:05:52.46 bitrate= 291.5kbits/s speed=29.7x elapsed=0:00:11.86    frame=11099 fps=897 q=24.0 size=   13056KiB time=00:06:09.90 bitrate= 289.1kbits/s speed=29.9x elapsed=0:00:12.38    frame=11542 fps=895 q=24.0 size=   13824KiB time=00:06:24.66 bitrate= 294.4kbits/s speed=29.8x elapsed=0:00:12.90    frame=11990 fps=894 q=24.0 size=   14336KiB time=00:06:39.60 bitrate= 293.9kbits/s speed=29.8x elapsed=0:00:13.40    [out#0/mp4 @ 00000196be51ed40] video:8612KiB audio:6056KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.959709%
+frame=12143 fps=892 q=-1.0 Lsize=   15102KiB time=00:06:42.47 bitrate= 307.4kbits/s speed=29.6x elapsed=0:00:13.61    
+[libx264 @ 00000196be39bec0] frame I:49    Avg QP:12.64  size: 59959
+[libx264 @ 00000196be39bec0] frame P:3228  Avg QP:15.24  size:  1722
+[libx264 @ 00000196be39bec0] frame B:8866  Avg QP:18.83  size:    36
+[libx264 @ 00000196be39bec0] consecutive B-frames:  1.5%  2.4%  2.9% 93.2%
+[libx264 @ 00000196be39bec0] mb I  I16..4: 14.6% 28.4% 57.0%
+[libx264 @ 00000196be39bec0] mb P  I16..4:  0.6%  0.7%  0.4%  P16..4:  7.3%  0.7%  0.9%  0.0%  0.0%    skip:89.4%
+[libx264 @ 00000196be39bec0] mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.5%  0.1%  0.0%  direct: 0.2%  skip:99.2%  L0:40.2% L1:52.8% BI: 7.0%
+[libx264 @ 00000196be39bec0] 8x8 transform intra:34.1% inter:49.5%
+[libx264 @ 00000196be39bec0] coded y,uvDC,uvAC intra: 71.4% 66.7% 40.4% inter: 1.2% 1.8% 0.7%
+[libx264 @ 00000196be39bec0] i16 v,h,dc,p:  9% 70%  8% 13%
+[libx264 @ 00000196be39bec0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 23% 28%  5%  7%  4%  6%  3%  9%
+[libx264 @ 00000196be39bec0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 35% 13%  4%  5%  4%  5%  4%  5%
+[libx264 @ 00000196be39bec0] i8c dc,h,v,p: 29% 51% 17%  3%
+[libx264 @ 00000196be39bec0] Weighted P-Frames: Y:0.3% UV:0.3%
+[libx264 @ 00000196be39bec0] ref P L0: 89.7% 10.3%
+[libx264 @ 00000196be39bec0] ref B L0: 90.7%  9.3%
+[libx264 @ 00000196be39bec0] ref B L1: 93.2%  6.8%
+[libx264 @ 00000196be39bec0] kb/s:174.29
+<<< [burn] exit 0
+finals <- ProfitLossOverheadExpensesAndTransactionsStory_captioned.mp4 + ProfitLossOverheadExpensesAndTransactionsStory_captioned.srt
+
+RESULT Profit-Loss-Overhead-Expenses-and-Transactions: verify_sync=0 verify_captions=0 captioned=ProfitLossOverheadExpensesAndTransactionsStory_captioned.mp4

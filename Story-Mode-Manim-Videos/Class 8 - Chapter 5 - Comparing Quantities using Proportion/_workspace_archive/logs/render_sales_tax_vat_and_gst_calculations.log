@@ -1,0 +1,1515 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 sales_tax_vat_and_gst_calculations.py SalesTaxVatAndGstCalculationsStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:23:34] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 138.94it/s]                                                                                              [10/12/26 11:23:38] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1583504468_229                         
+                             1388456_3040361846.mp4'                           
+[10/12/26 11:23:39] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_233                         
+                             4757453_2930605133.mp4'                           
+Animation 2: FadeIn(VGroup of 6 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 2: FadeIn(VGroup of 6 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 134.78it/s]                                                                                                    [10/12/26 11:23:40] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_203                         
+                             3272911_2110421689.mp4'                           
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_163                         
+                             7749361_836082197.mp4'                            
+Animation 4: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:23:41] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_258                         
+                             7585593_730482821.mp4'                            
+                    INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_343                         
+                             3167364_308013581.mp4'                            
+Animation 6: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:23:42] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_431                         
+                             177917_1498064944.mp4'                            
+                    INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_308                         
+                             3667490_1278310875.mp4'                           
+Animation 8: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:23:43] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_956                         
+                             397801_404151184.mp4'                             
+                    INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_353                         
+                             1041312_2248336899.mp4'                           
+Animation 10: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:23:44] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_308                         
+                             9258086_3460919244.mp4'                           
+[10/12/26 11:23:45] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_406                         
+                             3836352_2418683726.mp4'                           
+                    INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_907712660.mp4'                            
+Animation 13: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:23:47] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_224                         
+                             4027217_3040361846.mp4'                           
+[10/12/26 11:23:48] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_369                         
+                             9635369_304502195.mp4'                            
+Animation 15: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_112                         
+                             9158588_4277148643.mp4'                           
+[10/12/26 11:23:49] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_254                         
+                             446643_1418533220.mp4'                            
+Animation 17: FadeIn(VGroup of 1 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]                                                                                                         INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_175                         
+                             7702054_546954787.mp4'                            
+                    INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_887                         
+                             454673_2287947462.mp4'                            
+Animation 19: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:23:50] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_424                         
+                             4252389_3548925388.mp4'                           
+                    INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_297                         
+                             6407875_3551632418.mp4'                           
+Animation 21: FadeIn(MathTex('\\text{Bill}=\\frac{100+r}{100}\\times\\text{Base}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                           [10/12/26 11:23:51] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_249                         
+                             5667762_2248233554.mp4'                           
+                    INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_281                         
+                             1289208_3428969421.mp4'                           
+Animation 23: FadeIn(Text('The same % increase as the earlier lesson.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                [10/12/26 11:23:52] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_929                         
+                             881177_2631768566.mp4'                            
+[10/12/26 11:23:53] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_228                         
+                             6963604_3375925398.mp4'                           
+                    INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_80276633.mp4'                             
+Animation 26: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:23:55] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_378                         
+                             4519644_3040361846.mp4'                           
+[10/12/26 11:23:56] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_269                         
+                             8414336_2779302635.mp4'                           
+Animation 28: FadeIn(VGroup of 6 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_205                         
+                             5735297_174449653.mp4'                            
+                    INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_245                         
+                             3502702_1070090576.mp4'                           
+Animation 30: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:23:57] INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_250                         
+                             8168122_2060228655.mp4'                           
+                    INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_206                         
+                             325105_275880380.mp4'                             
+Animation 32: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 32: FadeIn(VGroup of 3 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 93.35it/s]                                                                                                    [10/12/26 11:23:58] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_790                         
+                             934269_1016670239.mp4'                            
+[10/12/26 11:23:59] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_385                         
+                             2012321_870569580.mp4'                            
+Animation 34: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_209                         
+                             8196488_1742909873.mp4'                           
+[10/12/26 11:24:00] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_403                         
+                             3345002_124356464.mp4'                            
+Animation 36: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_415                         
+                             6786779_1595398804.mp4'                           
+[10/12/26 11:24:01] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_297                         
+                             6981569_3249092244.mp4'                           
+                    INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_2153746625.mp4'                           
+Animation 39: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:03] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_786                         
+                             239688_3040361846.mp4'                            
+[10/12/26 11:24:04] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_243                         
+                             3324896_3750774665.mp4'                           
+Animation 41: FadeIn(VGroup of 7 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 41: FadeIn(VGroup of 7 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 128.93it/s]                                                                                                                         INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_305                         
+                             2883627_3565309673.mp4'                           
+[10/12/26 11:24:05] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_204                         
+                             4031882_1885605364.mp4'                           
+Animation 43: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:06] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_102                         
+                             5956124_570457641.mp4'                            
+                    INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_305                         
+                             3873644_3200135573.mp4'                           
+Animation 45: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:07] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_864                         
+                             641391_3017187772.mp4'                            
+[10/12/26 11:24:08] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_150                         
+                             1478124_2238842906.mp4'                           
+Animation 47: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_728                         
+                             405972_3321575615.mp4'                            
+[10/12/26 11:24:09] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_212                         
+                             8113778_2815500898.mp4'                           
+Animation 49: FadeIn(Text('Old rates: textbook examples, not advice for today.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 49: FadeIn(Text('Old rates: textbook examples, not advice for today.')): 100%|##########| 15/15 [00:00<00:00, 142.11it/s]                                                                                                                                                       INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_705                         
+                             029924_679207529.mp4'                             
+[10/12/26 11:24:10] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_175                         
+                             7003479_2041534371.mp4'                           
+[10/12/26 11:24:11] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_1206036755.mp4'                           
+Animation 52: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:13] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_954                         
+                             062291_3040361846.mp4'                            
+                    INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_279                         
+                             9310235_129134910.mp4'                            
+Animation 54: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:24:14] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_835                         
+                             662531_932619411.mp4'                             
+                    INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_197                         
+                             8040813_1616962411.mp4'                           
+Animation 56: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:15] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_389                         
+                             0153453_4188602648.mp4'                           
+                    INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_423                         
+                             9250717_2718142452.mp4'                           
+Animation 58: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:16] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_363                         
+                             8332703_461703172.mp4'                            
+[10/12/26 11:24:17] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_392                         
+                             0657056_3192244663.mp4'                           
+Animation 60: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_171                         
+                             4455210_1015051254.mp4'                           
+[10/12/26 11:24:18] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_176                         
+                             9298998_15400593.mp4'                             
+Animation 62: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_288                         
+                             6481726_1410724592.mp4'                           
+[10/12/26 11:24:19] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_250                         
+                             0955231_2099261044.mp4'                           
+                    INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_2848280782.mp4'                           
+Animation 65: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:21] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_399                         
+                             7069975_3040361846.mp4'                           
+[10/12/26 11:24:22] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_226                         
+                             4653794_1427150765.mp4'                           
+Animation 67: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:23] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_125                         
+                             2675428_1657983337.mp4'                           
+                    INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_637                         
+                             025325_2438278321.mp4'                            
+Animation 69: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:24] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_108                         
+                             0535094_3817010918.mp4'                           
+                    INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_760                         
+                             853243_1225004158.mp4'                            
+Animation 71: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:24:25] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_117                         
+                             4387519_3009699466.mp4'                           
+[10/12/26 11:24:26] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_325                         
+                             3179539_123774846.mp4'                            
+Animation 73: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_280                         
+                             727008_1156093154.mp4'                            
+[10/12/26 11:24:27] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_121                         
+                             4064111_739436015.mp4'                            
+Animation 75: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:28] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_909                         
+                             132429_4279464152.mp4'                            
+[10/12/26 11:24:29] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_127                         
+                             5423366_1618889303.mp4'                           
+                    INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_3320170917.mp4'                           
+Animation 78: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:31] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_388                         
+                             104287_3040361846.mp4'                            
+[10/12/26 11:24:32] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_210                         
+                             2850374_2961837062.mp4'                           
+Animation 80: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_142                         
+                             3936189_1987648404.mp4'                           
+[10/12/26 11:24:33] INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_307                         
+                             2101365_3348830138.mp4'                           
+Animation 82: FadeIn(DashedLine):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                            INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_212                         
+                             2317688_4239047903.mp4'                           
+                    INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_187                         
+                             8188938_615802125.mp4'                            
+Animation 84: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:24:34] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_198                         
+                             5305188_1305333244.mp4'                           
+                    INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_713                         
+                             316336_3065634532.mp4'                            
+Animation 86: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:24:35] INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_425                         
+                             9092433_3759686124.mp4'                           
+                    INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_274                         
+                             6395513_1908156512.mp4'                           
+Animation 88: FadeIn(MathTex('180+180=360')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                          [10/12/26 11:24:36] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_301                         
+                             9024004_1234592532.mp4'                           
+[10/12/26 11:24:37] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_500                         
+                             317395_3609925570.mp4'                            
+[10/12/26 11:24:38] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_4226241801.mp4'                           
+Animation 91: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:24:39] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_226                         
+                             8038051_3040361846.mp4'                           
+[10/12/26 11:24:40] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_133                         
+                             0643754_2861398308.mp4'                           
+Animation 93: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 93: FadeIn(VGroup of 2 submobjects):  80%|########  | 12/15 [00:00<00:00, 108.87it/s]                                                                                               [10/12/26 11:24:41] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_371                         
+                             420549_250930066.mp4'                             
+[10/12/26 11:24:42] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_195                         
+                             3292814_4169717135.mp4'                           
+Animation 95: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 95: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 117.26it/s]                                                                                                                   INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_266                         
+                             3587447_2229352745.mp4'                           
+[10/12/26 11:24:44] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_417                         
+                             6276763_776822984.mp4'                            
+Animation 97: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_726                         
+                             183306_2782239164.mp4'                            
+[10/12/26 11:24:45] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_332                         
+                             360221_2479612106.mp4'                            
+Animation 99: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 99: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 121.93it/s]                                                                                                                   INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_145                         
+                             5348712_1928347649.mp4'                           
+[10/12/26 11:24:46] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_359                         
+                             3866675_2212273065.mp4'                           
+Animation 101: FadeIn(Text('Tax adds, discount removes.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                  [10/12/26 11:24:47] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_108                         
+                             3632236_1061882010.mp4'                           
+[10/12/26 11:24:48] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_286                         
+                             5177130_4006374085.mp4'                           
+                    INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_1276582902.mp4'                           
+Animation 104: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:24:50] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_679                         
+                             265186_3040361846.mp4'                            
+[10/12/26 11:24:51] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_363                         
+                             0788030_3552721816.mp4'                           
+Animation 106: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:24:52] INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_328                         
+                             5584702_919183350.mp4'                            
+                    INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_965                         
+                             422131_2286338883.mp4'                            
+Animation 108: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_266                         
+                             6225768_517612951.mp4'                            
+[10/12/26 11:24:53] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_912                         
+                             739880_1601845085.mp4'                            
+Animation 110: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:24:54] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_247                         
+                             8913392_160677381.mp4'                            
+[10/12/26 11:24:55] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_711                         
+                             933837_3769570366.mp4'                            
+Animation 112: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_420                         
+                             826516_3282076575.mp4'                            
+[10/12/26 11:24:56] INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_401                         
+                             4806379_2761650301.mp4'                           
+Animation 114: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:24:57] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_362                         
+                             0883700_1235059104.mp4'                           
+[10/12/26 11:24:58] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_308                         
+                             0870348_450046514.mp4'                            
+                    INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_398516727.mp4'                            
+Animation 117: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:25:00] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_285                         
+                             3638574_3040361846.mp4'                           
+[10/12/26 11:25:01] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_439                         
+                             894283_540413941.mp4'                             
+Animation 119: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 119: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 96.75it/s]                                                                                               [10/12/26 11:25:02] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_157                         
+                             4060463_2901884595.mp4'                           
+[10/12/26 11:25:03] INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_194                         
+                             2653636_2663251338.mp4'                           
+Animation 121: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 121: FadeIn(VGroup of 3 submobjects):  47%|####6     | 7/15 [00:00<00:00, 55.35it/s]Animation 121: FadeIn(VGroup of 3 submobjects):  87%|########6 | 13/15 [00:00<00:00, 56.46it/s]                                                                                               [10/12/26 11:25:04] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_447                         
+                             640247_3411287679.mp4'                            
+[10/12/26 11:25:05] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_191                         
+                             6780789_3420655933.mp4'                           
+Animation 123: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:25:06] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_292                         
+                             5996064_499838357.mp4'                            
+[10/12/26 11:25:07] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_281                         
+                             3089486_326114878.mp4'                            
+Animation 125: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_208                         
+                             3352575_2565700329.mp4'                           
+[10/12/26 11:25:09] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_355                         
+                             1289501_3126649279.mp4'                           
+                    INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_3634997102.mp4'                           
+Animation 128: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                              [10/12/26 11:25:10] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_388                         
+                             6701318_2874837688.mp4'                           
+Animation 129: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                            INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_900                         
+                             376641_2574599650.mp4'                            
+Animation 130: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:25:11] INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_129                         
+                             1494693_2574599650.mp4'                           
+Animation 131: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_177                         
+                             8214446_2574599650.mp4'                           
+Animation 132: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:25:12] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_429                         
+                             4498726_2574599650.mp4'                           
+Animation 133: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_354                         
+                             535490_2574599650.mp4'                            
+Animation 134: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:25:13] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_267                         
+                             5960599_2574599650.mp4'                           
+Animation 135: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:25:14] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_123                         
+                             3433216_2574599650.mp4'                           
+Animation 136: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:25:15] INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_287                         
+                             7805945_2574599650.mp4'                           
+Animation 137: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:25:16] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_907                         
+                             601918_2574599650.mp4'                            
+Animation 138: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_139                         
+                             0479260_2574599650.mp4'                           
+Animation 139: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                               [10/12/26 11:25:17] INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_104                         
+                             3310549_1801125860.mp4'                           
+[10/12/26 11:25:19] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_250                         
+                             0162200_1569483381.mp4'                           
+Animation 141: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  17%|#6        | 3/18 [00:00<00:00, 24.38it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:00, 26.33it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  50%|#####     | 9/18 [00:00<00:00, 23.31it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  67%|######6   | 12/18 [00:00<00:00, 20.33it/s]Animation 141: FadeOut(VGroup of 3 submobjects), etc.:  83%|########3 | 15/18 [00:00<00:00, 22.17it/s]                                                                                                      [10/12/26 11:25:21] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_356                         
+                             3796499_4193668934.mp4'                           
+[10/12/26 11:25:22] INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_379                         
+                             1570313_478228942.mp4'                            
+Animation 143: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_158                         
+                             769318_1144324579.mp4'                            
+[10/12/26 11:25:23] INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_302                         
+                             9783719_2852663089.mp4'                           
+Animation 145: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:25:24] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_416                         
+                             8640708_710753825.mp4'                            
+[10/12/26 11:25:25] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_200                         
+                             0388237_3709587012.mp4'                           
+Animation 147: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_296                         
+                             6407977_3052235492.mp4'                           
+[10/12/26 11:25:26] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_116                         
+                             0369097_2928506162.mp4'                           
+                    INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_888666772.mp4'                            
+Animation 150: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:25:28] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_903                         
+                             707341_3040361846.mp4'                            
+[10/12/26 11:25:29] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_107                         
+                             9645576_950707088.mp4'                            
+Animation 152: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_353                         
+                             2553859_4145855984.mp4'                           
+[10/12/26 11:25:30] INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_242                         
+                             8109959_3493960623.mp4'                           
+Animation 154: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_155                         
+                             8613303_1947042389.mp4'                           
+[10/12/26 11:25:31] INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_397                         
+                             6378261_4130567989.mp4'                           
+Animation 156: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_395                         
+                             7300211_734624767.mp4'                            
+[10/12/26 11:25:32] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_315                         
+                             6923267_2032897812.mp4'                           
+Animation 158: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_325                         
+                             0145605_3889528553.mp4'                           
+[10/12/26 11:25:33] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_360                         
+                             3132594_2599480763.mp4'                           
+Animation 160: FadeIn(Text('Start at 100%, add the tax, work backward.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                 [10/12/26 11:25:34] INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_388                         
+                             0864468_3453965423.mp4'                           
+[10/12/26 11:25:35] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_413                         
+                             8916929_1781867156.mp4'                           
+Animation 162: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/17 [00:00<?, ?it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  35%|###5      | 6/17 [00:00<00:00, 53.04it/s]Animation 162: FadeOut(VGroup of 1 submobjects), etc.:  71%|#######   | 12/17 [00:00<00:00, 56.77it/s]                                                                                                      [10/12/26 11:25:36] INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_394                         
+                             6194806_1293822904.mp4'                           
+Animation 163: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_392                         
+                             9565830_1482164634.mp4'                           
+Animation 164: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                    [10/12/26 11:25:37] INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_356                         
+                             5173296_1150066863.mp4'                           
+                    INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_192                         
+                             6741706_528147457.mp4'                            
+                    INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_319                         
+                             7081273_994081189.mp4'                            
+[10/12/26 11:25:38] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\sales_tax_v                         
+                             at_and_gst_calculations\3                         
+                             60p30\partial_movie_files                         
+                             \SalesTaxVatAndGstCalcula                         
+                             tionsStory\1490007039_499                         
+                             328632_861893847.mp4'                             
+[SYNC] 60 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\sales_tax_vat_and_gst_calculations\360p30\SalesTaxVatAndGstCalculationsStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 11:25:56] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\sales_tax_                          
+                             vat_and_gst_calculations                          
+                             \360p30\SalesTaxVatAndGs                          
+                             tCalculationsStory.mp4'                           
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 169                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             SalesTaxVatAndGstCalculationsStory                
+                             Played 168 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Sales-Tax-VAT-and-GST-Calculations\media\videos\sales_tax_vat_and_gst_calculations\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Sales-Tax-VAT-and-GST-Calculations\media\videos\sales_tax_vat_and_gst_calculations\360p30\SalesTaxVatAndGstCalculationsStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Sales-Tax-VAT-and-GST-Calculations\media\videos\sales_tax_vat_and_gst_calculations\360p30\SalesTaxVatAndGstCalculationsStory.real.srt
+
+=== SalesTaxVatAndGstCalculationsStory.mp4
+    640x360 @ 30/1  frames=12233
+    video  407.766s (start +0.000)   audio  405.483s (start +0.000)   silent tail +2.283s  [ok]
+    captions: 132  first 0.14s  last 405.44s  (video 407.77s)
+    speech blocks: 123  speech time 333.3s (82.2% of audio)
+    caption time 387.6s   caption-inside-speech 85.8%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Sales-Tax-VAT-and-GST-Calculations\sales_tax_vat_and_gst_calculations.py sales_tax_vat_and_gst_calculations NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Sales-Tax-VAT-and-GST-Calculations\media\videos\sales_tax_vat_and_gst_calculations\360p30\SalesTaxVatAndGstCalculationsStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:26:01] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== sales_tax_vat_and_gst_calculations :: SalesTaxVatAndGstCalculationsStory.real.srt
+    narration words 1151   srt words 1151
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i SalesTaxVatAndGstCalculationsStory.mp4 -vf subtitles=SalesTaxVatAndGstCalculationsStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=10,MarginL=43,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy SalesTaxVatAndGstCalculationsStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'SalesTaxVatAndGstCalculationsStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:06:47.77, start: 0.000000, bitrate: 290 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 163 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 00000277d4de3c80] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 00000277d4de3c80] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 00000277d4de3c80] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 00000277d4de3c80] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 00000277d4cffe00] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 00000277d4cffe00] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 00000277d4cffe00] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 00000277d4cffe00] Using font provider directwrite (with GDI)
+[libx264 @ 00000277d4de3200] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 00000277d4de3200] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 00000277d4de3200] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'SalesTaxVatAndGstCalculationsStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 00000277d4cffe00] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  434 fps=0.0 q=24.0 size=     512KiB time=00:00:14.40 bitrate= 291.3kbits/s speed=28.7x elapsed=0:00:00.50    frame=  891 fps=872 q=24.0 size=    1024KiB time=00:00:29.63 bitrate= 283.1kbits/s speed=  29x elapsed=0:00:01.02    frame= 1386 fps=898 q=24.0 size=    1792KiB time=00:00:46.13 bitrate= 318.2kbits/s speed=29.9x elapsed=0:00:01.54    frame= 1845 fps=900 q=24.0 size=    2304KiB time=00:01:01.43 bitrate= 307.2kbits/s speed=  30x elapsed=0:00:02.05    frame= 2318 fps=904 q=24.0 size=    3072KiB time=00:01:17.20 bitrate= 326.0kbits/s speed=30.1x elapsed=0:00:02.56    frame= 2881 fps=931 q=24.0 size=    3584KiB time=00:01:35.96 bitrate= 305.9kbits/s speed=  31x elapsed=0:00:03.09    frame= 3314 fps=921 q=24.0 size=    4096KiB time=00:01:50.40 bitrate= 303.9kbits/s speed=30.7x elapsed=0:00:03.59    frame= 3773 fps=916 q=24.0 size=    4608KiB time=00:02:05.70 bitrate= 300.3kbits/s speed=30.5x elapsed=0:00:04.11    frame= 4263 fps=919 q=24.0 size=    5120KiB time=00:02:22.03 bitrate= 295.3kbits/s speed=30.6x elapsed=0:00:04.63    frame= 4740 fps=919 q=24.0 size=    5888KiB time=00:02:37.93 bitrate= 305.4kbits/s speed=30.6x elapsed=0:00:05.15    frame= 5240 fps=925 q=24.0 size=    6400KiB time=00:02:54.60 bitrate= 300.3kbits/s speed=30.8x elapsed=0:00:05.66    frame= 5647 fps=914 q=24.0 size=    6912KiB time=00:03:08.16 bitrate= 300.9kbits/s speed=30.4x elapsed=0:00:06.18    frame= 6079 fps=908 q=24.0 size=    7424KiB time=00:03:22.56 bitrate= 300.2kbits/s speed=30.3x elapsed=0:00:06.69    frame= 6543 fps=907 q=24.0 size=    7936KiB time=00:03:38.03 bitrate= 298.2kbits/s speed=30.2x elapsed=0:00:07.21    frame= 7017 fps=908 q=24.0 size=    8448KiB time=00:03:53.83 bitrate= 296.0kbits/s speed=30.3x elapsed=0:00:07.72    frame= 7443 fps=902 q=24.0 size=    9216KiB time=00:04:08.03 bitrate= 304.4kbits/s speed=30.1x elapsed=0:00:08.24    frame= 7938 fps=906 q=24.0 size=    9728KiB time=00:04:24.53 bitrate= 301.3kbits/s speed=30.2x elapsed=0:00:08.76    frame= 8399 fps=906 q=24.0 size=   10240KiB time=00:04:39.90 bitrate= 299.7kbits/s speed=30.2x elapsed=0:00:09.27    frame= 8881 fps=907 q=24.0 size=   10752KiB time=00:04:55.96 bitrate= 297.6kbits/s speed=30.2x elapsed=0:00:09.78    frame= 9423 fps=915 q=24.0 size=   11264KiB time=00:05:14.03 bitrate= 293.8kbits/s speed=30.5x elapsed=0:00:10.30    frame= 9888 fps=914 q=24.0 size=   11776KiB time=00:05:29.53 bitrate= 292.7kbits/s speed=30.5x elapsed=0:00:10.81    frame=10208 fps=900 q=24.0 size=   12032KiB time=00:05:40.20 bitrate= 289.7kbits/s speed=  30x elapsed=0:00:11.33    frame=10703 fps=903 q=24.0 size=   12544KiB time=00:05:56.70 bitrate= 288.1kbits/s speed=30.1x elapsed=0:00:11.84    frame=11150 fps=902 q=24.0 size=   13056KiB time=00:06:11.60 bitrate= 287.8kbits/s speed=  30x elapsed=0:00:12.36    frame=11523 fps=894 q=24.0 size=   13568KiB time=00:06:24.03 bitrate= 289.4kbits/s speed=29.8x elapsed=0:00:12.88    frame=11989 fps=895 q=24.0 size=   14080KiB time=00:06:39.56 bitrate= 288.7kbits/s speed=29.8x elapsed=0:00:13.40    [out#0/mp4 @ 00000277d4cff280] video:8403KiB audio:6102KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.015612%
+frame=12233 fps=889 q=-1.0 Lsize=   14943KiB time=00:06:45.48 bitrate= 301.9kbits/s speed=29.5x elapsed=0:00:13.76    
+[libx264 @ 00000277d4de3200] frame I:49    Avg QP:12.34  size: 60081
+[libx264 @ 00000277d4de3200] frame P:3258  Avg QP:15.18  size:  1643
+[libx264 @ 00000277d4de3200] frame B:8926  Avg QP:18.80  size:    34
+[libx264 @ 00000277d4de3200] consecutive B-frames:  1.6%  2.5%  2.6% 93.3%
+[libx264 @ 00000277d4de3200] mb I  I16..4: 14.4% 29.8% 55.7%
+[libx264 @ 00000277d4de3200] mb P  I16..4:  0.5%  0.7%  0.3%  P16..4:  6.7%  0.7%  0.8%  0.0%  0.0%    skip:90.3%
+[libx264 @ 00000277d4de3200] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.4%  0.0%  0.0%  direct: 0.2%  skip:99.3%  L0:37.1% L1:55.9% BI: 7.0%
+[libx264 @ 00000277d4de3200] 8x8 transform intra:35.8% inter:50.6%
+[libx264 @ 00000277d4de3200] coded y,uvDC,uvAC intra: 74.4% 68.6% 42.4% inter: 1.2% 1.6% 0.7%
+[libx264 @ 00000277d4de3200] i16 v,h,dc,p:  8% 69% 10% 14%
+[libx264 @ 00000277d4de3200] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 22% 29%  5%  7%  4%  6%  4%  9%
+[libx264 @ 00000277d4de3200] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 34% 13%  4%  5%  4%  5%  4%  5%
+[libx264 @ 00000277d4de3200] i8c dc,h,v,p: 30% 50% 17%  3%
+[libx264 @ 00000277d4de3200] Weighted P-Frames: Y:0.3% UV:0.3%
+[libx264 @ 00000277d4de3200] ref P L0: 89.5% 10.5%
+[libx264 @ 00000277d4de3200] ref B L0: 91.5%  8.5%
+[libx264 @ 00000277d4de3200] ref B L1: 94.4%  5.6%
+[libx264 @ 00000277d4de3200] kb/s:168.81
+<<< [burn] exit 0
+finals <- SalesTaxVatAndGstCalculationsStory_captioned.mp4 + SalesTaxVatAndGstCalculationsStory_captioned.srt
+
+RESULT Sales-Tax-VAT-and-GST-Calculations: verify_sync=0 verify_captions=0 captioned=SalesTaxVatAndGstCalculationsStory_captioned.mp4

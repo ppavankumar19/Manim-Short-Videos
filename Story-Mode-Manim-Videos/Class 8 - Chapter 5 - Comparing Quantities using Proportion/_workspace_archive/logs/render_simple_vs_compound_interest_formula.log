@@ -1,0 +1,1708 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 simple_vs_compound_interest_formula.py SimpleVsCompoundInterestFormulaStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:26:17] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 11:26:21] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1583504468_                         
+                             2915470316_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:26:22] INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1095347342_1263459195.mp4                         
+                             '                                                 
+Animation 2: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 2: FadeIn(VGroup of 3 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 65.64it/s]                                                                                            [10/12/26 11:26:23] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             985441169_1080908429.mp4'                         
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1375696738_3989938152.mp4                         
+                             '                                                 
+Animation 4: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 4: FadeIn(VGroup of 3 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 108.12it/s]                                                                                              [10/12/26 11:26:24] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3934007383_4169791480.mp4                         
+                             '                                                 
+[10/12/26 11:26:25] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             921378771_2960499813.mp4'                         
+Animation 6: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 6: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 136.74it/s]                                                                                                                  INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1243755049_3041536927.mp4                         
+                             '                                                 
+[10/12/26 11:26:26] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4172690339_3503049786.mp4                         
+                             '                                                 
+Animation 8: FadeIn(Text('WHERE DID THE EXTRA Re 1 COME FROM?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        [10/12/26 11:26:27] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2318464934_1418174476.mp4                         
+                             '                                                 
+                    INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             962398681_2009238607.mp4'                         
+Animation 10: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 11:26:28] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1892843205_4071977741.mp4                         
+                             '                                                 
+[10/12/26 11:26:29] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1961092605_2776843086.mp4                         
+                             '                                                 
+Animation 12: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 12: ReplacementTransform(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 139.39it/s]                                                                                                                                       INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4097244544_1990716670.mp4                         
+                             '                                                 
+[10/12/26 11:26:30] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1137255394_1307884997.mp4                         
+                             '                                                 
+[10/12/26 11:26:31] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_688090858.mp4'                         
+Animation 15: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:33] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1325060356_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:26:34] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1612266517_1574325952.mp4                         
+                             '                                                 
+Animation 17: FadeIn(Text('START')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                     INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             822004887_702438806.mp4'                          
+[10/12/26 11:26:35] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2994023543_1811246315.mp4                         
+                             '                                                 
+Animation 19: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3981158101_3885365972.mp4                         
+                             '                                                 
+[10/12/26 11:26:36] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4182202786_3913252820.mp4                         
+                             '                                                 
+Animation 21: FadeIn(Text('YEAR 1')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 21: FadeIn(Text('YEAR 1')), etc.:  87%|########6 | 13/15 [00:00<00:00, 124.41it/s]                                                                                            [10/12/26 11:26:37] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             357836621_2228368108.mp4'                         
+                    INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             770471629_3523377346.mp4'                         
+Animation 23: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:38] INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2876587156_1810729420.mp4                         
+                             '                                                 
+[10/12/26 11:26:39] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3014128354_2347988333.mp4                         
+                             '                                                 
+Animation 25: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1135105287_3084402353.mp4                         
+                             '                                                 
+[10/12/26 11:26:40] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3569428818_3790366860.mp4                         
+                             '                                                 
+Animation 27: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3993646420_3090047236.mp4                         
+                             '                                                 
+[10/12/26 11:26:41] INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2201211130_769398500.mp4'                         
+Animation 29: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:42] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1182787031_172415109.mp4'                         
+                    INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4061531033_1610856410.mp4                         
+                             '                                                 
+[10/12/26 11:26:43] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_1108152000.mp4                         
+                             '                                                 
+Animation 32: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:45] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1957314925_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:26:46] INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2054732800_3222830692.mp4                         
+                             '                                                 
+Animation 34: FadeIn(Text('START')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                 [10/12/26 11:26:47] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             257803934_2781196553.mp4'                         
+                    INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3011609526_1173482279.mp4                         
+                             '                                                 
+Animation 36: FadeIn(Text('YEAR 1')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 36: FadeIn(Text('YEAR 1')), etc.:  93%|#########3| 14/15 [00:00<00:00, 131.86it/s]                                                                                            [10/12/26 11:26:48] INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2463285952_3623191687.mp4                         
+                             '                                                 
+[10/12/26 11:26:49] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4166335792_3511275034.mp4                         
+                             '                                                 
+Animation 38: ReplacementTransform(VGroup of 2 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]Animation 38: ReplacementTransform(VGroup of 2 submobjects): 100%|##########| 24/24 [00:00<00:00, 233.56it/s]                                                                                                                                 INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             115506449_835376699.mp4'                          
+[10/12/26 11:26:50] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             722707278_3429646991.mp4'                         
+Animation 40: FadeIn(Text('YEAR 2')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                      INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3775429129_3832496086.mp4                         
+                             '                                                 
+[10/12/26 11:26:51] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2197946230_2136608834.mp4                         
+                             '                                                 
+Animation 42: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:52] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             435373405_1055733896.mp4'                         
+                    INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3229906876_472255200.mp4'                         
+Animation 44: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:53] INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             411135627_2427395535.mp4'                         
+[10/12/26 11:26:54] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1203688664_3228453616.mp4                         
+                             '                                                 
+Animation 46: FadeIn(Text('The interest itself earned interest.')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 46: FadeIn(Text('The interest itself earned interest.')): 100%|##########| 15/15 [00:00<00:00, 145.43it/s]                                                                                                                                        INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1564703332_2185455064.mp4                         
+                             '                                                 
+[10/12/26 11:26:55] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             118343832_2212026888.mp4'                         
+[10/12/26 11:26:56] INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_1358632895.mp4                         
+                             '                                                 
+Animation 49: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:26:57] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1085396250_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:26:58] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1968625543_26280882.mp4'                          
+Animation 51: FadeIn(MathTex('A_1=P+\\frac{PR}{100}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1834592075_1355473782.mp4                         
+                             '                                                 
+[10/12/26 11:26:59] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4293451070_1074979823.mp4                         
+                             '                                                 
+Animation 53: ReplacementTransform(MathTex('A_1=P+\\frac{PR}{100}')):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                                                INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             549848743_784381325.mp4'                          
+[10/12/26 11:27:00] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3612059163_2848823797.mp4                         
+                             '                                                 
+Animation 55: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1977579695_3055036561.mp4                         
+                             '                                                 
+[10/12/26 11:27:01] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3719293375_1011475394.mp4                         
+                             '                                                 
+Animation 57: FadeIn(VGroup of 9 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2332632743_3931774859.mp4                         
+                             '                                                 
+[10/12/26 11:27:02] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2134047247_4230681844.mp4                         
+                             '                                                 
+Animation 59: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 59: FadeIn(Arrow), etc.:  93%|#########3| 14/15 [00:00<00:00, 138.70it/s]                                                                                                       INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             164848396_3586659154.mp4'                         
+                    INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             783803274_3999268667.mp4'                         
+[10/12/26 11:27:03] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_408294510.mp4'                         
+Animation 62: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:27:04] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             303074164_3040361846.mp4'                         
+[10/12/26 11:27:05] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             566564805_505980963.mp4'                          
+Animation 64: FadeIn(VGroup of 9 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 64: FadeIn(VGroup of 9 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 100.94it/s]                                                                                                     [10/12/26 11:27:06] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3875029036_3580804919.mp4                         
+                             '                                                 
+                    INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             173285206_2341067771.mp4'                         
+Animation 66: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4038931323_3468570117.mp4                         
+                             '                                                 
+[10/12/26 11:27:07] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1345430768_3640595385.mp4                         
+                             '                                                 
+Animation 68: FadeIn(MathTex('A_2=P\\left(1+\\frac{R}{100}\\right)\\left(1+\\frac{R}{100}\\right)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                                                INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             838253527_2322461642.mp4'                         
+[10/12/26 11:27:08] INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2013130486_2778022050.mp4                         
+                             '                                                 
+Animation 70: FadeIn(MathTex('A_2=P\\left(1+\\frac{R}{100}\\right)^{2}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                     INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1906989678_3078052536.mp4                         
+                             '                                                 
+[10/12/26 11:27:09] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1674954839_3266131984.mp4                         
+                             '                                                 
+Animation 72: FadeIn(Text('Two factors become one square.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                    [10/12/26 11:27:10] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2167441201_3857700456.mp4                         
+                             '                                                 
+                    INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2229650353_3013984974.mp4                         
+                             '                                                 
+[10/12/26 11:27:11] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_3153343272.mp4                         
+                             '                                                 
+Animation 75: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:27:12] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3655424007_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:27:13] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             522173600_3648832180.mp4'                         
+Animation 77: FadeIn(VGroup of 7 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 77: FadeIn(VGroup of 7 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 119.69it/s]                                                                                                     [10/12/26 11:27:14] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             182121835_810839178.mp4'                          
+[10/12/26 11:27:15] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4089015913_11440723.mp4'                          
+Animation 79: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1598238620_3490951515.mp4                         
+                             '                                                 
+[10/12/26 11:27:16] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1252380943_510209137.mp4'                         
+Animation 81: FadeIn(MathTex('A=P\\left(1+\\frac{R}{100}\\right)^{n}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                   INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1867604753_108168996.mp4'                         
+[10/12/26 11:27:17] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1246428994_1887435350.mp4                         
+                             '                                                 
+Animation 83: Indicate(MathTex('A=P\\left(1+\\frac{R}{100}\\right)^{n}')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                 [10/12/26 11:27:18] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2442588995_1354150451.mp4                         
+                             '                                                 
+                    INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3910182345_1368807066.mp4                         
+                             '                                                 
+Animation 85: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:27:19] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1687037425_3549265569.mp4                         
+                             '                                                 
+                    INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4115831865_2783642827.mp4                         
+                             '                                                 
+[10/12/26 11:27:20] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_2664137017.mp4                         
+                             '                                                 
+Animation 88: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:27:21] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2200614418_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:27:22] INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2434673393_1786642354.mp4                         
+                             '                                                 
+Animation 90: FadeIn(VGroup of 1 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 90: FadeIn(VGroup of 1 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 133.49it/s]                                                                                                     [10/12/26 11:27:23] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1347065968_496959897.mp4'                         
+                    INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             470218177_2970755129.mp4'                         
+Animation 92: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:27:24] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             910121125_339385313.mp4'                          
+                    INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3030762400_1912095691.mp4                         
+                             '                                                 
+Animation 94: FadeIn(MathTex('\\text{CI}=P\\left(1+\\frac{R}{100}\\right)^{n}-P')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                          [10/12/26 11:27:25] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2924710921_1977243925.mp4                         
+                             '                                                 
+                    INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3069114555_3327877049.mp4                         
+                             '                                                 
+Animation 96: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 11:27:26] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             998177410_764282800.mp4'                          
+[10/12/26 11:27:27] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2661387081_823603254.mp4'                         
+Animation 98: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2057168467_2485782844.mp4                         
+                             '                                                 
+[10/12/26 11:27:28] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             211582654_2298553886.mp4'                         
+                    INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_3785419051.mp4                         
+                             '                                                 
+Animation 101: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:27:30] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             956240652_3040361846.mp4'                         
+[10/12/26 11:27:31] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             970689225_3082363497.mp4'                         
+Animation 103: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1905714643_1695430952.mp4                         
+                             '                                                 
+[10/12/26 11:27:32] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4004092154_3311957072.mp4                         
+                             '                                                 
+Animation 105: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:27:33] INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1473067535_1556779152.mp4                         
+                             '                                                 
+                    INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             777238960_1300789503.mp4'                         
+Animation 107: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:27:34] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4101144384_429086501.mp4'                         
+[10/12/26 11:27:35] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2395305831_2929264064.mp4                         
+                             '                                                 
+Animation 109: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2864154708_7515432.mp4'                           
+[10/12/26 11:27:36] INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1452631368_2785413522.mp4                         
+                             '                                                 
+Animation 111: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1601061825_3737659101.mp4                         
+                             '                                                 
+[10/12/26 11:27:37] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1196743726_566833945.mp4'                         
+                    INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_3153939187.mp4                         
+                             '                                                 
+Animation 114: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:27:39] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2844488003_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:27:40] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1681273562_1403944377.mp4                         
+                             '                                                 
+Animation 116: FadeIn(VGroup of 9 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 116: FadeIn(VGroup of 9 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 102.91it/s]                                                                                                                    INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             270824973_1222456075.mp4'                         
+[10/12/26 11:27:41] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2258414949_3751633755.mp4                         
+                             '                                                 
+Animation 118: FadeIn(VGroup of 8 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 118: FadeIn(VGroup of 8 submobjects):  93%|#########3| 14/15 [00:00<00:00, 132.75it/s]                                                                                                [10/12/26 11:27:42] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             591286165_86835949.mp4'                           
+[10/12/26 11:27:43] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             545922758_784547390.mp4'                          
+Animation 120: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1137184779_942819388.mp4'                         
+[10/12/26 11:27:44] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2316351600_3641293127.mp4                         
+                             '                                                 
+Animation 122: Indicate(VGroup of 9 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 122: Indicate(VGroup of 9 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 75.52it/s]                                                                                                [10/12/26 11:27:45] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1546530901_471378038.mp4'                         
+[10/12/26 11:27:46] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             260757325_145879659.mp4'                          
+Animation 124: Indicate(VGroup of 8 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 124: Indicate(VGroup of 8 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 78.49it/s]                                                                                                      [10/12/26 11:27:47] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1527464456_207550888.mp4'                         
+                    INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3836052641_4055440400.mp4                         
+                             '                                                 
+[10/12/26 11:27:48] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_3588524414.mp4                         
+                             '                                                 
+Animation 127: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 127: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 138.84it/s]                                                                                                [10/12/26 11:27:50] INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2853638574_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:27:51] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3383112443_540413941.mp4'                         
+Animation 129: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:27:52] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4250023717_2901884595.mp4                         
+                             '                                                 
+                    INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             737643838_2954025672.mp4'                         
+Animation 131: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 131: FadeIn(VGroup of 3 submobjects):  67%|######6   | 10/15 [00:00<00:00, 92.83it/s]                                                                                               [10/12/26 11:27:53] INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2348685415_2642879703.mp4                         
+                             '                                                 
+                    INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             709029838_3766249980.mp4'                         
+Animation 133: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:27:54] INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2542019006_2221556421.mp4                         
+                             '                                                 
+[10/12/26 11:27:55] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1874418025_58788746.mp4'                          
+Animation 135: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 135: FadeIn(VGroup of 3 submobjects):  87%|########6 | 13/15 [00:00<00:00, 129.05it/s]                                                                                                [10/12/26 11:27:56] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3296594896_804980933.mp4'                         
+[10/12/26 11:27:57] INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             74929242_3891051768.mp4'                          
+                    INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_574908349.mp4'                         
+Animation 138: FadeIn(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                              [10/12/26 11:27:58] INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3886701318_2383946355.mp4                         
+                             '                                                 
+Animation 139: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                            INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             900376641_637451672.mp4'                          
+Animation 140: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:27:59] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1291494693_637451672.mp4'                         
+Animation 141: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1778214446_637451672.mp4'                         
+Animation 142: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:28:00] INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4294498726_637451672.mp4'                         
+Animation 143: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:28:01] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             354535490_637451672.mp4'                          
+Animation 144: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2675960599_637451672.mp4'                         
+Animation 145: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:28:02] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1233433216_637451672.mp4'                         
+Animation 146: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:28:03] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2877805945_637451672.mp4'                         
+Animation 147: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             907601918_637451672.mp4'                          
+Animation 148: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 11:28:04] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1390479260_637451672.mp4'                         
+Animation 149: FadeOut(Rectangle), etc.:   0%|          | 0/12 [00:00<?, ?it/s]                                                                               [10/12/26 11:28:05] INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1043310549_2804727058.mp4                         
+                             '                                                 
+[10/12/26 11:28:08] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3112882054_4114100897.mp4                         
+                             '                                                 
+Animation 151: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 151: FadeOut(VGroup of 3 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:00, 39.79it/s]Animation 151: FadeOut(VGroup of 3 submobjects), etc.:  50%|#####     | 9/18 [00:00<00:00, 38.99it/s]Animation 151: FadeOut(VGroup of 3 submobjects), etc.:  72%|#######2  | 13/18 [00:00<00:00, 36.39it/s]Animation 151: FadeOut(VGroup of 3 submobjects), etc.:  94%|#########4| 17/18 [00:00<00:00, 33.02it/s]                                                                                                      [10/12/26 11:28:10] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             78655143_4193668934.mp4'                          
+[10/12/26 11:28:11] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2367584828_2997736126.mp4                         
+                             '                                                 
+Animation 153: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4202232238_3694528086.mp4                         
+                             '                                                 
+[10/12/26 11:28:12] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1910583203_1104470019.mp4                         
+                             '                                                 
+Animation 155: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 155: FadeIn(VGroup of 3 submobjects):  80%|########  | 12/15 [00:00<00:00, 110.35it/s]                                                                                                [10/12/26 11:28:13] INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2919422753_162159450.mp4'                         
+[10/12/26 11:28:14] INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3103695815_4255879688.mp4                         
+                             '                                                 
+Animation 157: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3964808713_2005849116.mp4                         
+                             '                                                 
+[10/12/26 11:28:15] INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1239824961_3932440095.mp4                         
+                             '                                                 
+                    INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_798343659.mp4'                         
+Animation 160: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 11:28:17] INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1020697988_3040361846.mp4                         
+                             '                                                 
+[10/12/26 11:28:18] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4156487583_3768230268.mp4                         
+                             '                                                 
+Animation 162: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3445570465_1726333583.mp4                         
+                             '                                                 
+[10/12/26 11:28:19] INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             4204792136_2061066095.mp4                         
+                             '                                                 
+Animation 164: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1646609580_1365396205.mp4                         
+                             '                                                 
+[10/12/26 11:28:20] INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3763186152_3536130230.mp4                         
+                             '                                                 
+Animation 166: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1842588341_483068049.mp4'                         
+[10/12/26 11:28:21] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3391833928_1771812454.mp4                         
+                             '                                                 
+Animation 168: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 168 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2628767532_717747587.mp4'                         
+[10/12/26 11:28:22] INFO     Animation 169 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1169736420_2645175425.mp4                         
+                             '                                                 
+Animation 170: FadeIn(Text('Simple: original base. Compound: new base.')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                     INFO     Animation 170 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3339966469_40188173.mp4'                          
+[10/12/26 11:28:23] INFO     Animation 171 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             1446042864_1283020584.mp4                         
+                             '                                                 
+Animation 172: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/17 [00:00<?, ?it/s]Animation 172: FadeOut(VGroup of 1 submobjects), etc.:  41%|####1     | 7/17 [00:00<00:00, 65.66it/s]Animation 172: FadeOut(VGroup of 1 submobjects), etc.:  82%|########2 | 14/17 [00:00<00:00, 63.94it/s]                                                                                                      [10/12/26 11:28:24] INFO     Animation 172 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3186176170_274466894.mp4'                         
+Animation 173: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 173 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3929565830_1482164634.mp4                         
+                             '                                                 
+                    INFO     Animation 174 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             2840131699_4195029737.mp4                         
+                             '                                                 
+Animation 175: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                    [10/12/26 11:28:25] INFO     Animation 175 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3565173296_1091156259.mp4                         
+                             '                                                 
+                    INFO     Animation 176 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             115282587_1893385987.mp4'                         
+                    INFO     Animation 177 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             3197081273_2991749695.mp4                         
+                             '                                                 
+                    INFO     Animation 178 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\simple_vs_c                         
+                             ompound_interest_formula\                         
+                             360p30\partial_movie_file                         
+                             s\SimpleVsCompoundInteres                         
+                             tFormulaStory\1490007039_                         
+                             499328632_1082944778.mp4'                         
+[SYNC] 65 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\simple_vs_compound_interest_formula\360p30\SimpleVsCompoundInterestFormulaStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 11:28:41] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\simple_vs_                          
+                             compound_interest_formul                          
+                             a\360p30\SimpleVsCompoun                          
+                             dInterestFormulaStory.mp                          
+                             4'                                                
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 180                               
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             SimpleVsCompoundInterestFormulaStory              
+                             Played 179 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Simple-vs-Compound-Interest\media\videos\simple_vs_compound_interest_formula\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Simple-vs-Compound-Interest\media\videos\simple_vs_compound_interest_formula\360p30\SimpleVsCompoundInterestFormulaStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Simple-vs-Compound-Interest\media\videos\simple_vs_compound_interest_formula\360p30\SimpleVsCompoundInterestFormulaStory.real.srt
+
+=== SimpleVsCompoundInterestFormulaStory.mp4
+    640x360 @ 30/1  frames=11869
+    video  395.633s (start +0.000)   audio  393.344s (start +0.000)   silent tail +2.289s  [ok]
+    captions: 120  first 0.14s  last 393.31s  (video 395.63s)
+    speech blocks: 111  speech time 327.2s (83.2% of audio)
+    caption time 375.9s   caption-inside-speech 86.9%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Simple-vs-Compound-Interest\simple_vs_compound_interest_formula.py simple_vs_compound_interest_formula NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Class 8 - Chapter 5 - Comparing Quantities using Proportion\Simple-vs-Compound-Interest\media\videos\simple_vs_compound_interest_formula\360p30\SimpleVsCompoundInterestFormulaStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 11:28:45] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== simple_vs_compound_interest_formula :: SimpleVsCompoundInterestFormulaStory.real.srt
+    narration words 1064   srt words 1064
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i SimpleVsCompoundInterestFormulaStory.mp4 -vf subtitles=SimpleVsCompoundInterestFormulaStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=10,MarginL=43,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy SimpleVsCompoundInterestFormulaStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'SimpleVsCompoundInterestFormulaStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:06:35.63, start: 0.000000, bitrate: 300 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 173 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 0000028768a83700] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 0000028768a83700] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 0000028768a83700] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 0000028768a83700] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000002876b2ff0c0] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000002876b2ff0c0] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000002876b2ff0c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000002876b2ff0c0] Using font provider directwrite (with GDI)
+[libx264 @ 0000028768a824c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0000028768a824c0] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 0000028768a824c0] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'SimpleVsCompoundInterestFormulaStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 123 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000002876b2ff0c0] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  456 fps=0.0 q=24.0 size=     512KiB time=00:00:15.13 bitrate= 277.2kbits/s speed=30.1x elapsed=0:00:00.50    frame=  947 fps=929 q=24.0 size=    1024KiB time=00:00:31.50 bitrate= 266.3kbits/s speed=30.9x elapsed=0:00:01.01    frame= 1410 fps=918 q=24.0 size=    1536KiB time=00:00:46.93 bitrate= 268.1kbits/s speed=30.6x elapsed=0:00:01.53    frame= 1882 fps=919 q=24.0 size=    2304KiB time=00:01:02.66 bitrate= 301.2kbits/s speed=30.6x elapsed=0:00:02.04    frame= 2344 fps=915 q=24.0 size=    2816KiB time=00:01:18.06 bitrate= 295.5kbits/s speed=30.5x elapsed=0:00:02.56    frame= 2794 fps=906 q=24.0 size=    3328KiB time=00:01:33.06 bitrate= 292.9kbits/s speed=30.2x elapsed=0:00:03.08    frame= 3164 fps=878 q=24.0 size=    3840KiB time=00:01:45.40 bitrate= 298.5kbits/s speed=29.3x elapsed=0:00:03.60    frame= 3530 fps=858 q=24.0 size=    4352KiB time=00:01:57.60 bitrate= 303.2kbits/s speed=28.6x elapsed=0:00:04.11    frame= 3845 fps=830 q=24.0 size=    4608KiB time=00:02:08.10 bitrate= 294.7kbits/s speed=27.7x elapsed=0:00:04.63    frame= 4170 fps=810 q=24.0 size=    5120KiB time=00:02:18.93 bitrate= 301.9kbits/s speed=  27x elapsed=0:00:05.14    frame= 4559 fps=806 q=24.0 size=    5632KiB time=00:02:31.90 bitrate= 303.7kbits/s speed=26.9x elapsed=0:00:05.65    frame= 4933 fps=800 q=24.0 size=    6144KiB time=00:02:44.36 bitrate= 306.2kbits/s speed=26.6x elapsed=0:00:06.16    frame= 5326 fps=796 q=24.0 size=    6656KiB time=00:02:57.46 bitrate= 307.2kbits/s speed=26.5x elapsed=0:00:06.69    frame= 5723 fps=795 q=24.0 size=    6912KiB time=00:03:10.70 bitrate= 296.9kbits/s speed=26.5x elapsed=0:00:07.20    frame= 6098 fps=789 q=24.0 size=    7424KiB time=00:03:23.20 bitrate= 299.3kbits/s speed=26.3x elapsed=0:00:07.72    frame= 6558 fps=796 q=24.0 size=    8192KiB time=00:03:38.53 bitrate= 307.1kbits/s speed=26.5x elapsed=0:00:08.23    frame= 7026 fps=802 q=24.0 size=    8704KiB time=00:03:54.13 bitrate= 304.5kbits/s speed=26.7x elapsed=0:00:08.76    frame= 7483 fps=807 q=24.0 size=    9216KiB time=00:04:09.36 bitrate= 302.8kbits/s speed=26.9x elapsed=0:00:09.27    frame= 7883 fps=804 q=24.0 size=    9728KiB time=00:04:22.70 bitrate= 303.4kbits/s speed=26.8x elapsed=0:00:09.80    frame= 8397 fps=814 q=24.0 size=   10240KiB time=00:04:39.83 bitrate= 299.8kbits/s speed=27.1x elapsed=0:00:10.31    frame= 8813 fps=813 q=24.0 size=   10752KiB time=00:04:53.70 bitrate= 299.9kbits/s speed=27.1x elapsed=0:00:10.83    frame= 9293 fps=819 q=24.0 size=   11264KiB time=00:05:09.70 bitrate= 297.9kbits/s speed=27.3x elapsed=0:00:11.34    frame= 9727 fps=820 q=24.0 size=   11776KiB time=00:05:24.16 bitrate= 297.6kbits/s speed=27.3x elapsed=0:00:11.86    frame=10192 fps=823 q=24.0 size=   12288KiB time=00:05:39.66 bitrate= 296.4kbits/s speed=27.4x elapsed=0:00:12.38    frame=10674 fps=828 q=24.0 size=   12800KiB time=00:05:55.73 bitrate= 294.8kbits/s speed=27.6x elapsed=0:00:12.89    frame=11121 fps=829 q=24.0 size=   13312KiB time=00:06:10.63 bitrate= 294.2kbits/s speed=27.6x elapsed=0:00:13.41    frame=11619 fps=834 q=24.0 size=   13824KiB time=00:06:27.23 bitrate= 292.5kbits/s speed=27.8x elapsed=0:00:13.93    [out#0/mp4 @ 000002876904ee00] video:8457KiB audio:5914KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.952737%
+frame=11869 fps=831 q=-1.0 Lsize=   14795KiB time=00:06:33.34 bitrate= 308.1kbits/s speed=27.5x elapsed=0:00:14.28    
+[libx264 @ 0000028768a824c0] frame I:48    Avg QP:12.31  size: 59977
+[libx264 @ 0000028768a824c0] frame P:3160  Avg QP:14.94  size:  1728
+[libx264 @ 0000028768a824c0] frame B:8661  Avg QP:18.66  size:    37
+[libx264 @ 0000028768a824c0] consecutive B-frames:  1.6%  2.3%  2.9% 93.3%
+[libx264 @ 0000028768a824c0] mb I  I16..4: 13.9% 31.0% 55.2%
+[libx264 @ 0000028768a824c0] mb P  I16..4:  0.6%  0.7%  0.4%  P16..4:  7.3%  0.7%  0.8%  0.0%  0.0%    skip:89.5%
+[libx264 @ 0000028768a824c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.5%  0.1%  0.0%  direct: 0.2%  skip:99.2%  L0:39.2% L1:53.6% BI: 7.2%
+[libx264 @ 0000028768a824c0] 8x8 transform intra:36.5% inter:50.6%
+[libx264 @ 0000028768a824c0] coded y,uvDC,uvAC intra: 74.5% 68.5% 41.7% inter: 1.2% 1.7% 0.7%
+[libx264 @ 0000028768a824c0] i16 v,h,dc,p: 10% 67% 10% 14%
+[libx264 @ 0000028768a824c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 22% 29%  5%  7%  3%  6%  3% 10%
+[libx264 @ 0000028768a824c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 34% 14%  4%  5%  4%  5%  4%  5%
+[libx264 @ 0000028768a824c0] i8c dc,h,v,p: 31% 49% 17%  3%
+[libx264 @ 0000028768a824c0] Weighted P-Frames: Y:0.4% UV:0.3%
+[libx264 @ 0000028768a824c0] ref P L0: 89.8% 10.2%
+[libx264 @ 0000028768a824c0] ref B L0: 90.8%  9.2%
+[libx264 @ 0000028768a824c0] ref B L1: 93.0%  7.0%
+[libx264 @ 0000028768a824c0] kb/s:175.10
+<<< [burn] exit 0
+finals <- SimpleVsCompoundInterestFormulaStory_captioned.mp4 + SimpleVsCompoundInterestFormulaStory_captioned.srt
+
+RESULT Simple-vs-Compound-Interest: verify_sync=0 verify_captions=0 captioned=SimpleVsCompoundInterestFormulaStory_captioned.mp4
