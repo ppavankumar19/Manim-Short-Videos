@@ -1,0 +1,1422 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 focusing_sunlight_and_solar_cooker.py FocusingSunlightAndSolarCookerStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 21:50:27] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+[10/12/26 21:50:30] INFO     Animation 0 : Using cached    cairo_renderer.py:92
+                             data (hash :                                      
+                             1583504468_2788368509_4136522                     
+                             127)                                              
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                       INFO     Animation 1 : Using cached    cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1850037335_1191401                     
+                             676)                                              
+                    INFO     Animation 2 : Using cached    cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1830393043_2690602                     
+                             225)                                              
+Animation 2: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                             INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_26                         
+                             24772583_2035861357.mp4'                          
+[10/12/26 21:50:31] INFO     Animation 4 : Using cached    cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_3197081273_1148975                     
+                             847)                                              
+[10/12/26 21:50:32] INFO     Animation 5 : Using cached    cairo_renderer.py:92
+                             data (hash :                                      
+                             1490007039_1749969295_4136522                     
+                             127)                                              
+Animation 5: FadeIn(VGroup of 1 submobjects):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                   Animation 6: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]                                                                                          [10/12/26 21:50:33] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_22                         
+                             54360685_127429024.mp4'                           
+                    INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_17                         
+                             28908770_1939265224.mp4'                          
+Animation 8: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  35%|###5      | 17/48 [00:00<00:00, 167.74it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  73%|#######2  | 35/48 [00:00<00:00, 170.47it/s]                                                                                                    [10/12/26 21:50:34] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_88                         
+                             2400264_141323856.mp4'                            
+                    INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_34                         
+                             9317923_2281928480.mp4'                           
+Animation 10: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 10: FadeIn(VGroup of 4 submobjects), etc.:  23%|##3       | 7/30 [00:00<00:00, 63.21it/s]Animation 10: FadeIn(VGroup of 4 submobjects), etc.:  53%|#####3    | 16/30 [00:00<00:00, 78.22it/s]Animation 10: FadeIn(VGroup of 4 submobjects), etc.:  87%|########6 | 26/30 [00:00<00:00, 84.49it/s]                                                                                                    [10/12/26 21:50:35] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_29                         
+                             56530064_1333304466.mp4'                          
+[10/12/26 21:50:36] INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_36                         
+                             82397865_2720216869.mp4'                          
+Animation 12: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_11                         
+                             21198934_2263495351.mp4'                          
+[10/12/26 21:50:37] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_40                         
+                             96811500_2785190331.mp4'                          
+                    INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_3002872737.mp4'                          
+Animation 15: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 15: FadeIn(VGroup of 1 submobjects):  67%|######6   | 10/15 [00:00<00:00, 93.69it/s]                                                                                              [10/12/26 21:50:56] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_11                         
+                             3049734_4136522127.mp4'                           
+[10/12/26 21:50:58] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_33                         
+                             59460107_2006457093.mp4'                          
+Animation 17: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_40                         
+                             7835248_3271485333.mp4'                           
+[10/12/26 21:50:59] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_81                         
+                             6453743_4114853914.mp4'                           
+Animation 19: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/42 [00:00<?, ?it/s]Animation 19: ReplacementTransform(VGroup of 2 submobjects), etc.:  33%|###3      | 14/42 [00:00<00:00, 139.09it/s]Animation 19: ReplacementTransform(VGroup of 2 submobjects), etc.:  69%|######9   | 29/42 [00:00<00:00, 138.38it/s]                                                                                                                   [10/12/26 21:51:00] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_41                         
+                             03393283_1768499181.mp4'                          
+                    INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_40                         
+                             72398267_3391611143.mp4'                          
+Animation 21: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 21: FadeOut(VGroup of 2 submobjects), etc.:  44%|####4     | 12/27 [00:00<00:00, 117.28it/s]Animation 21: FadeOut(VGroup of 2 submobjects), etc.:  96%|#########6| 26/27 [00:00<00:00, 125.53it/s]                                                                                                      [10/12/26 21:51:01] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_14                         
+                             20833924_728664115.mp4'                           
+[10/12/26 21:51:02] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_16                         
+                             77878888_2477600392.mp4'                          
+Animation 23: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_58                         
+                             8479179_2867379128.mp4'                           
+[10/12/26 21:51:03] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_33                         
+                             67778237_56764229.mp4'                            
+                    INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_3120207778.mp4'                          
+Animation 26: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:51:20] INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_35                         
+                             46616214_4136522127.mp4'                          
+[10/12/26 21:51:21] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_16                         
+                             32663056_1138997444.mp4'                          
+Animation 28: FadeIn(VGroup of 3 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                         INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_38                         
+                             28438101_2156417534.mp4'                          
+                    INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_30                         
+                             23743891_337746733.mp4'                           
+Animation 30: FadeIn(DashedLine), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                  INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_48                         
+                             153924_3418255246.mp4'                            
+[10/12/26 21:51:22] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_96                         
+                             6815321_1387014574.mp4'                           
+Animation 32: FadeIn(VGroup of 3 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                         INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             35015116_2375030348.mp4'                          
+                    INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_35                         
+                             07660015_3164522033.mp4'                          
+Animation 34: FadeIn(VGroup of 4 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_82                         
+                             7309861_3016104898.mp4'                           
+[10/12/26 21:51:23] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_22                         
+                             81053050_155349058.mp4'                           
+Animation 36: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_98                         
+                             5011181_2418902269.mp4'                           
+[10/12/26 21:51:24] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_30                         
+                             0728283_2831988524.mp4'                           
+                    INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_1604552053.mp4'                          
+Animation 39: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:51:44] INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_23                         
+                             01100896_4136522127.mp4'                          
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}f =                               
+                             PF\special{dvisvgm:raw                            
+                             </g>} to                                          
+                             D:\m3\Tex\f4993d2e2795062d                        
+                             .tex                                              
+[10/12/26 21:51:45] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_11                         
+                             20846743_3337404174.mp4'                          
+Animation 41: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_46                         
+                             4856875_1725015137.mp4'                           
+[10/12/26 21:51:46] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_95                         
+                             9893043_1068887657.mp4'                           
+Animation 43: ReplacementTransform(VGroup of 3 submobjects), etc.:   0%|          | 0/42 [00:00<?, ?it/s]Animation 43: ReplacementTransform(VGroup of 3 submobjects), etc.:  76%|#######6  | 32/42 [00:00<00:00, 314.35it/s]                                                                                                                                       INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_30                         
+                             64499305_186756023.mp4'                           
+                    INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_79                         
+                             721601_1613776093.mp4'                            
+Animation 45: ReplacementTransform(VGroup of 3 submobjects), etc.:   0%|          | 0/42 [00:00<?, ?it/s]Animation 45: ReplacementTransform(VGroup of 3 submobjects), etc.:  64%|######4   | 27/42 [00:00<00:00, 268.00it/s]                                                                                                                   [10/12/26 21:51:47] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_35                         
+                             91193672_474055570.mp4'                           
+                    INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             10176555_993482592.mp4'                           
+Animation 47: FadeIn(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:51:48] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_35                         
+                             82309296_1107114945.mp4'                          
+                    INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             59873723_3057392300.mp4'                          
+Animation 49: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:51:49] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             41983461_288035125.mp4'                           
+                    INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_38                         
+                             2045957_1622043641.mp4'                           
+                    INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_2634013536.mp4'                          
+Animation 52: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:52:08] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_27                         
+                             17113127_4136522127.mp4'                          
+[10/12/26 21:52:09] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_36                         
+                             52043120_1680522103.mp4'                          
+Animation 54: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_91                         
+                             1813342_2454260117.mp4'                           
+[10/12/26 21:52:10] INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_72                         
+                             355716_3829950273.mp4'                            
+Animation 56: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/72 [00:00<?, ?it/s]Animation 56: FadeIn(VGroup of 5 submobjects), etc.:  29%|##9       | 21/72 [00:00<00:00, 203.00it/s]Animation 56: FadeIn(VGroup of 5 submobjects), etc.:  58%|#####8    | 42/72 [00:00<00:00, 204.13it/s]Animation 56: FadeIn(VGroup of 5 submobjects), etc.:  88%|########7 | 63/72 [00:00<00:00, 185.19it/s]                                                                                                                         INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_33                         
+                             55611959_2047676472.mp4'                          
+[10/12/26 21:52:11] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_30                         
+                             98486283_3564220025.mp4'                          
+Animation 58: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 58: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 136.06it/s]                                                                                                                         INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_23                         
+                             0182804_1043856388.mp4'                           
+[10/12/26 21:52:12] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_38                         
+                             41898025_484119813.mp4'                           
+Animation 60: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/42 [00:00<?, ?it/s]Animation 60: ReplacementTransform(VGroup of 2 submobjects), etc.:  24%|##3       | 10/42 [00:00<00:00, 97.77it/s]Animation 60: ReplacementTransform(VGroup of 2 submobjects), etc.:  48%|####7     | 20/42 [00:00<00:00, 94.26it/s]Animation 60: ReplacementTransform(VGroup of 2 submobjects), etc.:  71%|#######1  | 30/42 [00:00<00:00, 94.18it/s]Animation 60: ReplacementTransform(VGroup of 2 submobjects), etc.:  95%|#########5| 40/42 [00:00<00:00, 92.00it/s]                                                                                                                  [10/12/26 21:52:13] INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_28                         
+                             98529698_2699898516.mp4'                          
+                    INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_11                         
+                             30848228_2195757084.mp4'                          
+Animation 62: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:52:14] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_86                         
+                             6429594_309618251.mp4'                            
+[10/12/26 21:52:15] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_30                         
+                             51443484_2509292970.mp4'                          
+                    INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_2451475377.mp4'                          
+Animation 65: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:52:32] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             17138006_4136522127.mp4'                          
+[10/12/26 21:52:33] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_22                         
+                             13752390_1904783689.mp4'                          
+Animation 67: FadeIn(VGroup of 5 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                         INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_38                         
+                             38946486_3262652277.mp4'                          
+                    INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_10                         
+                             43818435_34720128.mp4'                            
+Animation 69: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_16                         
+                             93952717_2090073674.mp4'                          
+[10/12/26 21:52:34] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_16                         
+                             82626681_510586570.mp4'                           
+Animation 71: FadeIn(VGroup of 5 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                         INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_25                         
+                             85330527_1014134774.mp4'                          
+Animation 72: _MethodAnimation(VGroup of 5 submobjects):   0%|          | 0/60 [00:00<?, ?it/s]Animation 72: _MethodAnimation(VGroup of 5 submobjects):  82%|########1 | 49/60 [00:00<00:00, 479.60it/s]                                                                                                                             INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_13                         
+                             39545272_2877318273.mp4'                          
+[10/12/26 21:52:35] INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_42                         
+                             70539265_293303472.mp4'                           
+Animation 74: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_12                         
+                             78233803_3333094050.mp4'                          
+                    INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_32                         
+                             12316903_1424173432.mp4'                          
+Animation 76: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 76: ReplacementTransform(VGroup of 2 submobjects), etc.:  25%|##5       | 12/48 [00:00<00:00, 113.62it/s]Animation 76: ReplacementTransform(VGroup of 2 submobjects), etc.:  50%|#####     | 24/48 [00:00<00:00, 111.55it/s]Animation 76: ReplacementTransform(VGroup of 2 submobjects), etc.:  75%|#######5  | 36/48 [00:00<00:00, 114.84it/s]Animation 76: ReplacementTransform(VGroup of 2 submobjects), etc.: 100%|##########| 48/48 [00:00<00:00, 114.17it/s]                                                                                                                   [10/12/26 21:52:36] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_26                         
+                             28410090_161240803.mp4'                           
+[10/12/26 21:52:37] INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_18                         
+                             42498875_1712741892.mp4'                          
+                    INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_1668621679.mp4'                          
+Animation 79: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:52:54] INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_34                         
+                             94508541_4136522127.mp4'                          
+[10/12/26 21:52:55] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_14                         
+                             95153032_3548099468.mp4'                          
+Animation 81: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_14                         
+                             39834759_3796255842.mp4'                          
+                    INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_35                         
+                             40185534_1767197308.mp4'                          
+Animation 83: ReplacementTransform(VGroup of 4 submobjects), etc.:   0%|          | 0/54 [00:00<?, ?it/s]Animation 83: ReplacementTransform(VGroup of 4 submobjects), etc.:  26%|##5       | 14/54 [00:00<00:00, 132.17it/s]Animation 83: ReplacementTransform(VGroup of 4 submobjects), etc.:  52%|#####1    | 28/54 [00:00<00:00, 133.44it/s]Animation 83: ReplacementTransform(VGroup of 4 submobjects), etc.:  78%|#######7  | 42/54 [00:00<00:00, 132.27it/s]                                                                                                                   [10/12/26 21:52:56] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_90                         
+                             2886631_2944009547.mp4'                           
+                    INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             77574466_2952143303.mp4'                          
+Animation 85: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 85: ReplacementTransform(VGroup of 2 submobjects), etc.:  58%|#####8    | 21/36 [00:00<00:00, 208.41it/s]                                                                                                                   [10/12/26 21:52:57] INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_78                         
+                             8182973_2052736131.mp4'                           
+                    INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             58563328_1606732238.mp4'                          
+Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:   0%|          | 0/54 [00:00<?, ?it/s]Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:  17%|#6        | 9/54 [00:00<00:00, 78.19it/s]Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:  31%|###1      | 17/54 [00:00<00:00, 65.39it/s]Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:  48%|####8     | 26/54 [00:00<00:00, 72.63it/s]Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:  63%|######2   | 34/54 [00:00<00:00, 73.62it/s]Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:  78%|#######7  | 42/54 [00:00<00:00, 74.05it/s]Animation 87: ReplacementTransform(VGroup of 4 submobjects), etc.:  93%|#########2| 50/54 [00:00<00:00, 68.03it/s]                                                                                                                  [10/12/26 21:52:59] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_21                         
+                             10547538_511430017.mp4'                           
+                    INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_42                         
+                             34073876_1529576157.mp4'                          
+                    INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_2302135773.mp4'                          
+Animation 90: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:53:18] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_20                         
+                             79968351_4136522127.mp4'                          
+[10/12/26 21:53:19] INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             62236391_3409991554.mp4'                          
+Animation 92: ReplacementTransform(VGroup of 3 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 92: ReplacementTransform(VGroup of 3 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 121.35it/s]                                                                                                                   [10/12/26 21:53:20] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_48                         
+                             6572896_1665942334.mp4'                           
+                    INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_27                         
+                             57479526_222304946.mp4'                           
+Animation 94: ReplacementTransform(VGroup of 3 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 94: ReplacementTransform(VGroup of 3 submobjects), etc.:  33%|###3      | 9/27 [00:00<00:00, 87.30it/s]Animation 94: ReplacementTransform(VGroup of 3 submobjects), etc.:  67%|######6   | 18/27 [00:00<00:00, 83.04it/s]Animation 94: ReplacementTransform(VGroup of 3 submobjects), etc.: 100%|##########| 27/27 [00:00<00:00, 83.66it/s]                                                                                                                  [10/12/26 21:53:21] INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_43                         
+                             9284948_3282838456.mp4'                           
+                    INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_22                         
+                             05385839_568525180.mp4'                           
+Animation 96: ReplacementTransform(VGroup of 3 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 96: ReplacementTransform(VGroup of 3 submobjects), etc.:  30%|##9       | 8/27 [00:00<00:00, 75.43it/s]Animation 96: ReplacementTransform(VGroup of 3 submobjects), etc.:  59%|#####9    | 16/27 [00:00<00:00, 75.07it/s]Animation 96: ReplacementTransform(VGroup of 3 submobjects), etc.:  89%|########8 | 24/27 [00:00<00:00, 74.24it/s]                                                                                                                  [10/12/26 21:53:22] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             96963217_2328447765.mp4'                          
+[10/12/26 21:53:23] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_18                         
+                             8611538_4246883769.mp4'                           
+Animation 98: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 98: FadeOut(VGroup of 2 submobjects), etc.:  33%|###3      | 5/15 [00:00<00:00, 49.88it/s]Animation 98: FadeOut(VGroup of 2 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 50.94it/s]                                                                                                     [10/12/26 21:53:24] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_98                         
+                             2068417_3637262799.mp4'                           
+[10/12/26 21:53:25] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_32                         
+                             32904895_410798531.mp4'                           
+                    INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_1004946620.mp4'                          
+Animation 101: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:53:44] INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_13                         
+                             52673061_4136522127.mp4'                          
+[10/12/26 21:53:45] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_10                         
+                             5740353_57590977.mp4'                             
+Animation 103: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             76153905_1901017572.mp4'                          
+[10/12/26 21:53:46] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_17                         
+                             89854545_3807115883.mp4'                          
+Animation 105: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_40                         
+                             5064326_938085849.mp4'                            
+                    INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_65                         
+                             4085927_485767358.mp4'                            
+Animation 107: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:53:47] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_25                         
+                             62250305_2071700910.mp4'                          
+                    INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_50                         
+                             7693710_2366446796.mp4'                           
+Animation 109: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:53:48] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_24                         
+                             97246182_1031064061.mp4'                          
+                    INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             81648735_2745804232.mp4'                          
+[10/12/26 21:53:49] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_3008439552.mp4'                          
+Animation 112: FadeIn(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                          INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_34                         
+                             32707645_1213967053.mp4'                          
+Animation 113: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                        [10/12/26 21:53:50] INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_12                         
+                             50265111_2116010690.mp4'                          
+Animation 114: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             94909910_2116010690.mp4'                          
+Animation 115: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:53:51] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_59                         
+                             4411779_2116010690.mp4'                           
+Animation 116: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_57                         
+                             8272590_2116010690.mp4'                           
+Animation 117: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:53:52] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_40                         
+                             67203075_2116010690.mp4'                          
+Animation 118: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_32                         
+                             26551970_2116010690.mp4'                          
+Animation 119: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:53:53] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_42                         
+                             44929959_2116010690.mp4'                          
+Animation 120: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_13                         
+                             17775929_2863526704.mp4'                          
+Animation 121: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:53:54] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_42                         
+                             71462366_2863526704.mp4'                          
+Animation 122: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_99                         
+                             2396226_2116010690.mp4'                           
+Animation 123: FadeOut(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                       [10/12/26 21:53:55] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_32                         
+                             16624186_1199289201.mp4'                          
+[10/12/26 21:54:10] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_33                         
+                             8924526_1775233189.mp4'                           
+Animation 125: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 125: ReplacementTransform(Text('?')):  40%|####      | 6/15 [00:00<00:00, 58.92it/s]Animation 125: ReplacementTransform(Text('?')):  80%|########  | 12/15 [00:00<00:00, 53.80it/s]                                                                                               [10/12/26 21:54:11] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_40                         
+                             26893030_880118192.mp4'                           
+[10/12/26 21:54:12] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_34                         
+                             4889255_2384707170.mp4'                           
+Animation 127: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 127: ReplacementTransform(Text('?')):  73%|#######3  | 11/15 [00:00<00:00, 99.03it/s]                                                                                                                   INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_15                         
+                             3928017_3619665487.mp4'                           
+[10/12/26 21:54:13] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_28                         
+                             49854589_46536210.mp4'                            
+Animation 129: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 129: ReplacementTransform(Text('?')):  73%|#######3  | 11/15 [00:00<00:00, 96.61it/s]                                                                                               [10/12/26 21:54:14] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_32                         
+                             26604660_2265322330.mp4'                          
+[10/12/26 21:54:15] INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_41                         
+                             96859498_1525950686.mp4'                          
+Animation 131: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_33                         
+                             90976314_2944223022.mp4'                          
+Animation 132: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:54:16] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_37                         
+                             4745038_2568516460.mp4'                           
+[10/12/26 21:54:17] INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             4293473_3851806991.mp4'                           
+[10/12/26 21:54:18] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_4010218149.mp4'                          
+Animation 135: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 135: FadeIn(VGroup of 1 submobjects):  93%|#########3| 14/15 [00:00<00:00, 139.83it/s]                                                                                                [10/12/26 21:54:36] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_11                         
+                             33928153_4136522127.mp4'                          
+[10/12/26 21:54:37] INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_18                         
+                             24780477_1821722738.mp4'                          
+Animation 137: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                            [10/12/26 21:54:38] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_96                         
+                             9412836_309210096.mp4'                            
+                    INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_38                         
+                             7734380_3255649595.mp4'                           
+Animation 139: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_19                         
+                             78104693_3700155934.mp4'                          
+[10/12/26 21:54:39] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_74                         
+                             8369817_777784577.mp4'                            
+Animation 141: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 141: FadeIn(VGroup of 5 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 74.69it/s]                                                                                                    [10/12/26 21:54:40] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_17                         
+                             13694750_2758032969.mp4'                          
+[10/12/26 21:54:41] INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_38                         
+                             08084855_3009252369.mp4'                          
+Animation 143: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                            [10/12/26 21:54:42] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_41                         
+                             11541914_1233817827.mp4'                          
+                    INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_36                         
+                             72638433_1993171539.mp4'                          
+Animation 145: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/42 [00:00<?, ?it/s]Animation 145: ReplacementTransform(VGroup of 2 submobjects), etc.:  17%|#6        | 7/42 [00:00<00:00, 64.50it/s]Animation 145: ReplacementTransform(VGroup of 2 submobjects), etc.:  33%|###3      | 14/42 [00:00<00:00, 67.59it/s]Animation 145: ReplacementTransform(VGroup of 2 submobjects), etc.:  50%|#####     | 21/42 [00:00<00:00, 67.64it/s]Animation 145: ReplacementTransform(VGroup of 2 submobjects), etc.:  67%|######6   | 28/42 [00:00<00:00, 60.74it/s]Animation 145: ReplacementTransform(VGroup of 2 submobjects), etc.:  83%|########3 | 35/42 [00:00<00:00, 61.01it/s]                                                                                                                   [10/12/26 21:54:43] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_35                         
+                             84803035_2493130609.mp4'                          
+[10/13/26 06:34:05] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_37                         
+                             45363481_3898992657.mp4'                          
+Animation 147: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:   6%|5         | 1/18 [00:00<00:02,  7.80it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  11%|#1        | 2/18 [00:00<00:02,  5.81it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  17%|#6        | 3/18 [00:00<00:02,  6.44it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:02,  6.82it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:01,  8.24it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  44%|####4     | 8/18 [00:01<00:01,  7.81it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  56%|#####5    | 10/18 [00:01<00:00,  9.08it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  72%|#######2  | 13/18 [00:01<00:00, 12.32it/s]Animation 147: FadeOut(VGroup of 1 submobjects), etc.:  89%|########8 | 16/18 [00:01<00:00, 15.26it/s]                                                                                                      [10/13/26 06:34:09] INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             34265971_3423299758.mp4'                          
+Animation 148: FadeIn(VGroup of 9 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 148: FadeIn(VGroup of 9 submobjects), etc.:  27%|##6       | 4/15 [00:00<00:00, 29.56it/s]Animation 148: FadeIn(VGroup of 9 submobjects), etc.:  47%|####6     | 7/15 [00:00<00:00, 29.54it/s]Animation 148: FadeIn(VGroup of 9 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 32.11it/s]Animation 148: FadeIn(VGroup of 9 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 31.64it/s]                                                                                                     [10/13/26 06:34:14] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             81996408_4136522127.mp4'                          
+[10/13/26 06:34:17] INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_42                         
+                             7843301_1381687213.mp4'                           
+Animation 150: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 150: FadeIn(VGroup of 2 submobjects):  27%|##6       | 4/15 [00:00<00:00, 36.99it/s]Animation 150: FadeIn(VGroup of 2 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 37.17it/s]Animation 150: FadeIn(VGroup of 2 submobjects):  80%|########  | 12/15 [00:00<00:00, 35.82it/s]                                                                                               [10/13/26 06:34:20] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_16                         
+                             7029975_2807359088.mp4'                           
+[10/13/26 06:34:22] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_39                         
+                             94425643_1919868489.mp4'                          
+Animation 152: FadeOut(VGroup of 9 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  11%|#1        | 2/18 [00:00<00:01, 15.13it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:01, 13.37it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:00, 13.15it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  44%|####4     | 8/18 [00:00<00:00, 13.72it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  56%|#####5    | 10/18 [00:00<00:00, 12.66it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  67%|######6   | 12/18 [00:00<00:00, 12.87it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  78%|#######7  | 14/18 [00:01<00:00, 13.28it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.:  89%|########8 | 16/18 [00:01<00:00, 13.45it/s]Animation 152: FadeOut(VGroup of 9 submobjects), etc.: 100%|##########| 18/18 [00:01<00:00, 13.81it/s]                                                                                                      [10/13/26 06:34:27] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_12                         
+                             5635452_256217360.mp4'                            
+Animation 153: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 153: FadeIn(Text('Thank You for Watching!')):  53%|#####3    | 8/15 [00:00<00:00, 76.11it/s]                                                                                                      [10/13/26 06:34:28] INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_52                         
+                             0956258_3976950406.mp4'                           
+Animation 154: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 154: FadeIn(Text('See you in the next lesson :)')):  60%|######    | 9/15 [00:00<00:00, 83.58it/s]                                                                                                            [10/13/26 06:34:29] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_16                         
+                             87180544_3141215592.mp4'                          
+                    INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_42                         
+                             2696207_1878796370.mp4'                           
+[10/13/26 06:34:30] INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_31                         
+                             97081273_600365464.mp4'                           
+[10/13/26 06:34:31] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\focusing_su                         
+                             nlight_and_solar_cooker\3                         
+                             60p30\partial_movie_files                         
+                             \FocusingSunlightAndSolar                         
+                             CookerStory\1490007039_49                         
+                             9328632_1715843614.mp4'                           
+[SYNC] 54 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\focusing_sunlight_and_solar_cooker\360p30\FocusingSunlightAndSolarCookerStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/13/26 06:34:53] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\focusing_s                          
+                             unlight_and_solar_cooker                          
+                             \360p30\FocusingSunlight                          
+                             AndSolarCookerStory.mp4'                          
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 67                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             FocusingSunlightAndSolarCookerStory               
+                             Played 158 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Focusing-Sunlight-and-the-Solar-Cooker\media\videos\focusing_sunlight_and_solar_cooker\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Focusing-Sunlight-and-the-Solar-Cooker\media\videos\focusing_sunlight_and_solar_cooker\360p30\FocusingSunlightAndSolarCookerStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Focusing-Sunlight-and-the-Solar-Cooker\media\videos\focusing_sunlight_and_solar_cooker\360p30\FocusingSunlightAndSolarCookerStory.real.srt
+
+=== FocusingSunlightAndSolarCookerStory.mp4
+    640x360 @ 30/1  frames=9041
+    video  301.366s (start +0.000)   audio  299.115s (start +0.000)   silent tail +2.251s  [ok]
+    captions: 88  first 0.38s  last 299.08s  (video 301.37s)
+    speech blocks: 95  speech time 238.1s (79.6% of audio)
+    caption time 281.8s   caption-inside-speech 84.3%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Focusing-Sunlight-and-the-Solar-Cooker\focusing_sunlight_and_solar_cooker.py focusing_sunlight_and_solar_cooker NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Focusing-Sunlight-and-the-Solar-Cooker\media\videos\focusing_sunlight_and_solar_cooker\360p30\FocusingSunlightAndSolarCookerStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/13/26 06:35:14] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== focusing_sunlight_and_solar_cooker :: FocusingSunlightAndSolarCookerStory.real.srt
+    narration words 764   srt words 764
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i FocusingSunlightAndSolarCookerStory.mp4 -vf subtitles=FocusingSunlightAndSolarCookerStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=4,MarginL=10,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy FocusingSunlightAndSolarCookerStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'FocusingSunlightAndSolarCookerStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:05:01.37, start: 0.000000, bitrate: 261 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 136 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000002279d7d7180] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000002279d7d7180] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000002279d7d7180] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000002279d7d7180] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000002279d6f1680] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000002279d6f1680] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000002279d6f1680] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000002279d6f1680] Using font provider directwrite (with GDI)
+[libx264 @ 000002279d5808c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 000002279d5808c0] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 000002279d5808c0] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'FocusingSunlightAndSolarCookerStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000002279d6f1680] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  212 fps=0.0 q=24.0 size=     256KiB time=00:00:07.00 bitrate= 299.6kbits/s speed=13.6x elapsed=0:00:00.51    frame=  690 fps=665 q=24.0 size=     768KiB time=00:00:22.93 bitrate= 274.4kbits/s speed=22.1x elapsed=0:00:01.03    frame= 1089 fps=706 q=24.0 size=    1280KiB time=00:00:36.23 bitrate= 289.4kbits/s speed=23.5x elapsed=0:00:01.54    frame= 1541 fps=748 q=24.0 size=    1536KiB time=00:00:51.30 bitrate= 245.3kbits/s speed=24.9x elapsed=0:00:02.05    frame= 2052 fps=795 q=24.0 size=    2048KiB time=00:01:08.33 bitrate= 245.5kbits/s speed=26.5x elapsed=0:00:02.58    frame= 2360 fps=763 q=24.0 size=    2560KiB time=00:01:18.60 bitrate= 266.8kbits/s speed=25.4x elapsed=0:00:03.09    frame= 2750 fps=762 q=24.0 size=    2816KiB time=00:01:31.60 bitrate= 251.8kbits/s speed=25.4x elapsed=0:00:03.60    frame= 3149 fps=764 q=24.0 size=    3328KiB time=00:01:44.90 bitrate= 259.9kbits/s speed=25.4x elapsed=0:00:04.12    frame= 3421 fps=737 q=24.0 size=    3584KiB time=00:01:53.96 bitrate= 257.6kbits/s speed=24.6x elapsed=0:00:04.63    frame= 3793 fps=735 q=24.0 size=    3840KiB time=00:02:06.36 bitrate= 248.9kbits/s speed=24.5x elapsed=0:00:05.16    frame= 4109 fps=724 q=24.0 size=    4096KiB time=00:02:16.90 bitrate= 245.1kbits/s speed=24.1x elapsed=0:00:05.67    frame= 4461 fps=721 q=24.0 size=    4608KiB time=00:02:28.63 bitrate= 254.0kbits/s speed=  24x elapsed=0:00:06.18    frame= 4750 fps=708 q=24.0 size=    4864KiB time=00:02:38.26 bitrate= 251.8kbits/s speed=23.6x elapsed=0:00:06.70    frame= 5090 fps=706 q=24.0 size=    5376KiB time=00:02:49.60 bitrate= 259.7kbits/s speed=23.5x elapsed=0:00:07.21    frame= 5445 fps=704 q=24.0 size=    5632KiB time=00:03:01.43 bitrate= 254.3kbits/s speed=23.5x elapsed=0:00:07.73    frame= 5859 fps=710 q=24.0 size=    6144KiB time=00:03:15.23 bitrate= 257.8kbits/s speed=23.7x elapsed=0:00:08.25    frame= 6241 fps=712 q=21.0 size=    6400KiB time=00:03:27.96 bitrate= 252.1kbits/s speed=23.7x elapsed=0:00:08.76    frame= 6593 fps=710 q=24.0 size=    6912KiB time=00:03:39.70 bitrate= 257.7kbits/s speed=23.7x elapsed=0:00:09.27    frame= 6981 fps=712 q=24.0 size=    7168KiB time=00:03:52.60 bitrate= 252.5kbits/s speed=23.7x elapsed=0:00:09.79    frame= 7425 fps=719 q=24.0 size=    7424KiB time=00:04:07.43 bitrate= 245.8kbits/s speed=  24x elapsed=0:00:10.32    frame= 7769 fps=717 q=24.0 size=    7680KiB time=00:04:18.90 bitrate= 243.0kbits/s speed=23.9x elapsed=0:00:10.83    frame= 8116 fps=715 q=24.0 size=    8192KiB time=00:04:30.46 bitrate= 248.1kbits/s speed=23.8x elapsed=0:00:11.34    frame= 8490 fps=715 q=21.0 size=    8448KiB time=00:04:42.96 bitrate= 244.6kbits/s speed=23.8x elapsed=0:00:11.86    frame= 8817 fps=712 q=24.0 size=    8960KiB time=00:04:53.83 bitrate= 249.8kbits/s speed=23.7x elapsed=0:00:12.37    [out#0/mp4 @ 000002279cfaad00] video:4948KiB audio:4457KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.427230%
+frame= 9041 fps=706 q=-1.0 Lsize=    9728KiB time=00:04:59.11 bitrate= 266.4kbits/s speed=23.3x elapsed=0:00:12.81    
+[libx264 @ 000002279d5808c0] frame I:37    Avg QP:11.43  size: 37241
+[libx264 @ 000002279d5808c0] frame P:2558  Avg QP:13.91  size:  1334
+[libx264 @ 000002279d5808c0] frame B:6446  Avg QP:23.90  size:    43
+[libx264 @ 000002279d5808c0] consecutive B-frames:  3.4%  3.7%  2.9% 90.0%
+[libx264 @ 000002279d5808c0] mb I  I16..4: 16.6% 39.3% 44.1%
+[libx264 @ 000002279d5808c0] mb P  I16..4:  0.7%  1.1%  0.5%  P16..4:  7.5%  1.0%  1.2%  0.0%  0.0%    skip:88.0%
+[libx264 @ 000002279d5808c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.8%  0.1%  0.0%  direct: 0.3%  skip:98.7%  L0:37.9% L1:59.3% BI: 2.8%
+[libx264 @ 000002279d5808c0] 8x8 transform intra:44.9% inter:57.3%
+[libx264 @ 000002279d5808c0] coded y,uvDC,uvAC intra: 73.0% 68.2% 33.7% inter: 1.2% 1.9% 0.5%
+[libx264 @ 000002279d5808c0] i16 v,h,dc,p:  4% 74%  4% 18%
+[libx264 @ 000002279d5808c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 26% 23%  4%  5%  4%  7%  4%  9%
+[libx264 @ 000002279d5808c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 42% 12%  3%  4%  3%  4%  3%  4%
+[libx264 @ 000002279d5808c0] i8c dc,h,v,p: 31% 53% 12%  3%
+[libx264 @ 000002279d5808c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000002279d5808c0] ref P L0: 89.5% 10.5%
+[libx264 @ 000002279d5808c0] ref B L0: 88.4% 11.6%
+[libx264 @ 000002279d5808c0] ref B L1: 89.2% 10.8%
+[libx264 @ 000002279d5808c0] kb/s:134.48
+<<< [burn] exit 0
+finals <- FocusingSunlightAndSolarCookerStory_captioned.mp4 + FocusingSunlightAndSolarCookerStory_captioned.srt
+
+RESULT Focusing-Sunlight-and-the-Solar-Cooker: verify_sync=0 verify_captions=0 captioned=FocusingSunlightAndSolarCookerStory_captioned.mp4

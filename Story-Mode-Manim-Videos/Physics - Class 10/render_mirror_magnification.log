@@ -1,0 +1,1839 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 mirror_magnification_image_size_and_orientation.py MirrorMagnificationImageSizeAndOrientationStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 21:34:52] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+[10/12/26 21:34:53] INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(Text('Magnification in Mirrors')):   0%|          | 0/21 [00:00<?, ?it/s]                                                                                             [10/12/26 21:35:08] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1583504468_75                         
+                             4253197_4136522127.mp4'                           
+                    INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_14                         
+                             75311711_1821656543.mp4'                          
+Animation 2: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 2: FadeIn(VGroup of 3 submobjects), etc.:  46%|####5     | 11/24 [00:00<00:00, 105.80it/s]Animation 2: FadeIn(VGroup of 3 submobjects), etc.:  96%|#########5| 23/24 [00:00<00:00, 113.03it/s]                                                                                                    [10/12/26 21:35:09] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_10                         
+                             62034576_3482379991.mp4'                          
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_16                         
+                             17332002_1801524281.mp4'                          
+                    INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_1103513567.mp4'                          
+Animation 5: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [10/12/26 21:35:22] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_13                         
+                             47319242_4136522127.mp4'                          
+[10/12/26 21:35:23] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}m\special{                        
+                             dvisvgm:raw </g>} to                              
+                             D:\m3\Tex\bea1b5c0b2ed2982                        
+                             .tex                                              
+[10/12/26 21:35:25] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_17                         
+                             43290965_3670577703.mp4'                          
+Animation 7: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                          [10/12/26 21:35:26] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_13                         
+                             7553954_1844349416.mp4'                           
+                    INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_17                         
+                             48270417_1612415135.mp4'                          
+Animation 9: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                        [10/12/26 21:35:27] INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_38                         
+                             80650643_3651099872.mp4'                          
+                    INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_28                         
+                             37559833_1485412723.mp4'                          
+Animation 11: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                             INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_18                         
+                             41779625_697161836.mp4'                           
+                    INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_22                         
+                             09510984_1893107613.mp4'                          
+Animation 13: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         [10/12/26 21:35:28] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             34962088_1101677920.mp4'                          
+                    INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_25                         
+                             171422_3384216534.mp4'                            
+Animation 15: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:35:29] INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_36                         
+                             57077642_2451042586.mp4'                          
+                    INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_15                         
+                             28569106_1381611862.mp4'                          
+Animation 17: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_24                         
+                             61122369_1370503551.mp4'                          
+[10/12/26 21:35:30] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_25                         
+                             28654623_152163557.mp4'                           
+                    INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_2045152933.mp4'                          
+Animation 20: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:35:56] INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_48                         
+                             4792251_4136522127.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_o>0\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\eed95274627c8cc5                        
+                             .tex                                              
+[10/12/26 21:35:57] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i>0\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\79a1b14985ef0d2a                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i<0\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\b7e188526b4dd556                        
+                             .tex                                              
+[10/12/26 21:35:59] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_15                         
+                             20053374_1812581559.mp4'                          
+Animation 22: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             2433114_1951886942.mp4'                           
+                    INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_38                         
+                             56409817_3110841151.mp4'                          
+Animation 24: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                           [10/12/26 21:36:00] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_35                         
+                             86691378_3215910151.mp4'                          
+                    INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_13                         
+                             78090239_3231390895.mp4'                          
+Animation 26: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                                             INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_10                         
+                             80720298_3335597480.mp4'                          
+[10/12/26 21:36:01] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_37                         
+                             29930375_2202279503.mp4'                          
+Animation 28: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_26                         
+                             65500014_3180094153.mp4'                          
+[10/12/26 21:36:02] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_32                         
+                             84502831_2686899803.mp4'                          
+                    INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_3158621706.mp4'                          
+Animation 31: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:36:18] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_55                         
+                             1008818_4136522127.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_o=4\text                        
+                             { cm}\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             D:\m3\Tex\b4c8a974c5fe1ec9                        
+                             .tex                                              
+[10/12/26 21:36:19] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i=8\text                        
+                             { cm}\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             D:\m3\Tex\ca0f7a085926cd21                        
+                             .tex                                              
+[10/12/26 21:36:20] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}m=\frac{\t                        
+                             ext{image                                         
+                             height}}{\text{object                             
+                             height}}\special{dvisvgm:r                        
+                             aw </g>} to                                       
+                             D:\m3\Tex\d1b40aabec0f85a9                        
+                             .tex                                              
+[10/12/26 21:36:21] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}m=\frac{h_                        
+                             i}{h_o}\special{dvisvgm:ra                        
+                             w </g>} to                                        
+                             D:\m3\Tex\f013a1cbe0cafb35                        
+                             .tex                                              
+[10/12/26 21:36:22] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac84=2\                        
+                             special{dvisvgm:raw </g>}                         
+                             to                                                
+                             D:\m3\Tex\229a88951b6d4f7b                        
+                             .tex                                              
+[10/12/26 21:36:23] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             84573232_1423756218.mp4'                          
+Animation 33: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_70                         
+                             1245743_3118420259.mp4'                           
+                    INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_47                         
+                             8785050_3152090801.mp4'                           
+Animation 35: ReplacementTransform(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                   [10/12/26 21:36:24] INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_26                         
+                             24155078_3108442780.mp4'                          
+                    INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_13                         
+                             33181229_3766878593.mp4'                          
+Animation 37: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_36                         
+                             71237746_2688655056.mp4'                          
+[10/12/26 21:36:25] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_19                         
+                             50976164_4222329188.mp4'                          
+Animation 39: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 39: FadeIn(VGroup of 2 submobjects), etc.:  80%|########  | 12/15 [00:00<00:00, 110.77it/s]                                                                                                                         INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_21                         
+                             74660758_1545317393.mp4'                          
+[10/12/26 21:36:26] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_97                         
+                             8767947_1986702485.mp4'                           
+                    INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_2086350596.mp4'                          
+Animation 42: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:36:39] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_27                         
+                             35197119_4136522127.mp4'                          
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}0.5\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\7e4ef7e1faa63d6b                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}1.5\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\9af93ed45e42034f                        
+                             .tex                                              
+[10/12/26 21:36:40] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}|m|>1\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\3959b0d9a385b00c                        
+                             .tex                                              
+[10/12/26 21:36:41] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}|m|=2\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\767946281d7d4192                        
+                             .tex                                              
+[10/12/26 21:36:42] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}|m|=1\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\d7e99e98259eeb12                        
+                             .tex                                              
+[10/12/26 21:36:43] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}|m|<1\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\4a2b70252a2f1074                        
+                             .tex                                              
+[10/12/26 21:36:44] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}|m|=0.5\sp                        
+                             ecial{dvisvgm:raw </g>} to                        
+                             D:\m3\Tex\cd197a4ba16c1640                        
+                             .tex                                              
+[10/12/26 21:36:45] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_35                         
+                             02086464_3004346731.mp4'                          
+Animation 44: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_27                         
+                             84237016_4222405377.mp4'                          
+                    INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_26                         
+                             71969766_1935612603.mp4'                          
+Animation 46: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         [10/12/26 21:36:46] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_20                         
+                             53657894_3291727530.mp4'                          
+                    INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_37                         
+                             86596267_820180244.mp4'                           
+Animation 48: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                             INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_25                         
+                             15060703_3573288903.mp4'                          
+[10/12/26 21:36:47] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_32                         
+                             21843404_1511813787.mp4'                          
+Animation 50: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_12                         
+                             12742855_2916033789.mp4'                          
+[10/12/26 21:36:48] INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_22                         
+                             97386355_2145975103.mp4'                          
+                    INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_1199018492.mp4'                          
+Animation 53: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:37:04] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_87                         
+                             6017528_4136522127.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}m=+1.5\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             D:\m3\Tex\25b14148a5f593d5                        
+                             .tex                                              
+[10/12/26 21:37:05] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}m=-1.5\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             D:\m3\Tex\401d5de0d86d8fa0                        
+                             .tex                                              
+[10/12/26 21:37:06] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_21                         
+                             84178506_1059820073.mp4'                          
+Animation 55: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_41                         
+                             81010725_3830097619.mp4'                          
+[10/12/26 21:37:07] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_95                         
+                             9418994_2136182962.mp4'                           
+Animation 57: ReplacementTransform(VGroup of 5 submobjects), etc.:   0%|          | 0/33 [00:00<?, ?it/s]Animation 57: ReplacementTransform(VGroup of 5 submobjects), etc.:  36%|###6      | 12/33 [00:00<00:00, 111.59it/s]Animation 57: ReplacementTransform(VGroup of 5 submobjects), etc.:  73%|#######2  | 24/33 [00:00<00:00, 114.08it/s]                                                                                                                   [10/12/26 21:37:08] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_34                         
+                             92210147_4285397327.mp4'                          
+                    INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_32                         
+                             68091337_1498454451.mp4'                          
+Animation 59: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:37:09] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             23201204_2665457498.mp4'                          
+                    INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_39                         
+                             62982749_2603698669.mp4'                          
+[10/12/26 21:37:10] INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_2169777547.mp4'                          
+Animation 62: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:37:27] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_23                         
+                             57145642_4136522127.mp4'                          
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_o\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\48eb0a6d975f0660                        
+                             .tex                                              
+[10/12/26 21:37:28] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\35bdaaa0918b4b65                        
+                             .tex                                              
+[10/12/26 21:37:29] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}u\special{                        
+                             dvisvgm:raw </g>} to                              
+                             D:\m3\Tex\cd9031f27c158deb                        
+                             .tex                                              
+[10/12/26 21:37:30] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}v\special{                        
+                             dvisvgm:raw </g>} to                              
+                             D:\m3\Tex\41cff5c18a92be00                        
+                             .tex                                              
+[10/12/26 21:37:31] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac{h_i}                        
+                             {h_o}\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             D:\m3\Tex\0b17d58f48c54e4a                        
+                             .tex                                              
+[10/12/26 21:37:32] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-\frac                            
+                             vu\special{dvisvgm:raw                            
+                             </g>} to                                          
+                             D:\m3\Tex\379dd0ed1ca9f7e6                        
+                             .tex                                              
+[10/12/26 21:37:33] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}m=\frac{h_                        
+                             i}{h_o}=-\frac                                    
+                             vu\special{dvisvgm:raw                            
+                             </g>} to                                          
+                             D:\m3\Tex\34925366274b2a56                        
+                             .tex                                              
+[10/12/26 21:37:34] INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_14                         
+                             86298719_804148382.mp4'                           
+Animation 64: FadeIn(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 64: FadeIn(Polygon), etc.:  93%|#########3| 14/15 [00:00<00:00, 134.91it/s]                                                                                     [10/12/26 21:37:35] INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_70                         
+                             7200423_1442955357.mp4'                           
+Animation 65: FadeIn(MathTex('h_o')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                      INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_28                         
+                             77460921_3832139905.mp4'                          
+[10/12/26 21:37:36] INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_36                         
+                             9497293_2466520553.mp4'                           
+Animation 67: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_10                         
+                             47772170_619864855.mp4'                           
+Animation 68: ReplacementTransform(VGroup of 2 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                   [10/12/26 21:37:37] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_18                         
+                             50473016_2148855616.mp4'                          
+                    INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             24528023_1800394299.mp4'                          
+Animation 70: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:37:38] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_10                         
+                             25430598_1754289063.mp4'                          
+[10/12/26 21:37:39] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_20                         
+                             04609553_587531343.mp4'                           
+Animation 72: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 72: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 136.30it/s]                                                                                               [10/12/26 21:37:40] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_21                         
+                             83706033_3209383691.mp4'                          
+                    INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_26                         
+                             27505040_2814455562.mp4'                          
+[10/12/26 21:37:41] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_22514732.mp4'                            
+Animation 75: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:38:03] INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_36                         
+                             81163122_4136522127.mp4'                          
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_o=+4\tex                        
+                             t{ cm}\special{dvisvgm:raw                        
+                             </g>} to                                          
+                             D:\m3\Tex\fe6eb833a99f9f54                        
+                             .tex                                              
+[10/12/26 21:38:04] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac{h_i}                        
+                             {h_o}=-\frac                                      
+                             vu\special{dvisvgm:raw                            
+                             </g>} to                                          
+                             D:\m3\Tex\c3523ab66031cb0b                        
+                             .tex                                              
+[10/12/26 21:38:05] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac{h_i}                        
+                             {4}=-\frac{-37.5}{-25}\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             D:\m3\Tex\71c2e1b8ff54fcd5                        
+                             .tex                                              
+[10/12/26 21:38:06] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac{h_i}                        
+                             {4}=-\frac{37.5}{25}\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             D:\m3\Tex\49afb9983d99e250                        
+                             .tex                                              
+[10/12/26 21:38:07] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i=m\,h_o                        
+                             =(-1.5)(4)\special{dvisvgm                        
+                             :raw </g>} to                                     
+                             D:\m3\Tex\5d8d6eee06790636                        
+                             .tex                                              
+[10/12/26 21:38:08] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i=-6\tex                        
+                             t{ cm}\special{dvisvgm:raw                        
+                             </g>} to                                          
+                             D:\m3\Tex\d89bed4d88c8d0ea                        
+                             .tex                                              
+[10/12/26 21:38:09] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_39                         
+                             4146320_1174838210.mp4'                           
+Animation 77: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_41                         
+                             7627663_2396918759.mp4'                           
+[10/12/26 21:38:10] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_17                         
+                             16033814_2554896395.mp4'                          
+Animation 79: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_26                         
+                             02731827_947262505.mp4'                           
+[10/12/26 21:38:11] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_55                         
+                             1512732_1192184705.mp4'                           
+Animation 81: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_39                         
+                             93047885_989096230.mp4'                           
+[10/12/26 21:38:12] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_83                         
+                             7665274_362825070.mp4'                            
+Animation 83: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_60                         
+                             3816059_925568179.mp4'                            
+[10/12/26 21:38:13] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_90                         
+                             2000780_1032398409.mp4'                           
+Animation 85: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_37                         
+                             32332297_929901037.mp4'                           
+                    INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_17                         
+                             36118216_2833647407.mp4'                          
+Animation 87: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:38:14] INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             31061212_4226236499.mp4'                          
+                    INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_11                         
+                             91759936_1325714032.mp4'                          
+Animation 89: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_15                         
+                             63103676_1013304677.mp4'                          
+[10/12/26 21:38:15] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_92                         
+                             4368588_1994906813.mp4'                           
+                    INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_2838461915.mp4'                          
+Animation 92: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 21:38:33] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_96                         
+                             7851570_4136522127.mp4'                           
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_o=+4\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             D:\m3\Tex\a835757615aff99d                        
+                             .tex                                              
+[10/12/26 21:38:34] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}h_i=-6\spe                        
+                             cial{dvisvgm:raw </g>} to                         
+                             D:\m3\Tex\8a89c3b3f3cf5252                        
+                             .tex                                              
+[10/12/26 21:38:35] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_23                         
+                             02435169_3950605292.mp4'                          
+Animation 94: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_71                         
+                             5253638_824262643.mp4'                            
+[10/12/26 21:38:36] INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_40                         
+                             66417946_2158586549.mp4'                          
+Animation 96: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_36                         
+                             07416530_1069090831.mp4'                          
+[10/12/26 21:38:37] INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_78                         
+                             9055070_3442962401.mp4'                           
+Animation 98: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_52                         
+                             5603142_3565777207.mp4'                           
+[10/12/26 21:38:38] INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_21                         
+                             51873675_943167805.mp4'                           
+Animation 100: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:38:39] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_25                         
+                             18370037_2825812383.mp4'                          
+                    INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_10                         
+                             44621_1774697384.mp4'                             
+[10/12/26 21:38:40] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_347582103.mp4'                           
+Animation 103: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:38:56] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_27                         
+                             46078512_4136522127.mp4'                          
+[10/12/26 21:38:57] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_29                         
+                             06808564_1206145262.mp4'                          
+Animation 105: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_28                         
+                             87883888_3277404716.mp4'                          
+[10/12/26 21:38:58] INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_40                         
+                             8198493_1594403742.mp4'                           
+Animation 107: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_25                         
+                             65015128_4141080312.mp4'                          
+                    INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_20                         
+                             65462214_781831542.mp4'                           
+Animation 109: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:38:59] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_61                         
+                             5888512_3990062358.mp4'                           
+                    INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_26                         
+                             82132687_1591739428.mp4'                          
+Animation 111: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:39:00] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_23                         
+                             05124217_2869843924.mp4'                          
+                    INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_18                         
+                             98185474_2668958991.mp4'                          
+[10/12/26 21:39:01] INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_918371502.mp4'                           
+Animation 114: FadeIn(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                          INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_34                         
+                             32707645_181793968.mp4'                           
+Animation 115: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                        [10/12/26 21:39:02] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_12                         
+                             50265111_1914369413.mp4'                          
+Animation 116: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_15                         
+                             94909910_1914369413.mp4'                          
+Animation 117: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:39:03] INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_59                         
+                             4411779_1914369413.mp4'                           
+Animation 118: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_57                         
+                             8272590_1914369413.mp4'                           
+Animation 119: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_40                         
+                             67203075_1914369413.mp4'                          
+Animation 120: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:39:04] INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_32                         
+                             26551970_1914369413.mp4'                          
+Animation 121: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_42                         
+                             44929959_1914369413.mp4'                          
+Animation 122: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 21:39:05] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_13                         
+                             17775929_1914369413.mp4'                          
+Animation 123: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_42                         
+                             71462366_1914369413.mp4'                          
+Animation 124: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_99                         
+                             2396226_1914369413.mp4'                           
+Animation 125: FadeOut(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                       [10/12/26 21:39:06] INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_32                         
+                             16624186_2727510572.mp4'                          
+[10/12/26 21:39:24] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_37                         
+                             41304289_2854942957.mp4'                          
+Animation 127: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 127: ReplacementTransform(Text('?')):  80%|########  | 12/15 [00:00<00:00, 110.51it/s]                                                                                                                    INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             52373677_2977332059.mp4'                          
+[10/12/26 21:39:25] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_36                         
+                             61252614_3757431629.mp4'                          
+Animation 129: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 129: ReplacementTransform(Text('?')):  67%|######6   | 10/15 [00:00<00:00, 94.89it/s]                                                                                               [10/12/26 21:39:26] INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_42                         
+                             11631350_3061965696.mp4'                          
+                    INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_32                         
+                             85258971_3776524629.mp4'                          
+Animation 131: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:39:27] INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_86                         
+                             5444589_3872253653.mp4'                           
+[10/12/26 21:39:28] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_14                         
+                             11836368_3897054804.mp4'                          
+Animation 133: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_88                         
+                             4538474_3020183913.mp4'                           
+Animation 134: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:39:29] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_23                         
+                             18663174_4202736192.mp4'                          
+[10/12/26 21:39:30] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_79                         
+                             0611160_607886021.mp4'                            
+                    INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_1196161179.mp4'                          
+Animation 137: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 21:39:51] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_41                         
+                             01280104_4136522127.mp4'                          
+[10/12/26 21:39:52] INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_25                         
+                             04732237_1662803582.mp4'                          
+Animation 139: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_28                         
+                             62393063_2362757999.mp4'                          
+[10/12/26 21:39:53] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_39                         
+                             32049147_3762122068.mp4'                          
+Animation 141: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_35                         
+                             81833656_4292771067.mp4'                          
+[10/12/26 21:39:54] INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_11                         
+                             80401411_3980417570.mp4'                          
+Animation 143: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_10                         
+                             91451032_43075777.mp4'                            
+[10/12/26 21:39:55] INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_68                         
+                             4408399_3211796418.mp4'                           
+Animation 145: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_41                         
+                             37482457_688534059.mp4'                           
+[10/12/26 21:39:56] INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_63                         
+                             3502548_1104282747.mp4'                           
+Animation 147: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                          INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_41                         
+                             86326491_516924791.mp4'                           
+[10/12/26 21:39:57] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_21                         
+                             41599663_3571067079.mp4'                          
+Animation 149: ReplacementTransform(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_87                         
+                             5639682_1997486059.mp4'                           
+[10/12/26 21:39:58] INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_13                         
+                             58070001_940533663.mp4'                           
+Animation 151: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 151: FadeOut(VGroup of 1 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:00, 51.13it/s]Animation 151: FadeOut(VGroup of 1 submobjects), etc.:  67%|######6   | 12/18 [00:00<00:00, 51.39it/s]Animation 151: FadeOut(VGroup of 1 submobjects), etc.: 100%|##########| 18/18 [00:00<00:00, 52.40it/s]                                                                                                      [10/12/26 21:39:59] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_23                         
+                             28335179_2207952975.mp4'                          
+Animation 152: FadeIn(Text('DON’T JUST CALCULATE m.')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                    [10/12/26 21:40:00] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_35                         
+                             68519560_4136522127.mp4'                          
+                    INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_35                         
+                             03274509_987138560.mp4'                           
+Animation 154: FadeOut(Text('DON’T JUST CALCULATE m.')), etc.:   0%|          | 0/18 [00:00<?, ?it/s]                                                                                                                         INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_20                         
+                             11999395_2039965724.mp4'                          
+Animation 155: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              [10/12/26 21:40:01] INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_52                         
+                             0956258_240192580.mp4'                            
+                    INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_34                         
+                             07255096_2238574478.mp4'                          
+Animation 157: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                        INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_16                         
+                             87180544_3761640223.mp4'                          
+                    INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_30                         
+                             44021006_3857906971.mp4'                          
+[10/12/26 21:40:02] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_31                         
+                             97081273_114025650.mp4'                           
+                    INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_magn                         
+                             ification_image_size_and_                         
+                             orientation\360p30\partia                         
+                             l_movie_files\MirrorMagni                         
+                             ficationImageSizeAndOrien                         
+                             tationStory\1490007039_49                         
+                             9328632_3523424646.mp4'                           
+[SYNC] 56 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\mirror_magnification_image_size_and_orientation\360p30\MirrorMagnificationImageSizeAndOrientationStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 21:40:14] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+                    INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\mirror_mag                          
+                             nification_image_size_an                          
+                             d_orientation\360p30\Mir                          
+                             rorMagnificationImageSiz                          
+                             eAndOrientationStory.mp4                          
+                             '                                                 
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 62                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             MirrorMagnificationImageSizeAndOrient             
+                             ationStory                                        
+                             Played 161 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Magnification-Image-Size-and-Orientation\media\videos\mirror_magnification_image_size_and_orientation\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Magnification-Image-Size-and-Orientation\media\videos\mirror_magnification_image_size_and_orientation\360p30\MirrorMagnificationImageSizeAndOrientationStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Magnification-Image-Size-and-Orientation\media\videos\mirror_magnification_image_size_and_orientation\360p30\MirrorMagnificationImageSizeAndOrientationStory.real.srt
+
+=== MirrorMagnificationImageSizeAndOrientationStory.mp4
+    640x360 @ 30/1  frames=9404
+    video  313.466s (start +0.000)   audio  311.168s (start +0.000)   silent tail +2.298s  [ok]
+    captions: 90  first 0.28s  last 311.14s  (video 313.47s)
+    speech blocks: 120  speech time 242.2s (77.8% of audio)
+    caption time 293.6s   caption-inside-speech 82.5%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Magnification-Image-Size-and-Orientation\mirror_magnification_image_size_and_orientation.py mirror_magnification_image_size_and_orientation NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Magnification-Image-Size-and-Orientation\media\videos\mirror_magnification_image_size_and_orientation\360p30\MirrorMagnificationImageSizeAndOrientationStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 21:40:19] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== mirror_magnification_image_size_and_orientation :: MirrorMagnificationImageSizeAndOrientationStory.real.srt
+    narration words 766   srt words 766
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i MirrorMagnificationImageSizeAndOrientationStory.mp4 -vf subtitles=MirrorMagnificationImageSizeAndOrientationStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=4,MarginL=10,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy MirrorMagnificationImageSizeAndOrientationStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'MirrorMagnificationImageSizeAndOrientationStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:05:13.47, start: 0.000000, bitrate: 248 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 123 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001f556747900] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001f556747900] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001f556747900] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001f556747900] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000001f55830f5c0] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001f55830f5c0] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001f55830f5c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001f55830f5c0] Using font provider directwrite (with GDI)
+[libx264 @ 000001f5584fbb40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 000001f5584fbb40] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 000001f5584fbb40] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'MirrorMagnificationImageSizeAndOrientationStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001f55830f5c0] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  372 fps=0.0 q=24.0 size=     256KiB time=00:00:12.33 bitrate= 170.1kbits/s speed=23.7x elapsed=0:00:00.51    frame=  849 fps=821 q=24.0 size=     768KiB time=00:00:28.23 bitrate= 222.9kbits/s speed=27.3x elapsed=0:00:01.03    frame= 1389 fps=901 q=24.0 size=    1280KiB time=00:00:46.23 bitrate= 226.8kbits/s speed=  30x elapsed=0:00:01.54    frame= 1847 fps=895 q=24.0 size=    2048KiB time=00:01:01.50 bitrate= 272.8kbits/s speed=29.8x elapsed=0:00:02.06    frame= 2369 fps=919 q=24.0 size=    2560KiB time=00:01:18.90 bitrate= 265.8kbits/s speed=30.6x elapsed=0:00:02.57    frame= 2818 fps=910 q=24.0 size=    3072KiB time=00:01:33.86 bitrate= 268.1kbits/s speed=30.3x elapsed=0:00:03.09    frame= 3411 fps=945 q=24.0 size=    3584KiB time=00:01:53.63 bitrate= 258.4kbits/s speed=31.5x elapsed=0:00:03.61    frame= 3896 fps=946 q=24.0 size=    4096KiB time=00:02:09.80 bitrate= 258.5kbits/s speed=31.5x elapsed=0:00:04.11    frame= 4421 fps=954 q=24.0 size=    4608KiB time=00:02:27.30 bitrate= 256.3kbits/s speed=31.8x elapsed=0:00:04.63    frame= 4927 fps=955 q=24.0 size=    5120KiB time=00:02:44.16 bitrate= 255.5kbits/s speed=31.8x elapsed=0:00:05.15    frame= 5439 fps=959 q=24.0 size=    5632KiB time=00:03:01.23 bitrate= 254.6kbits/s speed=31.9x elapsed=0:00:05.67    frame= 5984 fps=968 q=24.0 size=    6144KiB time=00:03:19.40 bitrate= 252.4kbits/s speed=32.3x elapsed=0:00:06.18    frame= 6500 fps=970 q=24.0 size=    6656KiB time=00:03:36.60 bitrate= 251.7kbits/s speed=32.3x elapsed=0:00:06.70    frame= 7043 fps=975 q=24.0 size=    7168KiB time=00:03:54.70 bitrate= 250.2kbits/s speed=32.5x elapsed=0:00:07.22    frame= 7630 fps=986 q=24.0 size=    7424KiB time=00:04:14.26 bitrate= 239.2kbits/s speed=32.8x elapsed=0:00:07.74    frame= 8149 fps=988 q=24.0 size=    7936KiB time=00:04:31.56 bitrate= 239.4kbits/s speed=32.9x elapsed=0:00:08.24    frame= 8655 fps=987 q=24.0 size=    8448KiB time=00:04:48.43 bitrate= 239.9kbits/s speed=32.9x elapsed=0:00:08.76    frame= 9124 fps=982 q=24.0 size=    8960KiB time=00:05:04.06 bitrate= 241.4kbits/s speed=32.7x elapsed=0:00:09.28    [out#0/mp4 @ 000001f55673ba40] video:4868KiB audio:4639KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.534303%
+frame= 9404 fps=975 q=-1.0 Lsize=    9843KiB time=00:05:11.16 bitrate= 259.1kbits/s speed=32.3x elapsed=0:00:09.64    
+[libx264 @ 000001f5584fbb40] frame I:38    Avg QP:11.47  size: 34133
+[libx264 @ 000001f5584fbb40] frame P:2529  Avg QP:13.71  size:  1336
+[libx264 @ 000001f5584fbb40] frame B:6837  Avg QP:23.50  size:    45
+[libx264 @ 000001f5584fbb40] consecutive B-frames:  2.1%  2.2%  2.5% 93.3%
+[libx264 @ 000001f5584fbb40] mb I  I16..4: 15.9% 41.9% 42.2%
+[libx264 @ 000001f5584fbb40] mb P  I16..4:  0.7%  1.3%  0.6%  P16..4:  7.2%  1.0%  1.2%  0.0%  0.0%    skip:88.0%
+[libx264 @ 000001f5584fbb40] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.8%  0.1%  0.0%  direct: 0.3%  skip:98.7%  L0:35.4% L1:62.3% BI: 2.3%
+[libx264 @ 000001f5584fbb40] 8x8 transform intra:48.7% inter:58.6%
+[libx264 @ 000001f5584fbb40] coded y,uvDC,uvAC intra: 72.9% 67.0% 32.0% inter: 1.1% 1.9% 0.5%
+[libx264 @ 000001f5584fbb40] i16 v,h,dc,p:  7% 66%  6% 21%
+[libx264 @ 000001f5584fbb40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 26% 23%  4%  5%  4%  7%  4%  8%
+[libx264 @ 000001f5584fbb40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 43% 11%  3%  4%  3%  4%  3%  4%
+[libx264 @ 000001f5584fbb40] i8c dc,h,v,p: 36% 47% 14%  3%
+[libx264 @ 000001f5584fbb40] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001f5584fbb40] ref P L0: 89.7% 10.3%
+[libx264 @ 000001f5584fbb40] ref B L0: 90.1%  9.9%
+[libx264 @ 000001f5584fbb40] ref B L1: 88.2% 11.8%
+[libx264 @ 000001f5584fbb40] kb/s:127.21
+<<< [burn] exit 0
+finals <- MirrorMagnificationImageSizeAndOrientationStory_captioned.mp4 + MirrorMagnificationImageSizeAndOrientationStory_captioned.srt
+
+RESULT Magnification-Image-Size-and-Orientation: verify_sync=0 verify_captions=0 captioned=MirrorMagnificationImageSizeAndOrientationStory_captioned.mp4

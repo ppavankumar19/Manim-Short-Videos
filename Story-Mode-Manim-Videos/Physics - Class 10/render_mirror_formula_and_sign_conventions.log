@@ -1,0 +1,1787 @@
+
+>>> [render] D:\Manim-Short-Videos\.venv\Scripts\python.exe -m manim render --resolution 640,360 --fps 30 --media_dir D:\m3 mirror_formula_and_sign_conventions.py MirrorFormulaAndSignConventionsStory
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 20:47:48] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+Manim Community v0.21.0
+
+                    INFO     Initialized            gemini_speech_service.py:65
+                             GeminiZephyrSpeechServ                            
+                             ice (voice=Zephyr,                                
+                             model=gemini-2.5-flash                            
+                             -preview-tts)                                     
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/21 [00:00<?, ?it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  33%|###3      | 7/21 [00:00<00:00, 64.04it/s]Animation 0: FadeIn(VGroup of 2 submobjects):  90%|######### | 19/21 [00:00<00:00, 91.93it/s]                                                                                             [10/12/26 20:47:58] INFO     Animation 0 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1583504468_                         
+                             2092321754_4136522127.mp4                         
+                             '                                                 
+                    INFO     Animation 1 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2018983603_1580275071.mp4                         
+                             '                                                 
+Animation 2: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 2: FadeIn(VGroup of 5 submobjects), etc.:  21%|##        | 5/24 [00:00<00:00, 48.13it/s]Animation 2: FadeIn(VGroup of 5 submobjects), etc.:  46%|####5     | 11/24 [00:00<00:00, 53.34it/s]Animation 2: FadeIn(VGroup of 5 submobjects), etc.:  83%|########3 | 20/24 [00:00<00:00, 69.21it/s]                                                                                                   [10/12/26 20:47:59] INFO     Animation 2 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4205546392_2294356662.mp4                         
+                             '                                                 
+                    INFO     Animation 3 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3514023122_1957584774.mp4                         
+                             '                                                 
+[10/12/26 20:48:00] INFO     Animation 4 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_3307609729.mp4                         
+                             '                                                 
+Animation 5: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 5: FadeIn(VGroup of 1 submobjects):  80%|########  | 12/15 [00:00<00:00, 110.76it/s]                                                                                              [10/12/26 20:48:18] INFO     Animation 5 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3082821626_4136522127.mp4                         
+                             '                                                 
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac1f=\f                        
+                             rac1v+\frac1u\special{dvis                        
+                             vgm:raw </g>} to                                  
+                             D:\m3\Tex\9d14f66899c274fb                        
+                             .tex                                              
+[10/12/26 20:48:19] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac1{15}                        
+                             =\frac1v+\frac1{25}\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\911e2257dfb58a75                        
+                             .tex                                              
+[10/12/26 20:48:21] INFO     Animation 6 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2916856422_2552948026.mp4                         
+                             '                                                 
+Animation 7: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 7: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 135.54it/s]                                                                                              [10/12/26 20:48:22] INFO     Animation 7 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1837517554_3028443780.mp4                         
+                             '                                                 
+[10/12/26 20:48:23] INFO     Animation 8 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             62114647_1767701917.mp4'                          
+Animation 9: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 9: FadeIn(VGroup of 2 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 85.04it/s]                                                                                                                      INFO     Animation 9 : Partial     scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2685424482_2571464403.mp4                         
+                             '                                                 
+[10/12/26 20:48:24] INFO     Animation 10 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2212653976_1209839076.mp4                         
+                             '                                                 
+Animation 11: FadeIn(MathTex('\\frac1{15}=\\frac1v+\\frac1{25}')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                                   INFO     Animation 11 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3324523987_2403888531.mp4                         
+                             '                                                 
+[10/12/26 20:48:25] INFO     Animation 12 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3715510200_3323303023.mp4                         
+                             '                                                 
+Animation 13: ReplacementTransform(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 13: ReplacementTransform(VGroup of 2 submobjects), etc.:  67%|######6   | 10/15 [00:00<00:00, 84.41it/s]                                                                                                                  [10/12/26 20:48:26] INFO     Animation 13 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3571776242_3810247821.mp4                         
+                             '                                                 
+[10/12/26 20:48:27] INFO     Animation 14 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1438689821_4018070318.mp4                         
+                             '                                                 
+Animation 15: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 15: FadeIn(VGroup of 2 submobjects): 100%|##########| 15/15 [00:00<00:00, 137.05it/s]                                                                                                                   INFO     Animation 15 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3465662517_2516205936.mp4                         
+                             '                                                 
+[10/12/26 20:48:28] INFO     Animation 16 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3547477743_1287127923.mp4                         
+                             '                                                 
+[10/12/26 20:48:29] INFO     Animation 17 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_3117926500.mp4                         
+                             '                                                 
+Animation 18: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 18: FadeIn(VGroup of 1 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 98.26it/s]                                                                                              [10/12/26 20:48:45] INFO     Animation 18 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2629863159_4136522127.mp4                         
+                             '                                                 
+[10/12/26 20:48:46] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-10\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\585f000612161fc9                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-20\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\71e28a7a9b5ca93b                        
+                             .tex                                              
+[10/12/26 20:48:47] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-30\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\d9d0b9e99bebdbed                        
+                             .tex                                              
+[10/12/26 20:48:48] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-40\specia                        
+                             l{dvisvgm:raw </g>} to                            
+                             D:\m3\Tex\270ff109ff7da270                        
+                             .tex                                              
+[10/12/26 20:48:50] INFO     Animation 19 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             74303299_2766431605.mp4'                          
+Animation 20: FadeIn(Circle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 20: FadeIn(Circle), etc.:  73%|#######3  | 11/15 [00:00<00:00, 109.09it/s]                                                                                                        INFO     Animation 20 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2987580995_2549562262.mp4                         
+                             '                                                 
+[10/12/26 20:48:51] INFO     Animation 21 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1313289608_904763427.mp4'                         
+Animation 22: _MethodAnimation(Group), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 22: _MethodAnimation(Group), etc.:  33%|###3      | 5/15 [00:00<00:00, 49.94it/s]Animation 22: _MethodAnimation(Group), etc.:  73%|#######3  | 11/15 [00:00<00:00, 47.58it/s]                                                                                            [10/12/26 20:48:52] INFO     Animation 22 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1550094863_3890667892.mp4                         
+                             '                                                 
+                    INFO     Animation 23 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4292392586_507267800.mp4'                         
+Animation 24: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 24: FadeIn(Arrow), etc.:  93%|#########3| 14/15 [00:00<00:00, 132.84it/s]                                                                                   [10/12/26 20:48:53] INFO     Animation 24 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3975254384_652311439.mp4'                         
+[10/12/26 20:48:54] INFO     Animation 25 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2046222443_2872077884.mp4                         
+                             '                                                 
+Animation 26: FadeOut(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 26 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2910933832_1470306817.mp4                         
+                             '                                                 
+Animation 27: FadeOut(DashedLine), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                               [10/12/26 20:48:55] INFO     Animation 27 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2736075000_3894613672.mp4                         
+                             '                                                 
+Animation 28: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 28: FadeIn(VGroup of 2 submobjects):  67%|######6   | 10/15 [00:00<00:00, 99.01it/s]                                                                                                                  INFO     Animation 28 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1537905646_2324319214.mp4                         
+                             '                                                 
+[10/12/26 20:48:56] INFO     Animation 29 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3118902931_1255372032.mp4                         
+                             '                                                 
+                    INFO     Animation 30 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_1244776349.mp4                         
+                             '                                                 
+Animation 31: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 31: FadeIn(VGroup of 1 submobjects):  60%|######    | 9/15 [00:00<00:00, 86.84it/s]                                                                                             [10/12/26 20:49:12] INFO     Animation 31 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4150628437_4136522127.mp4                         
+                             '                                                 
+[10/12/26 20:49:14] INFO     Animation 32 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2820768574_494107540.mp4'                         
+Animation 33: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 33 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1227999267_1859967636.mp4                         
+                             '                                                 
+[10/12/26 20:49:15] INFO     Animation 34 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1059257819_3552856041.mp4                         
+                             '                                                 
+Animation 35: Indicate(Arrow):   0%|          | 0/15 [00:00<?, ?it/s]Animation 35: Indicate(Arrow):  93%|#########3| 14/15 [00:00<00:00, 128.99it/s]                                                                                                   INFO     Animation 35 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2837770646_2172936916.mp4                         
+                             '                                                 
+                    INFO     Animation 36 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2604652439_2142768943.mp4                         
+                             '                                                 
+Animation 37: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 37: FadeIn(Arrow), etc.:  80%|########  | 12/15 [00:00<00:00, 111.97it/s]                                                                                   [10/12/26 20:49:16] INFO     Animation 37 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             94815875_2400927940.mp4'                          
+[10/12/26 20:49:17] INFO     Animation 38 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4065435444_2600072677.mp4                         
+                             '                                                 
+Animation 39: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 39: FadeIn(Arrow), etc.:  60%|######    | 9/15 [00:00<00:00, 86.89it/s]                                                                                                     INFO     Animation 39 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3161865707_3102799718.mp4                         
+                             '                                                 
+[10/12/26 20:49:18] INFO     Animation 40 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             549967612_2802846173.mp4'                         
+Animation 41: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 41: FadeIn(VGroup of 2 submobjects):  93%|#########3| 14/15 [00:00<00:00, 131.81it/s]                                                                                               [10/12/26 20:49:19] INFO     Animation 41 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1274869630_2545425323.mp4                         
+                             '                                                 
+Animation 42: FadeIn(VGroup of 8 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 42: FadeIn(VGroup of 8 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 66.15it/s]Animation 42: FadeIn(VGroup of 8 submobjects): 100%|##########| 15/15 [00:00<00:00, 61.97it/s]                                                                                              [10/12/26 20:49:20] INFO     Animation 42 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             403658399_2065916028.mp4'                         
+[10/12/26 20:49:21] INFO     Animation 43 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1439888192_1545452322.mp4                         
+                             '                                                 
+                    INFO     Animation 44 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_3908677626.mp4                         
+                             '                                                 
+Animation 45: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 20:49:40] INFO     Animation 45 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3630492542_4136522127.mp4                         
+                             '                                                 
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}u=-25\text                        
+                             { cm}\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             D:\m3\Tex\d71cf82d83348c38                        
+                             .tex                                              
+[10/12/26 20:49:41] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}f=-15\text                        
+                             { cm}\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             D:\m3\Tex\d664a42128390bdc                        
+                             .tex                                              
+[10/12/26 20:49:43] INFO     Animation 46 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             453739446_1108761793.mp4'                         
+Animation 47: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                         [10/12/26 20:49:44] INFO     Animation 47 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4058765745_2946443526.mp4                         
+                             '                                                 
+                    INFO     Animation 48 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1049298276_493853047.mp4'                         
+Animation 49: ReplacementTransform(Text('25 cm')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 49: ReplacementTransform(Text('25 cm')), etc.:  27%|##6       | 4/15 [00:00<00:00, 38.64it/s]Animation 49: ReplacementTransform(Text('25 cm')), etc.:  67%|######6   | 10/15 [00:00<00:00, 49.33it/s]                                                                                                        [10/12/26 20:49:45] INFO     Animation 49 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1646970306_2538237204.mp4                         
+                             '                                                 
+[10/12/26 20:49:47] INFO     Animation 50 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1039635018_1182264341.mp4                         
+                             '                                                 
+Animation 51: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 51 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4225326284_699624233.mp4'                         
+Animation 52: ReplacementTransform(Text('15 cm')), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 52: ReplacementTransform(Text('15 cm')), etc.:  28%|##7       | 5/18 [00:00<00:00, 40.64it/s]Animation 52: ReplacementTransform(Text('15 cm')), etc.:  67%|######6   | 12/18 [00:00<00:00, 54.38it/s]Animation 52: ReplacementTransform(Text('15 cm')), etc.: 100%|##########| 18/18 [00:00<00:00, 45.85it/s]                                                                                                        [10/12/26 20:49:48] INFO     Animation 52 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3259628867_211729160.mp4'                         
+[10/12/26 20:49:49] INFO     Animation 53 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1457759124_1777380793.mp4                         
+                             '                                                 
+Animation 54: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 54: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 105.06it/s]                                                                                               [10/12/26 20:49:50] INFO     Animation 54 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3370709079_1912557479.mp4                         
+                             '                                                 
+Animation 55: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 55 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2363096763_3763603494.mp4                         
+                             '                                                 
+[10/12/26 20:49:51] INFO     Animation 56 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3390228545_699228495.mp4'                         
+[10/12/26 20:49:52] INFO     Animation 57 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_3047641209.mp4                         
+                             '                                                 
+Animation 58: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 58: FadeIn(VGroup of 1 submobjects):  93%|#########3| 14/15 [00:00<00:00, 138.88it/s]                                                                                               [10/12/26 20:50:02] INFO     Animation 58 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             342247418_4136522127.mp4'                         
+[10/12/26 20:50:03] INFO     Animation 59 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             334490376_1318260777.mp4'                         
+Animation 60: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 60: FadeIn(VGroup of 2 submobjects), etc.:  30%|##9       | 8/27 [00:00<00:00, 76.63it/s]Animation 60: FadeIn(VGroup of 2 submobjects), etc.:  89%|########8 | 24/27 [00:00<00:00, 115.71it/s]                                                                                                     [10/12/26 20:50:04] INFO     Animation 60 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3349483957_216424702.mp4'                         
+                    INFO     Animation 61 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3235199033_1757343456.mp4                         
+                             '                                                 
+Animation 62: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]Animation 62: FadeIn(VGroup of 2 submobjects), etc.:  41%|####      | 11/27 [00:00<00:00, 107.79it/s]                                                                                                     [10/12/26 20:50:05] INFO     Animation 62 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2604896215_434882062.mp4'                         
+                    INFO     Animation 63 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1181753601_4215562643.mp4                         
+                             '                                                 
+Animation 64: FadeIn(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 64: FadeIn(VGroup of 5 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 89.93it/s]                                                                                                                       INFO     Animation 64 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1236219102_4016659125.mp4                         
+                             '                                                 
+[10/12/26 20:50:06] INFO     Animation 65 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2484462431_3294931172.mp4                         
+                             '                                                 
+Animation 66: FadeIn(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 66 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2124703681_3480592909.mp4                         
+                             '                                                 
+[10/12/26 20:50:07] INFO     Animation 67 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1053260929_2349390492.mp4                         
+                             '                                                 
+Animation 68: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 68: FadeIn(VGroup of 2 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 76.28it/s]                                                                                             [10/12/26 20:50:08] INFO     Animation 68 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2839981327_2854368386.mp4                         
+                             '                                                 
+                    INFO     Animation 69 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             242215109_3469837964.mp4'                         
+[10/12/26 20:50:09] INFO     Animation 70 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_1587287651.mp4                         
+                             '                                                 
+Animation 71: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 71: FadeIn(VGroup of 1 submobjects):  60%|######    | 9/15 [00:00<00:00, 85.25it/s]                                                                                             [10/12/26 20:50:24] INFO     Animation 71 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             348878730_4136522127.mp4'                         
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}v=\,?\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\19bde4519f9ecc6c                        
+                             .tex                                              
+[10/12/26 20:50:25] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac1{-15                        
+                             }=\frac1v+\frac1{-25}\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\3c73593b7d7c470a                        
+                             .tex                                              
+[10/12/26 20:50:27] INFO     Animation 72 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1526841490_656082648.mp4'                         
+Animation 73: FadeIn(MathTex('\\frac1f=\\frac1v+\\frac1u')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                       INFO     Animation 73 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2792593006_495119470.mp4'                         
+[10/12/26 20:50:28] INFO     Animation 74 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3988683810_1501640516.mp4                         
+                             '                                                 
+Animation 75: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 75: FadeIn(VGroup of 2 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 89.28it/s]                                                                                                                       INFO     Animation 75 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             561371424_2742714140.mp4'                         
+[10/12/26 20:50:29] INFO     Animation 76 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4042524997_2533397722.mp4                         
+                             '                                                 
+Animation 77: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 77 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             127621926_1295080819.mp4'                         
+[10/12/26 20:50:30] INFO     Animation 78 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4006617631_392488209.mp4'                         
+Animation 79: FadeIn(MathTex('\\frac1{-15}=\\frac1v+\\frac1{-25}')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 79: FadeIn(MathTex('\\frac1{-15}=\\frac1v+\\frac1{-25}')): 100%|##########| 15/15 [00:00<00:00, 140.55it/s]                                                                                                                                         INFO     Animation 79 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2167813171_197012764.mp4'                         
+Animation 80: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 80: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 104.59it/s]                                                                                               [10/12/26 20:50:31] INFO     Animation 80 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2697898837_3632284851.mp4                         
+                             '                                                 
+                    INFO     Animation 81 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3898815373_241496499.mp4'                         
+[10/12/26 20:50:32] INFO     Animation 82 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_3307781686.mp4                         
+                             '                                                 
+Animation 83: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                     [10/12/26 20:50:56] INFO     Animation 83 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1272767926_4136522127.mp4                         
+                             '                                                 
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}-\frac1{15                        
+                             }=\frac1v-\frac1{25}\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             D:\m3\Tex\ad57f27203102df1                        
+                             .tex                                              
+[10/12/26 20:50:57] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac1v=-\                        
+                             frac1{15}+\frac1{25}\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             D:\m3\Tex\a53046417cd8f710                        
+                             .tex                                              
+[10/12/26 20:50:58] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac1v=-\                        
+                             frac5{75}+\frac3{75}\speci                        
+                             al{dvisvgm:raw </g>} to                           
+                             D:\m3\Tex\a6f2eef3897c2f69                        
+                             .tex                                              
+[10/12/26 20:50:59] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}\frac1v=-\                        
+                             frac2{75}\special{dvisvgm:                        
+                             raw </g>} to                                      
+                             D:\m3\Tex\02e34a7f4575e7b7                        
+                             .tex                                              
+[10/12/26 20:51:00] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}v=-\frac{7                        
+                             5}{2}\special{dvisvgm:raw                         
+                             </g>} to                                          
+                             D:\m3\Tex\ea637daabb29b597                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}v=-37.5\te                        
+                             xt{                                               
+                             cm}\special{dvisvgm:raw                           
+                             </g>} to                                          
+                             D:\m3\Tex\fc50d437ff815549                        
+                             .tex                                              
+[10/12/26 20:51:02] INFO     Animation 84 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3689020463_487454371.mp4'                         
+Animation 85: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                               INFO     Animation 85 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2878278243_3011784828.mp4                         
+                             '                                                 
+[10/12/26 20:51:03] INFO     Animation 86 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2457783043_396040146.mp4'                         
+Animation 87: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 87 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4123568748_2965599103.mp4                         
+                             '                                                 
+[10/12/26 20:51:04] INFO     Animation 88 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1036324728_432513654.mp4'                         
+Animation 89: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 89: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 125.79it/s]                                                                                                                   INFO     Animation 89 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3698742868_1796918919.mp4                         
+                             '                                                 
+[10/12/26 20:51:05] INFO     Animation 90 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1482342313_1498062031.mp4                         
+                             '                                                 
+Animation 91: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 91 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             924709643_1252817997.mp4'                         
+[10/12/26 20:51:06] INFO     Animation 92 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3677657921_2020679309.mp4                         
+                             '                                                 
+Animation 93: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 93: FadeIn(VGroup of 2 submobjects):  87%|########6 | 13/15 [00:00<00:00, 128.44it/s]                                                                                               [10/12/26 20:51:07] INFO     Animation 93 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2174061975_392816298.mp4'                         
+                    INFO     Animation 94 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1269406149_766491179.mp4'                         
+Animation 95: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 95 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3780862664_1941568727.mp4                         
+                             '                                                 
+[10/12/26 20:51:08] INFO     Animation 96 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1755294637_1964099442.mp4                         
+                             '                                                 
+Animation 97: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 97 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             751053918_4081793622.mp4'                         
+[10/12/26 20:51:09] INFO     Animation 98 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             186389162_1542896725.mp4'                         
+Animation 99: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                         INFO     Animation 99 : Partial    scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             347505108_3915204431.mp4'                         
+Animation 100: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 100: FadeIn(VGroup of 2 submobjects):  60%|######    | 9/15 [00:00<00:00, 83.35it/s]                                                                                              [10/12/26 20:51:10] INFO     Animation 100 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2614327295_1968735812.mp4                         
+                             '                                                 
+                    INFO     Animation 101 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1298702071_1665296111.mp4                         
+                             '                                                 
+[10/12/26 20:51:11] INFO     Animation 102 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_881048677.mp4'                         
+Animation 103: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 103: FadeIn(VGroup of 1 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 104.02it/s]                                                                                                [10/12/26 20:51:28] INFO     Animation 103 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3741008094_4136522127.mp4                         
+                             '                                                 
+[10/12/26 20:51:29] INFO     Animation 104 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             667423926_276309020.mp4'                          
+Animation 105: FadeIn(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 105: FadeIn(Line), etc.:  67%|######6   | 10/15 [00:00<00:00, 96.13it/s]                                                                                                      INFO     Animation 105 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1072209580_1923118950.mp4                         
+                             '                                                 
+[10/12/26 20:51:30] INFO     Animation 106 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3906933864_693611345.mp4'                         
+Animation 107: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 107: FadeIn(VGroup of 2 submobjects), etc.:  60%|######    | 9/15 [00:00<00:00, 86.72it/s]                                                                                                    [10/12/26 20:51:31] INFO     Animation 107 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2649407183_3569179874.mp4                         
+                             '                                                 
+[10/12/26 20:51:32] INFO     Animation 108 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1716575368_3165515420.mp4                         
+                             '                                                 
+Animation 109: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 109: FadeIn(VGroup of 2 submobjects), etc.:  47%|####6     | 7/15 [00:00<00:00, 63.77it/s]Animation 109: FadeIn(VGroup of 2 submobjects), etc.: 100%|##########| 15/15 [00:00<00:00, 72.68it/s]                                                                                                     [10/12/26 20:51:33] INFO     Animation 109 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2199888821_3226075031.mp4                         
+                             '                                                 
+                    INFO     Animation 110 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1032220025_2640824674.mp4                         
+                             '                                                 
+Animation 111: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 111: FadeIn(VGroup of 2 submobjects):  67%|######6   | 10/15 [00:00<00:00, 89.63it/s]                                                                                               [10/12/26 20:51:34] INFO     Animation 111 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3122232877_282250642.mp4'                         
+[10/12/26 20:51:35] INFO     Animation 112 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             772425155_2407438345.mp4'                         
+                    INFO     Animation 113 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_2601794504.mp4                         
+                             '                                                 
+Animation 114: FadeIn(VGroup of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 20:51:52] INFO     Animation 114 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1521884571_4136522127.mp4                         
+                             '                                                 
+[10/12/26 20:51:53] INFO     Animation 115 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3138163359_934320212.mp4'                         
+Animation 116: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 116: FadeIn(VGroup of 4 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 99.52it/s]                                                                                               [10/12/26 20:51:54] INFO     Animation 116 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4208067351_3620294085.mp4                         
+                             '                                                 
+                    INFO     Animation 117 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             179226891_3615888404.mp4'                         
+Animation 118: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 20:51:55] INFO     Animation 118 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2994317567_1703958370.mp4                         
+                             '                                                 
+[10/12/26 20:51:56] INFO     Animation 119 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2838797325_2667594463.mp4                         
+                             '                                                 
+Animation 120: FadeIn(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 120: FadeIn(VGroup of 4 submobjects):  73%|#######3  | 11/15 [00:00<00:00, 102.31it/s]                                                                                                                    INFO     Animation 120 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1207853328_75225938.mp4'                          
+[10/12/26 20:51:57] INFO     Animation 121 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3593546639_1178884162.mp4                         
+                             '                                                 
+Animation 122: FadeIn(VGroup of 8 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]Animation 122: FadeIn(VGroup of 8 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 66.88it/s]Animation 122: FadeIn(VGroup of 8 submobjects): 100%|##########| 15/15 [00:00<00:00, 67.70it/s]                                                                                               [10/12/26 20:51:58] INFO     Animation 122 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2014091488_1678597387.mp4                         
+                             '                                                 
+[10/12/26 20:51:59] INFO     Animation 123 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3528500026_2442868613.mp4                         
+                             '                                                 
+[10/12/26 20:52:00] INFO     Animation 124 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_1510956999.mp4                         
+                             '                                                 
+Animation 125: FadeIn(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                          INFO     Animation 125 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3432707645_3443572953.mp4                         
+                             '                                                 
+Animation 126: ReplacementTransform(Text('10s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                        [10/12/26 20:52:01] INFO     Animation 126 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1250265111_1583635035.mp4                         
+                             '                                                 
+Animation 127: ReplacementTransform(Text('9s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 20:52:02] INFO     Animation 127 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1594909910_1583635035.mp4                         
+                             '                                                 
+Animation 128: ReplacementTransform(Text('8s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 20:52:03] INFO     Animation 128 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             594411779_1583635035.mp4'                         
+Animation 129: ReplacementTransform(Text('7s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 129 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             578272590_1583635035.mp4'                         
+Animation 130: ReplacementTransform(Text('6s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 20:52:04] INFO     Animation 130 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4067203075_1583635035.mp4                         
+                             '                                                 
+Animation 131: ReplacementTransform(Text('5s')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 131: ReplacementTransform(Text('5s')): 100%|##########| 30/30 [00:00<00:00, 297.11it/s]                                                                                                 [10/12/26 20:52:05] INFO     Animation 131 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3226551970_1583635035.mp4                         
+                             '                                                 
+Animation 132: ReplacementTransform(Text('4s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 20:52:06] INFO     Animation 132 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4244929959_1583635035.mp4                         
+                             '                                                 
+Animation 133: ReplacementTransform(Text('3s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                           INFO     Animation 133 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1317775929_1583635035.mp4                         
+                             '                                                 
+Animation 134: ReplacementTransform(Text('2s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 20:52:07] INFO     Animation 134 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4271462366_1583635035.mp4                         
+                             '                                                 
+Animation 135: ReplacementTransform(Text('1s')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                       [10/12/26 20:52:08] INFO     Animation 135 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             992396226_1583635035.mp4'                         
+Animation 136: FadeOut(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]                                                                                                           INFO     Animation 136 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3216624186_3513652180.mp4                         
+                             '                                                 
+[10/12/26 20:52:25] INFO     Animation 137 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3250817638_621092515.mp4'                         
+Animation 138: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 138: ReplacementTransform(Text('?')):  20%|##        | 3/15 [00:00<00:00, 26.81it/s]Animation 138: ReplacementTransform(Text('?')):  60%|######    | 9/15 [00:00<00:00, 44.57it/s]Animation 138: ReplacementTransform(Text('?')):  93%|#########3| 14/15 [00:00<00:00, 34.05it/s]                                                                                               [10/12/26 20:52:27] INFO     Animation 138 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2970166192_392047690.mp4'                         
+[10/12/26 20:52:28] INFO     Animation 139 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1495687041_2484758818.mp4                         
+                             '                                                 
+Animation 140: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 140: ReplacementTransform(Text('?')):  27%|##6       | 4/15 [00:00<00:00, 36.95it/s]Animation 140: ReplacementTransform(Text('?')):  67%|######6   | 10/15 [00:00<00:00, 48.86it/s]                                                                                               [10/12/26 20:52:29] INFO     Animation 140 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1722119384_3476976824.mp4                         
+                             '                                                 
+[10/12/26 20:52:30] INFO     Animation 141 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3135937692_3999301113.mp4                         
+                             '                                                 
+Animation 142: ReplacementTransform(Text('?')):   0%|          | 0/15 [00:00<?, ?it/s]Animation 142: ReplacementTransform(Text('?')):  33%|###3      | 5/15 [00:00<00:00, 46.83it/s]Animation 142: ReplacementTransform(Text('?')):  73%|#######3  | 11/15 [00:00<00:00, 53.61it/s]                                                                                               [10/12/26 20:52:31] INFO     Animation 142 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3293095881_367438712.mp4'                         
+[10/12/26 20:52:32] INFO     Animation 143 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             111303700_1602979884.mp4'                         
+Animation 144: _MethodAnimation(VGroup of 2 submobjects), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 144: _MethodAnimation(VGroup of 2 submobjects), etc.:  17%|#6        | 6/36 [00:00<00:00, 56.62it/s]Animation 144: _MethodAnimation(VGroup of 2 submobjects), etc.:  42%|####1     | 15/36 [00:00<00:00, 74.10it/s]Animation 144: _MethodAnimation(VGroup of 2 submobjects), etc.:  64%|######3   | 23/36 [00:00<00:00, 74.48it/s]Animation 144: _MethodAnimation(VGroup of 2 submobjects), etc.:  86%|########6 | 31/36 [00:00<00:00, 70.11it/s]                                                                                                               [10/12/26 20:52:34] INFO     Animation 144 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1188000672_875913567.mp4'                         
+[10/12/26 20:52:35] INFO     Animation 145 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3536641048_2405978225.mp4                         
+                             '                                                 
+                    INFO     Animation 146 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_2081799722.mp4                         
+                             '                                                 
+Animation 147: FadeIn(VGroup of 1 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                      [10/12/26 20:52:57] INFO     Animation 147 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2722779759_4136522127.mp4                         
+                             '                                                 
+[10/12/26 20:52:58] INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}u=-25\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\588a9a3bd0c2cb91                        
+                             .tex                                              
+                    INFO     Writing                    tex_file_writing.py:110
+                             \special{dvisvgm:raw <g                           
+                             id='unique000'>}f=-15\spec                        
+                             ial{dvisvgm:raw </g>} to                          
+                             D:\m3\Tex\fff6e9262d9a55b3                        
+                             .tex                                              
+[10/12/26 20:53:00] INFO     Animation 148 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             663658248_2870467475.mp4'                         
+Animation 149: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 149 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3674264389_3303581604.mp4                         
+                             '                                                 
+                    INFO     Animation 150 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2229581897_2185625648.mp4                         
+                             '                                                 
+Animation 151: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 151: FadeIn(VGroup of 2 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 131.39it/s]                                                                                                      [10/12/26 20:53:01] INFO     Animation 151 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4060019670_1181882497.mp4                         
+                             '                                                 
+[10/12/26 20:53:02] INFO     Animation 152 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3428068746_2558197339.mp4                         
+                             '                                                 
+Animation 153: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                INFO     Animation 153 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4149673726_195603769.mp4'                         
+[10/12/26 20:53:03] INFO     Animation 154 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1185376274_2032731806.mp4                         
+                             '                                                 
+Animation 155: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 155: FadeIn(VGroup of 2 submobjects), etc.:  87%|########6 | 13/15 [00:00<00:00, 126.16it/s]                                                                                                                          INFO     Animation 155 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3119590554_948976031.mp4'                         
+[10/12/26 20:53:04] INFO     Animation 156 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3369911410_1267530794.mp4                         
+                             '                                                 
+Animation 157: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 157: FadeIn(VGroup of 2 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 109.21it/s]                                                                                                      [10/12/26 20:53:05] INFO     Animation 157 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2638383021_1360706962.mp4                         
+                             '                                                 
+                    INFO     Animation 158 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1869281982_834116237.mp4'                         
+Animation 159: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 159: FadeIn(VGroup of 2 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 72.95it/s]                                                                                                    [10/12/26 20:53:06] INFO     Animation 159 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4271943805_2112618829.mp4                         
+                             '                                                 
+[10/12/26 20:53:07] INFO     Animation 160 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             4228287107_3578991550.mp4                         
+                             '                                                 
+Animation 161: Indicate(VGroup of 5 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                        [10/12/26 20:53:08] INFO     Animation 161 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3227386575_1169281161.mp4                         
+                             '                                                 
+[10/12/26 20:53:09] INFO     Animation 162 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1606248151_1679298571.mp4                         
+                             '                                                 
+Animation 163: FadeOut(VGroup of 1 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.:  17%|#6        | 3/18 [00:00<00:00, 26.52it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:00, 19.59it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.:  50%|#####     | 9/18 [00:00<00:00, 16.51it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.:  61%|######1   | 11/18 [00:00<00:00, 17.14it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.:  72%|#######2  | 13/18 [00:00<00:00, 15.56it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.:  89%|########8 | 16/18 [00:00<00:00, 18.65it/s]Animation 163: FadeOut(VGroup of 1 submobjects), etc.: 100%|##########| 18/18 [00:01<00:00, 17.82it/s]                                                                                                      [10/12/26 20:53:11] INFO     Animation 163 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2757746915_709346284.mp4'                         
+Animation 164: FadeIn(VGroup of 9 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 164: FadeIn(VGroup of 9 submobjects), etc.:  27%|##6       | 4/15 [00:00<00:00, 33.98it/s]Animation 164: FadeIn(VGroup of 9 submobjects), etc.:  53%|#####3    | 8/15 [00:00<00:00, 28.70it/s]Animation 164: FadeIn(VGroup of 9 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 28.74it/s]Animation 164: FadeIn(VGroup of 9 submobjects), etc.:  93%|#########3| 14/15 [00:00<00:00, 28.94it/s]                                                                                                     [10/12/26 20:53:13] INFO     Animation 164 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1766211369_4136522127.mp4                         
+                             '                                                 
+                    INFO     Animation 165 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2921056070_605065676.mp4'                         
+Animation 166: FadeOut(VGroup of 9 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]Animation 166: FadeOut(VGroup of 9 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:00, 34.58it/s]Animation 166: FadeOut(VGroup of 9 submobjects), etc.:  56%|#####5    | 10/18 [00:00<00:00, 44.86it/s]Animation 166: FadeOut(VGroup of 9 submobjects), etc.:  83%|########3 | 15/18 [00:00<00:00, 40.51it/s]                                                                                                      [10/12/26 20:53:14] INFO     Animation 166 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1904702267_14765482.mp4'                          
+Animation 167: FadeIn(Text('Thank You for Watching!')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              [10/12/26 20:53:15] INFO     Animation 167 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             520956258_240192580.mp4'                          
+                    INFO     Animation 168 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1198093490_2238574478.mp4                         
+                             '                                                 
+Animation 169: FadeIn(Text('See you in the next lesson :)')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                    [10/12/26 20:53:16] INFO     Animation 169 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             1687180544_3761640223.mp4                         
+                             '                                                 
+                    INFO     Animation 170 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             2922076991_3857906971.mp4                         
+                             '                                                 
+                    INFO     Animation 171 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             3197081273_114025650.mp4'                         
+[10/12/26 20:53:17] INFO     Animation 172 : Partial   scene_file_writer.py:192
+                             movie file written in                             
+                             'D:\m3\videos\mirror_form                         
+                             ula_and_sign_conventions\                         
+                             360p30\partial_movie_file                         
+                             s\MirrorFormulaAndSignCon                         
+                             ventionsStory\1490007039_                         
+                             499328632_3523424646.mp4'                         
+[SYNC] 63 cues, 0 later than 0.35 s: []
+[real SRT written] D:\m3\videos\mirror_formula_and_sign_conventions\360p30\MirrorFormulaAndSignConventionsStory.real.srt
+                    INFO     Combining to Movie file.  scene_file_writer.py:952
+[10/12/26 20:53:31] WARNING  Some options were not    scene_file_writer.py:1018
+                             used: {'shortest': '1',                           
+                             'metadata':                                       
+                             'comment=Rendered with                            
+                             Manim Community                                   
+                             v0.21.0'}                                         
+[10/12/26 20:53:32] INFO                              scene_file_writer.py:1103
+                             File ready at                                     
+                             'D:\m3\videos\mirror_for                          
+                             mula_and_sign_convention                          
+                             s\360p30\MirrorFormulaAn                          
+                             dSignConventionsStory.mp                          
+                             4'                                                
+                                                                               
+                    INFO     The partial movie        scene_file_writer.py:1073
+                             directory is full (> 100                          
+                             files). Therefore, manim                          
+                             has removed the 74                                
+                             oldest file(s). You can                           
+                             change this behaviour by                          
+                             changing                                          
+                             max_files_cached in                               
+                             config.                                           
+                    INFO     Rendered                              scene.py:290
+                             MirrorFormulaAndSignConventionsStory              
+                             Played 173 animations                             
+You are using manim version v0.21.0, but version v0.22.0 is available.
+You should consider upgrading via pip install -U manim
+<<< [render] exit 0
+copied back to D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Mirror-Formula-and-Sign-Conventions\media\videos\mirror_formula_and_sign_conventions\360p30
+
+>>> [verify_sync] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_sync.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Mirror-Formula-and-Sign-Conventions\media\videos\mirror_formula_and_sign_conventions\360p30\MirrorFormulaAndSignConventionsStory.mp4 D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Mirror-Formula-and-Sign-Conventions\media\videos\mirror_formula_and_sign_conventions\360p30\MirrorFormulaAndSignConventionsStory.real.srt
+
+=== MirrorFormulaAndSignConventionsStory.mp4
+    640x360 @ 30/1  frames=9486
+    video  316.200s (start +0.000)   audio  313.899s (start +0.000)   silent tail +2.301s  [ok]
+    captions: 94  first 0.16s  last 313.87s  (video 316.20s)
+    speech blocks: 115  speech time 244.2s (77.8% of audio)
+    caption time 296.2s   caption-inside-speech 82.3%
+    captions mostly in silence: 0
+    speech blocks (> 1.0s) not captioned: 0
+    RESULT: PASS
+<<< [verify_sync] exit 0
+
+>>> [verify_captions] D:\Manim-Short-Videos\.venv\Scripts\python.exe D:\Manim-Short-Videos\verify_captions.py D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Mirror-Formula-and-Sign-Conventions\mirror_formula_and_sign_conventions.py mirror_formula_and_sign_conventions NARRATION D:\Manim-Short-Videos\Story-Mode-Manim-Videos\Physics - Class 10\Chapter 01 - Reflection of Light at Curved Surfaces\Mirror-Formula-and-Sign-Conventions\media\videos\mirror_formula_and_sign_conventions\360p30\MirrorFormulaAndSignConventionsStory.real.srt
+'sox' is not recognized as an internal or external command,
+operable program or batch file.
+[10/12/26 20:53:37] WARNING  SoX could not be found!             __init__.py:10
+                                                                               
+                                 If you do not have SoX, proceed               
+                             here:                                             
+                                  - - -                                        
+                             http://sox.sourceforge.net/ - - -                 
+                                                                               
+                                 If you do (or think that you                  
+                             should) have SoX, double-check your               
+                                 path variables.                               
+                                                                               
+
+=== mirror_formula_and_sign_conventions :: MirrorFormulaAndSignConventionsStory.real.srt
+    narration words 813   srt words 813
+    RESULT: PASS - captions carry the narration word for word
+<<< [verify_captions] exit 0
+
+>>> [burn] ffmpeg -y -i MirrorFormulaAndSignConventionsStory.mp4 -vf subtitles=MirrorFormulaAndSignConventionsStory.real.srt:force_style='FontSize=9.5,Bold=1,PrimaryColour=&HFFFFFF&,OutlineColour=&H80000000&,BackColour=&H80000000&,BorderStyle=3,Outline=1.6,Shadow=0,MarginV=4,MarginL=10,MarginR=10' -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy MirrorFormulaAndSignConventionsStory_captioned.mp4
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'MirrorFormulaAndSignConventionsStory.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:05:16.20, start: 0.000000, bitrate: 256 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360, 130 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001ffabc99d00] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001ffabc99d00] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001ffabc99d00] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001ffabc99d00] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_0 @ 000001ffab9330c0] libass API version: 0x1704000
+[Parsed_subtitles_0 @ 000001ffab9330c0] libass source: commit: 0.17.4-16-ge60dddb7db62cc009175843bdb0b0dfedceebedb
+[Parsed_subtitles_0 @ 000001ffab9330c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 12.2.0 (COMPLEX)
+[Parsed_subtitles_0 @ 000001ffab9330c0] Using font provider directwrite (with GDI)
+[libx264 @ 000001ffabc99180] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 000001ffabc99180] profile High, level 3.0, 4:2:0, 8-bit
+[libx264 @ 000001ffabc99180] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=11 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'MirrorFormulaAndSignConventionsStory_captioned.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 640x360, q=2-31, 30 fps, 15360 tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 libx264
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 122 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_subtitles_0 @ 000001ffab9330c0] fontselect: (Arial, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT
+frame=  364 fps=0.0 q=24.0 size=     256KiB time=00:00:12.06 bitrate= 173.8kbits/s speed=  23x elapsed=0:00:00.52    frame=  901 fps=878 q=24.0 size=     768KiB time=00:00:29.96 bitrate= 210.0kbits/s speed=29.2x elapsed=0:00:01.02    frame= 1423 fps=918 q=24.0 size=    1280KiB time=00:00:47.36 bitrate= 221.4kbits/s speed=30.5x elapsed=0:00:01.55    frame= 1845 fps=895 q=24.0 size=    1792KiB time=00:01:01.43 bitrate= 239.0kbits/s speed=29.8x elapsed=0:00:02.06    frame= 2372 fps=919 q=24.0 size=    2304KiB time=00:01:19.00 bitrate= 238.9kbits/s speed=30.6x elapsed=0:00:02.58    frame= 2816 fps=909 q=24.0 size=    2816KiB time=00:01:33.80 bitrate= 245.9kbits/s speed=30.3x elapsed=0:00:03.09    frame= 3269 fps=907 q=24.0 size=    3328KiB time=00:01:48.90 bitrate= 250.4kbits/s speed=30.2x elapsed=0:00:03.60    frame= 3556 fps=861 q=24.0 size=    3840KiB time=00:01:58.46 bitrate= 265.5kbits/s speed=28.7x elapsed=0:00:04.13    frame= 3927 fps=846 q=24.0 size=    4096KiB time=00:02:10.83 bitrate= 256.5kbits/s speed=28.2x elapsed=0:00:04.64    frame= 4296 fps=834 q=24.0 size=    4608KiB time=00:02:23.13 bitrate= 263.7kbits/s speed=27.8x elapsed=0:00:05.15    frame= 4761 fps=839 q=24.0 size=    5120KiB time=00:02:38.63 bitrate= 264.4kbits/s speed=27.9x elapsed=0:00:05.67    frame= 5253 fps=849 q=24.0 size=    5376KiB time=00:02:55.03 bitrate= 251.6kbits/s speed=28.3x elapsed=0:00:06.18    frame= 5681 fps=846 q=24.0 size=    5888KiB time=00:03:09.30 bitrate= 254.8kbits/s speed=28.2x elapsed=0:00:06.71    frame= 6119 fps=846 q=24.0 size=    6400KiB time=00:03:23.90 bitrate= 257.1kbits/s speed=28.2x elapsed=0:00:07.22    frame= 6500 fps=838 q=24.0 size=    6912KiB time=00:03:36.60 bitrate= 261.4kbits/s speed=27.9x elapsed=0:00:07.75    frame= 6930 fps=838 q=24.0 size=    7168KiB time=00:03:50.93 bitrate= 254.3kbits/s speed=27.9x elapsed=0:00:08.26    frame= 7447 fps=848 q=24.0 size=    7424KiB time=00:04:08.16 bitrate= 245.1kbits/s speed=28.3x elapsed=0:00:08.78    frame= 7929 fps=853 q=24.0 size=    7936KiB time=00:04:24.23 bitrate= 246.0kbits/s speed=28.4x elapsed=0:00:09.29    frame= 8357 fps=851 q=24.0 size=    8448KiB time=00:04:38.50 bitrate= 248.5kbits/s speed=28.4x elapsed=0:00:09.81    frame= 8785 fps=850 q=24.0 size=    8960KiB time=00:04:52.76 bitrate= 250.7kbits/s speed=28.3x elapsed=0:00:10.33    frame= 9206 fps=848 q=24.0 size=    9216KiB time=00:05:06.80 bitrate= 246.1kbits/s speed=28.3x elapsed=0:00:10.85    [out#0/mp4 @ 000001ffab8241c0] video:5143KiB audio:4680KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.449251%
+frame= 9486 fps=843 q=-1.0 Lsize=   10162KiB time=00:05:13.89 bitrate= 265.2kbits/s speed=27.9x elapsed=0:00:11.25    
+[libx264 @ 000001ffabc99180] frame I:38    Avg QP:11.46  size: 36658
+[libx264 @ 000001ffabc99180] frame P:2555  Avg QP:14.18  size:  1398
+[libx264 @ 000001ffabc99180] frame B:6893  Avg QP:24.11  size:    44
+[libx264 @ 000001ffabc99180] consecutive B-frames:  2.0%  2.2%  3.1% 92.7%
+[libx264 @ 000001ffabc99180] mb I  I16..4: 16.0% 40.9% 43.1%
+[libx264 @ 000001ffabc99180] mb P  I16..4:  0.8%  1.3%  0.6%  P16..4:  7.2%  1.0%  1.2%  0.0%  0.0%    skip:87.9%
+[libx264 @ 000001ffabc99180] mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.9%  0.1%  0.0%  direct: 0.3%  skip:98.6%  L0:39.9% L1:58.2% BI: 2.0%
+[libx264 @ 000001ffabc99180] 8x8 transform intra:45.5% inter:56.5%
+[libx264 @ 000001ffabc99180] coded y,uvDC,uvAC intra: 70.9% 65.9% 31.3% inter: 1.1% 1.8% 0.5%
+[libx264 @ 000001ffabc99180] i16 v,h,dc,p:  4% 74%  4% 17%
+[libx264 @ 000001ffabc99180] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 26% 22%  4%  5%  4%  7%  4%  9%
+[libx264 @ 000001ffabc99180] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 43% 11%  3%  4%  3%  4%  3%  4%
+[libx264 @ 000001ffabc99180] i8c dc,h,v,p: 34% 50% 13%  3%
+[libx264 @ 000001ffabc99180] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001ffabc99180] ref P L0: 89.5% 10.5%
+[libx264 @ 000001ffabc99180] ref B L0: 88.0% 12.0%
+[libx264 @ 000001ffabc99180] ref B L1: 89.8% 10.2%
+[libx264 @ 000001ffabc99180] kb/s:133.22
+<<< [burn] exit 0
+finals <- MirrorFormulaAndSignConventionsStory_captioned.mp4 + MirrorFormulaAndSignConventionsStory_captioned.srt
+
+RESULT Mirror-Formula-and-Sign-Conventions: verify_sync=0 verify_captions=0 captioned=MirrorFormulaAndSignConventionsStory_captioned.mp4
