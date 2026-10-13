@@ -1,0 +1,359 @@
+1
+00:00:00,280 --> 00:00:05,620
+Magnification in mirrors. Image size, orientation, and the formula
+
+2
+00:00:05,620 --> 00:00:08,171
+m equals minus v over u.
+
+3
+00:00:08,640 --> 00:00:10,656
+One candle, and many possible images. The image can
+
+4
+00:00:10,656 --> 00:00:14,000
+be enlarged. It can be the same size. Or
+
+5
+00:00:14,000 --> 00:00:18,142
+it can be diminished. And sometimes the image is
+
+6
+00:00:18,142 --> 00:00:21,907
+turned upside down: inverted. Can one number describe both
+
+7
+00:00:21,907 --> 00:00:25,340
+the size and the orientation? Yes. It is called
+
+8
+00:00:25,340 --> 00:00:27,751
+the magnification, m.
+
+9
+00:00:28,327 --> 00:00:31,820
+Heights have signs too. Measured upward from the principal
+
+10
+00:00:31,820 --> 00:00:35,340
+axis, the object height, h o, is positive. An
+
+11
+00:00:35,340 --> 00:00:39,527
+upright image also has a positive height, h i.
+
+12
+00:00:39,527 --> 00:00:43,690
+If the image is inverted, its height is measured
+
+13
+00:00:43,690 --> 00:00:48,627
+downward, so h i is negative. Upward height: plus.
+
+14
+00:00:48,627 --> 00:00:50,518
+Downward height: minus.
+
+15
+00:00:51,113 --> 00:00:54,943
+Now let us build the idea of magnification. Magnification
+
+16
+00:00:54,943 --> 00:00:57,031
+is the height of the image divided by the
+
+17
+00:00:57,031 --> 00:01:00,725
+height of the object. In symbols, m equals h
+
+18
+00:01:00,725 --> 00:01:03,853
+i over h o. If the object is four
+
+19
+00:01:03,853 --> 00:01:07,151
+centimetres tall and the image is eight, then eight
+
+20
+00:01:07,151 --> 00:01:09,961
+over four is two. The image is two times
+
+21
+00:01:09,961 --> 00:01:11,444
+as tall as the object.
+
+22
+00:01:12,147 --> 00:01:14,991
+The magnitude of m tells us the size. If
+
+23
+00:01:14,991 --> 00:01:16,722
+the absolute value of m is greater than one,
+
+24
+00:01:16,722 --> 00:01:20,457
+the image is enlarged. If it equals one, the
+
+25
+00:01:20,457 --> 00:01:22,887
+image is the same size. If it is less
+
+26
+00:01:22,887 --> 00:01:25,512
+than one, the image is diminished. So ignore the
+
+27
+00:01:25,512 --> 00:01:28,002
+sign for a moment: the absolute value of m
+
+28
+00:01:28,002 --> 00:01:28,938
+tells the size.
+
+29
+00:01:29,547 --> 00:01:31,577
+The sign of m tells us the orientation. Take
+
+30
+00:01:31,577 --> 00:01:36,279
+an upright object. If the image is upright, h
+
+31
+00:01:36,279 --> 00:01:39,197
+i is positive, so m is positive. The image
+
+32
+00:01:39,197 --> 00:01:42,704
+is erect. Now flip the image. Its size does
+
+33
+00:01:42,704 --> 00:01:45,547
+not change, but h i becomes negative, so m
+
+34
+00:01:45,547 --> 00:01:49,975
+becomes negative. The image is inverted. The absolute value
+
+35
+00:01:49,975 --> 00:01:52,017
+of m gives the size, and the sign of
+
+36
+00:01:52,017 --> 00:01:53,758
+m gives the orientation.
+
+37
+00:01:54,207 --> 00:01:56,355
+Why can we also write m equals minus v
+
+38
+00:01:56,355 --> 00:02:00,895
+over u? The textbook compares the two similar triangles
+
+39
+00:02:00,895 --> 00:02:04,040
+formed by the object and the image at the
+
+40
+00:02:04,040 --> 00:02:06,907
+pole of the mirror. The height ratio turns into
+
+41
+00:02:06,907 --> 00:02:09,737
+minus v over u. So m equals h i
+
+42
+00:02:09,737 --> 00:02:13,067
+over h o, which equals minus v over u.
+
+43
+00:02:13,067 --> 00:02:17,398
+Size information can come from heights, or from distances.
+
+44
+00:02:18,040 --> 00:02:21,100
+Let us continue the textbook example from the last
+
+45
+00:02:21,100 --> 00:02:24,207
+video. The object height is plus four centimetres, u
+
+46
+00:02:24,207 --> 00:02:27,560
+is minus twenty five, and v is minus thirty
+
+47
+00:02:27,560 --> 00:02:30,360
+seven point five. Start with h i over h
+
+48
+00:02:30,360 --> 00:02:35,640
+o equals minus v over u. Substitute: h i
+
+49
+00:02:35,640 --> 00:02:39,540
+over four equals minus, minus thirty seven point five
+
+50
+00:02:39,540 --> 00:02:42,654
+over minus twenty five. The two minus signs inside
+
+51
+00:02:42,654 --> 00:02:47,220
+cancel, leaving only the leading minus: minus thirty seven
+
+52
+00:02:47,220 --> 00:02:50,431
+point five over twenty five. That is minus one
+
+53
+00:02:50,431 --> 00:02:53,340
+point five. So m equals minus one point five.
+
+54
+00:02:53,340 --> 00:02:56,456
+Then h i equals m times h o, minus
+
+55
+00:02:56,456 --> 00:02:58,969
+one point five times four. So h i equals
+
+56
+00:02:58,969 --> 00:03:00,471
+minus six centimetres.
+
+57
+00:03:01,020 --> 00:03:03,700
+Now read the answer physically. The size first: six
+
+58
+00:03:03,700 --> 00:03:06,772
+is greater than four, so the image is enlarged.
+
+59
+00:03:06,772 --> 00:03:09,120
+Now the sign: the minus tells us the image
+
+60
+00:03:09,120 --> 00:03:13,898
+is below the principal axis. It is inverted. In
+
+61
+00:03:13,898 --> 00:03:17,664
+terms of magnification: the absolute value of m is
+
+62
+00:03:17,664 --> 00:03:21,060
+one point five, greater than one, so enlarged. And
+
+63
+00:03:21,060 --> 00:03:23,991
+m is negative, so inverted. Minus one point five
+
+64
+00:03:23,991 --> 00:03:26,295
+does not mean smaller. The size comes from the
+
+65
+00:03:26,295 --> 00:03:28,131
+absolute value, one point five.
+
+66
+00:03:28,773 --> 00:03:33,293
+Your turn. Decode the magnification. A: m equals plus
+
+67
+00:03:33,293 --> 00:03:37,453
+two. What are the size and the orientation? B:
+
+68
+00:03:37,453 --> 00:03:41,783
+m equals minus zero point five. C: m equals
+
+69
+00:03:41,783 --> 00:03:45,902
+minus one. D: u is minus twenty centimetres and
+
+70
+00:03:45,902 --> 00:03:49,933
+v is minus forty centimetres. Find m. Take your
+
+71
+00:03:49,933 --> 00:03:52,044
+time, and pause the video if you need to.
+
+72
+00:04:03,447 --> 00:04:05,761
+Let us check. A: the absolute value of m
+
+73
+00:04:05,761 --> 00:04:09,147
+is two, so enlarged. And m is positive, so
+
+74
+00:04:09,147 --> 00:04:12,404
+erect. B: the absolute value is zero point five,
+
+75
+00:04:12,404 --> 00:04:17,827
+so diminished. And m is negative, so inverted. C:
+
+76
+00:04:17,827 --> 00:04:20,151
+the absolute value is one, so the same size.
+
+77
+00:04:20,151 --> 00:04:24,607
+And m is negative, so inverted. D: m equals
+
+78
+00:04:24,607 --> 00:04:26,903
+minus v over u, which is minus two. The
+
+79
+00:04:26,903 --> 00:04:30,618
+image is two times enlarged, and inverted.
+
+80
+00:04:31,273 --> 00:04:33,863
+Here is how to decode m. Question one: how
+
+81
+00:04:33,863 --> 00:04:37,861
+big is the image? Look only at the absolute
+
+82
+00:04:37,861 --> 00:04:42,080
+value of m. Greater than one: enlarged. Equal to
+
+83
+00:04:42,080 --> 00:04:46,553
+one: same size. Less than one: diminished. Question two:
+
+84
+00:04:46,553 --> 00:04:49,653
+which way does the image point? Positive m: erect.
+
+85
+00:04:49,653 --> 00:04:54,620
+Negative m: inverted. In our example, m is minus
+
+86
+00:04:54,620 --> 00:04:58,313
+one point five: enlarged, and inverted. The magnitude of
+
+87
+00:04:58,313 --> 00:05:02,013
+m gives the size. The sign of m gives
+
+88
+00:05:02,013 --> 00:05:05,553
+the orientation. So do not just calculate m. Read
+
+89
+00:05:05,553 --> 00:05:08,473
+what m is telling you. Thank you for watching,
+
+90
+00:05:08,473 --> 00:05:11,144
+and see you in the next lesson.

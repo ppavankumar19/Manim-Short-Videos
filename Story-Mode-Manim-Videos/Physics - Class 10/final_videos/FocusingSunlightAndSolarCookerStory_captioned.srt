@@ -1,0 +1,351 @@
+1
+00:00:00,380 --> 00:00:04,085
+Focusing sunlight and the solar cooker. How a concave
+
+2
+00:00:04,085 --> 00:00:06,651
+mirror concentrates solar energy.
+
+3
+00:00:07,166 --> 00:00:10,724
+Sunlight is already falling on this cooking vessel. But
+
+4
+00:00:10,724 --> 00:00:12,966
+the light is spread over a large area, so
+
+5
+00:00:12,966 --> 00:00:16,286
+the vessel heats up only slowly. Now we bring
+
+6
+00:00:16,286 --> 00:00:19,983
+in a concave mirror. What can it change? The
+
+7
+00:00:19,983 --> 00:00:22,838
+mirror collects light from a wide area, and redirects
+
+8
+00:00:22,838 --> 00:00:24,277
+it towards one small region.
+
+9
+00:00:24,906 --> 00:00:26,959
+Why do we draw the Sun's rays parallel? Take
+
+10
+00:00:26,959 --> 00:00:30,493
+a lamp close to the mirror. Its rays spread
+
+11
+00:00:30,493 --> 00:00:33,036
+out at a large angle. Move the lamp farther
+
+12
+00:00:33,036 --> 00:00:36,406
+away, and the angle between the rays shrinks. The
+
+13
+00:00:36,406 --> 00:00:39,511
+Sun is about one hundred and fifty million kilometres
+
+14
+00:00:39,511 --> 00:00:43,140
+away. Across the width of a mirror, its rays
+
+15
+00:00:43,140 --> 00:00:46,652
+are almost exactly parallel. So the mirror receives a
+
+16
+00:00:46,652 --> 00:00:48,517
+bundle of nearly parallel sun rays.
+
+17
+00:00:49,079 --> 00:00:50,865
+What does a concave mirror do to parallel rays?
+
+18
+00:00:50,865 --> 00:00:54,159
+Three rays travel parallel to the principal axis. Each
+
+19
+00:00:54,159 --> 00:00:58,893
+strikes the mirror at a different point, and reflects
+
+20
+00:00:58,893 --> 00:01:03,892
+by the law of reflection. The dashed line is
+
+21
+00:01:03,892 --> 00:01:06,519
+the normal. The reflected rays turn inwards, and all
+
+22
+00:01:06,519 --> 00:01:11,339
+cross at one point. This point is the principal
+
+23
+00:01:11,339 --> 00:01:13,899
+focus, F. Remember: a ray parallel to the axis
+
+24
+00:01:13,899 --> 00:01:14,750
+reflects through F.
+
+25
+00:01:15,313 --> 00:01:18,057
+How can we actually see the focus? Hold a
+
+26
+00:01:18,057 --> 00:01:20,253
+small paper screen in front of the mirror. Close
+
+27
+00:01:20,253 --> 00:01:23,019
+to the mirror, the bright patch is large and
+
+28
+00:01:23,019 --> 00:01:26,053
+blurry. Move the screen slowly, and the patch becomes
+
+29
+00:01:26,053 --> 00:01:29,593
+smaller and brighter. At one position it is the
+
+30
+00:01:29,593 --> 00:01:31,828
+smallest and the brightest. This spot is the image
+
+31
+00:01:31,828 --> 00:01:36,933
+of the Sun, at the focus. The distance from
+
+32
+00:01:36,933 --> 00:01:39,933
+the pole to the focus is the focal length,
+
+33
+00:01:39,933 --> 00:01:43,540
+f. Focused sunlight can burn paper, so this is
+
+34
+00:01:43,540 --> 00:01:47,184
+shown as an animation. Never try it without a teacher.
+
+35
+00:01:47,686 --> 00:01:50,726
+Why does the focal region get hot? Each sunlight
+
+36
+00:01:50,726 --> 00:01:52,679
+ray carries some energy, shown here as a small
+
+37
+00:01:52,679 --> 00:01:56,866
+marker. After reflection, the rays converge, and all the
+
+38
+00:01:56,866 --> 00:02:00,026
+markers arrive in a much smaller region. Before the
+
+39
+00:02:00,026 --> 00:02:01,721
+mirror, the light is spread over a wide area.
+
+40
+00:02:01,721 --> 00:02:05,496
+At the focus, many reflected rays arrive in a
+
+41
+00:02:05,496 --> 00:02:08,514
+small region. More of the collected sunlight reaches a
+
+42
+00:02:08,514 --> 00:02:12,066
+smaller region, so the heating is stronger. The mirror
+
+43
+00:02:12,066 --> 00:02:14,862
+does not create energy. It only redirects the sunlight
+
+44
+00:02:14,862 --> 00:02:16,177
+that reaches it.
+
+45
+00:02:16,766 --> 00:02:18,673
+Now let us turn the ray rule into a
+
+46
+00:02:18,673 --> 00:02:23,278
+solar cooker. A large concave dish receives parallel sunlight.
+
+47
+00:02:23,278 --> 00:02:28,306
+Every reflected ray converges near the focus, F. The
+
+48
+00:02:28,306 --> 00:02:30,756
+cooking vessel is slid along the axis towards F.
+
+49
+00:02:30,756 --> 00:02:33,988
+When the vessel is at F, it receives all
+
+50
+00:02:33,988 --> 00:02:37,966
+the concentrated light. The vessel heats up strongly, enough
+
+51
+00:02:37,966 --> 00:02:39,537
+to cook rice.
+
+52
+00:02:40,153 --> 00:02:42,023
+Why must the cooker face the Sun? When the
+
+53
+00:02:42,023 --> 00:02:44,236
+dish points straight at the Sun, the rays are
+
+54
+00:02:44,236 --> 00:02:46,573
+parallel to its axis, and they meet at F,
+
+55
+00:02:46,573 --> 00:02:50,429
+on the vessel. Turn the dish away, and the
+
+56
+00:02:50,429 --> 00:02:53,093
+rays are no longer parallel to its axis. The
+
+57
+00:02:53,093 --> 00:02:56,003
+bright region moves away from the vessel. The vessel
+
+58
+00:02:56,003 --> 00:03:00,581
+misses the concentrated light, and its temperature falls. Turn
+
+59
+00:03:00,581 --> 00:03:03,873
+the dish back towards the Sun, and the focus
+
+60
+00:03:03,873 --> 00:03:08,464
+returns to the vessel. Always point the reflector towards the Sun.
+
+61
+00:03:09,066 --> 00:03:12,350
+Can the vessel be placed anywhere? Before F, the
+
+62
+00:03:12,350 --> 00:03:14,486
+rays are still converging, and they spread over a
+
+63
+00:03:14,486 --> 00:03:17,726
+larger part of the vessel. At F, the ray
+
+64
+00:03:17,726 --> 00:03:21,866
+bundle is the tightest, so the vessel receives the
+
+65
+00:03:21,866 --> 00:03:25,226
+most concentrated light. Beyond F, the rays have crossed
+
+66
+00:03:25,226 --> 00:03:29,946
+and are spreading again. Before F, spread. At F,
+
+67
+00:03:29,946 --> 00:03:33,946
+most concentrated. After F, spread again. This is why
+
+68
+00:03:33,946 --> 00:03:36,717
+the instruction says: place the vessel at the focus.
+
+69
+00:03:37,179 --> 00:03:41,419
+Your turn. A: parallel rays strike a concave mirror.
+
+70
+00:03:41,419 --> 00:03:45,022
+Where do the reflected rays go? B: the vessel
+
+71
+00:03:45,022 --> 00:03:47,999
+can be placed before F, at F, or beyond
+
+72
+00:03:47,999 --> 00:03:50,676
+F. Where should it go? C: which mirror is
+
+73
+00:03:50,676 --> 00:03:55,309
+used: plane, convex or concave? D: what happens if
+
+74
+00:03:55,309 --> 00:03:57,879
+the vessel is far beyond F? Take your time,
+
+75
+00:03:57,879 --> 00:03:59,950
+and pause the video if you need to.
+
+76
+00:04:11,273 --> 00:04:14,350
+Let us check. A: the reflected rays all pass
+
+77
+00:04:14,350 --> 00:04:19,273
+through the focus, F. B: the vessel goes at
+
+78
+00:04:19,273 --> 00:04:22,451
+F. C: a concave mirror, because only it makes
+
+79
+00:04:22,451 --> 00:04:25,866
+parallel rays converge. D: the light is more spread
+
+80
+00:04:25,866 --> 00:04:28,824
+out there, so move the vessel back towards F.
+
+81
+00:04:29,393 --> 00:04:31,113
+Here is the whole story. The Sun is far
+
+82
+00:04:31,113 --> 00:04:33,733
+away, so its rays arrive nearly parallel. They strike
+
+83
+00:04:33,733 --> 00:04:39,983
+the concave reflector. The reflected rays converge at the
+
+84
+00:04:39,983 --> 00:04:44,493
+focus, F. The vessel is placed at F. Concentrated
+
+85
+00:04:44,493 --> 00:04:49,193
+sunlight heats it strongly. Parallel sun rays, concave reflector,
+
+86
+00:04:49,193 --> 00:04:54,309
+focus, vessel, heating. Collect, reflect, focus, heat. That is
+
+87
+00:04:54,309 --> 00:04:57,533
+the optical idea behind the solar cooker. Thank you
+
+88
+00:04:57,533 --> 00:04:59,084
+for watching, and see you in the next lesson.

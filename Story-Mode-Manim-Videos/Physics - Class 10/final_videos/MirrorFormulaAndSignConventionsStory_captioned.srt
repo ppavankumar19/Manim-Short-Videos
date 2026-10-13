@@ -1,0 +1,375 @@
+1
+00:00:00,160 --> 00:00:03,531
+Mirror formula and sign conventions. How to choose u,
+
+2
+00:00:03,531 --> 00:00:05,291
+v and f correctly.
+
+3
+00:00:05,860 --> 00:00:08,572
+The mirror formula is easy to write: one over
+
+4
+00:00:08,572 --> 00:00:11,310
+f equals one over v plus one over u.
+
+5
+00:00:11,310 --> 00:00:14,874
+A student reads the problem: the object distance is
+
+6
+00:00:14,874 --> 00:00:18,612
+twenty five centimetres, the focal length is fifteen centimetres,
+
+7
+00:00:18,612 --> 00:00:22,325
+find the image distance. And starts substituting straight away.
+
+8
+00:00:22,325 --> 00:00:27,237
+Stop. Are these distances positive or negative? The numbers
+
+9
+00:00:27,237 --> 00:00:31,496
+are not enough, their directions matter. So remember: sign
+
+10
+00:00:31,496 --> 00:00:33,851
+first, substitute second.
+
+11
+00:00:34,627 --> 00:00:38,207
+Every mirror distance starts at one point: the pole,
+
+12
+00:00:38,207 --> 00:00:40,732
+P. Think of the pole as zero on a
+
+13
+00:00:40,732 --> 00:00:45,147
+number line. The object distance, the focal length and
+
+14
+00:00:45,147 --> 00:00:49,007
+the image distance are all measured from P. Not
+
+15
+00:00:49,007 --> 00:00:51,381
+from the focus, not from the centre of curvature,
+
+16
+00:00:51,381 --> 00:00:53,897
+and not from the object. So start every mirror
+
+17
+00:00:53,897 --> 00:00:55,058
+distance at P.
+
+18
+00:00:55,627 --> 00:00:58,618
+Now the direction. Light from the object travels towards
+
+19
+00:00:58,618 --> 00:01:01,907
+the mirror. Look at the direction in which the
+
+20
+00:01:01,907 --> 00:01:06,427
+incident light travels. Distances measured in that direction are
+
+21
+00:01:06,427 --> 00:01:11,037
+positive. Distances measured against the incident light are negative.
+
+22
+00:01:11,037 --> 00:01:13,897
+So: follow the light, plus. Go against the light,
+
+23
+00:01:13,897 --> 00:01:17,190
+minus. Even if we flip the picture, the rule
+
+24
+00:01:17,190 --> 00:01:19,631
+still holds, because it depends on the direction of
+
+25
+00:01:19,631 --> 00:01:21,618
+the light, not on left or right.
+
+26
+00:01:22,233 --> 00:01:25,364
+Now apply it. The object is twenty five centimetres
+
+27
+00:01:25,364 --> 00:01:27,736
+from the pole. Travel from P to the object:
+
+28
+00:01:27,736 --> 00:01:31,113
+that is against the incident light, so u is
+
+29
+00:01:31,113 --> 00:01:35,453
+minus twenty five centimetres. The focus is fifteen centimetres
+
+30
+00:01:35,453 --> 00:01:39,413
+from the pole, again against the incident light, so
+
+31
+00:01:39,413 --> 00:01:45,793
+f is minus fifteen centimetres. Magnitude plus direction gives
+
+32
+00:01:45,793 --> 00:01:47,984
+the signed distance. Do not just memorise concave means
+
+33
+00:01:47,984 --> 00:01:51,624
+minus. Trace the distance from P and check its direction.
+
+34
+00:01:52,233 --> 00:01:53,024
+Before calculating, let us predict where the image forms.
+
+35
+00:01:53,024 --> 00:01:53,815
+A ray parallel to the principal axis reflects through
+
+36
+00:01:53,815 --> 00:01:54,819
+the focus. A ray passing through the focus reflects
+
+37
+00:01:54,819 --> 00:01:55,584
+parallel to the axis. The two reflected rays meet
+
+38
+00:01:55,584 --> 00:01:56,672
+in front of the mirror, on the same side
+
+39
+00:01:56,672 --> 00:01:57,249
+as the object. This is a real image. The
+
+40
+00:01:57,249 --> 00:01:58,528
+distance from P to the image is against the
+
+41
+00:01:58,528 --> 00:01:59,523
+incident light, so v will be negative. Can the
+
+42
+00:01:59,523 --> 00:02:00,424
+formula confirm this?
+
+43
+00:02:01,093 --> 00:02:04,100
+The mirror formula uses signed distances. Here are our
+
+44
+00:02:04,100 --> 00:02:06,777
+three quantities: u is minus twenty five, f is
+
+45
+00:02:06,777 --> 00:02:10,093
+minus fifteen, and v is unknown. Each one passes
+
+46
+00:02:10,093 --> 00:02:14,373
+a sign check before it enters the formula. Now
+
+47
+00:02:14,373 --> 00:02:19,053
+substitute: one over minus fifteen equals one over v
+
+48
+00:02:19,053 --> 00:02:21,523
+plus one over minus twenty five. Signs are part
+
+49
+00:02:21,523 --> 00:02:22,704
+of the data.
+
+50
+00:02:23,293 --> 00:02:25,763
+Let us solve it step by step. Start with
+
+51
+00:02:25,763 --> 00:02:28,973
+one over f equals one over v plus one
+
+52
+00:02:28,973 --> 00:02:34,253
+over u. Substitute: minus one over fifteen equals one
+
+53
+00:02:34,253 --> 00:02:38,121
+over v minus one over twenty five. Move the
+
+54
+00:02:38,121 --> 00:02:42,053
+object-distance term across: one over v equals minus one
+
+55
+00:02:42,053 --> 00:02:46,333
+over fifteen plus one over twenty five. The L
+
+56
+00:02:46,333 --> 00:02:50,113
+C M of fifteen and twenty five is seventy
+
+57
+00:02:50,113 --> 00:02:53,151
+five: minus five over seventy five plus three over
+
+58
+00:02:53,151 --> 00:02:57,573
+seventy five. That is minus two over seventy five.
+
+59
+00:02:57,573 --> 00:03:02,433
+Invert both sides: v equals minus seventy five over
+
+60
+00:03:02,433 --> 00:03:04,919
+two. So v equals minus thirty seven point five
+
+61
+00:03:04,919 --> 00:03:08,884
+centimetres. But what does the minus sign actually tell us?
+
+62
+00:03:09,480 --> 00:03:12,780
+Now put the answer back on the diagram. The
+
+63
+00:03:12,780 --> 00:03:15,931
+magnitude, thirty seven point five centimetres, tells us how
+
+64
+00:03:15,931 --> 00:03:18,243
+far the image is from the pole. The minus
+
+65
+00:03:18,243 --> 00:03:22,169
+sign tells us the direction: against the incident light,
+
+66
+00:03:22,169 --> 00:03:24,703
+on the same side as the object. A screen
+
+67
+00:03:24,703 --> 00:03:27,970
+placed there catches a sharp, real image. The number
+
+68
+00:03:27,970 --> 00:03:31,011
+tells us how far. The sign tells us which direction.
+
+69
+00:03:31,633 --> 00:03:35,705
+Your turn. Sign before formula. A: an object is
+
+70
+00:03:35,705 --> 00:03:38,148
+thirty centimetres in front of a concave mirror. What
+
+71
+00:03:38,148 --> 00:03:42,558
+is u? B: the focus is twenty centimetres in
+
+72
+00:03:42,558 --> 00:03:46,233
+front of the mirror. What is f? C: a
+
+73
+00:03:46,233 --> 00:03:49,684
+calculation gives v equals minus forty centimetres. Which side
+
+74
+00:03:49,684 --> 00:03:52,853
+of P is the image? D: put these five
+
+75
+00:03:52,853 --> 00:03:55,413
+steps in the correct order. Take your time, and
+
+76
+00:03:55,413 --> 00:03:57,624
+pause the video if you need to.
+
+77
+00:04:08,993 --> 00:04:12,106
+Let us check. A: the object is against the
+
+78
+00:04:12,106 --> 00:04:14,903
+incident light, so u is minus thirty centimetres. B:
+
+79
+00:04:14,903 --> 00:04:18,953
+the focus is also against the light, so f
+
+80
+00:04:18,953 --> 00:04:23,000
+is minus twenty centimetres. C: a negative v means
+
+81
+00:04:23,000 --> 00:04:26,576
+the image is against the incident light, forty centimetres
+
+82
+00:04:26,576 --> 00:04:30,713
+from P. D: mark P, find the direction of
+
+83
+00:04:30,713 --> 00:04:33,584
+the light, assign the signs, substitute, then solve.
+
+84
+00:04:34,140 --> 00:04:38,033
+Here is the whole method. Step one: mark P
+
+85
+00:04:38,033 --> 00:04:41,760
+as the origin. Step two: find the direction of
+
+86
+00:04:41,760 --> 00:04:45,095
+the incident light. Step three: assign plus and minus.
+
+87
+00:04:45,095 --> 00:04:47,242
+With the light is plus, against the light is
+
+88
+00:04:47,242 --> 00:04:51,560
+minus. Step four: write the signed values, u is
+
+89
+00:04:51,560 --> 00:04:54,417
+minus twenty five and f is minus fifteen. Step
+
+90
+00:04:54,417 --> 00:04:59,440
+five: use the mirror formula. Step six: v is
+
+91
+00:04:59,440 --> 00:05:01,990
+minus thirty seven point five centimetres, and we put
+
+92
+00:05:01,990 --> 00:05:05,850
+it back on the diagram. Pole, direction, signs, formula,
+
+93
+00:05:05,850 --> 00:05:11,710
+interpret. Sign first, substitute second. Thank you for watching,
+
+94
+00:05:11,710 --> 00:05:13,871
+and see you in the next lesson.
